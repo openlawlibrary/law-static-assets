@@ -14,7 +14,7 @@
     "themeId": "/us/ngo/oll",
     "themeType": "default",
     "entityName": "cityofsanmateo",
-    "staticAssets": "git@github.com:oll-test-repos/openlawlibrary-law-static-assets.git",
+    "staticAssets": "git@github.com:openlawlibrary/law-static-assets.git",
     "style": { "namespaceSuffix": "oll-core" },
     "fetchCodeRecency": true,
     "logo": {
