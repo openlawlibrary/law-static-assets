@@ -14,7 +14,10 @@
     "themeId": "/us/ngo/oll",
     "themeType": "default",
     "entityName": "cityofsanmateo",
-    "staticAssets": "git@github.com:openlawlibrary/law-static-assets.git",
+    "staticAssets": {
+      "development": "git@github.com:oll-test-repos/openlawlibrary-law-static-assets.git",
+      "production": "git@github.com:openlawlibrary/law-static-assets.git"
+    },
     "style": { "namespaceSuffix": "oll-core" },
     "fetchCodeRecency": true,
     "logo": {
@@ -50,7 +53,10 @@
       "defaultDescription": "San Mateo Law library contains latest official version of laws, ordinances, city charter and code.",
       "defaultImage": "/images/og/og_image.png"
     },
-    "contact": { "email": "help@openlawlib.org" },
+    "contact": {
+      "email": "help@openlawlib.org",
+      "content": "<p>Open Law Library strives for total accuracy, but mistakes do happen. Please help make the law more accessible by reporting any inaccuracies you might find or if you have any feedback that can help us improve your experience.</p>"
+    },
     "analytics": { "trackingPixel": "/_analytics/pixel.png", "trackingSite": "" }
   }
 }
