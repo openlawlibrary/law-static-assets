@@ -1,0 +1,17 @@
+{
+	"clientVersion": "2.25.1",
+	"themeVersion": "v2",
+	"themeType": "default",
+	"themeName": "openlawlibrary",
+	"themeId": "/us/ngo/oll",
+	"style": {"namespaceSuffix":"oll-core"},
+	"logo": {
+		"libraryLogo": {"image":"","srcset":[]},
+		"header": {"image":"/images/logo/logo.png","srcset":["/images/logo/logo.png 1x","/images/logo/logo@2x.png 2x"]},
+		"footer": {"image":"","srcset":[]}
+	},
+	"fonts": ["/biticons/biticons.css","/fonts/ananda/ananda.css","/fonts/roboto-condensed/roboto-condensed.css"],
+	"contact": {"email":"help@openlawlib.org"},
+	"fetchCodeRecency": true,
+	"reader": {"rootUrl":"/"}
+}
