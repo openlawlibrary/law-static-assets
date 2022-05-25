@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" id="Pueblo de San Ildefonso Council Res. No. SI-R20-001">
+  <num>SI-R20-001</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-001</heading>
+  <heading type="law">Authorization for Fiscal Year 2019-2020 Budget Modification No. 1</heading>
+  <meta>
+    <effective>2020-01-09</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-001</citation>
+    </citations>
+    <history>
+      <adopted>2020-01-09</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 9th day of January, 2020, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.19</num>
+      <heading>Authorization for Fiscal Year 2019-2020 Budget Modification No. 1</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-001"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="|6.3.19.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="|6.3.19">
+        <section>
+          <num>6.3.19.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the FY2019-2020 Annual Budget is as follows:</text>
+      <text>
+        <table>
+          <tr>
+            <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2019-2020</th>
+          </tr>
+          <tr>
+            <td>GENERAL FUND</td>
+            <td>$3,075,184.00</td>
+          </tr>
+          <tr>
+            <td>SPECIAL REVENUE FUND</td>
+            <td colspan="2">$3,622,187.00</td>
+          </tr>
+          <tr>
+            <td>CAPITAL PROJECTS FUND</td>
+            <td colspan="2">$2,737,170.00</td>
+          </tr>
+          <tr>
+            <td>TOTAL BUDGET:</td>
+            <td colspan="2">$9,434,541.00</td>
+          </tr>
+        </table>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>The FY2019-2020 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <tr>
+                <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2019-2020</th>
+              </tr>
+              <tr>
+                <td>GENERAL FUND</td>
+                <td>$3,075,184.00</td>
+              </tr>
+              <tr>
+                <td>SPECIAL REVENUE FUND</td>
+                <td colspan="2">$3,622,187.00</td>
+              </tr>
+              <tr>
+                <td>CAPITAL PROJECTS FUND</td>
+                <td colspan="2">$2,737,170.00</td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td colspan="2">$9,434,541.00</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it has been determined that certain modifications to the FY 2019-20 Annual Budget are necessary; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(f)</num>
+          <text>It has been determined that certain modifications to the FY 2019-20 Annual Budget are necessary; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's FY 2019-2020 Annual Budget amount for general funds will increase by $126,220 and capital project funds will decrease by $601,327 as a result of Budget Modification No. 1; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's FY 2019-2020 Annual Budget amount for general funds will increase by $126,220 and capital project funds will decrease by $601,327 as a result of Budget Modification No. 1; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's FY 2019-2020 Annual Budget after Budget Modification No. 1 is as follows:</text>
+      <text>
+        <table>
+          <tr>
+            <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2019-2020</th>
+          </tr>
+          <tr>
+            <td>GENERAL FUND</td>
+            <td>$3,201,404.00</td>
+          </tr>
+          <tr>
+            <td>SPECIAL REVENUE FUND</td>
+            <td colspan="2">$3,622,187.00</td>
+          </tr>
+          <tr>
+            <td>CAPITAL PROJECTS FUND</td>
+            <td colspan="2">$2,135,843.00</td>
+          </tr>
+          <tr>
+            <td>TOTAL BUDGET:</td>
+            <td colspan="2">$8,959,434.00</td>
+          </tr>
+        </table>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo's FY 2019-2020 Annual Budget after Budget Modification No. 1 is as follows:</text>
+          <text>
+            <table>
+              <tr>
+                <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2019-2020</th>
+              </tr>
+              <tr>
+                <td>GENERAL FUND</td>
+                <td>$3,201,404.00</td>
+              </tr>
+              <tr>
+                <td>SPECIAL REVENUE FUND</td>
+                <td colspan="2">$3,622,187.00</td>
+              </tr>
+              <tr>
+                <td>CAPITAL PROJECTS FUND</td>
+                <td colspan="2">$2,135,843.00</td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td colspan="2">$8,959,434.00</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2019-2020 Annual Budget and that such modifications shall be effective immediately upon enactment; and</text>
+      <codify:insert path="|6.3.19">
+        <section>
+          <num>6.3.19.020</num>
+          <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2019-2020 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <codify:insert path="|6.3.19">
+        <section>
+          <num>6.3.19.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </section>
+      </codify:insert>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on January 9, 2020, at a meeting with a vote of 9 in favor, 0 opposed, 0 abstaining and 1 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):    CR Irene Tse-Pe</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R20-001 was presented to the Governor of the Pueblo de San Ildefonso on the 9th day of January, 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X }   APPROVED</text>
+    <text>{   }   VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 10th day of January, 2020.</text>
+    <text>Perry Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   }   YES</text>
+    <text>{   }   NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <codify:insert path="|6.3.19" num-value="6.3.19.040" tag="section" display-template="New {{cite}}"/>
+    <num/>
+    <heading codify:value="Authorization for Fiscal Year 2019-2020 Budget Modification No. 1">AUTHORIZATION FOR FISCAL YEAR 2019-2020 BUDGET MODIFICATION NO. 1</heading>
+    <para>
+      <num codify:value="(a)">1.</num>
+      <text>The current FY 2019-2020 Annual Budget, prior to this enactment, is as follows:</text>
+      <text>
+        <table>
+          <tr>
+            <th colspan="3">ANNUAL BUDGET:   FISCAL YEAR 2019-2020</th>
+          </tr>
+          <tr>
+            <td>GENERAL FUND</td>
+            <td>$3,075,184.00</td>
+          </tr>
+          <tr>
+            <td>SPECIAL REVENUE FUND</td>
+            <td colspan="2">$3,622,187.00</td>
+          </tr>
+          <tr>
+            <td>CAPITAL PROJECTS FUND</td>
+            <td colspan="2">$2,737,170.00</td>
+          </tr>
+          <tr>
+            <td>TOTAL BUDGET:</td>
+            <td colspan="2">$9,434,541.00</td>
+          </tr>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num codify:value="(b)">2.</num>
+      <text>The Council hereby approves Budget Modification No. 1 to the FY 2019-2020 Annual Budget as follows and as documented on the attached budgets.</text>
+      <text>
+        <table>
+          <tr>
+            <th>BUDGET</th>
+            <th>CODE</th>
+            <th>GENERAL FUND</th>
+            <th>CAPITAL PROJECTS</th>
+          </tr>
+          <tr>
+            <td>EDWA</td>
+            <td>SI.149.000.00</td>
+            <td>$           -</td>
+            <td>$(601,327.00)</td>
+          </tr>
+          <tr>
+            <td>Tribal Distribution</td>
+            <td>SI.142.000.00</td>
+            <td>$115,650.00</td>
+            <td>$           -</td>
+          </tr>
+          <tr>
+            <td>Seniors Citizens Center</td>
+            <td>SI.197.000.00</td>
+            <td>$5,570.00</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Information Technology</td>
+            <td>SI.806.000.00</td>
+            <td>$5,000.00</td>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>TOTAL:</td>
+            <td>$126,220.00</td>
+            <td>$(601,327.00)</td>
+          </tr>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num codify:value="(c)">3.</num>
+      <text>The Pueblo's FY 2019-2020 Annual Budget amount for general funds will increase by $126,220 and capital project funds will decrease by $601,327 as a result of Budget Modification No. 1</text>
+    </para>
+    <para>
+      <num codify:value="(d)">4.</num>
+      <text>The Fiscal Year 2019-2020 Annual Budget total after Budget Modification No. 1 is as follows:</text>
+      <text>
+        <table>
+          <tr>
+            <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2019-2020</th>
+          </tr>
+          <tr>
+            <td>GENERAL FUND</td>
+            <td>$3,201,404.00</td>
+          </tr>
+          <tr>
+            <td>SPECIAL REVENUE FUND</td>
+            <td colspan="2">$3,622,187.00</td>
+          </tr>
+          <tr>
+            <td>CAPITAL PROJECTS FUND</td>
+            <td colspan="2">$2,135,843.00</td>
+          </tr>
+          <tr>
+            <td>TOTAL BUDGET:</td>
+            <td colspan="2">$8,959,434.00</td>
+          </tr>
+        </table>
+      </text>
+    </para>
+  </attachment>
+</document>

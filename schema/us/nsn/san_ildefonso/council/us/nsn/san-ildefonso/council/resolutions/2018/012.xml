@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" id="Pueblo de San Ildefonso Council Res. No. SI-R18-012">
+  <num>SI-R18-012</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-012</heading>
+  <heading type="law">Annual Budget Authorization for Fiscal Year 2018-2019</heading>
+  <meta>
+    <effective>2018-06-18</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-012</citation>
+    </citations>
+    <history>
+      <adopted>2018-06-15</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 15th day of June, 2018, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.16</num>
+      <heading>Annual Budget Authorization for Fiscal Year 2018-2019</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-012"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="|6.3.16.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="|6.3.16">
+        <section>
+          <num>6.3.16.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's FY2018-2019 Annual Budget consists of three (3) fund types within the financial system: the General Fund that is the basic operating fund that accounts for everything not accounted for in another governmental fund; the Special Revenue Fund that is specific revenue fund sources that are limited to being used for a particular purpose; and the Capital Projects Fund for fund accounts for the construction, rehabilitation, and acquisition of capital assets, such as land, buildings, equipment, and roads; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>the Pueblo's FY2018-2019 Annual Budget consists of three (3) fund types within the financial system: the General Fund that is the basic operating fund that accounts for everything not accounted for in another governmental fund; the Special Revenue Fund that is specific revenue fund sources that are limited to being used for a particular purpose; and the Capital Projects Fund for fund accounts for the construction, rehabilitation, and acquisition of capital assets, such as land, buildings, equipment, and roads; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for budget purposes, revenues are defined as increases in financial resources received during the year to meet financial obligations incurred during the year; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(f)</num>
+          <text>For budget purposes, revenues are defined as increases in financial resources received during the year to meet financial obligations incurred during the year; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as part of fiscal responsibility the Council directs that programs, when both federal or other funding as well as General Funds are budgeted, utilize and exhaust outside sources of funding first before utilizing Tribal funds (General Fund); and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(g)</num>
+          <text>As part of fiscal responsibility the Council directs that programs, when both federal or other funding as well as General Funds are budgeted, utilize and exhaust outside sources of funding first before utilizing Tribal funds (General Fund); and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Governor shall keep the Council informed of the Tribe's financial position by providing the Council with a monthly, written financial statement of the Pueblo; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(h)</num>
+          <text>The Governor shall keep the Council informed of the Tribe's financial position by providing the Council with a monthly, written financial statement of the Pueblo; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as part of the close monitoring of revenues, it is imperative that the Pueblo properly identify, record, and maximize use of revenues generated from long term right-of-way agreements for Pueblo property, and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(i)</num>
+          <text>As part of the close monitoring of revenues, it is imperative that the Pueblo properly identify, record, and maximize use of revenues generated from long term right-of-way agreements for Pueblo property, and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Governor's Office, in coordination with the Council, finalized the proposed budget attached to this Resolution ("FY 2018-2019 Annual Budget") and have recommended approval of the attached FY 2018-2019 Annual Budget as summarized below; and</text>
+      <text>
+        <table>
+          <tr>
+            <th>ANNUAL BUDGET:   FISCAL YEAR 2018-2019</th>
+          </tr>
+          <tr>
+            <td>GENERAL FUND</td>
+            <td>$      2,937,680.00</td>
+          </tr>
+          <tr>
+            <td>SPECIAL REVENUE FUND</td>
+            <td>$      9,042,493.01</td>
+          </tr>
+          <tr>
+            <td>CAPITAL PROJECTS FUND</td>
+            <td>$      1,280,000.00</td>
+          </tr>
+          <tr>
+            <td>TOTAL BUDGET:</td>
+            <td>$     13,260,173.01</td>
+          </tr>
+        </table>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(j)</num>
+          <text>The Governor's Office, in coordination with the Council, finalized the proposed budget attached to this Resolution ("FY 2018-2019 Annual Budget") and have recommended approval of the attached FY 2018-2019 Annual Budget as summarized below; and</text>
+          <text>
+            <table>
+              <tr>
+                <th>ANNUAL BUDGET:   FISCAL YEAR 2018-2019</th>
+              </tr>
+              <tr>
+                <td>GENERAL FUND</td>
+                <td>$      2,937,680.00</td>
+              </tr>
+              <tr>
+                <td>SPECIAL REVENUE FUND</td>
+                <td>$      9,042,493.01</td>
+              </tr>
+              <tr>
+                <td>CAPITAL PROJECTS FUND</td>
+                <td>$      1,280,000.00</td>
+              </tr>
+              <tr>
+                <td>TOTAL BUDGET:</td>
+                <td>$     13,260,173.01</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed the proposed FY 2018-2019 Annual Budget and has recommended to approve the attached Annual Budget.</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(k)</num>
+          <text>The Council has reviewed the proposed FY 2018-2019 Annual Budget and has recommended to approve the attached Annual Budget.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <codify:insert path="|6.3.16" num-value="6.3.16.020" tag="section" display-template="New {{cite}}"/>
+      <conjunction codify:omit="">NOW, THEREFORE, BE IT RESOLVED</conjunction>
+      <num/>
+      <text><span codify:value="The">that the</span> Council hereby:</text>
+      <para>
+        <num codify:value="(a)">1.</num>
+        <text>Approves and enacts the attached FY 2018-2019 Annual Budget in the total amount of $13,260.173.01 effective July 1, 2018 to June 30, 2019; and</text>
+      </para>
+      <para>
+        <num codify:value="(b)">2.</num>
+        <text>Approves the implementation of a 2.5% Cost of Living Adjustment (COLA) for all full-time employees who have been employed 1 year or more as of July 1, 2018; with the COLA to be effective July 1, 2018.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">3.</num>
+        <text>Approves the inclusion of 2.5% in the budget to support employee merit increases up to 2.5% as deemed appropriate after completion of an annual employee evaluation.</text>
+      </para>
+      <para>
+        <num codify:value="(d)">4.</num>
+        <text>Directs the Governor to keep the Council informed of the Tribe's financial position by providing the Council with a monthly, written financial statement of the Pueblo; and</text>
+      </para>
+      <para>
+        <num codify:value="(e)">5.</num>
+        <text>Directs that annually amortized revenues from right-of-way agreements be placed into a designated account and be drawn down annually for general fund purposes; and</text>
+      </para>
+      <para>
+        <num codify:value="(f)">6.</num>
+        <text>Directs that Council approval shall be required for the allocation or usage of any and all unanticipated revenue or additional new funds received during the budget year.</text>
+      </para>
+      <para>
+        <num codify:value="(g)">7.</num>
+        <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on June 15, 2018, at a meeting with a vote of 8 in favor, 2 opposed, 0 abstaining and 0 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):    Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td>X</td>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td>X</td>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R18-012  was presented to the Governor of the Pueblo de San Ildefonso on the 15th day of June, 2018, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{    } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this ___________ day of ___________________, 2018.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2018.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>ANNUAL BUDGET AUTHORIZATION FOR FISCAL YEAR 2018-2019</heading>
+    <text class="center">
+      <strong>(July 1, 2018 to June 30, 2019)</strong>
+    </text>
+    <text>
+      <table>
+        <tr>
+          <th>ANNUAL BUDGET:   FISCAL YEAR 2018-2019</th>
+        </tr>
+        <tr>
+          <td>GENERAL FUND</td>
+          <td>$      2,937,680.00</td>
+        </tr>
+        <tr>
+          <td>SPECIAL REVENUE FUND</td>
+          <td>$      9,042,493.01</td>
+        </tr>
+        <tr>
+          <td>CAPITAL PROJECTS FUND</td>
+          <td>$      1,280,000.00</td>
+        </tr>
+        <tr>
+          <td>TOTAL BUDGET:</td>
+          <td>$     13,260,173.01</td>
+        </tr>
+      </table>
+    </text>
+    <codify:insert path="|6.3.16">
+      <section>
+        <num>6.3.16.030</num>
+        <text class="center">
+          <strong>(July 1, 2018 to June 30, 2019)</strong>
+        </text>
+        <text>
+          <table>
+            <tr>
+              <th>ANNUAL BUDGET:   FISCAL YEAR 2018-2019</th>
+            </tr>
+            <tr>
+              <td>GENERAL FUND</td>
+              <td>$      2,937,680.00</td>
+            </tr>
+            <tr>
+              <td>SPECIAL REVENUE FUND</td>
+              <td>$      9,042,493.01</td>
+            </tr>
+            <tr>
+              <td>CAPITAL PROJECTS FUND</td>
+              <td>$      1,280,000.00</td>
+            </tr>
+            <tr>
+              <td>TOTAL BUDGET:</td>
+              <td>$     13,260,173.01</td>
+            </tr>
+          </table>
+        </text>
+      </section>
+    </codify:insert>
+    <text class="center">Annual Budget including all program budgets is attached as a separate document.</text>
+  </attachment>
+</document>

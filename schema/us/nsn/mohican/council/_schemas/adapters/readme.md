@@ -1,0 +1,1 @@
+Adapters layer doesn't contain any explicit implementation rather than setting proper target namespace. All cusomization shall be done in a release v{n}.{m} folder (ex. v0.1). 

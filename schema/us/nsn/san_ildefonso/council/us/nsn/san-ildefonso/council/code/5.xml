@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>5</num>
+  <heading>ELECTIONS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.1</num>
+    <heading>Election Law</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-006, dated January 9, 2012, and was amended pursuant to Council Resolution No. SI-R16-002, dated February 17, 2016.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.1</num>
+      <heading>Background</heading>
+      <section>
+        <num>5.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council finds the need to amend the Pueblo's Election Law to address additional election issues and to update the existing law.</text>
+        </para>
+      </section>
+      <section>
+        <num>5.1.1.020</num>
+        <heading>The Council hereby enacts the attached amendments to the "Election Law" as follows:</heading>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.2</num>
+      <heading>ELECTION COMMISSION</heading>
+      <section>
+        <num>5.1.2.010</num>
+        <heading>Election Commission.</heading>
+        <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>There shall be an Election Commission comprised of five Commissioners with three Commissioners elected by the people, one Commissioner selected by the Governor, and one Commissioner selected by the Council.  The term of office for Election Commissioners shall be four years.  Whenever a term expires for the seat of an appointed Commissioner, the Governor or the Council shall appoint a Commissioner within fifteen days after being sworn into office.  Election Commissioners shall not be eligible to be a candidate for Governor or Council Representative.</strong>
+          </text>
+        </include>
+        <para>
+          <num>(a)</num>
+          <heading>Vacancies.</heading>
+          <text>If a vacancy occurs on the Election Commission due to resignation or other reason, the remaining members of the Election Commission shall appoint a qualified individual to fill the vacancy for the remainder of the unexpired term.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An Election Commissioner does not need to resign from their position in order to run for another term on the Election Commission, provided, the Commissioner shall not be directly involved in election activities at the polling place on the day of the election.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Compensation.</heading>
+          <text>The Commissioners shall be compensated according to the Agreement at ELECTIONS AND VOTING, Section 2. ELECTION COMMISISON (e) which states:</text>
+          <text>
+            <strong>The Election Commission shall be paid a fair compensation as established by the Council by law.</strong>
+          </text>
+        </para>
+      </section>
+      <section>
+        <num>5.1.2.020</num>
+        <heading>Authority and Responsibilities.</heading>
+        <text>The Election Commission shall conduct all elections in accordance with Section 3 (b) of the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>All elections shall be conducted by the Election Commission in a fair and impartial manner.</strong>
+          </text>
+        </include>
+        <para>
+          <num>(a)</num>
+          <heading>Elections.</heading>
+          <text>The Election Commission shall be responsible for conducting all elections and related activities, including but not limited to:</text>
+          <para>
+            <num>(1)</num>
+            <text>preparing and issuing election notices, ballots and election materials,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>confirming candidate qualifications, including conducting candidate background investigations and posting results,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>posting candidate and voter lists,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>overseeing election day activities at the polling place(s),</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>confirming voter qualifications and determining voter challenges,</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>assisting voters with disabilities and/or language difficulties at the polling place(s),</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>collecting and counting ballots,</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>certifying and posting election results,</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>addressing any election challenges,</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>enforcing election laws and regulations,</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>developing such policies and procedures as necessary,</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>appointing and swearing in Election Commission poll watchers and bailiffs if circumstances require, and</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>taking such other actions as necessary to insure all elections and related activities are conducted properly, efficiently, fairly and impartially.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Administrative Duties and Responsibilities.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Budget.</heading>
+            <text>The Election Commission shall work with the Governor and Council Budget Committee to propose an operating budget for the Election Commission to be included in the annual budget or a budget modification.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Election Commission shall prepare all invoices and requisitions for all costs and expenses, and shall ensure supporting documentation is included. The Election Commission shall designate a Commissioner as signatory authority for invoicing on behalf of the Commission.  By affixing his or her signature to an invoice, the designated Commissioner is confirming that the payment, activity, or materials requested are within the approved Election Commission budget.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.3</num>
+      <heading>ELECTIONS</heading>
+      <section>
+        <num>5.1.3.010</num>
+        <heading>Elections.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Types of Elections.</heading>
+          <text>There shall be three (3) types of elections:  General Election, Primary Election, and Special Election(s).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>General Election.</heading>
+          <text>General Elections shall be held in accordance with Section 3.  ELECTIONS of the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>ELECTIONS AND VOTING.  SECTION 3.  ELECTIONS.</strong>
+            </text>
+            <para>
+              <num>(a)</num>
+              <text>General Elections shall be held on the first day of December of every year.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Primary Election.</heading>
+          <text>There shall be a Primary Election on the last Saturday of October of each year beginning in 2016.</text>
+          <para>
+            <num>(1)</num>
+            <text>A Primary Election shall be held for the Office of Governor.  In a Primary Election for the Office of Governor, the candidates receiving the two (2) highest number of votes shall proceed to the General Election.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A Primary Election shall be held for the available Council Representative seats.  In a Primary Election for Council Representative seats, the candidates receiving the ten (10) highest number of votes shall proceed to the General Election.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The results of the Primary Election shall be posted no later than three (3) days after the close of counting ballots.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A Primary Election shall be held in all election cycles where a Primary Election is required, even if the number of candidates nominated in the Primary Election is less than the number of candidates who will appear on the ballot in the General Election.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>No Primary Election shall be held for Special Elections.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>In a Special Election where there is only one vacancy and there is only one (1) candidate, an election shall be held regardless.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Special Elections.</heading>
+          <text>All elections other than a General Election, or a Primary Election, shall be considered Special Elections, including elections to fill vacancies, Recall elections, and Referendum elections.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.4</num>
+      <heading>NOMINATIONS</heading>
+      <section>
+        <num>5.1.4.010</num>
+        <heading>Nominations.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Self-Nomination.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Any qualified member of the Pueblo may submit his or her name in writing to the Election Commission as a candidate for elective office, along with a non-refundable fee of $25.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Election Commission shall prepare and make publically available a Candidate Nomination form which shall include a release permitting the Election Commission to conduct a criminal background check on each candidate as required by the Agreement.   The Election Commission shall use its best efforts to conduct candidate criminal background checks in a timely manner.  The Election Commission shall conduct all criminal background checks in accordance with Section 2 (d) of the Agreement which states:</text>
+            <include>
+              <text>
+                <strong>The Election Commission shall conduct criminal background checks on all candidates and the results shall be made available to any enrolled Member of the Pueblo.</strong>
+              </text>
+            </include>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Nomination Period.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Nominations of persons seeking elective office shall be accepted by the Election Commission beginning September 1<sup>st</sup> each year.  Nominations for elective office shall be closed on September 15<sup>th</sup> of each year.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Election Commission shall establish and post the dates and deadlines for acceptance of nominations of persons seeking elective office in Special Elections to fill vacancies.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Election Commission shall publicly post the dates and deadlines for acceptance of nominations of persons seeking elective office for the First Election.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Candidate List.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Election Commission shall prepare and post a preliminary list of candidates within three (3) days of the closing of the nomination period.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>From the date of the posting of the preliminary list of candidates through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the qualifications of any candidate or candidates on the preliminary list of candidates.  The Election Commission shall make written determinations on any such candidate challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of candidates no later than October 15<sup>th</sup> of each year.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>In the First Election, upon the close of the nomination period, the Election Commission shall prepare and post a final list of candidates and a final list of voters for the First Election.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.5</num>
+      <heading>CANDIDATE QUALIFICATIONS</heading>
+      <section>
+        <num>5.1.5.010</num>
+        <heading>Qualifications.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All candidates for the Office of Governor shall meet the minimum qualifications as listed in the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>GOVERNOR, SECTION 2.  QUALIFICATIONS.</strong>
+            </text>
+            <text>
+              <strong>Candidates for Governor shall be enrolled Members of the Pueblo, and be at least thirty years old on the deadline date for filing candidacy.  Once a candidate is sworn in as Governor, the Governor shall immediately establish residency within the exterior boundaries of the Pueblo as defined at the time of the adoption of this Agreement.</strong>
+            </text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All candidates for the Council Representative shall meet the minimum qualifications as listed in the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>THE GOVERNMENT SECTION 3 QUALIFICATIONS</strong>
+            </text>
+            <text>
+              <strong>Candidates for Council Representatives shall be enrolled Members of the Pueblo, and at least twenty-five years old on the deadline date for filing candidacy.  Once a candidate is sworn in as a Representative, the Representative shall have thirty days to establish residency within the exterior boundaries of the Pueblo as defined at the time of adoption of this Agreement.</strong>
+            </text>
+          </include>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.6</num>
+      <heading>VOTING</heading>
+      <section>
+        <num>5.1.6.010</num>
+        <heading>Voting Age.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The voting age for any election shall be set in accordance with Section 1, Voting of the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>ELECTIONS AND VOTING.  SECTION 1.  VOTING.</strong>
+            </text>
+            <text>
+              <strong>All enrolled Members of the Pueblo eighteen years of age or older shall have the right to vote.</strong>
+            </text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any voter who will turn age eighteen (18) by or on the date of the Primary Election shall be eligible to vote. For the First Election, the cut-off date for age eligibility shall be the date of the First Election.</text>
+        </para>
+      </section>
+      <section>
+        <num>5.1.6.020</num>
+        <heading>Voters List.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Election Commission shall prepare and post a preliminary list of voters within three (3) days of the closing of the nomination period.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>From the date of the posting of the preliminary list of voters through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the eligibility of a voter or voters on the preliminary list of voters.  The Election Commission shall make written determinations on any such voter challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of voters no later than October 15<sup>th</sup> of each year.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.7</num>
+      <heading>BALLOTS</heading>
+      <section>
+        <num>5.1.7.010</num>
+        <heading>Ballots.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All elections shall be by secret ballot.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Commission shall prepare an official ballot for every election.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The ballots shall list the names of the candidates whose names appear on the final list of candidates as established by the Election Commission.  The names of candidates on the ballots shall be listed alphabetically by last name.  No write-in candidates shall be permitted. This section shall apply to Primary Elections, all General Elections, and applicable Special Elections.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In referendum elections, the Election Commission shall prepare a ballot that includes the language from the referendum petition on the challenged law.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.8</num>
+      <heading>NOTICE OF ELECTIONS</heading>
+      <section>
+        <num>5.1.8.010</num>
+        <heading>Notice of Election.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Election Commission shall post a notice at the polling place and in other public locations announcing the date of the election, the location of the polling place, and other pertinent information at least ninety (90) days before the general election.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Commission shall publicly post at the polling place and in other public locations a notice announcing the dates for Special Elections, the location and other pertinent information for Special Elections.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Election Commission shall publicly post such dates and deadlines as necessary to hold the First Election within the two (2) month period required under the Agreement.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.9</num>
+      <heading>ELECTION PROCEDURES</heading>
+      <section>
+        <num>5.1.9.010</num>
+        <heading>Polling Place.</heading>
+        <text>There shall be one (1) polling place located at the Pueblo.</text>
+      </section>
+      <section>
+        <num>5.1.9.020</num>
+        <heading>Hours of Voting.</heading>
+        <text>The polls shall be open at the polling place from 7:00 a.m. to 7:00 p.m. Voters in line at the polling place but unable to cast their ballots before 7:00 p.m. shall be allowed to finish voting.</text>
+      </section>
+      <section>
+        <num>5.1.9.030</num>
+        <heading>Fifty (50) Foot Limit.</heading>
+        <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.</text>
+      </section>
+      <section>
+        <num>5.1.9.040</num>
+        <heading>Maintaining Peace at Polling Place.</heading>
+        <text>The Election Commission or Bailiff shall keep the peace and protect the voting place by preventing disturbances at the polling place and interference with persons desiring to vote.  This includes the authority to remove unruly or uncooperative persons from the polling place or from within the fifty (50) foot limit.</text>
+      </section>
+      <section>
+        <num>5.1.9.050</num>
+        <heading>Method of Voting.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Each prospective voter, upon being identified as being on the final list of eligible voters, shall be handed an unused ballot by an Election Commissioner and shall sign his or her name on a form kept for that purpose to acknowledge that he or she has received the ballot.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The voter shall vote in privacy and shall place a mark opposite the name of the candidate or issue for whom he or she is voting.  The ballot shall be placed in a locked ballot box.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Election Commission may utilize electronic voting machines to conduct elections.</text>
+        </para>
+      </section>
+      <section>
+        <num>5.1.9.060</num>
+        <heading>Counting the Ballots.</heading>
+        <para>
+          <num>(a)</num>
+          <text>At the close of the polls, the Election Commission shall count the votes as marked on the ballots.  At the end of the tally, the Election Commission shall determine the total votes cast for each candidate or issue.  These results shall be written down, together with the number of rejected ballots, and shall be certified by each member of the Election Commission by signing his or her name thereto.  The results shall be posted at the polling place and in other public locations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The tallying of the votes shall be open for public observation, but the public must remain at a distance of at least ten (10) feet from the Election Commissioners and the ballot box.  The public must remain quiet and in no way interfere with the orderly tallying of the ballots.  If order cannot be kept, the Election Commission shall halt the tallying until such time order has been restored.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>At the end of the tally, the Election Commission shall place the counted ballots, any spoiled ballots and any rejected ballots, in the ballot box.  The ballot box shall be locked and sealed.</text>
+        </para>
+      </section>
+      <section>
+        <num>5.1.9.070</num>
+        <heading>Tie Votes.</heading>
+        <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission.</text>
+      </section>
+      <section>
+        <num>5.1.9.080</num>
+        <heading>Spoiled Ballots.</heading>
+        <text>If a voter spoils a ballot and obtains another ballot, the spoiled ballot shall be marked "SPOILED".  Each member of the Election Commission shall sign his or her name below this marking and the spoiled ballot shall be secured by the Election Commission.  All spoiled ballots shall be placed in the ballot box at the end of the tallying.</text>
+      </section>
+      <section>
+        <num>5.1.9.090</num>
+        <heading>Unused Ballots.</heading>
+        <text>Ballots unused at the end of the voting shall be marked "UNUSED" and shall be placed in the ballot box at the end of the tallying.</text>
+      </section>
+      <section>
+        <num>5.1.9.100</num>
+        <heading>Rejected Ballots.</heading>
+        <text>If, during the tallying of the votes, the Election Commission is unable to determine from the ballot the choice of the voter, the ballot shall be rejected.  All rejected ballots shall be placed in the ballot box at the end of the tallying.</text>
+      </section>
+      <section>
+        <num>5.1.9.110</num>
+        <heading>Recounts.</heading>
+        <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount.</text>
+      </section>
+      <section>
+        <num>5.1.9.120</num>
+        <heading>Other Matters Decided by the Election Commission.</heading>
+        <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.10</num>
+      <heading>CHALLENGES TO THE ELECTION RESULTS</heading>
+      <section>
+        <num>5.1.10.010</num>
+        <heading>Election Results Challenge Process.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any eligible voter of the Pueblo shall have the right to challenge the results of any election within three (3) days of the certification of the election by filing a written challenge with the Election Commission.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Commission shall make a determination on all election challenges within five (5) days of receipt of a challenge and the decision of the Election Commission shall be final for purposes of judicial review.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any eligible voter of the Pueblo shall have the right to challenge a final determination made by the Election Commission on any election challenge by filing suit in the Courts of the Pueblo within five (5) days of the date of the decision of the Election Commission.  A decision on an election challenge made by the Supreme Court of the Pueblo shall be final and shall not be subject to any further review by any other person or entity.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.11</num>
+      <heading>RECALL ELECTIONS</heading>
+      <section>
+        <num>5.1.11.010</num>
+        <heading>Recall Elections.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Recall elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 4.  REMOVAL AND RECALL of the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>
+                <u>Recall</u>
+              </strong>
+            </text>
+            <text>
+              <strong>The people reserve the power to subject any member of the Council or the Governor to a recall election, and the Election Commission shall hold a Recall Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Recall Election.  No more than two Members of the Council can be subjected to a Recall Process at one time, and any resulting vacancy shall be filled before any subsequent Recall Election can be held.</strong>
+            </text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Upon written request, the Election Commission shall issue an official Recall Petition form to a petitioner.  A recall petition shall include a legible name and date of each person signing such petition. A completed Recall Petition shall be filed with the Election Commission.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Petitioners have forty-five (45) days to submit a completed petition to the Election Commission.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>For purposes of determining the validity of the recall petition, fifty percent (50%) of the eligible voters means fifty percent (50%) of all of the eligible voters of the Pueblo who are eighteen (18) or older at the time they signed the petition, and does not mean the number of voters who voted in the last election.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.12</num>
+      <heading>REFERENDUM ELECTIONS</heading>
+      <section>
+        <num>5.1.12.010</num>
+        <heading>Referendum Election Process.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Referendum elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 6.  REFERENDUM of the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>The people reserve the power to subject any law to a binding referendum election and the Election Commission shall hold a Referendum Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Referendum Election.</strong>
+            </text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Upon written request, the Election Commission shall issue an official Referendum Petition form to a petitioner.  A referendum petition shall include a legible name and date of each person signing such petition. A completed Referendum Petition shall be filed with the Election Commission.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A tribal member shall have fifteen (15) days after an Act of the Council is signed into law by the Governor or veto override by the Council to request a referendum petition.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Petitioners have forty-five (45) days to submit a completed petition to the Election Commission.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>For purposes of determining the validity of the referendum petition, fifty percent (50%) of the eligible voters means fifty percent (50%) of all of the eligible voters of the Pueblo who are eighteen (18) or older at the time they signed the petition, and does not mean the number of voters who voted in the last election.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.13</num>
+      <heading>OATH OF OFFICE</heading>
+      <section>
+        <num>5.1.13.010</num>
+        <heading>Oath of Office.</heading>
+        <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office without delay.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.14</num>
+      <heading>AMENDMENT AND SEVERABILITY</heading>
+      <section>
+        <num>5.1.14.010</num>
+        <heading>Amendment.</heading>
+        <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
+      </section>
+      <section>
+        <num>5.1.14.020</num>
+        <heading>Severability.</heading>
+        <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>
+      </section>
+    </container>
+  </container>
+</container>

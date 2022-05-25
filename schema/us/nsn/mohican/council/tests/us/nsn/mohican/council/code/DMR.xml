@@ -1,0 +1,1732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>DMR</num>
+  <heading>Domestic Relations</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>DMR.01</num>
+    <heading>Marriage</heading>
+    <section>
+      <num>DMR.01.01</num>
+      <heading>Title</heading>
+      <text>This Code shall be known and may be cited as the Stockbridge-Munsee Marriage Code.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.1</annotation>
+    </section>
+    <section>
+      <num>DMR.01.02</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Code is to establish procedures for Marriage within the Tribe's Reservation and the recognition of Marriages performed outside of the Tribe's Reservation.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.2</annotation>
+    </section>
+    <section>
+      <num>DMR.01.03</num>
+      <heading>Authority</heading>
+      <text>The Tribal Council enacts this Code pursuant to the duties under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|3">Article VII, Section 3</cite>.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.3</annotation>
+    </section>
+    <section>
+      <num>DMR.01.04</num>
+      <heading>Severability</heading>
+      <text>If any provision of this Code, or the application thereof to any person or circumstance, shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this Code, which shall continue in full force and effect.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.4</annotation>
+    </section>
+    <section>
+      <num>DMR.01.05</num>
+      <heading>Applicability</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="61.5">This chapter</cite> authorizes the Stockbridge-Munsee Tribal Court to issue marriage licenses and perform marriages in which one or both parties to the marriage is a member of the Stockbridge-Munsee Tribe or is a resident of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The procedures set forth herein shall be exclusive as to any marriage performed on the reservation, in which both parties are members of the Stockbridge-Munsee Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the state of Wisconsin as to any marriage performed on the reservation in which one party is not a member of the Stockbridge-Munsee Tribe or is not a resident of the Stockbridge-Munsee Community. The completion of an application for a marriage license under <cite path="61.5">this chapter</cite> constitutes the nonmember's consent to the tribe's jurisdiction to grant such a license.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To the extent that any provisions of this section of the Code, or the application thereof to any person or circumstance, shall for any reason, conflict with the remainder of the Code, Section 61, legalizing same-sex marriage, shall prevail. The other conflicting provisions will be invalidated, and this section of the Code shall continue in full force and effect.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.5</annotation>
+    </section>
+    <section>
+      <num>DMR.01.06</num>
+      <heading>Definitions</heading>
+      <text>The following terms, whenever used or referred to in this Code, shall have the following respective meanings:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Stockbridge-Munsee" means the Stockbridge-Munsee Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Member" means a duly enrolled member of the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Code" or "Marriage code" means this Stockbridge-Munsee Marriage Code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Constitution" means the Constitution of the Tribe, as amended.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Council" or "Tribal Council" means the elected governing body of the Stockbridge-Munsee Tribe established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV">Article IV of the Constitution</cite>.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Clerk of the Court" or "Tribal Court Clerk" means the clerk of the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Marriage" is a civil contract between two (2) persons, regardless of their sex, creating a union to the exclusion of all others.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Solemnize" means to perform a Marriage ceremony or to enter into a Marriage publicly before witnesses pursuant to this Code, as applicable.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.6</annotation>
+    </section>
+    <section>
+      <num>DMR.01.07</num>
+      <heading>Marriage Is A Contract</heading>
+      <text>Marriage under this law is a civil contract to which the consent of the parties capable in law of contracting is essential, and which creates a union between two (2) persons, regardless of their sex (or gender), to the exclusion of all others.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.7</annotation>
+    </section>
+    <section>
+      <num>DMR.01.08</num>
+      <heading>Who May Contract; Marriageable Age</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who has attained the age of eighteen (18) years may marry if otherwise competent.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person between ages sixteen (16) and eighteen (18) may marry with the written consent of the person's parents, legal guardian or custodian.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.8</annotation>
+    </section>
+    <section>
+      <num>DMR.01.09</num>
+      <heading>Who May Not Contract; Invalid Or Prohibited Marriages</heading>
+      <para>
+        <num>(a)</num>
+        <text>No marriage shall be contracted while either of the parties is lawfully married to another person.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Persons closer in relationship than second cousins may not marry except that first cousins may marry if the female has attained the age of fifty-five (55) years or where either party at the time of application for marriage license submits an affidavit signed by a physician stating that either party is permanently sterile.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A marriage may not be contracted if either party is not capable of understanding what it means to agree to become married.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No person who is or has been a party to an action for divorce in any court may marry again until six (6) months after judgment of divorce is granted, and the marriage of any such person solemnized before the expiration of six (6) months from the date of the granting of judgment of divorce shall be void.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.9</annotation>
+    </section>
+    <section>
+      <num>DMR.01.10</num>
+      <heading>Identification Of Parties</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person under the age of thirty (30) must present proof of age by presenting a certified copy of his or her birth certificate.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each party to the marriage must present satisfactory documentary proof of identification and residence.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each party to the marriage must present satisfactory copies of documents providing proof that he or she is free to marry, such as proof of death of previous spouses, or proof of divorce or annulment of previous marriages.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.10</annotation>
+    </section>
+    <section>
+      <num>DMR.01.11</num>
+      <heading>Marriage Licenses</heading>
+      <para>
+        <num>(a)</num>
+        <text>A marriage license shall be issued by the Clerk of Court upon receiving a completed application form from two (2) unmarried persons, regardless of sex (or gender), and in the absence of any showing that the proposed marriage would be invalid under any provisions of this code. The marriage license shall become effective on the 6th (sixth) day after issuance and shall remain effective until the 30th (thirtieth) day after issuance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person who applies for a Marriage license under this Code shall be deemed to have given consent to the personal jurisdiction of the Tribe, the Tribal Court, and the Court of Appeals, and to have waived all available defenses against such jurisdiction.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.11</annotation>
+    </section>
+    <section>
+      <num>DMR.01.12</num>
+      <heading>Fee</heading>
+      <text>A fee shall be determined by the Court for the issuance of marriage licenses.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.12</annotation>
+    </section>
+    <section>
+      <num>DMR.01.13</num>
+      <heading>Solemnization Of Marriage Contract</heading>
+      <para>
+        <num>(a)</num>
+        <text>Officiate at Marriages.   A marriage shall be validly solemnized and contracted after the issuance of license and by the mutual declarations of the two parties involved that they agree to enter into marriage before a duly authorized officiate and in the presence of at least two competent adult witnesses. The following persons are duly authorized to be officiates:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any ordained clergyman of any religious denomination or society;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any spiritual leader recognized as such by the Community;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any tribal judge or judge of court of record;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any family court commissioner or court commissioner appointed under Wisconsin law.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.13</annotation>
+    </section>
+    <section>
+      <num>DMR.01.14</num>
+      <heading>Grounds For Annulment Or Voidable Marriage</heading>
+      <text>A marriage may be voided or annulled by the Tribal Court for any one of the following reasons upon the application of one of the parties to marriage:</text>
+      <para>
+        <num>(a)</num>
+        <text>When either party to the marriage shall be incapable of consenting thereto.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When the consent was obtained by force or fraud.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>When either party was at the time of the marriage incapable of consummating the marriage and the incapacity is continuing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>When the marriage was invalid on one of the grounds set forth in <cite path="§DMR.01.09">Section DMR.01.09</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.14</annotation>
+    </section>
+    <section>
+      <num>DMR.01.15</num>
+      <heading>Delivery And Filing Of Marriage Document</heading>
+      <text>The marriage document, legibly and completely filled out in ink shall be returned by the officiating person or by the parties to the marriage contract to the clerk of court within 10 days after the date of marriage, so that it may be filed on record with the Tribal Enrollment Office and a copy of the same with the State of Wisconsin Bureau of Vital Statistics.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 61, §61.15</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 108-97">Resolution No. 108-97</cite>, adopted January 21, 1997.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 024-16">Resolution No. 024-16</cite>, adopted February 2, 2016, approved by BIA February 22, 2016.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>DMR.02</num>
+    <heading>Dissolution Of Marriage</heading>
+    <section>
+      <num>DMR.02.01</num>
+      <heading>Authorization</heading>
+      <text>The Stockbridge-Munsee Tribal Court is authorized to dissolve a marriage by divorce when the parties are incompatible for any reason when either party is a resident of the Stockbridge-Munsee Community for at least six (6) months or is a member of the Stockbridge-Munsee Tribe, who has resided within the state of Wisconsin for at least six (6) months.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.1</annotation>
+    </section>
+    <section>
+      <num>DMR.02.02</num>
+      <heading>Petition And Response</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as otherwise provided, in a dissolution of marriage action the petition shall state:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name and birth date of the parties, the social security numbers of both parties, both parties' occupations, the date and place of marriage and the facts relating to the residence of both parties.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name and birth date of each minor child of the parties and each child born during the marriage, and if a party to the marriage has the biological sex of female (regardless of the individual's gender), whether the individual is pregnant at the time of divorce.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the marriage is irretrievably broken or that the parties agree it is irretrievably broken.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Whether or not an action for divorce or legal separation by either of the parties was or has been at any time commenced, or is pending in any other court or before any judge, in the State of Wisconsin, in another tribal court, or elsewhere.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Whether the parties have entered into any written agreement as to support, legal custody and physical placement of the children, maintenance of either party, and property division; and if so, the written agreement shall be attached.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The relief requested.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>That during the pendency of the action, the parties are prohibited from, and may be held in contempt of court for, harassing, intimidating, physically abusing or imposing any restraint on the personal liberty of the other party or a minor child of either party.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>That during the pendency of the action, without the consent of the other party or an order from the court, the parties are prohibited from, and may be held in contempt of court for, encumbering, concealing, damaging, destroying, transferring, or otherwise disposing of property owned by either or both of the parties, except in the usual course of business, in order to secure necessities or in order to pay reasonable costs and expenses of the action, including attorney fees.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>That during the pendency of the action, the parties are prohibited from, and may be held in contempt of court for, doing any of the following without the consent of the other party or an order of the court:</text>
+          <para>
+            <num>(A)</num>
+            <text>Establishing a residence with a minor child of the parties outside the state of Wisconsin or more than 150 miles from the residence of the other party within the state.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Removing a minor child of the parties from the state of Wisconsin for more than 90 consecutive days.</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Either or both parties to the marriage may initiate the action. The party initiating the action or his or her attorney or advocate shall sign the petition.  Both parties or their respective attorneys or advocates shall sign a joint petition if the parties are filing together.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>The summons shall be in the form of a regular summons used by the tribal court for civil cases.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Service shall be made in accordance with regular court procedures.  If only one party initiates the action, the other party may serve a response and/or counterclaim within 20 business days after the date of service.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.2</annotation>
+    </section>
+    <section>
+      <num>DMR.02.03</num>
+      <heading>Prohibited Acts During The Pendency Of Divorce</heading>
+      <para>
+        <num>(a)</num>
+        <text>In an action for divorce, the petitioner upon filing the petition, the joint petitioners upon filing the joint petition and the respondent upon service of the petition are prohibited from doing any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Harassing, intimidating, physically abusing or imposing any restraint on the personal liberty of the other party or a minor child of either of the parties.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Encumbering, concealing, damaging, destroying, transferring, or otherwise disposing of property owned by either or both of the parties, except in the usual course of business, in order to secure necessities or in order to pay reasonable costs and expenses of the action, including attorney fees.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Without the consent of the other party or an order of the court, establishing a residence with a minor child of the parties outside the state of Wisconsin or more than 150 miles from the residence of the other party within the state, removing a minor child of the parties from the state of Wisconsin for more than 90 consecutive days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The prohibitions listed in this section shall apply until the action is dismissed, until a final judgment in the action is entered or until the court orders otherwise.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any person violating the provisions of this section will be subject to the regular contempt provision in the Stockbridge-Munsee Court Code.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.3</annotation>
+    </section>
+    <section>
+      <num>DMR.02.04</num>
+      <heading>Judgment Of Divorce</heading>
+      <text>The Tribal Court shall grant a judgment of divorce if:</text>
+      <para>
+        <num>(a)</num>
+        <text>The requirements of <cite path="62.4">this chapter</cite> as to marriage counseling have been complied with and the court finds that the marriage is irretrievably broken under <cite path="§DMR.02.05">Section DMR.02.05</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To the extent it has jurisdiction to do so, the court has considered, approved, or made provision under <cite path="§DMR.02.08">Section DMR.02.08</cite> for legal custody and physical placement of any minor children of the marriage, the support of any child of the marriage entitled to support, the maintenance of either spouse, the support of the family and the disposition of property.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.4</annotation>
+    </section>
+    <section>
+      <num>DMR.02.05</num>
+      <heading>Irretrievable Breakdown</heading>
+      <para>
+        <num>(a)</num>
+        <text>If both of the parties by petition or otherwise have stated under oath or affirmation that the marriage is irretrievably broken, or if the parties have voluntarily lived apart continuously for twelve (12) months or more immediately prior to commencement of the divorce action and one party has so stated, the court, after hearing, shall make a finding that the marriage is irretrievably broken.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the parties have not voluntarily lived apart for at least twelve (12) months immediately prior to commencement of the action and if only one party has stated under oath or affirmation that the marriage is irretrievably broken, the court shall consider all relevant factors, including the circumstances that gave rise to filing the petition and the prospect of reconciliation.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the court finds no reasonable prospect of reconciliation, it shall make a finding that the marriage is irretrievably broken; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the court finds that there is a reasonable prospect of reconciliation, it shall continue the matter for further hearing not fewer than thirty (30) days nor more than sixty (60) days later, or as soon thereafter as the matter may be reached on the court's calendar, and may suggest to the parties that they seek counseling.  The court, at the request of either party or on it's own motion, may order counseling. At the adjourned hearing, if either party states under oath or affirmation that the marriage is irretrievably broken, the court shall make a finding that the marriage is irretrievably broken.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.5</annotation>
+    </section>
+    <section>
+      <num>DMR.02.06</num>
+      <heading>Actions Of The Court Pending Divorce</heading>
+      <text>Pending Divorce the Tribal Court may order:</text>
+      <para>
+        <num>(a)</num>
+        <text>Both parties to provide for the separate maintenance of his or her spouse and children as the court may deem just upon application therefore or in the disposition of a divorce proceeding.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The care, custody and maintenance of the minor children of the marriage during the pendency of the proceedings.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The restraint of either spouse from, in any manner, molesting or interfering with the other or the minor children.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The restraint and enjoining of either spouse or both from disposing of their individually or jointly owned property during the pendency of the action except as approved by the Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.6</annotation>
+    </section>
+    <section>
+      <num>DMR.02.07</num>
+      <heading>Provision For Judgment</heading>
+      <text>In addition to voiding or dissolving the marriage, the Court shall have the power to impose judgment as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>For the future legal custody and physical placement and care of the minor children of the marriage as may be in the best interest of the children and in accordance with <cite path="§DMR.02.08">Section DMR.02.08</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Approve any agreement between the parties as to the legal custody and physical placement and care of minor children if deemed by the Court to be in the best interests of the children.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For the recovery from either spouse to allow for the care of the minor children an amount of money as may be just and proper for the party to contribute toward their education and support.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>For the recovery from either spouse an amount of money or other personal property as may be just and proper for the maintenance of the other.</text>
+        <para>
+          <num>(1)</num>
+          <text>In considering an order under this subsection, the Court shall consider the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>The length of the marriage;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The age and physical and emotional health of the parties;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The division of property made under <cite path="§DMR.02.07|(d)|(1)|(E)">(E)</cite>;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The educational level of each party at the time of marriage and at the time the action is commenced;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The earning capacity of the party seeking maintenance, including educational background, training, employment skills, work experience, length of absence from the job market, custodial responsibilities for children and the time and expense necessary to acquire sufficient education or training to enable the party to find appropriate employment;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>The feasibility that the party seeking maintenance can become self-supporting as a standard of living reasonably comparable to that enjoyed during the marriage, and, if so, the length of time necessary to achieve this goal;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>The tax consequences to each party;</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>Any mutual agreement made by the parties before or during the marriage, according to the terms of which one party has made financial service contributions to the other with the expectation of reciprocation or other compensation in the future, where such repayment has not been made, or any mutual agreement made by the parties before or during the marriage concerning any arrangement for the financial support of the parties;</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>The contribution by one party to the education, training or increased earning power of the other;</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>Such other factors as the court may in each individual case determine to be relevant.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>For the approval of any property settlement between the parties or recovery and delivery to each of the parties any of their personal property in the possession or control of the other at the time of the giving of the judgment.</text>
+        <para>
+          <num>(1)</num>
+          <text>Except as provided in (2), any property shown to have been acquired by either party prior to or during the course of the marriage in any of the following ways shall remain the property of that party and is not subject to a property division under this section:</text>
+          <para>
+            <num>(A)</num>
+            <text>As a gift from a person other than the other party;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>By reason of the death of another, including, but not limited to life insurance proceeds; payments made under a deferred employment benefit plan, or an individual retirement account; a property acquired by right of survivorship, by a trust distribution, by bequest or inheritance or by a payable on death or a transfer on death arrangement</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>With funds acquired in a manner under <cite path="§DMR.02.07|(e)|(1)|(A)">(A)</cite> or <cite path="§DMR.02.07|(e)|(1)|(B)">(B)</cite>.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>A per capita payment from a tribal government.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The court shall presume that all property not described in (1) is to be equally divided between the parties, but may alter this distribution without regard to marital misconduct after considering all of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>The length of the marriage;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The property brought to the marriage by each party;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Whether one party has substantial assets not subject to division by the court;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The contribution of each party to the marriage, giving appropriate economic value to each party's contribution in homemaking and child care services;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The age and physical and emotional health of the parties;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>The contribution by one party to the education, training or increased earning power of the other;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>The earning capacity of the party, including educational background, training, employment skills, work experience, length of absence from the job market, custodial responsibilities for children and the time and expense necessary to acquire sufficient education or training to enable the party to find appropriate employment;</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>The desirability of awarding the family home or the right to live therein for a reasonable period to the party having physical placement for the greater period of time;</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>The tax consequences to each party;</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>Any written agreement made by the parties before or during the marriage concerning any arrangements for property distribution; such agreements shall be binding upon;</text>
+          </para>
+          <para>
+            <num>(K)</num>
+            <text>Such other factors as the court may in each individual case determine to be relevant.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For the purposes of <cite path="DMR|DMR.02">this chapter</cite>, a land assignment issued by the Stockbridge-Munsee Community is not the real or personal property of the individual.  Land assignments shall not be subject to the Court's division of property between the parties. The Court may not alter a person's right to his or her land assignment in any way EXCEPT in accordance with the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>In a divorce where both parties are Stockbridge-Munsee tribal members, the Court may, if it deems in the best interest of the children and after consideration of all factors listed in (2), award a party's land assignment to the other party where the second party has physical placement of the minor children for the greater period of time.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In considering whether to award the land assignment and home to a spouse under (a), the Court shall consider the following:</text>
+            <para>
+              <num>(i)</num>
+              <text>Whether severe economic hardship that would result on either party;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Whether the party who is denied the residence and land assignment has other arrangements for a residence;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>The current availability of tribal land assignments.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>To restore a former legal surname, if requested.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.7</annotation>
+    </section>
+    <section>
+      <num>DMR.02.08</num>
+      <heading>Custody And Physical Placement</heading>
+      <para>
+        <num>(a)</num>
+        <text>In rendering a judgment of divorce the court shall make such provisions as it deems just and reasonable concerning the legal custody and physical placement of any minor child of the parties, as provided in this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>Subject to <cite path="§DMR.02.08|(b)|(2)">subsection (2)</cite>, based on the best interest of the child and after considering the factors under <cite path="§DMR.02.08|(b)|(2)|(e)">subsection (e)</cite>, the court may give joint legal custody or sole legal custody of a minor child.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The court may give joint legal custody only if it finds that doing so is in the child's best interest and that either of the following applies:</text>
+          <para>
+            <num>(A)</num>
+            <text>Both parties agree to joint legal custody;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The parties do not agree to joint legal custody, but one party requests joint legal custody and the court specifically finds all of the following:</text>
+            <para>
+              <num>(i)</num>
+              <text>Both parties are capable of performing parental duties and responsibilities and wish to have an active role in raising the child;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>No conditions exist at that time which would substantially interfere with the exercise of joint legal custody;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>The parties will be able to cooperate in the future decision making required under an award of joint legal custody. In making this finding the court shall consider, along with any other pertinent items, any reasons offered by a party objecting to joint legal custody. Evidence that either party engaged in abuse of the child or evidence of inter-spousal battery creates a rebuttable presumption that the parties will not be able to cooperate. This presumption may be rebutted by clear and convincing evidence that the abuse will not interfere with the parties' ability to cooperate in the future decision making required.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <para>
+          <num>(1)</num>
+          <text>Except as provided under <cite path="§DMR.02.08|(c)|(2)">subsection (2)</cite>, if the court orders sole or joint legal custody under <cite path="§DMR.02.08|(b)">subsection (b)</cite>, the court shall allocate periods of physical placement between the parties in accordance with this section. In determining the allocation of periods of physical placement, the court shall consider each case on the basis of the factors listed in <cite path="§DMR.02.08|(d)">subsection (d)</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A child is entitled to periods of physical placement with both parents unless, after a hearing, the court finds that physical placement with a parent would endanger the child's physical, mental or emotional health.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No court may deny periods of physical placement for failure to meet, or grant periods of physical placement for meeting, any financial obligation to the child or the former spouse.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In determining legal custody and periods of physical placement, the court shall consider all facts relevant to the best interest of the child.  The court may not prefer one potential custodian over the other on the basis of the sex or race of the custodian. The court shall consider reports of appropriate professionals if admitted into evidence when legal custody or physical placement is contested. The court shall consider the following factors in making its determination:</text>
+        <para>
+          <num>(1)</num>
+          <text>The wishes of the child's parent or parents;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The wishes of the child, which may be communicated by the child or through the child's guardian ad litem or other appropriate professional;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The interaction and interrelationship of the child with his or her parent or parents, siblings, and any other person who may significantly affect the child's best interest;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The child's adjustment to the home, school, religion and community;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The mental and physical health of the parties, the minor children and other persons living in a proposed custodial household;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The availability of public or private child care services;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Whether one party is likely to unreasonably interfere with the child's continuing relationship with the other party;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Whether there is evidence that a party engaged in abuse of the child;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Whether there is evidence of inter-spousal battery;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Whether either party has or had a significant problem with alcohol or drug abuse.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Such other factors as the court may in each individual case determine to be relevant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <para>
+          <num>(1)</num>
+          <text>If legal custody or physical placement is contested, the court shall state in writing why its findings relating to legal custody or physical placement are in the best interest of the child.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The court may give one party sole power to make specified decisions, while both parties retain equal rights and responsibilities for other decisions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In making an order of joint legal custody and periods of physical placement, the court may specify one parent as the primary caretaker of the child and one home as the primary home of the child, for the purpose of determining eligibility for aid under any financial assistance program or for any other purpose the court considers appropriate.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>No party awarded joint legal custody may take any action inconsistent with any applicable physical placement order, unless the court expressly authorizes that action.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>In an order for physical placement, the court shall specify the right of each party to the physical control of the child in sufficient detail to enable a party deprived of that control to implement any law providing relief for interference with custody or parental rights.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.8</annotation>
+    </section>
+    <section>
+      <num>DMR.02.09</num>
+      <heading>Revision Of Legal Custody And Physical Placement Order</heading>
+      <para>
+        <num>(a)</num>
+        <text>The following provisions are applicable to modifications of legal custody and physical placement orders:</text>
+        <para>
+          <num>(1)</num>
+          <text>Substantial modifications.</text>
+          <para>
+            <num>(A)</num>
+            <heading>Within 2 years after initial order.</heading>
+            <text>Except as provided under sub. (2), a court may not modify any of the following orders before 2 years after the initial order is entered, unless a party seeking the modification, upon petition, motion, or order to show cause shows by substantial evidence that the modification is necessary because the current custodial conditions are physically or emotionally harmful to the best interest of the child:</text>
+            <para>
+              <num>(i)</num>
+              <text>An order of legal custody;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>An order of physical placement if the modification would substantially alter the time a parent may spend with his or her child.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <heading>After 2–year period.</heading>
+            <para>
+              <num>(i)</num>
+              <text>Except as provided under par. (A) and sub. (2), upon petition, motion or order to show cause by a party, a court may modify an order of legal custody or an order of physical placement where the modification would substantially alter the time a parent may spend with his or her child if the court finds all of the following:</text>
+              <para>
+                <num>(I)</num>
+                <text>The modification is in the best interest of the child;</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>There has been a substantial change of circumstances since the entry of the last order affecting legal custody or the last order substantially affecting physical placement.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>With respect to sub. (a)(1)(B)(i), there is a rebuttable presumption that:</text>
+              <para>
+                <num>(I)</num>
+                <text>Continuing the current allocation of decision making under a legal custody order is in the best interest of the child;</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>Continuing the child's physical placement with the parent with whom the child resides for the greater period of time is in the best interest of the child.</text>
+              </para>
+              <para>
+                <num>(III)</num>
+                <text>A change in the economic circumstances or marital status of either party is not sufficient to meet the standards for modification under sub. (1).</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Modification of substantially equal physical placement orders. Notwithstanding sub. (1):</text>
+          <para>
+            <num>(A)</num>
+            <text>If the parties have substantially equal periods of physical placement pursuant to a court order and circumstances make it impractical for the parties to continue to have substantially equal physical placement, a court, upon petition, motion or order to show cause by a party, may modify such an order if it is in the best interest of the child.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In any case in which par. (A) does not apply and in which the parties have substantially equal periods of physical placement pursuant to a court order, a court, upon petition, motion or order to show cause of a party, may modify such an order based on the appropriate standard under sub. (1).  However, under sub. (1) (B) 2, there is a rebuttable presumption that having substantially equal periods of physical placement is in the best interest of the child.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Modification of other physical placement orders. Except as provided under subs. (1) and (2), upon petition, motion or order to show cause by a party, a court may modify an order of physical placement which does not substantially alter the amount of time a parent may spend with his or her child if the court finds that the modification is in the best interest of the child.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Denial of physical placement.  Upon petition, motion or order to show cause by a party or on its own motion, a court may deny a parent's physical placement rights at any time if it finds that the physical placement rights would endanger the child's physical, mental or emotional health.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Reasons for modification.  If either party opposes modification or termination of a legal custody or physical placement order under this section the court shall state, in writing, its reasons for the modification or termination.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>Notice.</heading>
+          <text>No court may enter an order for modification under this section until notice of the petition, motion or order to show cause requesting modification has been given to the child's parents, if they can be found, and to any relative or agency having custody of the child.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <heading>Transfer to department.</heading>
+          <text>The court may order custody transferred to the Tribal Social Services only if that department agrees to accept custody.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.9</annotation>
+    </section>
+    <section>
+      <num>DMR.02.10</num>
+      <heading>Effect Of Judgment</heading>
+      <para>
+        <num>(a)</num>
+        <text>In any action affecting the family under <cite path="62.10">this Chapter</cite>, if the court orders maintenance payments or other allowances for a party or children or retains jurisdiction in such matters, the written judgment shall include a provision that disobedience of the court order with respect to the same is punishable in accordance with the Mohican Judiciary Act, <cite path="TCT|TCT.01">Chapter TCT.01</cite>, Tribal Court Code until such judgment is complied with.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The court has the power to vacate or modify the judgment for sufficient cause shown, upon its own motion, or upon the application of both parties to the action, at any time within six (6) months from the granting of such judgment.  If the judgment is vacated it shall restore the parties to the marital relation that existed before the granting of such judgment.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>When a judgment of divorce is granted it shall be effective immediately except as provided in <cite path="DMR|DMR.01">Chapter DMR.01</cite>, <cite path="§DMR.01.09|(d)">Section DMR.01.09(d)</cite>.  The judge granting the divorce shall inform the parties appearing in court that the judgment is effective immediately, except as provided in <cite path="DMR|DMR.01">Chapter DMR.01</cite>, <cite path="§DMR.01.09|(d)">Section DMR.01.09(d)</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.10</annotation>
+    </section>
+    <section>
+      <num>DMR.02.11</num>
+      <heading>Visitation Rights Of Certain Persons</heading>
+      <text>Upon petition by a grandparent, great-grandparent, stepparent or person who has maintained a relationship similar to a parent-child relationship with the child, the court may grant reasonable visitation rights to that person if the parents have notice of the hearing and if the court determined that visitation is in the best interest of the child. Whenever possible, in making a determination under this section, the court shall consider the wishes of the child.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.11</annotation>
+    </section>
+    <section>
+      <num>DMR.02.12</num>
+      <heading>Fees</heading>
+      <text>The filing fee for a petition for a dissolution of marriage shall be seventy-five (75) dollars.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.12</annotation>
+    </section>
+    <section>
+      <num>DMR.02.13</num>
+      <heading>Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>In order to consistently and fairly implement the provisions of <cite path="62.13">this chapter</cite>, the Tribal Council may, in conjunction with the personnel deemed relevant by the Council, draft regulations which will provide the public and the Tribal Court more specific rules on the matters addressed in <cite path="62.13">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If regulations addressing a certain area of <cite path="62.13">this chapter</cite> have not been enacted and the Court is faced with a question, the Court may, in its discretion, refer to the corresponding State of Wisconsin regulations or law, or to other states or to other Indian tribes' guidance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 62, §62.13</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 109-97">Resolution No. 109-97</cite>, adopted February 18, 1997, approved by BIA February 27, 1997.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 025-16">Resolution No. 025-16</cite>, adopted February 2, 2016, approved by BIA February 22, 2016.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>DMR.03</num>
+    <heading>Domestic Abuse Restraining Order And Injunction Ordinance</heading>
+    <section>
+      <num>DMR.03.01</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this ordinance is to provide protection for spouses, family members and community members who have been abused or are facing the threat of abuse. Furthermore, this ordinance is enacted to strengthen and reaffirm the inherent right of the Stockbridge-Munsee Community Indian tribe to regulate the conduct of its members and persons who consent to its jurisdiction by being physically present within the boundaries of the reservation.</text>
+      <text>This ordinance should be construed liberally to accomplish the above goals and afford the appropriate protection for any person who petitions for a restraining order or injunction under this ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.1</annotation>
+    </section>
+    <section>
+      <num>DMR.03.02</num>
+      <heading>Definitions.</heading>
+      <text>In this section:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Domestic abuse" means the occurrence of one or more of the following acts by a family or household member, but does not include the act of self-defense:</text>
+        <para>
+          <num>(1)</num>
+          <text>Intentional infliction of physical pain, physical injury or illness.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Intentional impairment of physical condition.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A violation of <cite doc="Wis. Stat." path="§940.225|(1)">Sec. 940.225 (1)</cite>, <cite doc="Wis. Stat." path="§940.225|(2)">(2)</cite> or <cite doc="Wis. Stat." path="§940.225|(3)">(3)</cite> of the Wisconsin state statutes.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A threat to engage in the conduct under subsections (1), (2), or (3).</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Family or household member" means</text>
+        <para>
+          <num>(1)</num>
+          <text>Adults or minors who are current or former spouses;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Adults or minors who live together or who have lived together;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Adults or minors who are dating or who have dated;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Adults or minors who are engaged in or who have engaged in a sexual relationship;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Adults or minors who are related by blood or adoption;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Adults or minors who are related or formerly related by marriage;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Persons who have a child in common; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Minor children of a person in a relationship that is described in paragraphs (1) through (7)</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>"Household member" means a person currently or formerly residing in a place of abode with another person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Foreign protection order" means any temporary or permanent injunction or order of a civil or criminal court of the United States, of an Indian tribe or of any state issued for preventing abuse, bodily harm, communication, contact, harassment, physical proximity, threatening acts or violence by or to a person, other than support or custody orders.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Tribal court" means the Stockbridge-Munsee Community Tribal Court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Tribal order or injunction" means a temporary restraining order or injunction issued by the Stockbridge-Munsee Tribal Court in accordance with this ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.2</annotation>
+    </section>
+    <section>
+      <num>DMR.03.03</num>
+      <heading>Commencement Of Action And Response</heading>
+      <para>
+        <num>(a)</num>
+        <text>No action under this section may be commenced by complaint and summons.  An action under this section may be commenced only by a petition described under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.  The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service.  If the judge or family court commissioner extends the time for a hearing under <cite path="§DMR.03.04">Section DMR.03.04(c)</cite> and the petitioner files an affidavit with the court stating that personal service by a Stockbridge-Munsee law enforcement officer or a private server under Section 19 of the Stockbridge-Munsee rules of procedure was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the tribal newspaper and by mailing if the respondent's post-office address is known or can with due diligence be ascertained. The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A petition may be filed in conjunction with an action affecting the family commenced under the Stockbridge-Munsee family, domestic or youth codes, but commencement of an action affecting the family or any other action is not necessary for the filing of a petition or the issuance of a temporary restraining order or an injunction.  The respondent may respond to the petition either in writing before or at the hearing on the issuance of the injunction or orally at that hearing.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.3</annotation>
+    </section>
+    <section>
+      <num>DMR.03.04</num>
+      <heading>Two-Part Procedure</heading>
+      <text>Procedure for an action under this section is in 2 parts.  First, if the petitioner requests a temporary restraining order the court shall issue or refuse to issue that order.  Second, the court shall hold a hearing under <cite path="§DMR.03.06">Section DMR.03.06</cite> on whether to issue an injunction, which is the final relief.  If the court issues a temporary restraining order, the order shall set forth the date for the hearing on an injunction.  If the court does not issue a temporary restraining order, the date for the hearing shall be set upon motion by either party.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.4</annotation>
+    </section>
+    <section>
+      <num>DMR.03.05</num>
+      <heading>Temporary Restraining Order.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A judge or family court commissioner shall issue a temporary restraining order ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in <cite path="§DMR.03.05|(b)">subsection (b)</cite>, or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
+        <para>
+          <num>(1)</num>
+          <text>The petitioner submits to the judge or family court commissioner a petition alleging the elements set forth under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The judge or family court commissioner finds reasonable grounds to believe that the respondent has engaged in, or based on prior conduct of the petitioner and the respondent may engage in, domestic abuse of the petitioner.  In determining whether to issue a temporary restraining order, the judge or family court commissioner shall consider the potential danger posed to the petitioner and the pattern of abusive conduct of the respondent but may not base his or her decision solely on the length of time since the last domestic abuse or the length of time since the relationship ended.  The judge or family court commissioner may grant only the remedies requested or approved by the petitioner.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the petitioner and the respondent are not married, the respondent owns the premises where the petitioner resides and the petitioner has no legal interest in the premises, in lieu of ordering the respondent to avoid the petitioner's residence under subsection (A) the judge or family court commissioner may order the respondent to avoid the premises for a reasonable time until the petitioner relocates and shall order the respondent to avoid the new residence for the duration of the order.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Notice need not be given to the respondent before issuing a temporary restraining order under this subsection.  A temporary restraining order may be entered only against the respondent named in the petition.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The temporary restraining order is in effect until a hearing is held on issuance of an injunction under <cite path="§DMR.03.06">Section DMR.03.06</cite>.  The temporary restraining order is not voided if the respondent is admitted into a dwelling that the order directs him or her to avoid.  A judge or family court commissioner shall hold a hearing on issuance of an injunction within 7 days after the temporary restraining order is issued, unless the time is extended upon the written consent of the parties or extended once for 14 days upon a finding that the respondent has not been served with a copy of the temporary restraining order although the petitioner has exercised due diligence.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The judge or court commissioner shall advise the petitioner of the right to serve the respondent the petition by published notice if with due diligence the respondent cannot be served as provided under Section 19 of the Stockbridge-Munsee Court procedures.  The clerk of court shall assist the petitioner with the preparation of the notice and filing of the affidavit of printing.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.5</annotation>
+    </section>
+    <section>
+      <num>DMR.03.06</num>
+      <heading>Injunction.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A judge or family court commissioner may grant an injunction ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in <cite path="§DMR.03.06|(b)">subsection (b)</cite>, or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents to that contact in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
+        <para>
+          <num>(1)</num>
+          <text>The petitioner files a petition alleging the elements set forth under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The petitioner serves upon the respondent a copy of the petition and notice of the time for hearing on the issuance of the injunction, or the respondent serves upon the petitioner notice of the time for hearing on the issuance of the injunction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>After hearing, the judge or family court commissioner finds reasonable grounds to believe that the respondent has engaged in, or based upon prior conduct of the petitioner and the respondent may engage in, domestic abuse of the petitioner.  In determining whether to issue an injunction, the judge or family court commissioner shall consider the potential danger posed to the petitioner and the pattern of abusive conduct of the respondent but may not base his or her decision solely on the length of time since the last domestic abuse or the length of time since the relationship ended.   The judge or family court commissioner may grant only the remedies requested by the petitioner.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the petitioner and the respondent are not married, the respondent owns the premises where the petitioner resides and the petitioner has no legal interest in the premises, in lieu of ordering the respondent to avoid the petitioner's residence under subsection (A) the judge or family court commissioner may order the respondent to avoid the premises for a reasonable time until the petitioner relocates and shall order the respondent to avoid the new residence for the duration of the order.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The judge or family court commissioner may enter an injunction only against the respondent named in the petition.  No injunction may be issued under this subsection under the same case number against the person petitioning for the injunction.  The judge or family court commissioner may not modify an order restraining the respondent based solely on the request of the respondent.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <para>
+          <num>(1)</num>
+          <text>An injunction under this subsection is effective according to its terms, for the period of time that the petitioner requests, but not more than 5 years.  An injunction granted under this subsection is not voided by the admittance of the respondent into a dwelling that the injunction directs him or her to avoid.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When an injunction granted for less that 5 years expires, the court shall extend the injunction if the petitioner states that an extension is necessary to protect him or her.  This extension shall remain in effect until 5 years after the date the court first entered the injunction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Notice need not be given to the respondent before extending an injunction under subsection (2).  The petitioner shall notify the respondent after the court extends an injunction under subsection (2).</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.6</annotation>
+    </section>
+    <section>
+      <num>DMR.03.07</num>
+      <heading>Petition.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The petition shall allege facts sufficient to show the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the petitioner and that the petitioner is the alleged victim.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name of the respondent and that the respondent is an adult.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the respondent engaged in, or based on prior conduct of the petitioner and the respondent may engage in, domestic abuse of the petitioner.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The petition shall request that the respondent be restrained from committing acts of domestic abuse against the petitioner, that the respondent be ordered to avoid the petitioner's residence, or that the respondent be ordered to avoid contacting the petitioner or causing any person other than the respondent's attorney to contact the petitioner unless the petitioner consents to the contact in writing, or any combination of these requests.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The clerk of tribal court shall provide the simplified forms to help a person file a petition.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A judge or family court commissioner shall accept any legible petition for a temporary restraining order or injunction.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.7</annotation>
+    </section>
+    <section>
+      <num>DMR.03.08</num>
+      <heading>Enforcement Assistance.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If an order is issued under this section, upon request by the petitioner the court or family court commissioner shall order a tribal law enforcement officer to accompany the petitioner and assist in placing him or her in physical possession of his or her residence or to otherwise assist in executing or serving the temporary restraining order or injunction.  The petitioner may, at the petitioner's expense, use a private process server to serve papers on the respondent.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within 24 hours after request by the petitioner, the clerk of the circuit court shall send an authenticated copy of any order issued or provide notice of any order extended under this section to the Stockbridge-Munsee Chief of Police, the county sheriff and the Shawano County Circuit Court clerk; or to any other local law enforcement agency which is the central repository for orders and which has jurisdiction over the petitioner's premises.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Stockbridge-Munsee law enforcement officers shall make available to other law enforcement agencies, through a verification system, information on the existence and status of any order issued under this section.  The information need not be maintained after the order is no longer in effect.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.8</annotation>
+    </section>
+    <section>
+      <num>DMR.03.09</num>
+      <heading>Enforcement.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Tribal court orders and injunctions issued under this ordinance will be enforced in accordance with <cite doc="Wis. Stat." path="§813.12|(7)">section 813.12 (7)</cite> and <cite doc="Wis. Stat." path="§813.12|(8)">(8) of the Wisconsin state statutes</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition, Stockbridge-Munsee Community law enforcement officers may issue citations in accordance with <cite path="§DMR.03.11">Section DMR.03.11</cite> if the officer has probable cause to believe that a violation of a tribal court order or injunction has occurred.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The deposit for any citation issued under <cite path="§DMR.03.09|(b)">(b)</cite> shall be $200.00.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.9</annotation>
+    </section>
+    <section>
+      <num>DMR.03.10</num>
+      <heading>Transcripts.</heading>
+      <text>The judge or family court commissioner shall record the temporary restraining order or injunction hearing upon the request of the petitioner.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.10</annotation>
+    </section>
+    <section>
+      <num>DMR.03.11</num>
+      <heading>Penalty.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Whoever knowingly violates any of the following shall be fined not more than $1,000:</text>
+        <para>
+          <num>(1)</num>
+          <text>A temporary restraining order or injunction issued under <cite path="§DMR.03.05">Section DMR.03.05</cite> or <cite path="§DMR.03.06">Section DMR.03.06</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A tribal order or injunction that is filed with a circuit court; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A foreign protection order.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The petitioner does not violate the court order under <cite path="§DMR.03.05">Section DMR.03.05</cite> and <cite path="§DMR.03.06">Section DMR.03.06</cite>, if he or she admits into his or her residence a person ordered to avoid that residence under those sections.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.11</annotation>
+    </section>
+    <section>
+      <num>DMR.03.12</num>
+      <heading>Enforcement Of Tribal Orders And Injunctions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal clerk of court is authorized to certify and authenticate any copy of an order or injunction issued pursuant to this ordinance by attesting to the authenticity of the document and stamping the document as follows:</text>
+        <include>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>I, [name of tribal court clerk], Clerk of the Stockbridge-Munsee Tribal Court, do hereby certify that the foregoing is a true, correct and complete copy of the instrument herewith set out as appears on the file and of record in my said office.</td>
+                </tr>
+                <tr>
+                  <td>Dated this ____ day of _________, _____.</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-9">/s/</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-4">Clerk, Stockbridge-Munsee Tribal Court</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A copy of a tribal court injunction or order issued pursuant to this ordinance is considered authenticated when the procedures in <cite path="§DMR.03.12">subsection (a)</cite> have been followed and completed.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 63, §63.12</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 069-96">Resolution No. 069-96</cite>, adopted September 3, 1996.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>DMR.04</num>
+    <heading>Domestic And Family Violence Ordinance</heading>
+    <section>
+      <num>DMR.04.01</num>
+      <heading>Title, Purpose And Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Title.</heading>
+        <text>This Ordinance may be cited as the "Domestic and Family Violence Code."</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of this Code is to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Eliminate barriers to meeting the safety and other needs of victims of family violence,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To hold batterers accountable for their actions, and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To enhance the provision of services to victims and their batterers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Construction.</heading>
+        <text>This Code shall be liberally construed to effect the purposes stated above and shall be interpreted to comport with the customs and traditions of this Tribe. If tribal law, customs and traditions are inconclusive in any matter arising under this code, then federal law and, as a last resort, the law of the State of Wisconsin, may be used for guidance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Domestic and Family Violence.</heading>
+          <para>
+            <num>(A)</num>
+            <text>Domestic and family violence includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>intentional infliction of physical harm to a family or household member;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>an act, word, gesture or any other behavior that places a family or household member in fear of imminent physical harm,</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>intentional use of force, coercion, threat, intimidation, humiliation, or confinement which results in mental or emotional harm to a family or household member; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>causing a family or household member to engage involuntarily in sexual activity by force, coercion, threat, intimidation, humiliation, confinement, or administering alcohol or drugs to the family or household member without their knowledge.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Imminent physical harm as used above refers to such physical harm that is close or near at hand, that is impending, perilous, or on the point of happening. It does not require that such physical harm be immediate or without delay after the behavior that places the victim in fear.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Family or household member.</heading>
+          <text>Family or household member includes:</text>
+          <para>
+            <num>(A)</num>
+            <text>adults and/or minors who are current or former spouses;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>adults and/or minors who have a child, including an unborn child, in common,</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>adults and/or minors who are living together or have lived together and who have engaged in a sexual relationship;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>adults and/or minors who are involved or have been involved in a sexual or otherwise intimate, ongoing relationship including persons who are identified in the community as boyfriend and girlfriend; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>adult relatives who are living together or who have lived together.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Exclusions.</heading>
+        <text>Domestic and family violence in the parent-minor child relationship is not covered in this Code. The occurrence of domestic and family violence in that relationship is covered in the Youth Code of this Tribe or through the juvenile and children's codes of the State of Wisconsin.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 64, §64.1</annotation>
+    </section>
+    <section>
+      <num>DMR.04.02</num>
+      <heading>Jurisdiction And Civil Nature Of This Code</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Jurisdiction and Authority to Enact This Code.</heading>
+        <text>This Code is adopted pursuant to the Stockbridge-Munsee Community Constitution and pursuant to an exercise of this Tribe's inherent sovereign authority.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Jurisdiction of the Court and Civil Nature of This Code.</heading>
+        <text>The jurisdiction of the Tribal Court shall be civil in nature and shall include the power to issue all orders necessary to ensure the purposes and provisions of this Code are put into effect. This includes the power to enforce subpoenas, orders of contempt, and any other orders as appropriate.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Availability of Criminal Penalties.</heading>
+        <text>The provisions of this Code do not replace the criminal penalties and procedures available under state law for an act of domestic and family violence.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 64, §64.2</annotation>
+    </section>
+    <section>
+      <num>DMR.04.03</num>
+      <heading>Civil Orders For Protection</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Who May Petition the Court.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A person who is subject to the jurisdiction of this Tribe's Court and who has been a victim of domestic and family violence may file a Petition for an Order for Protection against a family or household member who commits an act of domestic and family violence.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A parent, guardian, or other representative may file a Petition for an Order for Protection on behalf of a minor victim against the family or household member who commits an act of domestic violence.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No filing fee, bond, or other payment shall be required from the victim for the filing of a Petition for an Order for Protection under this Code.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Contents of the Petition.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Petition shall include membership status or any other information necessary to establish jurisdiction of the Court; the Petitioner's name and address at the time of the incident of domestic and family violence; the name, address, and relationship of the family or household member who is the Respondent; a description of the specific facts and circumstances justifying the relief requested; the relief requested; and the current location of the Respondent, if known.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The current location of the Petitioner shall not be released by the Court except on Petitioner's written request and consent.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Petition shall also state the nature of any other legal matter pending regarding the Petitioner or the Respondent; for example, criminal charges, child protection proceeding, and divorce.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The Petition may include a request that the Court arrange for law enforcement to be present at the time of the hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>Duty of Court Personnel to Provide Forms &amp; Clerical Assistance.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Clerk of Court or other designated person shall provide to a person requesting an Order for Protection;</text>
+            <para>
+              <num>(i)</num>
+              <text>a standard Petition form with instructions for completion,</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>all other forms required to petition for an Order for Protection, such as those needed for service of process,</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>clerical assistance in filling out the forms and filing the Petition for an Order for Protection, and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>provide written notice to the victim identifying the nearest available provider of shelter and advocacy services.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In order to facilitate enforcement under full faith and credit provisions of state law, the Clerk of Court or other designated person shall send an authenticated copy of the Emergency Order for Protection and the Order for Protection to the circuit court clerk for the county where Respondent is located within one business day of the issuance of the Order.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>Emergency Orders for Protection.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Court shall immediately grant an ex-parte Emergency Order for Protection if, based on the specific facts stated in the Petition, there is reasonable grounds to believe that the Petitioner is in danger of domestic and family violence occurring prior to a hearing on the Petition. An allegation of a recent incident of domestic and family violence constitutes reasonable grounds to believe the Petitioner is in danger.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Emergency Order for Protection may include the following relief:</text>
+            <para>
+              <num>(i)</num>
+              <text>prohibit the Respondent from committing or threatening to commit acts of domestic and family violence against the Petitioner and the Petitioner's family and household members;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>prohibiting the Respondent from contacting or communicating with the Petitioner directly or indirectly;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>removing and excluding Respondent from the Petitioner's residence, regardless of ownership;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>removing and excluding Respondent from the Petitioner's place of employment and other locations frequented by Petitioner; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>such other relief as the Court deems necessary to protect and provide for the safety of the Petitioner and any designated family or household member.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Emergency Order for Protection shall be served with the notice of hearing on the Respondent and shall expire at the time of the hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <heading>Notice to Respondent &amp; Other Interested Parties.</heading>
+          <para>
+            <num>(A)</num>
+            <text>Respondent shall be served a notice of hearing along with a copy of the Petition and a copy of any Emergency Order for Protection at least forty-eight hours prior to the time of the hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <heading>Hearing.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Court shall hold a hearing on the Petition for an Order for Protection within seven (7) days of the filing date of the Petition.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Court may extend the time for a hearing once for up to fourteen (14) days upon consent of the parties or upon finding that Respondent has not been timely served a notice of hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <heading>Remedies Available in an Order for Protection.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Court may grant the following relief in an Order for Protection if requested by the Petitioner and after notice and hearing, whether or not the Respondent appears:</text>
+            <para>
+              <num>(i)</num>
+              <text>prohibit the Respondent from threatening to commit or committing acts of domestic or family violence against the Petitioner;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>prohibit the Respondent from harassing, telephoning, contacting, or otherwise communicating with the Petitioner directly or indirectly, or through others;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>remove and exclude Respondent from Petitioner's residence, or if Respondent owns or leases the residence and the Petitioner has no legal interest in the residence, then the Court may order the Respondent to avoid the residence for a reasonable length of time until the Petitioner relocates;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>remove and exclude Respondent from Petitioner's place of employment at any time Petitioner is present;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>remove and exclude Respondent from other specified locations frequented by Petitioner;</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>remove and exclude Respondent from specified public social events and activities;</text>
+            </para>
+            <para>
+              <num>(vii)</num>
+              <text>limit or prohibit contact with minor children of Respondent where necessary to protect the safety of the Petitioner or child;</text>
+            </para>
+            <para>
+              <num>(viii)</num>
+              <text>refer minors who are family or household members for assessments and services through the Indian Child Welfare office, mental health program, or other tribal program;</text>
+            </para>
+            <para>
+              <num>(ix)</num>
+              <text>require Respondent to participate in alcohol and other assessments and to participate in treatment where the treatment program meets the State of Wisconsin's batterer's treatment standards;</text>
+            </para>
+            <para>
+              <num>(x)</num>
+              <text>limit or prohibit Respondent from using or possessing a firearm or other weapon as specified by the Court;</text>
+            </para>
+            <para>
+              <num>(xi)</num>
+              <text>require Respondent to reimburse the Petitioner or any other person for any expenses associated with the domestic or family violence, including but not limited to medical expenses, counseling, shelter, legal fees, and repair or replacement of damaged property;</text>
+            </para>
+            <para>
+              <num>(xii)</num>
+              <text>require Respondent participate in community service, such as cutting wood or providing other services for elderly members of the Tribe;</text>
+            </para>
+            <para>
+              <num>(xiii)</num>
+              <text>require that notice of Respondent's act(s) of domestic and family violence be publicly posted; and</text>
+            </para>
+            <para>
+              <num>(xiv)</num>
+              <text>any other relief as the Court deems necessary to protect and provide for the safety of the Petitioner and any designated family or household member.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>An Order for Protection shall not contain any provisions which impose requirements on a victim of domestic and family violence. The Court may recommend services for the victim and shall verify that the victim is aware of locally available shelter facilities.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Court shall cause the Order for Protection to be delivered for service of process; make reasonable efforts to ensure that the Order is understood by the Petitioner, and Respondent if present at the hearing; and transmit a copy of the Order for Protection to the local law enforcement agency or agencies within one business day after the Order is issued if requested by the Petitioner.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The Court shall not grant a mutual Order for Protection to opposing parties.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The Court shall not deny a Petitioner the relief requested solely because of a lapse of time between an act of domestic or family violence and the filing of the Petition.</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <heading>Duration, Extension, and Modification of Orders for Protection.</heading>
+          <para>
+            <num>(A)</num>
+            <text>An Order for Protection or a modification of an Order for Protection is effective until further order of the Court.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>An Order for Protection may be modified or withdrawn following notice and hearing, on the Court's own motion or upon the request of either Petitioner or Respondent if;</text>
+            <para>
+              <num>(i)</num>
+              <text>assessments or treatments ordered by the Court have been completed,</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Respondent demonstrates behavioral changes which eliminate the risk of a recurrence of acts of domestic and family violence as verified by treatment providers or other independent sources identified by the Court, or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the Court determines the safety needs of the Petitioner and other family or household members are provided for by the Protection.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If Respondent is excluded from Petitioner's residence or ordered to stay away from Petitioner, an invitation by the Petitioner to do so does not waive or nullify an Order for Protection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(11)</num>
+          <heading>Enforcement and Penalties for Violation.</heading>
+          <text>Where Respondent has violated an Order for Protection, the Court may order additional and other remedies as provided in <cite path="§DMR.04.03|(a)|(9)">Section DMR.04.03(a)(9)</cite>, above and may impose such penalties as are deemed necessary by the Court given the severity of the violation of the Order. Penalties include, but are not limited to those available for contempt, fines, assessments of court costs and fees, and exclusion from tribal offices and businesses.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <heading>Full Faith and Credit.</heading>
+          <para>
+            <num>(A)</num>
+            <text>Any protection order that is consistent with <cite path="§DMR.04.03|(a)|(12)|(B)">Section DMR.04.03(a)(12)(B)</cite> by the court of one state or Indian tribe (the issuing state or Indian tribe) shall be accorded full faith and credit by this Tribe and enforced as if it were the order of this Tribal Court.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A protection order issued by a state or tribal court is consistent with this subsection if:</text>
+            <para>
+              <num>(i)</num>
+              <text>such court has jurisdiction over the parties and matter under the law of such state or tribe; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process. In the case of ex parse orders, notice and opportunity to be heard must be provided within the time required by the issuing state's or tribe's law, and in any event within a reasonable time after the order is issued, sufficient to protect the respondent's due process rights.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A protection order issued by a state or tribal court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if:</text>
+            <para>
+              <num>(i)</num>
+              <text>no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a cross or counter petition has been filed and the court did not make specific findings that each party was entitled to such an order.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 64, §64.3</annotation>
+    </section>
+    <section>
+      <num>DMR.04.04</num>
+      <heading>Intervention And Referrals</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Confidentiality for Victims.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A victim of domestic abuse may refuse to disclose and may prevent any volunteer or employee of a program for victims of domestic abuse from disclosing, the content of oral communication and written records and reports concerning the victim.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This privilege may be waived only by the victim. It must be in writing and must identify what information may be disclosed, to whom, and for what purpose. Such a waiver is not valid after thirty (30) days or after the victim revokes the waiver.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>This privilege does not relieve a person from a duty imposed under Wisconsin Law to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Chapters <cite path="48">48</cite> and <cite path="938">938</cite>, Wis. Stat., and in Tribal Court under the Youth Code.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>These provisions on confidentiality for victims shall not prevent the disclosure of information compiled about incidents of domestic and family violence which protects the identity of the victim and family or household members of the victim.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Intervention for Batterers.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Where services are provided for batterers pursuant to an Order for Protection, the batterer who is ordered into the program shall be required by the Court to sign the following releases:</text>
+          <para>
+            <num>(A)</num>
+            <text>allowing the provider of services to inform the victim and victim's advocate whether or not the batterer is in treatment pursuant to the Order, whether or not the batterer is in compliance with treatment provisions, and whether or not the safety of the victim and family or household members of the victim is at risk;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>allowing prior and current treating agencies to provide information about the batterer to the service provider; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>allowing the service provider to provide information about the batterer to relevant legal entities including courts, parole and probation officers, and child protective services.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Policies and Procedures.</heading>
+        <text>Written policies and procedures developed pursuant to <cite path="64.4">this chapter</cite> may include requiring tribal programs and other entities within the jurisdiction of this Tribe to provide information about the rights of victims and about remedies and services available, may set standards for service providers concerning domestic and family violence, and may establish protocols for intervention and referrals for services for suspected victims or batterers, and their household and family members.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 64, §64.4</annotation>
+    </section>
+    <section>
+      <num>DMR.04.05</num>
+      <heading>Prevention, Treatment And Education Services</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Domestic Abuse Response Team.</heading>
+        <text>A Domestic Abuse Response Team is hereby created within the Tribe.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Domestic Abuse Response Team is intended to coordinate and involve various agencies present in the community in order to:</text>
+          <para>
+            <num>(A)</num>
+            <text>eliminate barriers to meeting the safety and other needs of victims of family violence,</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>to hold batterers accountable for their actions, and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>to enhance the provision of services to victims and their batterers.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Domestic Abuse Response Team is advisory in nature. It is in no way intended to supplant the authority or responsibility of individual agencies. It is intended to promote cooperation, communication, and consistency.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Composition of the Team: The Team shall consist of a Tribal Council member selected by the Tribal Council; the Director of Social Services, the Employment Assistance Program, and the Health Office; the Chief Judge of the Tribal Court; the Director of the program which provides services to victims of domestic abuse. In addition, the Team shall include at least two members of the community who have demonstrated expertise and experience in providing services to victims of domestic abuse and their family or household members. The community members shall be selected by the Tribal Council.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Duties of the Domestic Abuse Response Team.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The duties of the Domestic Abuse Response Team shall include:</text>
+          <para>
+            <num>(A)</num>
+            <text>advising on the development of plans, policies and procedures on the response to the occurrence of domestic and family violence;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>developing a long term plan to promote the Team's purpose as described in <cite path="§DMR.04.05|(a)|(1)">Section DMR.04.05(a)(1)</cite>;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>identifying resources, programs, and services necessary in the community to promote the Team's purposes;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>gathering information relevant to the occurrence of domestic and family violence in the community;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>providing for public education efforts in the community;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>monitoring adherence to the long term plan; and</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>promoting effective strategies for prevention and intervention.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Team shall report on its activities to the Tribal Council each calendar quarter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Program Responsibilities.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The tribal programs and other organizations within the jurisdiction of the Tribe and listed below shall develop and put into effect written policies and procedures concerning its effective response to the occurrence of domestic abuse within ninety (90) days of the effective date of this enactment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This requirement applies to the following programs and organizations:</text>
+          <para>
+            <num>(A)</num>
+            <text>Human/Social Services, Housing</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Health Care Providers, Tribal Council</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Employment Assistance Program, Tribal Court</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Domestic Abuse/Shelter Program, Law Enforcement</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Schools and Day Care</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A copy of these policies and procedures shall be provided to the Domestic Abuse Response Team and to the program responsible for coordinating or providing services to victims and perpetrators of domestic abuse within ninety (90) days of the effective date of this enactment.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All tribal programs and other organizations within the jurisdiction of the Tribe shall post notice as provided by the Domestic Abuse Response Team in a location in view of all employees identifying where victims of domestic and family violence can receive assistance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Continuing Education.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The policies and procedures developed under the above section shall provide for continuing education of employees concerning domestic and family violence on the following topics:</text>
+          <para>
+            <num>(A)</num>
+            <text>the nature, extent, and causes of domestic and family violence;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>practices designed to promote safety of the victim and other family and household members, including safety plans;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>resources available to victims, perpetrators and families such as advocacy, health care, alcohol and mental health treatment, and shelter programs;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>sensitivity to gender bias and cultural, racial, and sexual issues; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>the lethality of domestic and family violence.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 64, §64.5</annotation>
+    </section>
+    <section>
+      <num>DMR.04.06</num>
+      <heading>Severability</heading>
+      <para>
+        <num>(a)</num>
+        <text>If any part or parts, or the application of any part, of <cite path="64.6">this chapter</cite> is held invalid, such holding shall not affect the validity of the remaining parts of <cite path="64.6">this chapter</cite>. The Stockbridge-Munsee Community hereby declares that it would have passed the remaining parts of <cite path="64.6">this chapter</cite> even if it had known that such part or parts or the application of any part would be declared invalid.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 64, §64.6</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 245-97">Resolution No. 245-97</cite>, adopted September 2, 1997.</annotation>
+    </annotations>
+  </container>
+</container>

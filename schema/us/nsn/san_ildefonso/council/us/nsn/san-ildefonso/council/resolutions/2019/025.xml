@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="11.2" id="Pueblo de San Ildefonso Council Res. No. SI-R19-025">
+  <num>SI-R19-025</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-025</heading>
+  <heading type="law">Act Authorizing Signature of Pojoaque Basin Regional Water System Project Construction Agreement</heading>
+  <meta>
+    <effective>2019-12-23</effective>
+    <citations>
+      <citation type="res" url="./adopted/025.pdf">Council Resolution No. SI-R19-025</citation>
+    </citations>
+    <history>
+      <adopted>2019-12-20</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 20th day of December, 2019, the following Resolution and law were adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a party in the federal water adjudication case of State v. Aamodt, U.S. District Court of New Mexico, No. 66CV6639, and in 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Settlement Act requires the Secretary, acting through the Bureau of Reclamation ("Reclamation") to plan, design and construct a regional water system to divert and distribute water to four Pueblos and to Santa Fe County; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 611(c) of the Act provides that the Pueblos shall consent to easements and rights-of-way necessary for the construction of the Regional Water System at no cost to the United States, and the State of New Mexico and Santa Fe County, to the extent that they own such, shall provide land or interest in land as necessary for construction of the Regional Water System at no cost to the United States, and the Cost-Sharing and System Integration Agreement, as amended, states that the Parties will consent to easements and rights-of-way to the United States for the construction, use, operation, maintenance, repair and replacement of the Regional Water System; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo understands and agrees that it will allow its lands to accommodate all facilities associated with the Regional Water System constructed within its boundaries as delineated in the project design documents; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the four Pueblos, Santa Fe County and Reclamation have determined that the grant of a formal easement or right-of-way to Reclamation for the planning, design, construction, and initial operation and maintenance phases of the Regional Water System will be time-consuming and is not necessary, and will substitute the formal grant of easement or right-of-way with a construction agreement that delineates construction corridors and other authorized activities within the exterior boundaries of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that it is in the best interests of the Pueblo to authorize signature of a form of the Pojoaque Basin Regional Water System Project Construction Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby enacts the attached law entitled "ACT AUTHORIZING SIGNATURE OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM PROJECT CONSTRUCTION AGREEMENT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 20, 2019, at a meeting with a vote of 10 in favor, 0 opposed, 0 abstaining and 0 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):     Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No.  SI-R19-025 was presented to the Governor of the Pueblo de San Ildefonso on the 20th day of December, 2019, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 	23rd day of 	December	, 2019.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2019.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.25</num>
+      <heading>Act Authorizing Signature of Pojoaque Basin Regional Water System Project Construction Agreement</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="11.2.25"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>ACT AUTHORIZING SIGNATURE OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM PROJECT CONSTRUCTION AGREEMENT</heading>
+    <section>
+      <codify:insert num-value="11.2.25.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the, "ACT AUTHORIZING SIGNATURE OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM CONSTRUCTION AGREEMENT ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.25.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Pojoaque Basin Regional Water System Project Construction Agreement" ("Construction Agreement") to delineate construction corridors and establish other authorized activities within the Pueblo's lands for the construction of the Pojoaque Basin Regional Water System.</text>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.25.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo de San Ildefonso ("Pueblo") is a party in the federal water adjudication case of <em>State v. Aamodt</em>, U.S. District Court of New Mexico, No. 66CV6639, and in 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act"); and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Settlement Act requires the Secretary, acting through the Bureau of Reclamation ("Reclamation") to plan, design and construct a regional water system to divert and distribute water to four Pueblos and to Santa Fe County; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Section 611(c) of the Act provides that the Pueblos shall consent to easements and rights-of-way necessary for the construction of the Regional Water System at no cost to the United States, and the State of New Mexico and Santa Fe County, to the extent that they own such, shall provide land or interest in land as necessary for construction of the Regional Water System at no cost to the United States, and the Cost-Sharing and System Integration Agreement, as amended, states that the Parties will consent to easements and rights-of-way to the United States for the construction, use, operation, maintenance, repair and replacement of the Regional Water System; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo understands and agrees that it will allow its lands to accommodate all facilities associated with the Regional Water System constructed within its boundaries as delineated in the project design documents; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The four Pueblos, Santa Fe County and Reclamation have determined that the grant of a formal easement or right-of-way to Reclamation for the planning, design, construction, and initial operation and maintenance phases of the Regional Water System will be time-consuming and is not necessary, and will substitute the formal grant of easement or right-of-way with a construction agreement that delineates construction corridors and other authorized activities within the exterior boundaries of the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The term of the Construction Agreement and the authorizations therein shall be for the period required for the planning, design, construction, and initial operation and maintenance of the Regional Water System, and will continue until the conveyance of the system after substantial completion of the project; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council, having reviewed a form of the Construction Agreement and exhibits thereto, finds approval of the Construction Agreement is in the best interest of this Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.25.040"/>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Governor is hereby authorized to sign a form of the Construction Agreement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized to make any minor technical non-substantive amendments to the Construction Agreement document and exhibits thereto as may be necessary, provided that the Council is informed of such amendments.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

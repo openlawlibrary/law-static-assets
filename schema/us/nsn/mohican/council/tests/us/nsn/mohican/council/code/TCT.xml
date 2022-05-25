@@ -1,0 +1,2786 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>TCT</num>
+  <heading>Tribal Court</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>TCT.01</num>
+    <heading>Tribal Court Code</heading>
+    <section>
+      <num>TCT.01.01</num>
+      <heading>Council Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>Recognizing that tribal self-sufficiency cannot be fully realized without first exerting control over such matters as may be vital to tribal interests, the Stockbridge-Munsee Tribal Council finds:</text>
+        <para>
+          <num>(1)</num>
+          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a tribal court system and adopt a comprehensive code of law; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That the Stockbridge-Munsee Community desires to deal fairly and equitably with all persons; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the Stockbridge-Munsee Community desires to administer, in a just and impartial fashion, all applicable laws, ordinances, regulations and policies; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>That the Stockbridge-Munsee Community would best be served by a judicial system separate and independent of the legislative branch of tribal government; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>That the Stockbridge-Munsee Community desires to preclude state infringement of tribal sovereignty in all matters essential to the tribe's goal of self-sufficiency.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.1</annotation>
+    </section>
+    <section>
+      <num>TCT.01.02</num>
+      <heading>Purpose And Construction</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Declaration of Purpose.</heading>
+        <text>This ordinance shall be interpreted and understood to accomplish the following tribal objectives:</text>
+        <para>
+          <num>(1)</num>
+          <text>To exert jurisdiction over all matters essential to the Tribe's goal of self-determination and self-governance; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To provide orderly procedures for resolving conflicts that reflect tribal traditions as well as the prevailing community standards, and which afford all affected persons a fair, prompt and impartial hearing; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To establish a court system for the interpretation of Stockbridge-Munsee Tribal Law and such other law as may properly come before the Court; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To ensure that all matters shall be conducted in a manner so as to afford all persons who appear before the Stockbridge-Munsee Tribal Court all rights guaranteed by the Stockbridge-Munsee Bill of Rights; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>To ensure that the sovereignty of the Stockbridge-Munsee Community is recognized in all matters affecting the welfare of the Stockbridge-Munsee Community.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Construction.</heading>
+        <text>This ordinance is exempted from the rule of strict construction. It shall be read and understood in a manner that gives full effect to the purposes for which it is enacted. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this ordinance, tribal law or custom shall be controlling and where appropriate may be based on the written or oral testimony of a qualified tribal elder, historian or other representative.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.2</annotation>
+    </section>
+    <section>
+      <num>TCT.01.03</num>
+      <heading>Establishment Of The Tribal Court System</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council hereby establishes the Stockbridge-Munsee Tribal Court System.  The Tribal Court System shall consist of a Trial Court and a Court of Appeals.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Court System shall maintain independence in its judicial operations from the Tribal Council to ensure a separation of Tribal governmental powers.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.3</annotation>
+    </section>
+    <section>
+      <num>TCT.01.04</num>
+      <heading>Tribal Court System Funding</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Tribal Court System Budget.</heading>
+        <text>When allocating the budget money for the Tribal Court System, the amount of money appropriated by the Tribal Council for the Tribal Court System budget shall not be less than $225,000.  The baseline budget shall be increased annually to cover inflation.  However, if there is a spending freeze on all tribal budgets, such spending freeze shall also apply to the Tribal Court System budget.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Peacemaker System Budget.</heading>
+        <text>The Tribal Court System shall set aside a portion of such funding to be used for the operation of the Peacemaker System as established under <cite path="TCT|TCT.04">Chapter TCT.04</cite> of Stockbridge-Munsee Tribal Law.  The Tribal Court System shall be responsible for all aspects of the Peacemaker Program including the hiring, training and supervision of Peacemakers.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Judge Compensation.</heading>
+        <text>The Chief Judge and Judges shall receive such compensation as set by the Tribal Council.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.4</annotation>
+    </section>
+    <section>
+      <num>TCT.01.05</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <heading>AUTHORIZED ENFORCEMENT OFFICER(S):</heading>
+        <text>Stockbridge-Munsee Community tribal law enforcement officers and such other enforcement officers as may be recognized by the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>CHIEF JUDGE:</heading>
+        <text>A person who meets the qualifications listed in <cite path="§TCT.01.06">Section TCT.01.06</cite> and who has been elected by the Stockbridge-Munsee Community in accordance with tribal law.  In the absence of a duly-elected Chief Judge, another sitting Judge shall be appointed to fulfill the duties of Chief Judge by the Tribal Council until the election of a Chief Judge.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>CONTEMPT OF COURT:</heading>
+        <text>Disorderly or insolent behavior committed during a Tribal Court System proceeding, including the willful refusal of an individual to be sworn as a witness, or willful disobedience of a lawfully-issued order of the Tribal Court System.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>DECISION:</heading>
+        <text>A written determination of the Tribal Court System following the Tribal Court System's review of the facts and law.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>IMMEDIATE FAMILY:</heading>
+        <text>The person's spouse or partner and the people within the following degree of kinship of the person or the person's spouse or partner:  parents, grandparents, foster parents, children, foster children, grandchildren, foster grandchildren, brothers, sisters, aunts and uncles, nieces and nephews or the spouses or partners of all such persons.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>JUDGE:</heading>
+        <text>A person who meets the qualifications listed in <cite path="§TCT.01.06">Section TCT.01.06</cite> and who has been hired by the Judiciary Commission.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>JUDICIARY COMMISSION:</heading>
+        <text>An elected body established under <cite path="§TCT.01.07">Section TCT.01.07</cite> that is responsible for fulfilling the responsibilities outlined in this ordinance.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>ORDER:</heading>
+        <text>Written direction of the Tribal Court System which determines the outcome of a motion.  An order shall either grant or deny, in whole or in part, the relief requested in a motion.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>STOCKBRIDGE-MUNSEE COMMUNITY LAW OR TRIBAL LAW:</heading>
+        <text>The Stockbridge-Munsee Community Tribal Constitution and all codes, ordinances, regulations and policies duly adopted by Tribal Council resolution.  Tribal custom may constitute Stockbridge-Munsee Community Law or Tribal Law only in the absence of an applicable Constitutional provision, code, ordinance, regulation, or policy.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>STOCKBRIDGE-MUNSEE COMMUNITY OR "TRIBE":</heading>
+        <text>The Stockbridge-Munsee Community, unless the context in which "Tribe" is used clearly indicates otherwise.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>SUBSTITUTE JUDGE:</heading>
+        <text>A judge of any tribal court, qualified through training, education or experience that is selected in accordance with this Ordinance and appointed by the Chief Judge to preside over a Tribal Court System proceeding when all Judges are unavailable due to absence or disqualification. Substitute judges shall not be held to meet required qualifications as set out in <cite path="§TCT.01.06|(c)">Section TCT.01.06(c)</cite>.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>VIOLATION NOTICE.</heading>
+        <text>An order, issued by authorized law enforcement personnel to a suspected violator in connection with a violation of tribal law, to appear before the Stockbridge-Munsee Tribal Court at a later date; commonly known as a citation or notice of infraction.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.5</annotation>
+    </section>
+    <section>
+      <num>TCT.01.06</num>
+      <heading>The Trial Court</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Establishment of the Trial Court.</heading>
+        <text>The Tribal Council does hereby establish for the Stockbridge-Munsee Community a court to be known as the Trial Court.  The Trial Court shall consist of at least one Chief Judge and one or more Judge(s).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Jurisdiction.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Subject Matter Jurisdiction.</heading>
+          <text>The Trial Court shall be a court of general jurisdiction with the power to hear cases pursuant to the laws of the Stockbridge-Munsee Community.  The Trial Court shall have the power to decide issues of both fact and law.  The Trial Court shall act as an appellate review body for decisions made by Tribal administrative boards and shall hear appeals from such administrative bodies in accordance with Tribal laws.  The Trial Court shall be the final arbiter of any appeal of an administrative body decision.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Territorial Jurisdiction.</heading>
+          <text>The territorial jurisdiction of the Tribal Court System shall extend to all territory described as Indian Country within the meaning of Section 1151 of Title 18 of the United States Code over which the Stockbridge-Munsee Community has authority, including tribal or individual, trust, non-trust and restricted land, and including all land owned by tribal agencies in their own name,  and any other such land, or interest in land, which may be subsequently acquired by virtue of Executive Order, a declaration or regulation of the United States Department of Interior, a declaration or order of any Court of competent jurisdiction, by purchase, gift, relinquishment, or by any other lawful means.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Personal Jurisdiction.</heading>
+          <text>Personal jurisdiction shall exist over all defendants served within the territorial jurisdiction of the Tribal Court System, or served anywhere in cases arising within the territorial jurisdiction of the Stockbridge-Munsee Community, and over all persons consenting to such jurisdiction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Qualifications of Judges.</heading>
+        <text>The Chief Judge and all other Judges must be qualified to either be duly-elected or to be hired by the Judiciary Commission.</text>
+        <para>
+          <num>(1)</num>
+          <text>A Chief Judge and Judge shall meet the following qualifications:</text>
+          <para>
+            <num>(A)</num>
+            <text>be at least thirty-five (35) years of age.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>complete an examination approved by the Tribal Council with at least 75% proficiency.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>have demonstrated knowledge of Federal Indian Law.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>successfully obtain an Elder-Youth License pursuant to <cite path="YAE|YAE.10">Chapter YAE.10</cite>.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>be mentally competent.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>have demonstrated experience with the law and dispute resolution.</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>shall not have been convicted of, or entered a plea of no contest to, any felony.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Judiciary Commission may consider the following skills as preferential when hiring a Judge:</text>
+          <para>
+            <num>(A)</num>
+            <text>Knowledge of Stockbridge-Munsee Tribal customs.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A bachelor's degree or a master's or other advanced degree.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Previous experience as a judge in a court of general jurisdiction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Employee Preference Policy Ordinance (<cite path="EMP|EMP.02">Chapter EMP.02</cite>) shall apply to the hiring of any Judge.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>No person shall serve as Chief Judge or Judge while serving as a member of the Tribal Council or while employed by the Stockbridge-Munsee Community or its enterprises in another capacity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Substitute Judges.</heading>
+        <text>In any case where the Chief Judge and all Judges are prevented from presiding by virtue of disqualification, illness, or absence, the Clerk of Court shall contact the Wisconsin Tribal Judges Association (WTJA) to request that the WTJA provide a Substitute Judge who shall be selected in accordance with WTJA policies and procedures from the WTJA judges available to serve as a Substitute Judge for the Trial Court.  After the Substitute Judge is selected by WTJA, the Substitute Judge must then be approved and appointed to the case by the Chief Judge in a timely fashion.  Approval of Substitute Judge by the Chief Judge is a ministerial act.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.6</annotation>
+    </section>
+    <section>
+      <num>TCT.01.07</num>
+      <heading>Judiciary Commission</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Establishment.</heading>
+        <text>As authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV|3">Article IV, Section 3 of the Stockbridge-Munsee Constitution</cite>, the Tribal Council establishes a Judiciary Commission.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Delegation of Authority.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Selection of Judges.</heading>
+          <text>The Tribal Council delegates the authority to select qualified individual(s) to serve as Judge to the Judiciary Commission.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Assessment of Qualifications.</heading>
+          <text>The Tribal Council delegates the authority to assess the qualifications of persons who wish to be elected as Chief Judge to the Judiciary Commission.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Regulation of Judicial Misconduct.</heading>
+          <text>The Tribal Council delegates the authority to regulate judicial misconduct by the Chief Judge or Judge(s), including disciplinary measures up to and including the removal from office, to the Judiciary Commission.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Scope of Authority.</heading>
+          <text>The scope of this delegation of authority is limited to the purpose of fulfilling the role identified for the Judiciary Commission and to actions that are undertaken in compliance with all applicable laws.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Membership.</heading>
+        <text>The Judiciary Commission shall consist of five (5) members.</text>
+        <para>
+          <num>(1)</num>
+          <heading>Qualifications.</heading>
+          <text>All members of the Judiciary Commission shall meet the following qualifications:</text>
+          <para>
+            <num>(A)</num>
+            <text>Be an enrolled member of the Tribe;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Be at least 25 years of age;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Not be a current member of the Tribal Council, a Tribal Judge or a Tribal Court clerk or employed by the Tribe in the Legal Department or as a tribal law enforcement officer;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Be familiar with the judicial process; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Not have been convicted of, or entered a plea of no contest to, any felony.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Term.</heading>
+          <text>Members of the Judiciary Commission shall serve staggered, five (5) year terms.  In order to establish staggered terms, if more than three (3) individuals are elected to serve on the Judiciary Commission in a single year, then two (2) of the newly elected members shall instead serve a three (3) year term with those members being selected by lot.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Election.</heading>
+          <text>Individuals shall be elected to serve as a member of the Judiciary Commission by majority vote of tribal members eligible to vote.</text>
+          <para>
+            <num>(A)</num>
+            <text>Elections shall be held as part of the regularly scheduled tribal elections with the individuals who get the most votes filling vacant seats.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Individuals interested in running to be a member of the Judiciary Commission shall submit a sworn and signed affidavit to the Tribal Secretary at least one (1) month prior to the election verifying that they meet the qualifications to serve on the Judiciary Commission and therefore are eligible to have their name on the ballot.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The verification of eligibility is subject to confirmation by the Tribal Council or its designee.  If the verification of eligibility cannot be confirmed, then the name of that individual shall not be on the ballot.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Removal.</heading>
+          <text>The Tribal Council retains the authority to remove members of the Judiciary Commission for neglect of duty, gross misconduct or the failure to retain eligibility to serve on the Judiciary Commission.</text>
+          <para>
+            <num>(A)</num>
+            <text>An individual may only be removed from the Judiciary Commission by an affirmative vote of five (5) members of the Tribal Council in support of removal at a Tribal Council meeting.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The individual must be given a full and fair opportunity to reply to any and all charges at a designated Tribal Council meeting prior to the Tribal Council's vote on removal.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The individual must have at least ten (10) days prior notice of the charges and the date when the Tribal Council will be meeting to discuss the charges and vote on removal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>Vacancy.</heading>
+          <text>In the event that a member of the Judiciary Commission should die, resign or be removed from office, the Tribal Council shall declare the seat vacant.  The Tribal Council retains the authority to appoint another eligible tribal member to fill the vacant seat until the next regularly-scheduled tribal election.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>Practice before the Court.</heading>
+          <text>Members of the Judiciary Commission are prohibited from practicing before the Tribal Court for the duration of their membership on the Judiciary Commission.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <heading>Conflict of Interest.</heading>
+          <text>Members of the Judiciary Commission shall recuse themselves from all matters where they have or could be perceived to have a conflict of interest.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Powers and Responsibilities.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Selection of Judges.</heading>
+          <text>The Judiciary Commission shall select qualified individuals to be hired as Tribal Judges.</text>
+          <para>
+            <num>(A)</num>
+            <text>When there is an opening for a Judge, the Judiciary Commission shall work with the Tribe's Human Resources Department to post for applications for the position of Judge in the Trial Court.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Judiciary Commission shall review all applications to assess whether applicants should be granted an interview.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Judiciary Commission shall conduct interviews to assess qualifications and select a qualified individual, as well as alternates if appropriate, who shall be offered the position of Judge.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The Tribe's Human Resources Department shall work with the Judiciary Commission throughout the hiring process and provide administrative support to implement the hiring process in accordance with tribal law and policies.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Although the Tribe employs Judges, it does so as a ministerial act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Verification of Eligibility for Election as Chief Judge.</heading>
+          <text>The Judiciary Commission shall have the final authority to assess and verify whether a Stockbridge-Munsee tribal member is qualified to stand for election as Chief Judge consistent with <cite path="§TCT.01.08">Section TCT.01.08</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Administer Judicial Qualification Exam.</heading>
+          <text>The Judiciary Commission shall offer the judicial qualification exam provided for under <cite path="§TCT.01.06|(C)|(1)|(B)">Section TCT.01.06(C)(1)(B)</cite> at least annually.  The Judiciary Commission shall be responsible to ensure that the examination is proctored appropriately and is graded by someone who is competent to do so.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Meet with the Court.</heading>
+          <text>The Judiciary Commission shall periodically meet with the Chief Judge and Judges for general discussions about judicial conduct, the role of the Tribal Court System and court operations.  Discussion of specific cases currently active before the Tribal Court System is prohibited.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>Administer Complaints.</heading>
+          <text>The Judiciary Commission shall accept complaints about judicial misconduct and, when appropriate, investigate such complaints.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Judiciary Commission has the authority to conduct investigatory hearings and subpoena witnesses as part of such investigations.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Judiciary Commission shall conduct investigations in a confidential manner.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Judiciary Commission shall provide the judge accused of judicial misconduct with a full and fair opportunity to provide a defense as part of any investigatory process.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>At the conclusion of any investigation, the Judiciary Commission shall issue a written report documenting its investigation and determination, including any judicial disciplinary measures, to the judge accused of misconduct.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The Judiciary Commission shall maintain a record of its investigations and any disciplinary actions issued. Once the investigation is complete, the record shall be turned over to the Tribal Council to be maintained in a secure fashion. The Judiciary Commission may seal an investigatory record when it determines it is appropriate.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>Discipline Judges.</heading>
+          <text>The Judiciary Commission shall discipline a judge when it determines judicial discipline is warranted by vote of at least three (3) members.</text>
+          <para>
+            <num>(A)</num>
+            <text>Judicial discipline is warranted when the Judiciary Commission has found, after a hearing on the matter in which the Chief Judge or Judge has received notice and an opportunity to be heard, that the Chief Judge or a Judge has failed to perform any of the duties and responsibilities provided for in <cite path="§TCT.01.10">Section TCT.01.10</cite> of these rules or has violated any provision of the Ethical Code for Judges.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Potential disciplinary actions may include the issuance of a confidential caution letter, admonishing a judge publicly, censuring a judge publicly, removal from a case, suspension from the bench or removal from the bench.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Judiciary Commission shall take such actions as are necessary to implement judicial disciplinary measures.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The Tribe shall, as a ministerial act, take such actions as necessary to implement the judicial disciplinary measures.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <heading>Recommendations to the Tribal Council.</heading>
+          <text>The Judiciary Commission shall provide recommendations and advice to the Tribal Council about matters relating to the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The Judiciary Commission shall approve the content of all continuing education courses required for Chief Judges and Judges, Guardians ad Litem and Lay Advocates.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The Judiciary Commission shall act in accordance with the general responsibilities of all Stockbridge-Munsee tribal committees and any properly adopted Judiciary Commission By-laws.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.7</annotation>
+    </section>
+    <section>
+      <num>TCT.01.08</num>
+      <heading>Election Of Chief Judge</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Verification of Eligibility.</heading>
+        <para>
+          <num>(1)</num>
+          <text>At least three (3) months prior to an election, any qualified Stockbridge-Munsee tribal member who wishes to appear on the ballot as a candidate for Chief Judge must submit a written request, with all necessary support, to the Judiciary Commission to verify that the candidate satisfies the judicial qualifications outlined in <cite path="§TCT.01.06|(c)">Section TCT.01.06(c)</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Judiciary Commission shall review and investigate the request as necessary to verify the candidate's qualifications.  The Judiciary Commission may request additional information from the candidate as appropriate to complete the verification and the candidate must comply with such requests.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Judiciary Commission shall provide a written response to the candidate on whether or not the candidate meets the judicial qualifications.</text>
+          <para>
+            <num>(A)</num>
+            <text>If the candidate is determined to not be qualified, then the written response shall specifically identify the qualification that the candidate does not meet.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A copy of this written response will also be provided to the Tribal Secretary, on behalf of the Election Board.  The Tribal Secretary shall cause the written response to be provided to the Election Board.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The candidate shall be provided an opportunity for an in-person meeting with the Judiciary Commission to contest any finding that he/she does not meet the qualifications, but the Judiciary Commission's assessment shall be final.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Request to have Name Placed on Ballot.</heading>
+        <text>If the Judiciary Commission verifies that a Stockbridge-Munsee tribal member is a qualified to be a candidate for Chief Judge, then that person may submit a written request, along with the verification of qualifications from the Judiciary Commission, to the Tribal Secretary, on behalf of the Election Board, that the person's name be placed on the ballot as a candidate for Chief Judge.  The Tribal Secretary shall cause these materials to be provided to the Election Board.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Election.</heading>
+        <text>The election of the Chief Judge will be conducted consistent with tribal election laws, policies and procedures, except that candidates for Chief Judge are not nominated at a tribal caucus.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Term.</heading>
+        <text>The qualified candidate who receives the most votes in the election will be sworn into office as Chief Judge by the Tribal President for a term of seven (7) years.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.8</annotation>
+    </section>
+    <section>
+      <num>TCT.01.09</num>
+      <heading>The Court Of Appeals</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Jurisdiction.</heading>
+        <text>The Court of Appeals shall have jurisdiction to hear appeals from the Stockbridge-Munsee Community Tribal Court Division, unless otherwise restricted by Stockbridge-Munsee Community Tribal Code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Composition.</heading>
+        <text>The Stockbridge-Munsee Court of Appeals is the appellate body for the Stockbridge-Munsee Community. Panels shall be composed of three appellate justices appointed by the Stockbridge-Munsee Tribal Council, with one serving as the Chief Justice of the Court of Appeals. The Court of Appeals shall not include any judge of the Stockbridge-Munsee Trial Court Division.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Selection of Justices. Appellate Panel shall be selected by the Stockbridge-Munsee Tribal Council. The Stockbridge-Munsee Tribal Council shall contract with the Appellate Justices.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Length of Appointment. Appellate justices shall be appointed by the Stockbridge-Munsee Tribal Council for a three-year term. During that three-year term, the position of Chief Justice of the Appellate Court will rotate and each appellate justice will serve one year as the Chief Justice of the Appellate Court. The Appellate Panel will determine who serves as Chief Justice.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Qualifications of Appointees:</heading>
+        <para>
+          <num>(1)</num>
+          <text>An attorney in good standing and licensed to practice law in a court of last resort of a state and whose experience demonstrates extensive knowledge of Indian law.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Must demonstrate a working knowledge of the laws and ordinances of the Stockbridge-Munsee Community and knowledge of the Stockbridge-Munsee Community Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Compensation.</heading>
+        <text>Appellate Justices shall be compensated at a rate as determined by the Stockbridge-Munsee Tribal Council.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Appeal Types.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Presiding Appellate Judge. When an appeal is submitted pursuant to <cite path="§TCT.02.22">Section TCT.02.22</cite>, the Chief Justice of the Appellate Panel shall solely preside over that appeal, unless there is a conflict in which case the Chief Justice shall be responsible for assigning the appeal to another member of the Appellate Panel.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>En Banc Panel. An en banc panel shall be composed of all three Appellate Justices of the Stockbridge-Munsee Court of Appeals.</text>
+          <para>
+            <num>(A)</num>
+            <text>A party to an appeal and/or the Chief Justice may request an en banc panel be empaneled to preside over an appeal in lieu of the Chief Justice solely presiding.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Once an appeal is decided by the presiding Appellate Judge, a party to an appeal has the right to request a final appeal be heard by an en banc panel of the three Appellate Justices pursuant to <cite path="§TCT.02.22">Section TCT.02.22(a)</cite>. The Court has discretion as to whether to grant the request.  The Court's determination is final.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Court of Appeals has discretion to hear or dismiss appeals that come before it in accordance with tribal law.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Errors of law will be reviewed de novo with no deference to the Trial Court's holding.  Errors of fact will be reviewed based on whether there is substantial evidence to support the finding.  Judicial rulings in discretionary matters are reviewed based on whether there was an abuse of discretion. Errors that are not likely to have had a substantial impact on the decision or on substantial rights are considered "harmless errors" and are not a basis for reversal.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Decisions of the Court of Appeals shall be entered with the Clerk of Court and are final.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.9</annotation>
+    </section>
+    <section>
+      <num>TCT.01.10</num>
+      <heading>Judicial Duties And Responsibilities</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chief Judge and all Judges shall perform the following duties:</text>
+        <para>
+          <num>(1)</num>
+          <text>Hear and decide all matters fairly and promptly.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Be faithful and maintain competence in the law.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Avoid all ex parte communications which deal with any substantive matter before the Tribal Court System.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Issue written decisions and/or orders within forty-five (45) days of a hearing or trial requiring a decision or order.  The Chief Judge or Judge may delegate the task of preparing an order to a plaintiff or defendant, but a Chief Judge or Judge may not delegate the task of writing a decision to a plaintiff or defendant.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Manage cases.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to the duties described in <cite path="§TCT.01.10|(a)">Subsection (a)</cite> above, a Chief Judge shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Manage the Tribal Court System budget.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Manage the operation of the Tribal Court System.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Manage and supervise the staff of the Tribal Court System.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Implement and manage a system of licensing attorneys, guardians ad litem and lay advocates for practice before the Tribal Court System.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each year, every Chief Judge and Judge shall attend at least fifteen (15) hours of continuing education.  The Chief Judge or Judge shall provide proof of attendance to the Clerk of Court by December 31<sup>st</sup>.  The Clerk of Court shall maintain such proof in a file at the Tribal Court System.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.10</annotation>
+    </section>
+    <section>
+      <num>TCT.01.11</num>
+      <heading>Tribal Court System Personnel And Practice Before The Tribal Court System</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Tribal Prosecutor.</heading>
+        <text>The Tribal Council shall appoint a person or persons to represent the Stockbridge-Munsee Community in prosecuting cases before the Tribal Court System.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Prosecutor shall be appointed by the Tribal Council pursuant to tribal personnel policy.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Prosecutor may be removed for cause by the Tribal Council upon 5/7 vote of the Council.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Prosecutor shall have the power to issue complaints on the basis of his/her own investigation or on the basis of information furnished by enforcement officers or others.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Prosecutor shall have discretion to decline to prosecute an action where he/she shall find that there is not sufficient justification for the complaint.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Prosecutor shall represent the people of the Stockbridge-Munsee Community in all proceedings in the Tribal Court System in which the Tribe is a party, acting on their behalf and in their best interests.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Prosecutor shall be empowered to establish policies and procedures not inconsistent with tribal law necessary to carry out the duties of office.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The Prosecutor shall receive such compensation as shall be set by the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>An attorney from the Stockbridge-Munsee Legal Department may serve as Prosecutor and his or her regular salary shall constitute compensation by the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>A special prosecutor may be retained by the Tribal Counsel to prosecute cases involving a member of the Tribal Council or if the Prosecutor and all in-house attorneys are unable to represent the Tribe in a case.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Clerk of Court.</heading>
+        <text>The Chief Judge shall hire one individual to serve as Clerk of Court and may hire additional Deputy Clerks of Court as necessary.  The job description for the Clerk of Court and Deputy Clerk shall be approved by the Tribal Council and shall not be subject to change by the Chief Judge.  The Chief Judge shall consult with the Tribe's Human Resources Department when hiring a Clerk of Court or Deputy Clerk.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Clerk of Court or any Deputy Clerk of Court shall not have been convicted of, or entered a plea of no contest to, any felony and shall obtain an Elder Youth License from the Tribe prior to the start of employment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In addition to the duties the Clerk of Court shall comply with in the job description for the position, the Clerk of Court shall have a statutory duty to perform the following tasks:</text>
+          <para>
+            <num>(A)</num>
+            <text>Schedule and prepare the courtroom for every proceeding and maintain and enforce courtroom protocols.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Develop and maintain and up-to-date list of all lay advocates, attorneys, peacemakers, and guardians ad litem.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Accept pleadings on behalf of the Tribal Court System and ensure pleadings are properly logged in case files.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Ensure timely delivery of all orders and judgments of the Tribal Court System to appropriate parties and entities.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Clerk of Court or any Deputy Clerk of Court shall not practice law as a lawyer or an advocate before the Tribal Court System, shall not act as a peacemaker under the Peacemaker Ordinance, and shall not serve on the Tribal Council while Clerk of Court or Deputy Clerk of Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Guardians ad Litem and Lay Advocates.</heading>
+        <text>The Clerk of Court shall maintain a list of all individuals approved by the Tribal Court System to act as guardian ad litem and lay advocate.  In order to serve as guardian ad litem or lay advocate, an individual must be approved by the Chief Judge and must meet the following qualifications:</text>
+        <para>
+          <num>(1)</num>
+          <text>A Guardian ad Litem must hold an elder youth license pursuant to tribal law, and a lay advocate must hold an elder-youth license prior to representing any client in a case involving <cite path="YAE|YAE.01">Chapter YAE.01</cite>, <cite path="YAE|YAE.02">Chapter YAE.02</cite>, <cite path="YAE|YAE.04">Chapter YAE.04</cite>, <cite path="YAE|YAE.06">Chapter YAE.06</cite>, <cite path="EDU|EDU.02">Chapter EDU.02</cite>, <cite path="YAE|YAE.07">Chapter YAE.07</cite>, <cite path="YAE|YAE.08">Chapter YAE.08</cite>, or <cite path="YAE|YAE.11">Chapter YAE.11</cite> of Stockbridge-Munsee tribal law;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Demonstrate successful completion of a Guardian ad Litem or Lay Advocate training course within the prior year from a training program approved by the Judiciary Commission;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Be licensed to practice before the Tribal Court System.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.11</annotation>
+    </section>
+    <section>
+      <num>TCT.01.12</num>
+      <heading>Rule-Making Power</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Court System may from time to time prescribe Rules of Procedure for the conduct of Tribal Court System business.  Such rules shall be consistent with tribal law.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.12</annotation>
+    </section>
+    <section>
+      <num>TCT.01.13</num>
+      <heading>Contempt Of Court</heading>
+      <para>
+        <num>(a)</num>
+        <text>A Judge may find an individual in contempt of court if the individual willfully obstructs judicial proceedings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Prior to imposing any punishment for contempt of court, the Judge shall provide the individual notice of the charges and an opportunity to be heard on the record.  Said notice and opportunity to be heard may occur in the same court proceeding or may be scheduled to be heard at a subsequent proceeding.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.13</annotation>
+    </section>
+    <section>
+      <num>TCT.01.14</num>
+      <heading>Ethical Rules For Tribal Court System Judges</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Preface to Ethics Code.</heading>
+        <text>These rules set standards of judicial conduct for Chief Judges and Judges. The purpose of these rules is to encourage a spirit of impartiality toward individuals involved in proceedings before the Tribal Court System and to ensure fundamental fairness and due process in all Tribal Court System proceedings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Who is Bound by These Rules.</heading>
+        <text>These rules apply to any Chief Judge, Judge, Substitute Judge or judge serving on the Court of Appeals.  Any judge serving in the Tribal Court System:</text>
+        <para>
+          <num>(1)</num>
+          <text>is required to comply with these rules;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall not practice law either as a lawyer or an advocate:</text>
+          <para>
+            <num>(A)</num>
+            <text>in the Tribal Court System, or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>in any court or as part of any administrative hearing process subject to the appellate jurisdiction of the Tribal Court System;</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>shall not act as a lawyer or advocate in a proceeding in which he or she has served or in any related proceeding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Honesty and Independence of the Stockbridge-Munsee Judiciary.</heading>
+        <text>Judges in the Tribal Court System shall uphold the integrity and independence of the Tribal Court System. An independent and honorable Tribal Court System is essential to justice in the tribal community. All judges shall help create and maintain such a Tribal Court System, and shall observe high standards of conduct toward achieving this goal.</text>
+        <para>
+          <num>(1)</num>
+          <text>A Chief Judge, Judge or Substitute Judge shall encourage a separation between the judicial branch and other branches of tribal government, and shall avoid any contact or duty that violates such a separation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Chief Judge, Judge or Substitute Judge shall not participate in legislative or executive decision making except where such participation is in accordance with the tradition of the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Impropriety and the Appearance of Impropriety.</heading>
+        <text>All judges in the Tribal Court System shall avoid impropriety and the appearance of impropriety in all his/her activities.</text>
+        <para>
+          <num>(1)</num>
+          <text>All judges shall respect and comply with the laws and traditions of the Tribe and shall at all times act in a manner that promotes public confidence in the honesty and impartiality of the Stockbridge-Munsee judiciary.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All judges shall not allow family social or other personal relationships to influence his/her judicial conduct.  He/she shall not attempt to use the prestige of his/her office to advance the private interests of others; nor shall he/she convey the impression that anyone has special influence on the Judge.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Diligence and Impartiality.</heading>
+        <text>All Judges in the Tribal Court System shall perform the duties of the office impartially and diligently.</text>
+        <para>
+          <num>(1)</num>
+          <text>All judges in the Tribal Court System shall adhere to the laws of the Tribe. Decisions shall not be influenced by partisan interests, public clamor, political pressure, or fear of criticism. All judges in the Tribal Court System shall resist influences on the Tribal Court System by other tribal officials, governmental officials or any others attempting to improperly influence the Tribal Court System.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All judges shall be patient, dignified and courteous to litigants, witnesses, lawyers, advocates and others with whom he/she deals in his/her official capacity and shall require similar conduct of other persons in Tribal Court System proceedings including the conduct of Tribal Court System personnel who are subject to the direction and control of the judges.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All judges shall give to every person who is a legally interested party in a proceeding or his/her representative, the right to be heard according to tribal law and tradition. All judges shall avoid out-of-court or other communications with tribal officials, agents, or others concerning a pending proceeding unless all parties to the proceeding are present or represented, except for scheduling or other administrative matters.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All judges in the Tribal Court System shall maintain order as part of proceedings before the court. Judges shall not interfere in proceedings except where necessary to protect the rights of the parties. Judges shall not assume an advocate's role and shall rely on only those procedures prescribed by the laws of the Tribe.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>All judges shall dispose promptly of the business of the court.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>All judges in the Tribal Court System shall not comment publicly on any proceeding pending in the Tribal Court System and shall also prohibit other Tribal Court personnel from such public comment.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>All judges in the Tribal Court System shall diligently perform his/her administrative responsibilities.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A Chief Judge shall require his/her staff and Tribal Court System officials to observe high standards of honesty and diligence.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any judge in the Tribal Court System shall recuse himself/herself in a proceeding in which his/her impartiality might reasonably be questioned, including instances where:</text>
+          <para>
+            <num>(A)</num>
+            <text>the judge has a personal bias or prejudice concerning a party or personal knowledge of disputed evidentiary facts;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the judge served as lawyer, advocate, or personal representative in the matter before the Tribal Court System, or a person with whom the judge has been directly associated in a professional capacity served as a lawyer, advocate or personal representative concerning the matter;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>the judge knows that he/she individually (or any member of the family of the judge), residing in his/her household has a financial interest in the subject matter in controversy or is a party to the proceeding, or has any other interest that could be substantially affected by the proceedings;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>the judge or the spouse, partner or a person in a reasonably close family relationship to the judge:</text>
+            <para>
+              <num>(i)</num>
+              <text>is a party to the proceeding, or an officer, director, or trustee of a party;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is acting as a lawyer or advocate in the proceeding;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>is known by the judge to have an interest that could be substantially affected by the outcome of the proceeding; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>is likely to be a material witness in the proceeding.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any judge in the Tribal Court System disqualified by the terms of <cite path="§TCT.01.14|(e)|(9)|(C)">Section TCT.01.14(e)(9)(C)</cite> or <cite path="§TCT.01.14|(e)|(9)|(D)">(D)</cite> above may, instead of withdrawing from the proceeding, disclose on the record the basis of his or her disqualification. If, based on such disclosure, the parties and lawyers all agree on the record and in writing that participation by the judge is not prejudicial or that the judge is no longer disqualified and may participate in the proceeding. The agreement, signed by all parties and lawyers, shall be incorporated in the record of the proceeding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Improvement of the Legal System.</heading>
+        <text>All judges in the Tribal Court System may engage in activities to improve the law, the legal system and the administration of justice. A judge may engage in the following activities, if in doing so, he/she does not cast doubt on his/her capacity to decide impartially any issue that may come before the Tribal Court System:</text>
+        <para>
+          <num>(1)</num>
+          <text>The judge may speak, write, lecture, teach and participate in other activities concerning tribal law and custom, the legal system of the Tribe and the administration of justice.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The judge may appear at a public hearing before a tribal executive or legislative body or official on matters concerning the Tribal Court System and the administration of justice, and he/she may otherwise consult with a tribal executive or legislative body or official but only on matters concerning the general administration of justice.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The judge may serve as a member, officer, or director of an organization devoted to the improvement of tribal law, its legal system or the administration of justice.  A judge may not serve as a member, officer or director of any other tribal governmental entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Extra-judicial Activities.</heading>
+        <text>A Chief Judge, Judge and Substitute Judge shall regulate his/her extrajudicial activities to minimize the risk of conflict with judicial duties.</text>
+        <para>
+          <num>(1)</num>
+          <text>A Chief Judge, Judge or Substitute Judge may write, lecture, teach and speak on non-legal subjects, and engage in the arts, sports, and other social and recreational activities of the Tribe, if these activities do not interfere with the performance of his/her duties.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Chief Judge, Judge or Substitute Judge may participate in civic, charitable, and other tribal activities that do not reflect upon his/her impartiality or interfere with the performance of his/her judicial duties. However, such participation shall not occur with respect to an organization which will likely be involved in proceedings in the Tribal Court System.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A Chief Judge, Judge or Substitute Judge shall avoid financial and business dealings that tend to reflect adversely on his/her impartiality, interfere with the performance of his/her judicial duties, exploit his/her judicial position, or involve him/her in frequent transactions with lawyers or others likely to come before the Tribal Court System.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Except as allowed by the laws and traditions of the Tribe, neither a Chief Judge, Judge or Substitute Judge nor a member of his/her immediate family residing in the household shall accept a gift, bequest, favor, or loan from anyone which would affect or appear to affect his/her impartiality in judicial proceedings, or on the appearance of fairness of the Chief Judge, Judge or Substitute Judge.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A Chief Judge or Judge may represent the Tribe on ceremonial occasions or in connection with historical, educational, and cultural activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Political Activities of Chief Judges and Judges.</heading>
+        <text>A Chief Judge and Judge shall refrain from political activity inappropriate to his/her judicial office.</text>
+        <para>
+          <num>(1)</num>
+          <text>Political conduct in general. A Chief Judge or Judge shall not engage in any tribal political activity except on behalf of measures to improve the law, the tribal legal system, or the administration of justice.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Campaign Conduct.  Candidates for election as Chief Judge may campaign for office, but shall comply with the following standards:</text>
+          <para>
+            <num>(A)</num>
+            <text>Maintain the dignity appropriate to judicial office and shall refrain from any political activity that might interfere with the performance of his/her judicial duties.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Encourage members of his/her family to adhere to the same standards of political conduct that apply to him/her.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Not make pledges or promises of conduct in judicial office or than the faithful and impartial performance of the duties of office.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Not announce his/her views on disputed legal or political issues.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.14</annotation>
+    </section>
+    <section>
+      <num>TCT.01.15</num>
+      <heading>Court Costs And Fees</heading>
+      <para>
+        <num>(a)</num>
+        <text>The minimum filing fee to initiate a civil cause of action shall be thirty-five dollars ($<cite path="§35.00">35.00</cite>), however, the Chief Judge may set a higher filing fee.  Additionally, the Chief Judge shall set a schedule of other filing fees and costs for the administration of the Tribal Court System.  All sums collected by the Tribal Court System under this Section shall be deposited to the Tribe's general account.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to such other costs as may be assessed by the Tribal Court System, a defendant found liable in a forfeiture action shall pay costs in an amount set by the Trial Court, but not less than twenty dollars ($<cite path="§20.00">20.00</cite>).</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.15</annotation>
+    </section>
+    <section>
+      <num>TCT.01.16</num>
+      <heading>Amendments And Severability</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Amendments.</heading>
+        <text>Amendments to these rules will be effective upon enactment by the Stockbridge-Munsee Community Tribal Council without further review by the Secretary of the Interior.</text>
+        <para>
+          <num>(1)</num>
+          <text>All amendments to this ordinance shall have prospective effect.</text>
+          <para>
+            <num>(A)</num>
+            <text>When qualifications for judicial office or for court personnel are amended, persons filling the position(s) at the time the amendments are approved are allowed to complete their term of service under the qualifications in place at the time they began their term of service.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Guardians ad litem and lay advocates who cannot hold an elder-youth license, but who are actively engaged in a case or cases before the Tribal Court System at the time of the enactment of <cite path="§TCT.01.11|(c)|(1)">Section TCT.01.11(c)(1)</cite> requiring an elder-youth license may complete their representation or assignment in the given case or cases.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Severability.</heading>
+        <text>If any section, provision, or portion of these rules is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of these rules will not be affected thereby. The Tribe declares there is no liability on the part of the Tribe, its agencies, or employees for damages that may occur as a result of reliance upon or conformance with these rules.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 1, §1.16</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">11. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 027-18">Resolution No. 027-18</cite>, adopted March 6, 2018.</annotation>
+      <annotation type="Legislative History">10. On August 7, 2017, added Legislative Note correcting typo in <cite path="§TCT.01.11|(c)|(1)">Section TCT.01.11(c)(1)</cite>.</annotation>
+      <annotation type="Legislative History">9. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 037-16">Resolution No. 037-16</cite>, adopted March 15, 2016, approved by BIA August 3, 2017.</annotation>
+      <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 058-09">Resolution No. 058-09</cite>, adopted June 2, 2009, approved by BIA June 16, 2009.</annotation>
+      <annotation type="Legislative History">7. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 07-001">Resolution No. 07-001</cite>, adopted October 11, 2006, approved by BIA April 9, 2007.</annotation>
+      <annotation type="Legislative History">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 06-04">Resolution No. 06-04</cite>, adopted March 4, 2004, approved by BIA March 29, 2004.</annotation>
+      <annotation type="Legislative History">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 070-02">Resolution No. 070-02</cite>, adopted November 19, 2002, approved by BIA December 27, 2002.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0246-97">Resolution No. 0246-97</cite>, adopted September 2, 1997.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1551-95">Resolution No. 1551-95</cite>, adopted November 7, 1995, approved by BIA July 18, 1996.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1490-95">Resolution No. 1490-95</cite>, adopted April 25, 1995.</annotation>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1109">Resolution No. 1109</cite>, adopted October 4, 1988.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>TCT.02</num>
+    <heading>Civil Procedure Ordinance</heading>
+    <section>
+      <num>TCT.02.01</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>Recognizing that tribal self-sufficiency cannot be fully realized without first exerting control over such matters as may be vital to tribal interests, the Stockbridge-Munsee Tribal Council finds:</text>
+        <para>
+          <num>(1)</num>
+          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section 1 (f) of the Stockbridge-Munsee Community Constitution</cite> and By-Laws (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a system to govern civil procedure in the tribal court system; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That the Stockbridge-Munsee Community desires to deal fairly and equitably with all persons; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the Stockbridge-Munsee Community desires to administer, in a just and impartial fashion, all applicable laws, ordinances, regulations and policies; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>That the Stockbridge-Munsee Community desires to provide a comprehensive set of procedural rules to govern litigation in the Tribal Court System.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.1</annotation>
+    </section>
+    <section>
+      <num>TCT.02.02</num>
+      <heading>Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text>This ordinance shall be interpreted and understood to accomplish the following tribal objectives:</text>
+        <para>
+          <num>(1)</num>
+          <text>To exert jurisdiction over all matters essential to the Tribe's goal of self-determination and self-governance; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To provide orderly procedures for resolving conflicts that reflect tribal traditions as well as the prevailing community standards, and which afford all affected persons a fair, prompt and impartial hearing; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To ensure that all matters shall be conducted in a manner so as to afford all persons who appear before the Stockbridge-Munsee Tribal Court all rights guaranteed by the <cite path="GOV|GOV.01">Stockbridge-Munsee Bill of Rights</cite>; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>To ensure that the sovereignty of the Stockbridge-Munsee Community is recognized in all matters affecting the welfare of the Stockbridge-Munsee Community.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.2</annotation>
+    </section>
+    <section>
+      <num>TCT.02.03</num>
+      <heading>Scope Of Rules</heading>
+      <para>
+        <num>(a)</num>
+        <text>These rules shall govern the procedure in the Tribal Court System in all actions, suits and proceedings of a civil nature.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There shall be one form of action known as a "civil action".</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Reference herein to the Tribal Court System shall mean the system established by <cite path="TCT|TCT.01">Chapter TCT.01</cite>, the Stockbridge-Munsee Tribal Court Code, consisting of a Trial Court and Court of Appeals.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.3</annotation>
+    </section>
+    <section>
+      <num>TCT.02.04</num>
+      <heading>Commencement Of Action And Service Of Process</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Commencement of Action.</heading>
+        <text>A civil action is commenced by filing a Summons and Complaint and serving a copy of such on the defendant or defendants as provided herein.  The Tribe may commence an action to enforce a violation of tribal law by filing a Citation pursuant to <cite path="SAF|SAF.01">Chapter SAF.01</cite>.  The Trial Court may not require the Tribe to submit any document other than a Summons and Citation or Complaint to commence an action to enforce a tribal law.  The Trial Court shall have jurisdiction from such time as both the Summons and Complaint are filed and properly served upon the defendant.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Authentication of Summons and Complaint.</heading>
+        <text>Upon filing, the Clerk of Court shall authenticate copies of the Summons and Complaint by affixing them with the Tribal Court System stamp.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Service of Process.</heading>
+        <text>Service of process shall consist of delivering to the party served an authenticated copy of the Summons and Complaint.  The Summons shall advise the defendant that he or she is required to answer the complaint within twenty (20) days or a default judgment may be entered against him or her.</text>
+        <para>
+          <num>(1)</num>
+          <text>The return of service shall be endorsed with the name of the person serving and the date, time and place of service and shall be filed with the Clerk of Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Service may be made on a party by delivering the required papers to the party himself or herself or upon some person of suitable age and discretion over fourteen (14) years of age at the party's house or principle place of business, or on an officer, managing agent, or employee, or partner of a non-individual party.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Service may be made by any law enforcement officer or other person, not a party, eighteen (18) years of age or older.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Service upon a person subject to the jurisdiction of the Tribal Court System may be made anywhere in the United States.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If a person personally refuses to accept service, service shall be deemed performed, if the person is informed of the purpose of the service and offered copies of the papers served.  In this instance, the person serving the defendant(s) shall execute an affidavit indicating the defendant(s) refused service.  The Plaintiff may file the affidavit with the Clerk of Court and the Trial Court shall accept the affidavit as proof of service.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If, after three (3) attempts to serve the defendant on three (3) different days, a person is unable to serve the defendant with an authenticated copy of the Summons and Complaint, the Plaintiff may serve the defendant by publication.  Service by publication may be made by publishing the contents of the Summons in two (2) consecutive publications of the Mohican News and by leaving an extra authenticated copy of the Complaint with the Tribal Court System for the Defendant.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Service of pleadings, other than a Summons and Complaint, may be made by regular U.S. Mail.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.4</annotation>
+    </section>
+    <section>
+      <num>TCT.02.05</num>
+      <heading>Time</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Computation.</heading>
+        <text>In computing any period of time set forth herein, the day that the period is to commence from shall not be counted and the last day of the period shall be counted; provided however, that any time period under eleven (11) days will not include intermediate Saturdays, Sundays, or legal holidays in the period and any period which would otherwise end on a Saturday, Sunday, or legal holiday will be deemed to end on the next day which is not a Saturday, Sunday, or legal holiday.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Enlargement.</heading>
+        <text>The Trial Court, for good cause shown, may enlarge the prescribed period of time within which any required act may be done.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Service by Mail.</heading>
+        <text>When service is accomplished by mail, three (3) days shall be added to the prescribed period of time, but such addition shall not cause Saturdays, Sundays, or legal holidays to be counted in the time period if they would not otherwise have been counted.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.5</annotation>
+    </section>
+    <section>
+      <num>TCT.02.06</num>
+      <heading>Pleadings, Motions And Orders</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Pleadings.</heading>
+        <text>There shall be a complaint and answer; a reply to a counterclaim denominated as such; an answer to a cross claim, if the answer contains a cross claim; a third party complaint, if a person who was not an original party is summoned under <cite path="§TCT.02.04">Section TCT.02.04</cite> and a third party answer if a third party complaint is served.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Motions and Orders.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Motions.</heading>
+          <text>An application to the Tribal Court System for an order shall be by motion and shall be in writing, unless made orally during a hearing or trial, and shall set forth the relief or order sought and the grounds therefore stated with particularity.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Orders.</heading>
+          <text>An Order includes every direction of the Tribal Court System whether included in a judgment or not, and may be made with or without notice to adverse parties and may be vacated or modified with or without notice.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Hearings on Motions and Orders.</heading>
+          <text>A Judge or Chief Judge may schedule a  hearing to consider a motion.  If a hearing is held to consider a motion, the Judge or Chief Judge hearing the motion shall issue a written order within thirty (30) days of the hearing.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.6</annotation>
+    </section>
+    <section>
+      <num>TCT.02.07</num>
+      <heading>General Rules Of Pleading</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Claims for Relief.</heading>
+        <text>A pleading which sets forth a claim for affirmative relief shall contain:</text>
+        <para>
+          <num>(1)</num>
+          <text>A short, plain statement of the grounds upon which the Trial Court's jurisdiction depends, unless the Trial Court already has jurisdiction over the matter;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A short, plain statement of the claim showing that the pleader is entitled to relief; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A demand for judgment for the relief to which the pleader considers himself or herself entitled.  Such demand for judgment may be in the alternative or for several types of relief.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Defenses and Denials.</heading>
+        <text>A party shall state in plain, concise terms the grounds, upon which he or she bases his or her defense to claims pleaded against him or her, and shall deny or admit claims and statements upon which the adverse party relies.  If he or she is without information or knowledge regarding a statement or claim, he or she shall so state and such shall be deemed to be a denial.  A general denial shall not be made unless the party could in good faith deny each and every claim covered thereby.  A claim to which a responsive pleading is required, except for amount of damages, shall be deemed admitted unless denied; if no responsive pleading is allowed, the claims of the adverse party shall be deemed denied.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>General Content of Claims and Defenses.</heading>
+        <text>Claims and defenses shall be simple, concise and directly stated, but may be in alternative form, on one or several counts or defenses.  Claims and defenses may be based on legal or equitable grounds or both.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Affirmative Defenses.</heading>
+        <text>Matters constituting an affirmative defense shall be affirmatively set forth.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.7</annotation>
+    </section>
+    <section>
+      <num>TCT.02.08</num>
+      <heading>Defenses And Objections</heading>
+      <para>
+        <num>(a)</num>
+        <heading>When Presented.</heading>
+        <text>A defendant or other party against whom a claim has been made for affirmative relief shall have thirty (30) days from the date of service to answer the claim.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Motions.</heading>
+        <text>Motions to dismiss or motions for a more definite statement may be made prior to answering a claim and an answer to such claim shall not be due until ten (10) days after the disposition of the motion by the Trial Court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>How Presented.</heading>
+        <text>Every defense, in law and fact, to a claim for relief in any pleading shall be asserted in the answer thereto, except that the following defenses may be made by motion:</text>
+        <para>
+          <num>(1)</num>
+          <text>Lack of jurisdiction over the subject matter;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lack of jurisdiction over the person;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Improper venue;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Insufficiency of process;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Insufficiency of service of process;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Failure to state a claim upon which relief may be granted; or</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Failure to join an indispensable party pursuant to <cite path="§TCT.02.10|(c)">Section TCT.02.10(c)</cite>.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.8</annotation>
+    </section>
+    <section>
+      <num>TCT.02.09</num>
+      <heading>Amendment Of Pleadings</heading>
+      <para>
+        <num>(a)</num>
+        <text>A party may amend his or her pleadings once before the opposing party has answered.  Thereafter, a party may amend his or her pleadings only with leave of the Trial Court upon a showing of good cause.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.9</annotation>
+    </section>
+    <section>
+      <num>TCT.02.10</num>
+      <heading>Parties And Intervention</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Real Party in Interest.</heading>
+        <text>Every action shall be prosecuted in the name of the real party in interest, except a personal representative may sue in his or her own name without joining the party for whose benefit the action is maintained.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Guardian ad Litem.</heading>
+        <text>When a juvenile or incompetent person has not had a general guardian appointed as a party, the Trial Court shall appoint a guardian ad litem to represent such person in the suit or action.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Joinder of Parties.</heading>
+        <text>To the greatest extent possible, all persons or parties interested in a particular action may be joined in the action.  Failure to join a party that is indispensable to the action shall result in dismissal.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Intervention.</heading>
+        <text>A person may intervene and be treated in all respects as a party to an action in cases in which property he or she has an interest in may be affected or a question of law or fact common to a claim of his or hers may be litigated.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.10</annotation>
+    </section>
+    <section>
+      <num>TCT.02.11</num>
+      <heading>Discovery</heading>
+      <para>
+        <num>(a)</num>
+        <text>Parties may obtain discovery regarding any matters not privileged which are relevant to the pending action through the use of interrogatories, depositions, and/or requests for production, inspection or admission.  All responses to discovery shall be made within thirty (30) days of the date of service.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A party against whom discovery is sought may move the Trial Court for a protective order to prevent the disclosure of privileged or irrelevant information.  The Trial Court may order that discovery cease or proceed only upon certain specified conditions.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If a party fails to respond, produce, or appear for discovery as provided in this ordinance, the opposing party may move for an order to compel the defaulting party to perform, or in the case of a request for admissions for an order to have the requests deemed admitted, and the Trial Court may award costs to the non-defaulting party.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.11</annotation>
+    </section>
+    <section>
+      <num>TCT.02.12</num>
+      <heading>Scheduling</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Trial Court shall prepare a scheduling order in each civil cause of action.  The scheduling order shall contain the dates on which the civil cause of action will be tried, the date(s) on which discovery is due, the date(s) on which dispositive motions must be filed and the date(s) on which witness lists and evidentiary exhibits must be filed.  The Trial Court may include other procedural matters in a scheduling order, and may allow the parties to deviate from the scheduling order pursuant to a stipulation or for good cause shown.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.12</annotation>
+    </section>
+    <section>
+      <num>TCT.02.13</num>
+      <heading>Dismissal Of Actions</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Voluntary Dismissal.</heading>
+        <text>At any point in the proceeding, a party may dismiss his or her claim voluntarily.  The Trial Court may order a party moving to dismiss his or her own claim to pay the costs of the adverse party if the proceeding has progressed beyond the pleading stage, and may order the payment of costs when the Trial Court deems appropriate.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Involuntary Dismissal.</heading>
+        <text>A party against whom a claim has been made may move the Trial Court to dismiss the claim of an adverse party upon any of the following grounds:</text>
+        <para>
+          <num>(1)</num>
+          <text>Failure of the adverse party to pursue prosecution of his or her claim;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Failure of the adverse party to comply substantially with this ordinance;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Failure of the adverse party to comply with an order of the Trial Court;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Failure of the adverse party to appear at a properly scheduled hearing or trial following proper notice of the hearing or trial;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any of the grounds listed in <cite path="§TCT.02.08|(c)">Section TCT.02.08(c)</cite> of this ordinance;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>At the close of the presentation of the other party's evidence and without prejudicing his or her own right to present evidence, failure of the opposing party to establish a right to relief based on the facts and law presented.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.13</annotation>
+    </section>
+    <section>
+      <num>TCT.02.14</num>
+      <heading>Evidence</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Trial Court shall use the Federal Rules of Evidence as a guide in all proceedings, but need not strictly adhere to those rules if the interest of justice requires otherwise.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.14</annotation>
+    </section>
+    <section>
+      <num>TCT.02.15</num>
+      <heading>Subpoenas</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Issuance.</heading>
+        <text>Subpoenas for attendance of witnesses or production of documents or things shall be issued by the party requesting the attendance of the witness, production of documents or things and shall be served pursuant to <cite path="§TCT.02.04|(c)">Section TCT.02.04(c)</cite> of this ordinance.  Nothing in this ordinance shall be deemed to prohibit a witness from voluntarily attending a hearing or trial to give testimony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Failure to Appear.</heading>
+        <text>A person who has been properly served with a subpoena and fails to appear or produce may be deemed in contempt of court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Subpoena Unnecessary.</heading>
+        <text>A person present in the Trial Court may be required to testify in the same manner as if he or she were in attendance upon a subpoena.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.15</annotation>
+    </section>
+    <section>
+      <num>TCT.02.16</num>
+      <heading>Judgment</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Default Judgment.</heading>
+        <text>The Trial Court may grant default judgment on a claim when a party fails to answer a complaint or petition when due. The party moving for default judgment bears the burden of proof that the adverse party was properly served with the claim.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Judgment Costs.</heading>
+        <text>The Trial Court shall allow necessary costs and disbursements to the prevailing party or parties as a matter of course.  If the prevailing party in an action seeks the award of costs, the prevailing party shall serve a verified bill of costs and disbursements with the Court and serve a copy to the other party or parties within five (5) days of the entry of judgment by the Court.  If the bill of costs is not objected to within ten (10) days, the bill of costs shall be deemed to be a part of and included in the judgment rendered.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Entry of Judgment.</heading>
+        <text>All judgments shall be signed by the Chief Judge or Judge and shall be filed with the Clerk of Court.  A judgment is complete and shall be deemed entered when it is signed and filed with the Clerk of Court.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Summary Judgment.</heading>
+        <text>Any time twenty (20) days after commencement of an action, any party may move the Trial Court for summary judgment as to any or all of the issues presented in the case and such shall be granted by the Trial Court if it appears that there is no genuine issue of material fact and that the moving party is entitled to judgment as a matter of law.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Satisfaction of Judgment.</heading>
+        <text>The Chief Judge or a Judge may order the entry of satisfaction of judgment upon proof of payment by the judgment creditor.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Revocation.</heading>
+        <text>Where any violation involves the misuse of a license or permit issued pursuant to tribal law, the Court shall have power to order revocation or suspension of such license or permit. Where a license or permit issued pursuant to tribal law is revoked, the violator shall be barred from receiving any other license or permit under tribal law for at least one (1) year, except where Stockbridge Munsee Tribal Law shall provide otherwise.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Maximum Forfeitures.</heading>
+        <text>Where not otherwise provided, the maximum forfeiture for any violation of a tribal ordinance shall be one thousand dollars ($1,<cite path="§000.00">000.00</cite>).  All forfeitures collected pursuant to any Tribal law shall be deposited in the Tribe's general account.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Enforcement of Judgment.</heading>
+        <text>All civil remedies are available to enforce the judgment of the Court, including the power of civil contempt. A judgment shall be a lien upon any available property of the defendant which is located within the Stockbridge Munsee Reservation or within the jurisdiction of the Court.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Post Judgment Interest.</heading>
+        <text>If the Tribal Court System enters a judgment for money, the prevailing party shall be entitled to collect interest at the rate of (10%) per year on the amount that is due from the time of the entry of judgment until the judgment is paid in full.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.16</annotation>
+    </section>
+    <section>
+      <num>TCT.02.17</num>
+      <heading>Tribe As A Party</heading>
+      <para>
+        <num>(a)</num>
+        <text>In any case where the Tribe has a significant interest in being a party, the Tribe may petition to be joined as a party and shall join the case as a party.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe shall be deemed to have a significant interest in the following cases:</text>
+        <para>
+          <num>(1)</num>
+          <text>the prosecution of violations of tribal law;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>in the defense of tribal administrative decisions which are being appealed;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>where the constitutionality of a Tribal Council action or a tribal law is being challenged in Court;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>any case involving a Stockbridge-Munsee child who is under the age of 18, who is an enrolled member, who is eligible for enrollment as a member or who is considered a tribal member by the Community for the purposes of enforcing the Indian Child Welfare Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In all other situations other than those listed in <cite path="§TCT.02.17|(b)">(b)</cite>, when the Tribe petitions to be joined as a party, the Court shall decide whether the Tribe has a significant interest in the case.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In any case where the Tribe may have an interest, regardless if the Tribe or its employees, officers, agencies are named as a party, the Tribal Court shall provide written notice of the case to the Tribe's Legal Department and Tribal Council before the matter may be heard and before any action can be taken.</text>
+        <para>
+          <num>(1)</num>
+          <text>For the purposes of this section, interest means an issue or question involving Tribal sovereignty or jurisdiction, the validity of Tribal law, or other actions of the Tribe, its employees, officers and agencies.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.17</annotation>
+    </section>
+    <section>
+      <num>TCT.02.18</num>
+      <heading>Temporary Restraining Orders And Injunctions</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Temporary Restraining Orders.</heading>
+        <text>A written complaint must be filed with the Trial Court before a temporary restraining order may be issued. A temporary restraining order may be granted only where:</text>
+        <para>
+          <num>(1)</num>
+          <text>The applicant shows to the Trial Court clear and convincing evidence that immediate and irreparable injury, loss, or damage will result to the applicant if the temporary restraining order is not granted;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The adverse party has been given notice that the applicant has applied to the court for a temporary restraining order. The notice requirement contained in this section can only be waived where the applicant or his/her advocate certifies in writing to the Trial Court that his/her efforts, if any, to provide the notice and the reasons supporting the claim that notice should not be required; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The applicant provides to the court a bond or other such security as the Trial Court deems proper to protect the interests of the adverse party and for payment of such costs and damages as may be incurred by any party found to have been wrongfully enjoined or restrained. No such security shall be required of the Stockbridge-Munsee Community or of any officer of the Stockbridge-Munsee government acting in his or her official capacity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every injunction and/or temporary restraining order shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>set forth, in writing, the reasons for its issuance;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>be specific in its terms;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>describe with specificity the act or acts that are to be restrained;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>define the injury and state why it is irreparable;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>state the date and hour of its issuance;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>if granted without notice, state why it was granted without notice;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>expire at a definite time, not to exceed ten calendar days, unless extended for good cause shown, or by consent of the adverse party.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>On two days' notice to a party who obtained a temporary restraining order without notice, or on such shorter notice as the court may prescribe, the adverse party may appear and move that the order be dissolved or modified.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Injunctions.</heading>
+        <text>The Trial Court may issue permanent injunctions ordering the defendant to perform or restrain from certain acts only after a hearing with notice to all parties affected, and upon a written complaint, filed with the court at least five calendar days prior to the hearing that states with specificity the act or acts sought to be restrained and the reasons that support the relief sought. The Trial Court shall only grant an injunction after considering the following factors:</text>
+        <para>
+          <num>(1)</num>
+          <text>the significance of the threat of irreparable harm to plaintiff if the injunction is not granted;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the balance between this harm and the injury that granting the injunction would inflict on the defendant; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the public interest.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>In granting the injunction, the Trial Court shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>set forth, in writing, the reasons for its issuance,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>be specific in its terms;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>describe, with specificity, the act or acts that are to be restrained;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>define the injury and state why it is irreparable; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>state the date and hour of its issuance, and when it expires, if applicable.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Restraining orders and injunctions for domestic abuse cases shall be issued under the Family law section of the Stockbridge-Munsee Tribal Laws.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Trial Court may issue a temporary restraining order or injunction to prohibit harassment.</text>
+        <para>
+          <num>(1)</num>
+          <text>"Harassment" means any of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>Striking, shoving, kicking, or otherwise subjecting another person to physical contact or physical harm, or attempting to do the same.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Engaging in a course of conduct or repeatedly committing acts which harass or intimidate another person and which serve no legitimate purpose.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Engaging in a course of conduct that evidences a credible threat against another.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Relationship to Other Laws.</heading>
+        <text>Nothing in this section is intended to effect or replace the enforcement mechanisms that may be available under <cite path="SAF|SAF.02">Chapter SAF.02</cite>, Public Peace and Good Order Ordinance, or any other Tribal law.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.18</annotation>
+    </section>
+    <section>
+      <num>TCT.02.19</num>
+      <heading>Limitations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Civil Actions shall be commenced within three (3) years from the date on which the cause of action accrues, except as may be otherwise provided by tribal law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An action is commenced when the Summons and Complaint are filed with the Tribal Court System pursuant to <cite path="§TCT.02.04|(a)">Section TCT.02.04(a)</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.19</annotation>
+    </section>
+    <section>
+      <num>TCT.02.20</num>
+      <heading>Full Faith And Credit</heading>
+      <para>
+        <num>(a)</num>
+        <text>The judicial records, orders and judgments of outside courts shall have the same full faith and credit in the Tribal Court System as do the acts, records, orders and judgments of the Tribal Court System, if the Tribal Court System deems that the record, order or judgment is of sufficient reliability.</text>
+        <para>
+          <num>(1)</num>
+          <text>For purposes of this section, the term "outside court" means the tribal, state or federal court from which the act, record, order or judgment was issued.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In assessing whether the record, order or judgment is of sufficient reliability to receive full faith and credit in the Tribal Court System, the Trial Court or Court of Appeals may consider whether:</text>
+        <para>
+          <num>(1)</num>
+          <text>the court is a court of record.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the court judgment offered in evidence is a valid judgment.</text>
+          <para>
+            <num>(A)</num>
+            <text>In determining whether an outside court's judgment is a valid judgment, the Tribal Court System may consider whether:</text>
+            <para>
+              <num>(i)</num>
+              <text>The outside court had jurisdiction of the subject matter and over the person named in the judgment.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The judgment is final under the laws of the outside court.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>The judgment is on the merits.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>The judgment was procured without fraud, duress or coercion.</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>The judgment was procured in compliance with procedures required by the outside court.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the court certifies that it grants full faith and credit to the judicial records, orders and judgments of the Tribal Court System and to the acts of other governmental entities in this state.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To qualify for admission as evidence in the Tribal Court System, copies of records, orders and judgments of the outside court shall be authenticated by the attestation of the clerk of the court. The seal, if any, of the court shall be affixed to the attestation.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.20</annotation>
+    </section>
+    <section>
+      <num>TCT.02.21</num>
+      <heading>Registered Agent</heading>
+      <para>
+        <num>(a)</num>
+        <text>The registered agent for service of process for all cases in which the Stockbridge-Munsee Community is named as a defendant shall be the Stockbridge-Munsee Legal Department.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.21</annotation>
+    </section>
+    <section>
+      <num>TCT.02.22</num>
+      <heading>Appellate Procedure</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Commencement of Appeal.</heading>
+        <text>An appeal is commenced by filing a Notice of Appeal within 45 days of the entry of a judgment.  An appellant shall serve the Notice of Appeal on the Respondent pursuant to <cite path="§TCT.02.04|(c)|(7)">Section TCT.02.04(c)(7)</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Briefing.</heading>
+        <text>The Appellant shall file a written brief, not to exceed 20 pages in length, within 30 days of the commencement of an appeal. The Respondent shall file a written response brief, not to exceed 25 pages in length, within 30 days of receiving the Appellant's brief.  The Appellant may file a written reply brief, not to exceed 5 pages in length, within 15 days of receiving the Respondent's brief.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Oral Argument.</heading>
+        <text>If the Court of Appeals deems that oral argument is necessary, the Court of Appeals shall schedule such oral argument within 30 days of the filing of the last brief filed in an appeal.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Decision.</heading>
+        <text>The Court of Appeals shall issue a written decision either affirming, in whole or in part, or reversing, in whole or in part, the decision of the Trial Court. The Court of Appeals may also issue a written decision to remand the case to the Trial Court for further proceedings. The Court of Appeals shall issue all written decisions within 60 days after the conclusion of the oral argument, if any, or the expiration of time to file a response brief or reply brief, whichever is later.  The Clerk of Court shall enter and mail or deliver a copy of the entered decision to the parties within 3 days of entry.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Post Judgment Motions for Relief.</heading>
+        <text>A party shall file a motion for relief from a decision within 10 days of entry of the decision or the motion will be barred.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.22</annotation>
+    </section>
+    <section>
+      <num>TCT.02.23</num>
+      <heading>Administrative Appeals</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Trial Court shall have jurisdiction to hear appeals from tribal departments, panels, committees or agencies when such appeals are authorized by tribal law when a plaintiff has alleged a material error of law, a material error of fact, or an abuse of discretion by the tribal department, panel, committee or agency.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Trial Court shall apply the rules of civil procedure contained herein to any appeal filed under subdivision (A) above.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Trial Court shall give deference to the decision rendered by a tribal department, panel, committee or agency and shall not disturb the entity's action unless it finds, based on evidence in the record, a material error of law or fact or an abuse of the entity's discretion.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon the filing of a Complaint, filed under this subsection, the Clerk of Court shall contact the tribal department, panel, committee or agency named in the Complaint and request that the full record of the administrative proceeding by provided to the Tribal Court System within 30 days.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Trial Court shall conduct reviews under this subsection without a jury and shall be confined to the record, except that in cases where there is an allegation of the discovery of new evidence, testimony may be taken regarding the new evidence.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Unless the Trial Court finds a ground for setting aside, modifying, remanding or ordering the entity to take certain action or other relief as specified in this section, it shall affirm the administrative agency's action.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 5, §5.23</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 038-16">Resolution No. 038-16</cite>, adopted March 15, 2016, approved by BIA August 3, 2017.</annotation>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1560-95">Resolution No. 1560-95</cite>, adopted December 27, 1995.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>TCT.04</num>
+    <heading>Peacemaker Ordinance</heading>
+    <subheading>Part I — General Provisions</subheading>
+    <section>
+      <num>TCT.04.01</num>
+      <heading>Purpose &amp; Construction</heading>
+      <para>
+        <num>(a)</num>
+        <text>These rules are meant to provide formal support, structure and enforcement to traditional Mohican methods of resolving disputes through mediation and the use of traditional ways.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>These rules shall be interpreted liberally and informally with the goal of providing a fair, informal, inexpensive and traditional means of resolving disputes.  The rules shall be used and applied in as close an accordance with Mohican tradition and custom as possible.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The guiding principles for the Peacemaker System are as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>HARMONY PRINCIPLE</text>
+          <text>Positive relationships between parties are valuable and should be preserved.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>NON-COERCION PRINCIPLE</text>
+          <text>The most constructive way to preserve a positive relationship and settle a dispute is through the voluntary participation of the parties and not through the use of force from an outside source.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>COMMUNITY HEALTH PRINCIPLE</text>
+          <text>The health of the community at large depends on recognizing the connectedness of all things and the responsibility that we all have to each other.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>SACRED JUSTICE PRINCIPLE</text>
+          <text>Sacred justice is found when the importance of restoring understanding and balance to relationships has been acknowledged.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.10</annotation>
+    </section>
+    <section>
+      <num>TCT.04.02</num>
+      <heading>Establishment.</heading>
+      <text>The Peacemaker System of the Stockbridge-Munsee Community is hereby established as part of the Tribal Court System.  While a part of the Tribal Court System, the Peacemaker System will be independent from the Tribal Court judges.  The Peacemakers may use the Tribal Court as a resource and infrastructure for purposes of supporting and maintaining the Peacemaker System.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.11</annotation>
+    </section>
+    <section>
+      <num>TCT.04.03</num>
+      <heading>Subject Matter Jurisdiction; Personal Jurisdiction; Attorneys</heading>
+      <para>
+        <num>(a)</num>
+        <text>A judge of the Tribal Court may appoint a Peacemaker where the matter in dispute is within the jurisdiction of the Tribal Court according to its jurisdictional requirements.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Peacemaker System does not have the power to compel persons within the jurisdiction of the Stockbridge-Munsee Community to appear and participate in Peacemaker System proceedings nor to compel the attendance of parties.  Peacemakers shall not have authority to decide a disputed matter unless all parties to the dispute consent to such authority in writing.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Members of the Stockbridge-Munsee Community Bar and all attorneys are prohibited from participating in any proceedings of the Peacemaker System unless they have been called as witnesses or are parties and except to the extent they may assist persons with respect to protective orders, complaints, judgments or appeals as provided in Parts Four, Five and Six.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Nothing in this Ordinance shall prevent Peacemakers from mediating disputes or providing Peacemaking services to entities other than the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.12</annotation>
+    </section>
+    <subheading>Part II — Peacemakers</subheading>
+    <section>
+      <num>TCT.04.04</num>
+      <heading>Appointment And Qualifications</heading>
+      <para>
+        <num>(a)</num>
+        <text>General Qualifications - Any Stockbridge-Munsee tribal member who is over the age of 35 and who has the respect of the Stockbridge-Munsee Community, an ability to work with Reservation residents and Tribal members, a reputation for integrity, honesty, humanity and an ability to resolve local problems shall be eligible to be appointed as Peacemaker, except that no person while a member of the Tribal Council or while a Tribal Judge shall be eligible for appointment.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Appointment</text>
+        <para>
+          <num>(1)</num>
+          <text>The Stockbridge-Munsee Community Tribal Council may select and certify the names of individuals as proposed Peacemakers.  The individuals selected must agree in writing or by oath administered by a judge or the Clerk of Tribal Court to work in accordance with the Guiding Principles.  The Clerk of Court shall maintain a roll of Peacemakers. Peacemakers shall be appointed from that roll.  The Stockbridge-Munsee Tribal Council may add or delete names to or from the list from time to time.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Although a roll of Peacemakers shall be maintained in accordance with this section, this section shall not prevent individuals or parties from selecting another individual to conduct Peacemaking, as long as the selection is done in a manner consistent with this Ordinance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Peacemakers are encouraged, but not required, to participate in training programs for Peacemakers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Action where no appointment - If the Tribal Council fails to certify Peacemakers, the Court may appoint a Peacemaker from among persons known to it to be qualified.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Agreement as to Peacemaker - The parties to any dispute, whether in Tribal Court or not, may by mutual agreement have a specified individual serve as Peacemaker for the resolution of their dispute.  In such cases, the Peacemaker need not appear on the roll of Peacemakers kept by the Court and need not be a member of the Tribe.  However, the person agreed upon by the parties must be 35 years of age, and a resident of the Stockbridge-Munsee Reservation for at least 1 year.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.20</annotation>
+    </section>
+    <section>
+      <num>TCT.04.05</num>
+      <heading>Powers Of Peacemakers.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Peacemakers appearing on the tribally approved roll shall have the same immunities as Tribal Court judges.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Peacemakers shall have the power to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Mediate disputes among persons involved in the peacemaking process;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Use Tribal religious or other traditional ways of mediation and community problem-solving;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Instruct or counsel individuals on the traditional tribal teachings or values relevant to their problem or conduct;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Encourage persons involved in a dispute, affected by it or in any way connected with it to meet to discuss the problem being worked on and to participate in all necessary peacemaking efforts;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Use any reasonable means, in accordance with the Peacemaker Guiding Principles as stated in this ordinance, to obtain the peaceful, cooperative and voluntary resolution of a dispute subject to peacemaking.  No force, violence or the violation of rights secured to individuals by the <cite path="GOV|GOV.01">Stockbridge-Munsee Bill of Rights</cite> or Tribal law or custom will be permitted.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.21</annotation>
+    </section>
+    <section>
+      <num>TCT.04.06</num>
+      <heading>Limitations; Peacemakers Not Judges; Agreed Arbitration.</heading>
+      <text>Peacemakers shall only have the authority to use traditional and customary methods in accordance with the Guiding Principles to mediate disputes and obtain the resolution of problems through agreement.  Peacemakers shall not have the authority to decide a disputed matter unless all parties to the dispute agree to such authority in writing or before the Tribal Court.  Any such decision will have the effect of a court judgment when entered by the Tribal Court.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.22</annotation>
+    </section>
+    <section>
+      <num>TCT.04.07</num>
+      <heading>Duties Of Peacemakers</heading>
+      <text>Where Peacemaking sessions are conducted pursuant to a referral from Tribal Court and upon notice to an individual of his or her appointment as a Peacemaker for an individual matter, the Peacemaker shall notify the Court of (A) any disqualifications or inability to serve in the matter or (B) acceptance of the appointment.  The clerk of Tribal Court may be notified in writing or by telephone notice.  If the Court is not notified within a reasonable time of the mailing of the notice, another Peacemaker may be appointed.  The Peacemaker will informally contact the parties to the dispute and any other persons involved and make other necessary arrangements to conduct peacemaking sessions.  The peacemaker may conduct a reasonable number of sessions in an attempt to achieve peacemaking efforts using procedures and techniques which are accepted in the community.  Where the parties involved accept or practice a given religious belief, discipline or teaching, the accepted methods and teaching of that religious way may be used.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.23</annotation>
+    </section>
+    <section>
+      <num>TCT.04.08</num>
+      <heading>Reports To Tribal Court.</heading>
+      <text>Where the Peacemaking sessions were pursuant to a referral from Tribal Court, either at the conclusion of the peacemaking or at such time as the Peacemaker finds there can be no resolution of the matter, the Peacemaker must report the results of his or her efforts to the Court.  The reports may be informal but must be reduced to writing, either by the Peacemaker or the Tribal Court.  This written record shall be maintained in the Court file.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.24</annotation>
+    </section>
+    <subheading>Part III — Procedure</subheading>
+    <section>
+      <num>TCT.04.09</num>
+      <heading>Request For Peacemaking.</heading>
+      <text>Any individual may ask the assistance of the Peacemaker System by filing a written request with the Court or by contacting a certified Peacemaker directly.  A list of certified Peacemakers shall be available to the public.  The request may be informal and hand-written, and it may be made either on a form provided by the court or in any writing which gives the court the following information:</text>
+      <para>
+        <num>(a)</num>
+        <text>The name and address of the person who requests the use of the Peacemaker System;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The names of the persons involved in the dispute (parties), and their mailing addresses and their place of residence.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The reason the individual wants to use the Peacemaker System and a short statement of the problem involved;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The names and addresses of each person who should be contacted by the Peacemaker and involved in the peacemaking;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Information showing the status of each of the individuals involved as either Indian or non-Indian and tribal affiliation and membership, if any.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>A joint declaration by the parties that they consent to participating in the Peacemaker process.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.30</annotation>
+    </section>
+    <section>
+      <num>TCT.04.10</num>
+      <heading>Reserved</heading>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.31</annotation>
+    </section>
+    <section>
+      <num>TCT.04.11</num>
+      <heading>Duties Of Clerk Of Tribal Court</heading>
+      <text>All Clerks of Court will assist parties before the Peacemaker System by providing information about the Peacemaker System, assisting individuals in filling out requests, assisting the Peacemakers in making reports, advising individuals how to obtain a protective order or file a complaint and in giving whatever kind of assistance individuals may need to make the Peacemaker System effective and to carry out the intent of these rules.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.32</annotation>
+    </section>
+    <section>
+      <num>TCT.04.12</num>
+      <heading>Appointment Of Peacemaker.</heading>
+      <text>Upon filing by a party of a request for peacemaking, the clerk of court will present the parties making the request with a list of certified Peacemakers.  The parties may choose from the list.  If the parties wish, the Clerk of Court may choose a Peacemaker for them at random.  In order to make a request for peacemaking, it is not required that the parties be involved in a Tribal Court case or a case in any other court.</text>
+      <text>If the parties before the Court have already agreed on a specific person as a Peacemaker or they wish to choose the Peacemaker together, the Court shall allow it.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.33</annotation>
+    </section>
+    <section>
+      <num>TCT.04.13</num>
+      <heading>Notice To Begin Proceedings.</heading>
+      <text>Notice of the appointment of the Peacemaker shall be provided by the Clerk of Court, who shall send copies of the request and order to the named Peacemaker by first class mail.  If the Clerk of Court does not receive notification from the Peacemaker of acceptance of the appointment within a reasonable time, the clerk shall so advise the parties for the purpose of choosing another person as peacemaker.  The Peacemaker is responsible to informally advise the parties, witnesses and participants of his appointment, and the copies of the request and order sent to the Peacemaker shall be evidence of his or her authority.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.34</annotation>
+    </section>
+    <section>
+      <num>TCT.04.14</num>
+      <heading>Compensation Of Peacemaker</heading>
+      <text>The parties shall, at the time of making the request to use the Peacemaker System, pay into court the sum of $40, $20 from each party, as compensation for the Peacemaker's services.  The clerk of court shall pay such sum to the Peacemaker upon his or her acceptance of appointment.  Upon the completion of the peacemaking, parties to the dispute shall, in equal shares, reimburse the Peacemaker for any actual expenses incurred in the matter.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.35</annotation>
+    </section>
+    <section>
+      <num>TCT.04.15</num>
+      <heading>Reserved</heading>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.36</annotation>
+    </section>
+    <section>
+      <num>TCT.04.16</num>
+      <heading>Fees</heading>
+      <text>A fee of $10 will be charged for any protective order sought with respect to Peacemaker System proceedings.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.37</annotation>
+    </section>
+    <subheading>Part IV — Actions By The Tribal Court.</subheading>
+    <section>
+      <num>TCT.04.17</num>
+      <heading>Protective Orders</heading>
+      <text>Any party, witness or participant involved in Court ordered Peacemaking may petition the Tribal Court for a protective order ending the peacemaking process or putting limitations upon it.  The grounds for protective order are:</text>
+      <para>
+        <num>(a)</num>
+        <text>Harassment by the Peacemaker or harassment by another which is not properly handled by the Peacemaker;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Invasion by the Peacemaker of personal privacy to an unreasonable extent;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Conduct of the Peacemaker in the peacemaking process which is degrading, inhuman, dangerous, assaultive or otherwise violative of an individual's rights.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Conduct of the Peacemaker in violation of applicable standards of Peacemaker conduct.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.40</annotation>
+    </section>
+    <section>
+      <num>TCT.04.18</num>
+      <heading>Action By The Court</heading>
+      <text>A petition for a protective order may be made in writing, and must be made in writing if the party seeking the order has counsel.  Otherwise it may be made orally in open court.  Upon considering the petition for a protective order, which may be heard ex parte, the Court may issue an immediate order terminating peacemaking proceedings and must issue an order for the purpose of conducting a hearing on the petition for a protective order.  Upon a full hearing, following notice to the parties, the court may terminate peacemaking proceedings or place reasonable limitations upon them.  The person seeking a protective order must pay a fee of $10 to the Clerk of Court at the time of filing of the petition.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.41</annotation>
+    </section>
+    <section>
+      <num>TCT.04.19</num>
+      <heading>Judgments</heading>
+      <text>Where the parties in Peacemaking reach an agreement they wish to have confirmed and recorded by a formal judgment or order of a Court, they may present a draft judgment to the Court for its consideration.  A court may enter judgment only when the following conditions have been met:</text>
+      <para>
+        <num>(a)</num>
+        <text>The court has jurisdiction over the parties and the subject matter of the agreement;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All necessary parties have actual knowledge of the proposed judgment and have either agreed to it or have agreed to submit the question to the Peacemaker for a decision;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The judgment contains the complete agreement of the parties and contains sufficient information regarding the full agreement so a dispute as to the provisions of the judgment is not likely to arise in the future;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The purposed judgment is otherwise proper and enforceable by the Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.42</annotation>
+    </section>
+    <section>
+      <num>TCT.04.20</num>
+      <heading>Method Of Presenting Proposed Judgment.</heading>
+      <text>The parties need not be represented by counsel, and the Court may make its written judgment following an informal oral conference with the parties.  Where necessary the Court may require a member of its staff to assist the Peacemaker in preparing a proper form of judgement.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.43</annotation>
+    </section>
+    <section>
+      <num>TCT.04.21</num>
+      <heading>Form Of Judgment.</heading>
+      <text>All judgments must contain the following information:</text>
+      <para>
+        <num>(a)</num>
+        <text>The names and jurisdictional information with regard to each party (i.e. residence, consent to jurisdiction, etc.);</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A statement of the fact that all necessary parties to the dispute have actual knowledge of it and that they have all agreed to the proposed judgment;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the dispute was resolved by the agreement of all the parties that it would be submitted for the Peacemaker's decision, a statement of that fact;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A statement that the judgment is based upon Peacemaker System proceedings, and the name of the Peacemaker;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>A general description of the dispute;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The actual judgment of the Tribal Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.44</annotation>
+    </section>
+    <section>
+      <num>TCT.04.22</num>
+      <heading>Enforcement Of Judgment</heading>
+      <text>A judgment of the Tribal Court upon Peacemaker System proceedings may be enforced as any other judgement of the Tribal Court may be enforced.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.45</annotation>
+    </section>
+    <subheading>Part V — Conduct Of Peacemakers</subheading>
+    <section>
+      <num>TCT.04.23</num>
+      <heading>General Standards</heading>
+      <text>Peacemakers shall be bound by the Code of Judicial Ethics which apply to the Judges of the Stockbridge-Munsee Tribal Court insofar as such codes are consistent with the nature and purpose of the Peacemaker System.  Peacemakers shall not participate in any matter in which they have a personal or financial interest or close relation to a party, and they shall conduct themselves with honesty, integrity and in harmony with traditional and customary Tribal ways and in accordance with the Guiding Peacemaker Principles.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.50</annotation>
+    </section>
+    <section>
+      <num>TCT.04.24</num>
+      <heading>Complaints Regarding Peacemakers</heading>
+      <text>Complaints against Peacemakers shall be made to the Tribal Council in writing, and such complaints shall be treated as any complaint against a court or Trial Judge.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.51</annotation>
+    </section>
+    <section>
+      <num>TCT.04.25</num>
+      <heading>Action On Complaint.</heading>
+      <text>Upon finding that a Peacemaker has violated an ethical standard, the Tribal Council may, by majority vote, suspend the name of the individual from the Peacemaker rolls.  Where criminal activity is involved, the Tribal Council may refer the matter to the Tribal Prosecutor or other authority for possible prosecution.  The Tribal Council shall notify in writing any Peacemaker who has been suspended from the rolls and the reason(s) therefore within 10 days.  The Peacemaker shall have 14 days to appeal such suspension to the Tribal Appellate Court.  Such appeals shall thereafter proceed pursuant to tribal appellate laws.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.52</annotation>
+    </section>
+    <subheading>Part VI — Transfer Of Cases From Tribal Court To Peacemaker System.</subheading>
+    <section>
+      <num>TCT.04.26</num>
+      <heading>General Policy</heading>
+      <text>Any civil or criminal actions in Tribal Court may be referred to the Peacemaker System in accordance with this Part where they fall within the kinds of matters within the jurisdiction of the Peacemaker System or where it is in the interests of justice to make such a referral for good cause shown, and where all parties agree to transfer.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.60</annotation>
+    </section>
+    <section>
+      <num>TCT.04.27</num>
+      <heading>Requests And Objections.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any party can request referral of their case to Peacemaker System.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any party can by objection prevent referral of their case to Peacemaker System.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The written consent of all parties must be obtained by Tribal Court prior to transfer of a case to the Peacemaker System.  Parties cannot withdraw their consent to transfer absent a showing by clear and convincing evidence in Tribal Court that their consent was obtained by fraud or undue influence.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Non-parties can neither request nor prevent transfers to Peacemaker System.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>When a case is referred pursuant to this section, the Tribal Court still maintains jurisdiction over the case.  If the Peacemaking process does not produce an agreement or resolution, then Tribal Court proceedings may continue.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.61</annotation>
+    </section>
+    <section>
+      <num>TCT.04.28</num>
+      <heading>Civil Matters.</heading>
+      <text>Civil actions falling within the provision of <cite path="TCT|TCT.01">Chapter TCT.01</cite> may be referred to Peacemaker System with the written stipulation of all the parties to the action.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.62</annotation>
+    </section>
+    <section>
+      <num>TCT.04.29</num>
+      <heading>Criminal Matters.</heading>
+      <text>Any criminal matter within the provisions of <cite path="TCT|TCT.01">Chapter TCT.01</cite> may be transferred to the Peacemaker System, upon consent of the parties, where:</text>
+      <para>
+        <num>(a)</num>
+        <text>The case does not involve injury to person or property; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Where the victim to the alleged offense consents; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Where there is a plea or conviction of guilty and peacemaking would be an appropriate condition of probation for achieving harmony and reconciliation with the victim.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.63</annotation>
+    </section>
+    <section>
+      <num>TCT.04.30</num>
+      <heading>Criminal Probation</heading>
+      <text>The Tribal Court may, as a condition of criminal probation, require the defendant to submit to the Peacemaker System for traditional and customary counseling, instruction and lectures appropriate to his or her offense.  The Tribal Court may require the defendant to pay the $40 fee required of other parties before the Peacemaker System.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.64</annotation>
+    </section>
+    <section>
+      <num>TCT.04.31</num>
+      <heading>Mandatory Referral To Peacemaker System</heading>
+      <text>Notwithstanding the consent provisions of Sections <cite path="§TCT.04.27">Section TCT.04.27</cite> and <cite path="§TCT.04.28">Section TCT.04.28</cite>, if the Trial Judge assigned to any civil case decides that the parties would benefit from a session with a Peacemaker, the judge may order that the parties spend at least one (1) hour in a Peacemaking session to see if the parties can resolve their case.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 4, §4.65</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 113-97">Resolution #113-97</cite>, adopted March 4, 1997.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>TCT.05</num>
+    <heading>Financial Responsibility Code</heading>
+    <section>
+      <num>TCT.05.01</num>
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except for <cite path="§TCT.05.01|(c)">Section TCT.05.01(c)</cite>, the Stockbridge-Munsee Tribal Court shall have jurisdiction to hear any civil action where at least one of the parties to the action is Indian and which:</text>
+        <para>
+          <num>(1)</num>
+          <text>Involve a debt or contractual obligation arising or occurring within the territorial jurisdiction of the court; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Involve the ownership or the right to use or to possess any land in trust or restricted status; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Involves the right to possession or the ownership of any personal property within the territorial jurisdiction of the court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition the court shall have jurisdiction to recognize and enforce or to refuse to recognize and enforce foreign judgments.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In accordance with <cite path="§GMG.02.09">Section GMG.02.09</cite>, the Stockbridge-Munsee Court shall not have jurisdiction to hear any matters relating to or affecting per capita payments, as defined in <cite path="§GMG.02.07|(a)">Section GMG.02.07(a)</cite>, except as provided in <cite path="§GMG.02.07|(f)">Section GMG.02.07(f)</cite> and <cite path="§GMG.02.07|(g)">Section GMG.02.07(g)</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.1</annotation>
+    </section>
+    <section>
+      <num>TCT.05.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Contract" shall mean a promissory agreement between two (2) or more persons supported by consideration, to do or not to do a particular thing, or which creates, modifies or destroys a legal obligation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Court" shall mean the Stockbridge-Munsee Tribal Court as established by the Stockbridge-Munsee Tribal Council of the Stockbridge-Munsee Band of Mohican Indians.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Debt" shall mean a sum of money or a quantity of property due by certain and express agreement where the amount is fixed and specific and does not depend on any subsequent valuation to settle it.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Default Judgment" shall mean a judgment rendered by the court because a defendant failed to appear or plead at the appointed time.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Execution" shall mean a proceeding whereby the personal property belonging to and in the possession of a judgment debtor is attached by the Court to be held for public sale in order to satisfy all or part of a judgment rendered against the debtor by the Court.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Exempt Property" shall mean any property held in trust by the Bureau of Indian Affairs or income derived therefrom, as well as any property, wages or otherwise which is protected by federal statute.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Foreign Judgment" shall mean any final judgment, order or decree rendered or issued by a Court that is not a Court of the Stockbridge-Munsee Tribe.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Garnishee" shall mean the person against whom the process of garnishment is issued, and who has property, including money, and/or credits in his possession belonging to the debtor; notice having been given to the garnishee not to deliver or pay the property or credits over to the debtor until the result of the garnishment proceeding is determined.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Garnishment" shall mean a proceeding whereby a judgment debtor's money, or credits including salary, in possession or under control of, or owing by, another are sought to be applied to payment of the former person's debt to a third person by properly authorized process against the debtor.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Judgment Creditor" shall mean one who has obtained a judgment against his debtor, under which he can enforce its execution.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Judgment Debtor"  shall mean one against whom a judgment has been rendered and which remains unsatisfied, and shall include a judgment debtor's successors in interest.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Legal Holiday" shall include New Year's Day, Independence Day, Labor Day, Veteran's Day, Thanksgiving Day, Christmas Day, and any other day appointed as a holiday by the President, or the Congress of the United States or by the Stockbridge-Munsee Tribal Council.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Person" shall mean women as well as men and may include artificial beings such as a Corporation, a tribal entity, organization or association.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Preponderance of the Evidence" shall mean the greater weight of the evidence or the evidence which is more believable and Convincing.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Reservation" shall mean the exterior boundaries of the Stockbridge-Munsee Reservation as defined by the Treaty of 1856.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.2</annotation>
+    </section>
+    <section>
+      <num>TCT.05.03</num>
+      <heading>The Pleadings</heading>
+      <para>
+        <num>(a)</num>
+        <text>A civil action brought pursuant to this Code shall be commenced upon the filing of a complaint in the Stockbridge-Munsee Tribal Court.  The complaint shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name and address of the plaintiff;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name and address or place of residence of the defendant;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A brief and concise statement of the nature and/or amount of the Plaintiff's claim and the time the claim accrued:</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A signed statement by the plaintiff stating that the plaintiff made a good faith effort to have the claim satisfied by the defendant before filing the complaint in Tribal Court;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A sworn verification by the plaintiff of the truth of the complaint;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>In an action involving the right to possession under a lease or other form of tenancy, a statement that the plaintiff gave the defendant notice to deliver possession of real property to the plaintiff and an indication of how much notice was given.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The defendant shall have thirty (30) days from the date of service to file an answer to the complaint.  Failure to answer or otherwise appear will result in a default judgment against the defendant.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any party to an action filed pursuant to <cite path="17.3">this Chapter</cite> may use the appropriate complaint and answer forms provided by the Tribal Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.3</annotation>
+    </section>
+    <section>
+      <num>TCT.05.04</num>
+      <heading>Service:  Proof Of Service</heading>
+      <para>
+        <num>(a)</num>
+        <text>Within fourteen (14) days of the filing of the complaint the Court shall issue a summons directing the named defendant to appear before the Court and respond to the complaint.  The Plaintiff shall deliver the court issued summons and a copy of the complaint for service on the defendant.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Service of Process.</heading>
+        <text>Service of process shall consist of delivering to the party served an authenticated copy of the Summons and Complaint.  The Summons shall advise the defendant that he or she is required to answer the complaint within twenty (20) days or a default judgment may be entered against him or her.</text>
+        <para>
+          <num>(1)</num>
+          <text>The return of service shall be endorsed with the name of the person serving and the date, time and place of service and shall be filed with the Clerk of Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Service may be made on a party by delivering the required papers to the party himself or herself or upon some person of suitable age and discretion over fourteen (14) years of age at the party's house or principle place of business, or on an officer, managing agent, or employee, or partner of a non-individual party.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Service may be made by any law enforcement officer or other person, not a party, eighteen (18) years of age or older.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Service upon a person subject to the jurisdiction of the Tribal Court System may be made anywhere in the United States.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If a person personally refuses to accept service, service shall be deemed performed, if the person is informed of the purpose of the service and offered copies of the papers served.  In this instance, the person serving the defendant(s) shall execute an affidavit indicating the defendant(s) refused service.  The Plaintiff may file the affidavit with the Clerk of Court and the Trial Court shall accept the affidavit as proof of service.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If, after three (3) attempts to serve the defendant on three (3) different days, a person is unable to serve the defendant with an authenticated copy of the Summons and Complaint, the Plaintiff may serve the defendant by publication.  Service by publication may be made by publishing the contents of the Summons in a newspaper of general circulation in the state and city of the defendant's last known address in two consecutive publications.  The Plaintiff must file a copy of all legal notices as published in the newspaper with the Tribal Court and must also provide an extra authenticated copy of the Complaint and Summons to the Tribal Court System for the Defendant.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Service of pleadings, other than a Summons and Complaint, may be made by regular U.S. Mail.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Proof of service shall be maintained as part of each case file.  When the defendant has been   served personally, an affidavit of service shall be returned to the Court Clerk and filed in the Court records.  When service is obtained by mail, the return receipt of the delivery shall be made a part of the Court records. When service is obtained by publication, an authenticated copy of the published newspapers must be returned to the Court Clerk and filed in the court records.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.4</annotation>
+    </section>
+    <section>
+      <num>TCT.05.05</num>
+      <heading>Subpoena</heading>
+      <para>
+        <num>(a)</num>
+        <text>On motions of any party to the case or on the Court's own motion, the Court may issue subpoenas to compel the attendance of witnesses or the production of tangible objects Necessary to the determination of the case.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A subpoena shall be served by an officer of the Stockbridge-Munsee Tribal Police Department, or by any person certified as an officer of the Court by delivering a copy thereof to the person ordered to appear or to produce a tangible object.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A proof of service shall be filed by the person serving the subpoena.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Failure by any person without adequate explanation to comply with a subpoena duly served upon him may be deemed in contempt of Court and punished as provided for in <cite path="§TCT.05.21">Section TCT.05.21</cite> of this Code.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.5</annotation>
+    </section>
+    <section>
+      <num>TCT.05.06</num>
+      <heading>Court Costs</heading>
+      <para>
+        <num>(a)</num>
+        <text>A schedule for determining fees, costs and other expenses pursuant to this Code shall be made available to any person requesting same from the Court Clerk.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In order to file a complaint pursuant to this Code the plaintiff shall pay a filing fee to the Court Clerk.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Court costs for each case going to Tribal Court shall accrue on a per day basis to be charged against the losing party at the close of the trial.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any other cost expended by a party in an action brought pursuant to this Code shall be properly documented to the Court when reimbursement for same is sought.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.6</annotation>
+    </section>
+    <section>
+      <num>TCT.05.07</num>
+      <heading>Representation</heading>
+      <text>It shall be proper for any party to an action filed pursuant to this Code to be represented by an attorney or other advocate at his own expense.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.7</annotation>
+    </section>
+    <section>
+      <num>TCT.05.08</num>
+      <heading>The Tribe As A Real Party In Interest</heading>
+      <text>It shall be appropriate for any organization or department in the governmental structure of the Stockbridge-Munsee Tribe through the Tribe's Legal Department to file a complaint pursuant to this Code on behalf of the real party in interest, namely, the Stockbridge-Munsee Indian Reservation in order to collect on a debt or to seek enforcement of a contractual obligation owed to the complaining tribal organization or department.  For all foreign debts filed involving tribal employees, the Tribe shall be a real party in interest. The director, chairman, or person in charge of the complaining tribal organization or department shall be the proper person to initiate a complaint through the Legal Department pursuant to this Section.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.8</annotation>
+    </section>
+    <section>
+      <num>TCT.05.09</num>
+      <heading>Trial By Court</heading>
+      <text>There shall be no right to a jury trial in actions brought pursuant to this Code.  Upon the filing of pleadings the Court shall set a date for a trial of the case, and the trial shall be to the Court.  The Court shall determine all issues of fact and law based upon the testimony and evidence submitted, and renders a judgment for either the plaintiff or defendant. The judgment of the Court shall be final.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.9</annotation>
+    </section>
+    <section>
+      <num>TCT.05.10</num>
+      <heading>Sufficiency Of Proof</heading>
+      <text>The plaintiff shall have the burden of proving the allegations in his complaint by a preponderance of the evidence.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.10</annotation>
+    </section>
+    <section>
+      <num>TCT.05.11</num>
+      <heading>Evidence</heading>
+      <text>Although not mandatory, the Federal Rules of Evidence may govern the introduction and use of evidence in all cases before the Court.  However, all material and relevant evidence which the Court deems proper and necessary for reaching a true and just verdict shall be admitted.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.11</annotation>
+    </section>
+    <section>
+      <num>TCT.05.12</num>
+      <heading>Continuance</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Court may grant a Continuance in any action brought pursuant to this Code when it deems the interests of justice will be served thereby.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.12</annotation>
+    </section>
+    <section>
+      <num>TCT.05.13</num>
+      <heading>Time Computation</heading>
+      <text>In computing any period of time, the date of the act or event from which the designated period of time begins to run shall not be included.  The last day of the period so computed shall be included, unless it is a Saturday, a Sunday, or a legal holiday.  When a period of time prescribed or allowed is less than seven days, intermediate Saturdays, Sundays and legal holidays shall be excluded in the computation.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.13</annotation>
+    </section>
+    <section>
+      <num>TCT.05.14</num>
+      <heading>Judgments</heading>
+      <para>
+        <num>(a)</num>
+        <text>Where either party prevails in an action pursuant to this Code, the Court shall enter a judgment consisting of an order for relief which the Court deems just and proper.  Such an order may include but is not limited to directing payment to the plaintiff for the monies found owing him, awarding money damages to be paid to the injured party, ordering a party to deliver possession of real or personal property to another party within a prescribed period of time, ordering the performance of some other act for the benefit of the injured party, or finding in favor of the defendant.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Upon the failure of the defendant to appear before the Court and respond to the complaint, the Court may render a default judgment against the defendant, provided evidence is offered by the plaintiff indicating that the defendant was validly served with the Summons and complaint involved, and proof is offered substantiating the plaintiff's claim for relief.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Upon the failure of the plaintiff to appear in Court on the date set for trial, the Court shall dismiss the action.  Such dismissal shall not bar the plaintiff from refiling his complaint with the Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.14</annotation>
+    </section>
+    <section>
+      <num>TCT.05.15</num>
+      <heading>Costs Allowed</heading>
+      <text>Unless otherwise directed by the Court, the party against whom judgment is entered shall be liable to the prevailing party for all court costs incurred in the action, including filing fees, service fees, expense of witnesses, attorney's fees, and any other incidental costs.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.15</annotation>
+    </section>
+    <section>
+      <num>TCT.05.16</num>
+      <heading>Payment Of Judgment</heading>
+      <text>If the judgment is against a party to make payment or to otherwise satisfy the judgment the party shall act without delay upon the terms and conditions prescribed by the Court.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.16</annotation>
+    </section>
+    <section>
+      <num>TCT.05.17</num>
+      <heading>Enforcement Of The Judgment</heading>
+      <para>
+        <num>(a)</num>
+        <text>Upon failure of a party to pay or otherwise satisfy the terms of the conditions of the judgment rendered by the Court pursuant to this Code, the prevailing party may seek  satisfaction of the judgment as provided for below:</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Execution:</heading>
+        <para>
+          <num>(1)</num>
+          <text>The judgment creditor may seek a Writ of Execution upon any specific personal property of the judgment debtor when such property is in the possession of the judgment debtor and is found within the jurisdiction of the Stockbridge-Munsee Tribal Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Writ shall specify the property to be seized and the amount owing to the judgment creditor. Such property is to be seized by a duly authorized enforcement officer and sold in order to satisfy all or part of the judgment.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A notice of sale shall be mailed to the judgment debtor and shall be posted at two public places within the reservation for ten (10) days prior to the sale by the Court. The sale shall be conducted by the Court Clerk or a duly authorized law enforcement officer who shall issue a bill of sale for the property to the highest bidder in return for a cash amount but not for less than the appraised value of the property.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Proceeds of the sale shall first go to satisfy the cost of the sale, second to any unpaid court costs, next to satisfy any portion of the judgment still owing. Any amount remaining after the above has been paid shall be paid over to the defendant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Garnishment:</heading>
+        <para>
+          <num>(1)</num>
+          <text>The judgment creditor may seek a Writ of Garnishment upon any specific personal property of credits, including wages or salary owed by another to the judgment debtor which is in the possession of a third party and is found within the jurisdiction of the Stockbridge-Munsee Tribal Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Writ shall specify the amount owing to the judgment creditor, as well as the name and address of the garnishee in whose possession the subject matter listed in the writ of garnishment is in.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Notice of garnishment shall be served on the garnishee ordering the garnishee not to pay or deliver the property or credits owing to the debtor until the result of the garnishment proceeding is determined.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The garnishee shall be required to file a return with the Court containing the amount and a description of property of the judgment debtor which is in the garnishee's possession.  Such return shall be filed with the Court within ten (10) days from the date the garnishee was served with notice of the garnishment.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>It shall be proper for the Court to issue a Writ of Garnishment against the Stockbridge-Munsee Tribe when it is determined the Tribe qualifies as a garnishee, and for this limited purpose the Tribe shall not exert its immunity from suit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Writ of Recovery:</heading>
+        <para>
+          <num>(1)</num>
+          <text>Whenever the Court has issued a judgment ordering the party to deliver possession of real or personal property to another party and such deliver has not taken place within the time limit prescribed in the judgment, the aggrieved party may seek a writ of recovery for such property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Writ shall describe the real or personal property involved in enough detail to enable officers of the Court to locate such property, and shall authorized a law enforcement officer to take possession of specified real or personal property from a wrongful holder and deliver possession thereof to the party indicated on the Writ.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.17</annotation>
+    </section>
+    <section>
+      <num>TCT.05.18</num>
+      <heading>Service Of Writs</heading>
+      <para>
+        <num>(a)</num>
+        <text>Service of any Writs shall be made personally on the recipient by an officer of the Stockbridge-Munsee Tribal Police Department or any person certified as an officer of the Court authorized to make personal service.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Proof of service of each Writ shall be maintained as part of each case file in the form of an affidavit of service sworn to and filed with the Court by the officer who served the Writ.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.18</annotation>
+    </section>
+    <section>
+      <num>TCT.05.19</num>
+      <heading>Exempt Property</heading>
+      <para>
+        <num>(a)</num>
+        <text>The following property shall be exempt from execution and garnishment:</text>
+        <para>
+          <num>(1)</num>
+          <text>Trust property;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Income from trust property; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any property, wages or otherwise which is protected statute.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This section shall not prohibit any person from voluntarily assigning all rights possessed in trust property on income from trust property to the judgment creditor.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>This section shall not prohibit the Stockbridge-Munsee Tribal Court from adjudicating the right to possession of any trust property in actions brought pursuant to this Code to enforce rental, lease, purchase of like agreements.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.19</annotation>
+    </section>
+    <section>
+      <num>TCT.05.20</num>
+      <heading>Sovereign Immunity</heading>
+      <text>Nothing in this Code shall affect the right of the Stockbridge-Munsee Tribe of the Stockbridge-Munsee Indian Reservation to assert immunity from suit by virtue of its status as a sovereign entity, except that the Tribe may not assert sovereign immunity when served as a garnishee pursuant to Section of this Code.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.20</annotation>
+    </section>
+    <section>
+      <num>TCT.05.21</num>
+      <heading>Contempt Of Court</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person or persons found guilty of any of the following acts shall be adjudged to be in contempt of Court and shall be punished as the Court may direct.</text>
+        <para>
+          <num>(1)</num>
+          <text>Disorderly, contemptuous or insolent behavior toward a judge or interrupt the due course of a trial or other judicial proceedings.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Breach of the peace, boisterous conduct or creation of a disturbance in the presence of a judge or in the immediate vicinity of the Court held by him which tends to interrupt the due course of a trial or other judicial proceedings.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Disobedience of any order or judgment of the Court or refusal to be sworn or to answer as a witness.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When a contempt is committed in the immediate view and presence of the judge it may be punished summarily.  To that end an order must be made reciting the facts as they occurred and adjudging that the person proceeded against is thereby guilty of the contempt and that he be punished as therein prescribed.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>When a contempt is not committed in the immediate view and presence of the judge, a warrant of arrest may be issued by a judge upon the Court's own motion or the motion of another based on proof sufficient enough to indicate contempt of court may have been committed.  The person who is charged may be forthwith arrested and brought before the judge at which time the accused must be given an opportunity to be heard in his defense or excuse his action or actions.  The judge may thereupon convict him or dismiss the charge.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.21</annotation>
+    </section>
+    <section>
+      <num>TCT.05.22</num>
+      <heading>Recognition And Enforcement Of Foreign Judgments</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Tribal Court shall not recognize and enforce any foreign judgment unless the proponent of the foreign judgment;</text>
+        <para>
+          <num>(1)</num>
+          <text>Complies with the procedure set forth in <cite path="§TCT.05.23">Section TCT.05.23</cite> of this Code:</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Submits proof that the person against whom the foreign judgment has been rendered is subject to the jurisdiction of the Stockbridge-Munsee Tribal Court;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Submits proof that the foreign judgment is based on valid subject matter jurisdiction;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Submits proof that an attempt was made to enforce the judgment in the jurisdiction which the foreign judgment  was rendered and that such attempt was unsuccessful; or  good cause why an attempt at enforcement of the foreign judgment in the jurisdiction in which the foreign judgment was rendered would be futile;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Submits proof that the foreign judgment is final and that no appeal therefrom is pending; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Submits proof that the government from which the foreign judgment is issued provides reciprocal full faith and credit to the order, decrees and judgments of the Stockbridge-Munsee Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Stockbridge-Munsee Tribal Court shall not recognize or enforce a foreign judgment when to do so would require the Tribe to waive its immunity from suit, except when the Tribe is served as a garnishee for the wages or property of an employee, in which case the requirements set out in <cite path="§TCT.05.17">Section TCT.05.17</cite> of this Code shall be adhered to.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Stockbridge-Munsee Tribal Court need not recognize a foreign judgment if:</text>
+        <para>
+          <num>(1)</num>
+          <text>The defendant in the proceedings in the foreign court did not receive notice of the proceedings in sufficient time to allow him to defend;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The foreign judgment decree or order violated the Indian Civil Rights Act of 1968, 25 U.S.C. 1301-1341;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The foreign judgment was obtained by fraud;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The foreign judgment would serve to violate any federal law, tribal law, custom or tradition, or the Treaty of 1856 between the Stockbridge-Munsee Tribe and the federal government; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The cause of action on which the judgment is based is contrary to the general welfare of the Stockbridge-Munsee Tribe or its members.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.22</annotation>
+    </section>
+    <section>
+      <num>TCT.05.23</num>
+      <heading>Procedure For Recognition And Enforcement Of Foreign Judgments</heading>
+      <para>
+        <num>(a)</num>
+        <text>In order for a foreign judgment to be recognized and enforced, such judgment shall be filed by its proponent with the Stockbridge-Munsee Tribal Court within one year from the date of its issuance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Proper filing of a foreign judgment with the Stockbridge-Munsee Tribal Court shall be accomplished when the proponent thereof has delivered to the Court a certified copy of the foreign judgment, the date of its entry, the record of any subsequent entries affecting it, such as levies of execution and payments in partial satisfaction, and a motion requesting that the Stockbridge-Munsee Tribal Court recognize and enforce the foreign judgment.  A properly filed foreign judgment shall be docketed and recorded in the Tribal Court in the same manner as other cases.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Upon proper filing of a foreign judgment with the Stockbridge-Munsee Tribal Court, the Court shall issue a summons directing the defendant to appear on a date not more than 30 days from the date of service and respond to the motion requesting the Stockbridge-Munsee Tribal Court to recognize and enforce the foreign judgment.  Such a summons shall be served on the defendant in a manner consistent with this Code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Failure to appear as directed by the summons or failure to respond to the motion requesting the Court to recognize and enforce the foreign judgment once personal jurisdiction over the defendant has been obtained shall not prevent the Court from ruling on the motion.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>After reviewing all the relevant evidence concerning the foreign judgment the Court shall issue an order granting or denying the motion to recognize and enforce the foreign judgment. Such an order shall be a final judgment of the Stockbridge-Munsee Tribal Court in favor of either the plaintiff or defendant to the foreign judgment and shall be enforceable as such.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.23</annotation>
+    </section>
+    <section>
+      <num>TCT.05.24</num>
+      <heading>Enforcement Of The Tribal Court Judgments In State Court</heading>
+      <text>Whenever a judgment of the Stockbridge-Munsee Tribal Court is not enforceable within the jurisdiction of the court, and a department or program within the Stockbridge-Munsee Tribe is a party to the judgment, the Court may direct the Tribal Attorney to seek recognition and enforcement of its judgment as a foreign judgment in the appropriate jurisdiction.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.24</annotation>
+    </section>
+    <section>
+      <num>TCT.05.25</num>
+      <heading>Unlawful Interference</heading>
+      <text>No person holding office in tribal government or employed by the Stockbridge-Munsee Tribe or the other governmental entities on the Stockbridge-Munsee Indian Reservation shall use or attempt to use his position to influence any decision of the Stockbridge-Munsee Tribal Court.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 17, §17.25</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1146">Resolution No. 1146</cite>, adopted May 16, 1988, approved by BIA June 5, 1989.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 02-034">Resolution No. 02-034</cite>, adopted June 25, 2002, approved by BIA July 3, 2002.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-04">Resolution No. 026-04</cite>, adopted June 1, 2004, approved by BIA June 15, 2004.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 024-15">Resolution No. 024-15</cite>, adopted March 3, 2015, approved by BIA June 12, 2015.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>TCT.06</num>
+    <heading>Change Of Name</heading>
+    <section>
+      <num>TCT.06.01</num>
+      <heading>Authority</heading>
+      <text>The Stockbridge-Munsee Tribal Court shall have authority to change the name of any person upon petition.  Any order issued by the Court for change of name shall be kept as a permanent record and copies shall be filed with the Stockbridge-Munsee Band of Mohican Indians Enrollment Office and the Bureau of Vital Statistics of the state of Wisconsin.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.1</annotation>
+    </section>
+    <section>
+      <num>TCT.06.02</num>
+      <heading>Petition.</heading>
+      <text>Any person may petition the court to have his or her name changed.  A parent or guardian of a minor child may petition on behalf of the child to have the child's name changed.  Both natural parents of the child must be given an opportunity to object to the change of name.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.2</annotation>
+    </section>
+    <section>
+      <num>TCT.06.03</num>
+      <heading>Objections.</heading>
+      <text>If no objections are entered on the record by any interested party and if other conditions of <cite path="60.3">this chapter</cite> are fulfilled the court must grant the petition for change of name.  If any interested person enters an objection it is the court's duty to weigh the value of the objection.  The court shall grant the petition for a change of name unless the objection is of such a nature that the court deems the change of name to not be in the best interest of the petitioner and the Stockbridge-Munsee Band of Mohicans.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.3</annotation>
+    </section>
+    <section>
+      <num>TCT.06.04</num>
+      <heading>Publication.</heading>
+      <text>The petitioner for a change of name must cause a notice of his or her intention to change his or her name to be published in the Mohican News for one issue and in the Shawano Leader for one issue.  The notice must state the petitioner's present name and the intended name and must state the date and time of the court hearing where the name change will be considered, and that any person who objects will have an opportunity to raise the objection at that time.  Notice in the <u>Mohican News</u> and <u>Shawano Leader</u> shall not be less than 14 days and not greater than 90 days prior to the scheduled court hearing date, unless the Tribal Court finds good cause to waive this requirement</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.4</annotation>
+    </section>
+    <section>
+      <num>TCT.06.05</num>
+      <heading>Fees.</heading>
+      <text>The filing fee for a petition for a change of name shall be ten dollars ($10).</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.5</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 107-97">Resolution No. 107-97</cite>, adopted January 21, 1997.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 02-99">Resolution No. 02-99</cite>, adopted January 12, 1999, approved by BIA February 26, 1999.</annotation>
+    </annotations>
+  </container>
+</container>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance"
+    xmlns="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance"
+    xmlns:p="https://open.law/us/ca/cities/san-mateo/_schemas/library">
+    <xs:import namespace="https://open.law/us/ca/cities/san-mateo/_schemas/codify"
+        schemaLocation="../codify/codify.xsd"/>
+    <xs:redefine schemaLocation="../../adapters/docs/ordinance.xsd">
+        <xs:group name="DocumentBodyElGroup">
+            <xs:sequence>
+                <xs:group ref="DocumentBodyElGroup"/>
+                <xs:element ref="recitals" minOccurs="0"/>
+            </xs:sequence>
+        </xs:group>
+    </xs:redefine>
+    <xs:element name="conjunction" type="ConjunctionType"/>
+    <xs:element name="recital" type="RecitalType"/>
+    <xs:element name="recitals" type="RecitalsType"/>
+    <xs:complexType name="RecitalsType">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" ref="recital"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="RecitalType">
+        <xs:sequence>
+            <xs:element minOccurs="1" ref="conjunction"/>
+            <xs:element name="text" type="xs:anyType"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" ref="para"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="ConjunctionType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+</xs:schema>

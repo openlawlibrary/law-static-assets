@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.2" id="Pueblo de San Ildefonso Council Res. No. SI-R20-013">
+  <num>SI-R20-013</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-013</heading>
+  <heading type="law">Audit Authorization, Acceptance, and Responsibility Act</heading>
+  <meta>
+    <effective>2020-07-29</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-013</citation>
+    </citations>
+    <history>
+      <adopted>2020-07-28</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 28th day of July, 2020, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Governing Agreement requires the Pueblo to conduct and annual financial audit by an independent auditor; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the annual audit is an important indicator of the Pueblo's accounting practices and financial health, and is a valuable tool to safeguard the financial assets of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Governor of the Pueblo oversees and directs the Accounting Department personnel, engages the independent auditor, and is vested with the executive authority and responsibility to ensure that the annual audit is conducted and accepted by the Pueblo and that a plan to address any audit findings is developed and implemented.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on July 28, 2020, at a meeting with a vote of 10 in favor, 0 opposed, 0 abstaining and 0 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):     Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No.  SI-R20-013  was presented to the Governor of the Pueblo de San Ildefonso on the 29th day of July, 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X }   APPROVED</text>
+    <text>{   }   VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this __________ day of ________________________, 2020.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.2.3</num>
+      <heading>Audit Authorization, Acceptance, and Responsibility Act</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.2.3"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT</heading>
+    <section>
+      <codify:insert num-value="6.2.3.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.2.3.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this act is to:</text>
+      <para>
+        <num codify:value="(a)">1.</num>
+        <text>Authorize and direct the Governor to complete an external financial audit of the Pueblo in accordance with the requirements of the Governing Agreement; and</text>
+      </para>
+      <para>
+        <num codify:value="(b)">2.</num>
+        <text>Authorize the Governor to procure an independent licensed auditor; and</text>
+      </para>
+      <para>
+        <num codify:value="(c)">3.</num>
+        <text>Require the Governor to provide a copy of the annual audit report to the Council and to direct the auditor to make an in-person presentation to the Council, and to assign to the Governor the responsibility to accept or reject the annual audit prepared by the auditors; and</text>
+      </para>
+      <para>
+        <num codify:value="(d)">4.</num>
+        <text>Require the Governor to develop and implement a plan to adequately address all audit findings identified in the annual audit.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="6.2.3.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>the Governing Agreement requires the Pueblo to conduct an annual financial audit by an independent auditor; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the annual audit is an important indicator of the Pueblo's accounting practices and financial health, and is a valuable tool to safeguard the financial assets of the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>the Governor of the Pueblo oversees and directs the Accounting Department personnel, engages the independent auditor, and is vested with the executive authority and responsibility to ensure that the annual audit is conducted and accepted by the Pueblo and that a plan to address all audit findings is developed and implemented.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="6.2.3.040"/>
+      <num>1.4</num>
+      <heading>Contract Authorization for Independent Auditors</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Governor is hereby authorized to negotiate and execute a contract with external and independent qualified auditors to conduct and complete an annual financial audit for the Pueblo in accordance with the requirements of the Governing Agreement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor shall provide a copy of the annual audit report to the Council prior to Governor's acceptance, and shall direct the auditor to make an in-person presentation to the Council regarding the annual audit.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

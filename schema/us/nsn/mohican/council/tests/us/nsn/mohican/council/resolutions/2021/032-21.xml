@@ -1,0 +1,79 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Tribal Council Res. No. 032-21" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>032-21</num>
+  <heading/>
+  <meta>
+    <ordinance>Procedures</ordinance>
+    <effective>2021-05-27</effective>
+    <history>
+      <adopted>2021-05-18</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/032-21.pdf">Stockbridge-Munsee Tribal Council Res. No. 032-21</citation>
+      <citation type="res" url="./BIA/032-21.pdf">BIA Approval for Res. No. 032-21</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted the Procedures Ordinance, Chapter <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.01">ADM.01</cite>, which was formerly numbered Chapter 50.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Amendments to the Procedures Ordinance have been proposed, which include changes that allow meetings to be held at alternative locations to comply with the terms of a public health order.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the following changes to the Procedures Ordinance:  amendment of Section <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.01.08|(b)">ADM.01.08 (b)</cite> and a new <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.01.08|(g)">ADM.01.08 (g)</cite>.</text>
+      <text>BE IT FURTHER RESOVLED, the Tribal Council directs that the amended ordinance be submitted to the Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 18th day of May, 2021, that the foregoing resolution was duly adopted at such meeting by a vote of 6 for, 0 against, and 0 abstaining.</text>
+    <text>_______________________	________________________</text>
+    <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
+  </procedural-data>
+  <codify:replace path="ADM.01.08">
+    <section>
+      <num>ADM.01.08</num>
+      <heading>Quorum, Location And Participation For Council Meetings</heading>
+      <para>
+        <num>(a)</num>
+        <text>A quorum consisting of a simple majority of the seated Council members is required to be in attendance at an in-session Council meeting in order for the meeting to be officially convened, except when tribal law requires a super-majority.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All Council meetings and Semi-Annual meetings shall be held at the established headquarters of the Community, except as provided under subsections <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.01.08|(d)">(d)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.01.08|(e)">(e)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.01.08|(f)">(f)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.01.08|(g)">(g)</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Council members must be physically present at meeting(s) in order to participate.  Absent Council members may submit their comments in writing, but are not permitted to otherwise participate via telecommunications or other electronic mediums.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A Semi-Annual Meeting may be held at an alternative location on the Reservation, so long as the Council has adopted a resolution authorizing the alternative location at least 7-days prior to the meeting and has posted such notice of the alternative location in tribal posting sites and on the tribal website in a timely fashion.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Membership meetings may be held at such locations as the Council determines to be appropriate, so long as prior notice of the meeting location is posted in tribal posting sites and on the tribal website in a timely fashion.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Council may hold working meetings at any location.  The Council is not in session and does not take any official actions during such working meetings.  A quorum is not required for such working meetings.  Working meetings are not open meetings.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council may hold Council Meetings at an alternative location on the Reservation to comply with the requirements of a public health order as long as that public health order is in effect, so long as the Council has adopted a resolution authorizing the alternative location at least seven (7) days prior to the meeting and has posted such notice of the alternative location at tribal posting sites and on the tribal website in a timely fashion.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="ADM.01" type="Legislative History" history="false" dest="container">9. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 032-21">Resolution No.032-021</cite>, adopted May 18, 2021. Approved by BIA May 26, 2021.</codify:annotation>
+</document>

@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>EDU</num>
+  <heading>Education</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>EDU.01</num>
+    <heading>Education</heading>
+    <section>
+      <num>EDU.01.01</num>
+      <heading>Education Board</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Tribal Education Board, hereinafter called the Education Board, shall consist of 10 members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The composition of the Board shall be:</text>
+        <para>
+          <num>(1)</num>
+          <text>5 enrolled Stockbridge-Munsee members who are parents or grandparents of Indian children enrolled in either the Bowler or Gresham school systems at the time of their election;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>1 member-at-large (enrolled or non-enrolled) who resides within the Stockbridge-Munsee service area;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>2 enrolled Stockbridge-Munsee secondary students (1 from the Bowler school system and 1 from the Gresham school systems); and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>2 teachers of Indian students (1 from the Bowler school system and 1 Gresham school system).</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.1</annotation>
+    </section>
+    <section>
+      <num>EDU.01.02</num>
+      <heading>Terms</heading>
+      <text>The initial membership of the Education Board shall be by appointment by the Tribal Council.  The initial Board shall serve until the next regular annual tribal election, at which time the 5 parents or grandparents of Indian children, and the 1 member at-large shall be elected by popular vote. The 2 secondary students and the 2 teachers shall continue to be appointed by Council on an annual basis, and this appointment shall be made on recommendation of the elected Education Board.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.2</annotation>
+    </section>
+    <section>
+      <num>EDU.01.03</num>
+      <heading>Elections</heading>
+      <text>At the first election of the 5 enrolled Stockbridge-Munsee parents or enrolled Stockbridge-Munsee grandparents and the 1 member at-large, the 2 persons who receive the highest number of votes shall serve 3 years, the 2 persons who receive the next highest number of votes shall serve 2 years, and the 2 persons who receive the lowest number of votes shall serve 1 year. Thereafter, at each annual election there shall be two terms open to be filled for three year terms, so that an elected members of the Board shall serve three year terms on a staggered basis.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.3</annotation>
+    </section>
+    <section>
+      <num>EDU.01.04</num>
+      <heading>Removal</heading>
+      <text>The Tribal Council may remove any member of the Education Board by majority vote for neglect of duty or gross misconduct, provided that the member sought to be removed shall be given an opportunity to be heard at a designated council meeting.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.4</annotation>
+    </section>
+    <section>
+      <num>EDU.01.05</num>
+      <heading>Power To Appoint</heading>
+      <text>Any vacancies which occur on the Education Board shall be filled by appointment by the Tribal Council for the period of the unexpired term.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.5</annotation>
+    </section>
+    <section>
+      <num>EDU.01.06</num>
+      <heading>By-Laws</heading>
+      <text>The initially appointed Education Board shall be responsible for drawing up Bylaws to govern the Education Board, and shall submit these Bylaws to the Tribal Council for final approval within 60 days of their appointment.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.6</annotation>
+    </section>
+    <section>
+      <num>EDU.01.07</num>
+      <heading>Purpose</heading>
+      <text>The Education Board shall be formed for the purpose of facilitating maximum education services and maximum utilization of available resources for the people of the Stockbridge-Munsee Tribe, and shall be responsible to the Tribal Council for making recommendations for priorities, program development and planning, and for the general coordination of an education programs within the Stockbridge-Munsee Community.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.7</annotation>
+    </section>
+    <section>
+      <num>EDU.01.08</num>
+      <heading>Duties</heading>
+      <text>The Education Board shall perform all such duties as are required to effectively carry out the goals and objectives of the federal Johnson O'Malley, Title IV and Head Start programs, and any other future educational programs which the Tribe may participate in.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.8</annotation>
+    </section>
+    <section>
+      <num>EDU.01.09</num>
+      <heading>Advisory Capacity</heading>
+      <text>The Education Board shall act as an advisory board to the Head Start Parent Advisory Committee and shall be a liaison between the Head Start Parent Advisory Committee and the Tribal Council.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.9</annotation>
+    </section>
+    <section>
+      <num>EDU.01.10</num>
+      <heading>Monthly Minutes To Tribal Council</heading>
+      <text>It shall be the duty of the Education Board to submit regular monthly meeting minutes to the Tribal Council for its review.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.10</annotation>
+    </section>
+    <section>
+      <num>EDU.01.11</num>
+      <heading>Exclusivity</heading>
+      <text>Enactment of this ordinance centralizes responsibility and concern for tribal education matters in the Tribal Education Board, and removes such responsibility from all other existing tribal education committees.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.11</annotation>
+    </section>
+    <section>
+      <num>EDU.01.12</num>
+      <heading>Tribal Council Retains Authority</heading>
+      <text>This ordinance delegates authority and responsibilities to the Education Board without any concurrent loss of ultimate tribal authority, the tribal education board shall function as an official arm of the Stockbridge-Munsee Tribal Council on all education related matters and shall carry out the mandates of the Tribal Council with regard to education.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.12</annotation>
+    </section>
+    <section>
+      <num>EDU.01.13</num>
+      <heading>Amendment</heading>
+      <text>This ordinance shall be subject to amendment or the addition of further provisions by resolutions of the Stockbridge-Munsee Tribal Council.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 45, §45.13</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0689">Resolution No. 0689</cite>, adopted February 19, 1980, approved by BIA November 12, 1980.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1179">Resolution No. 1179</cite>, adopted February 13, 1990.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 078-96">Resolution No. 078-96</cite>, adopted October 1, 1996.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0004-13">Resolution No. 0004-13</cite>, adopted October 2, 2012.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>EDU.02</num>
+    <heading>Truancy</heading>
+    <section>
+      <num>EDU.02.01</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this code is to require the regular attendance at school of all school-age children living on the Stockbridge-Munsee Reservation and all tribal children who live off of the Stockbridge-Munsee Reservation and attend school within the Bowler School District and the Shawano/Gresham School District.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.1</annotation>
+    </section>
+    <section>
+      <num>EDU.02.02</num>
+      <heading>Authority</heading>
+      <text>This Code is enacted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section 1 (f) of the Constitution</cite> of the Stockbridge-Munsee Community.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.2</annotation>
+    </section>
+    <section>
+      <num>EDU.02.03</num>
+      <heading>Abrogation And Greater Restrictions</heading>
+      <text>When this code imposes greater restrictions than those contained in other tribal ordinances, codes, or resolutions, the provisions of this code shall govern.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.3</annotation>
+    </section>
+    <section>
+      <num>EDU.02.04</num>
+      <heading>Interpretation</heading>
+      <text>In its interpretation and application the provisions of this ordinance shall be held to be minimum requirements and shall be liberally construed in favor of the Tribe and shall not be deemed as a limitation upon or a repeal of any other tribal power or authority. The Tribe by adoption of this code does not waive its sovereign immunity in any respect.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.4</annotation>
+    </section>
+    <section>
+      <num>EDU.02.05</num>
+      <heading>Applicability</heading>
+      <text>This code shall apply to all Tribal children who reside on the reservation or any child who lives with a tribal member and resides on the reservation.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.5</annotation>
+    </section>
+    <section>
+      <num>EDU.02.06</num>
+      <heading>Definitions</heading>
+      <text>For the purpose of this code the following terms shall have the meaning ascribed below:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Adult" means any person 18 years of age or older who is not enrolled in the Bowler or Shawano/Gresham School Districts.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Child" means any person who is less than 18 years of age.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Member" means a person enrolled with the Stockbridge-Munsee Community, Band of Mohicans.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Reservation" means the area within the  boundaries of the Stockbridge-Munsee Reservation, which includes the entire townships of Bartelme and Red Springs.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"School" means the Bowler Public School or the Shawano/Gresham Public School and includes any alternative sites where instruction may occur.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"School Attendance" means physical presence of a child in school, and includes attending scheduled classes during such hours and on such days as determined by the school or, for students enrolled in alternative education programs, attendance at the place and during hours scheduled by the school for the student, unless excused from such attendance by school policy or state law.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"School Attendance Policy" means the current policy for school attendance duly adopted by the appropriate school board.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Tribal Child" means a child who is either an enrolled member of the Tribe, or is eligible for enrollment in the Tribe.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Tribal Court" means the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and <cite path="EDU|EDU.02">Chapter EDU.02</cite>.7.)</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Habitual Truancy" means a pupil who is absent from school without an acceptable excuse under <cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec 118.15</cite> for all or part of 5 or more days on which school is held during a semester.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Student" means one who attends school.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Band of Mohicans.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"School-age child" means a child age 6 to 18.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.6</annotation>
+    </section>
+    <section>
+      <num>EDU.02.07</num>
+      <heading>School Enrollment Required</heading>
+      <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), any person having under their control a school aged child shall enroll the child in school.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.7</annotation>
+    </section>
+    <section>
+      <num>EDU.02.08</num>
+      <heading>Requirement To Attend School</heading>
+      <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), or under a school policy governing school attendance, any person having under their control a child (as defined in <cite path="§EDU.02.07">Section EDU.02.07</cite>) age 6 or older shall cause the child to attend the school in which the child is or should be enrolled.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.8</annotation>
+    </section>
+    <section>
+      <num>EDU.02.09</num>
+      <heading>Truancy Prohibited.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Truancy is prohibited.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be unlawful for any person to cause, assist, or enable a child to be truant.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.9</annotation>
+    </section>
+    <section>
+      <num>EDU.02.10</num>
+      <heading>Enforcement</heading>
+      <text>The Indian Child Welfare Worker, Tribal Social Worker, or Tribal Law Enforcement Officer may enforce the provisions of this code.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any person authorized to enforce the provisions of this code may stop and question any person upon reasonable belief that the person has violated this code.  Any child shall provide identification and give his or her name, addresses, age and parental information to any person authorized to enforce this code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If, during school hours, a person authorized to enforce this code has probable cause to believe that a child is truant, the person may take the child into custody and transport the child to school and notify school authorities and parents of the child..</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.10</annotation>
+    </section>
+    <section>
+      <num>EDU.02.11</num>
+      <heading>Enforcement And Penalties</heading>
+      <text>The school must document the following steps before the Tribal Court hears a truancy petition:</text>
+      <para>
+        <num>(a)</num>
+        <text>Met with the child's parent or guardian to discuss the child's truancy or attempted to meet with the child's parent or guardian and received no response or were refused.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Provide an opportunity for educational counseling to the child to determine whether a change in the child's curriculum would resolve the child's truancy and to consider curriculum modification under <cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite> (1) (d).</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Evaluate the child to determine whether learning problems learning problems may be a cause of the child's truancy and, if so, take appropriate steps to overcome the learning problems, except that the child need not be evaluated if tests administered to the child within the previous year indicate that the child is performing at his or her grade level.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Conduct a review to determine whether social problems may be the cause of the child's truancy and, if so, take appropriate action or make appropriate referrals.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Contact law enforcement to issue a citation for truancy.</text>
+        <text>Once referred to Tribal Court, the child, the child's parent, and the person responsible for the child if not the parent shall be summoned in accordance with Tribal Court procedure. If summoned to Tribal Court, appearance is mandatory by both the child and the parent, legal guardian, or legal custodian.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.11</annotation>
+    </section>
+    <section>
+      <num>EDU.02.12</num>
+      <heading>Unit Of Prosecution</heading>
+      <text>Regardless of the number of incidents of truancy in a single day, a child may not be prosecuted for more than one truancy violation per school day.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.12</annotation>
+    </section>
+    <section>
+      <num>EDU.02.13</num>
+      <heading>Penalties</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any child convicted of truancy under <cite path="§EDU.02.10|(a)">Section EDU.02.10(a)</cite> shall be subject to a minimum  penalty of community services hours equal to the number of school hours truant, with a maximum civil money penalty of $25.00 and/or seven (7) community services hours per incident of truancy.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any child who is convicted of aiding another child's truancy shall be subject to a minimum penalty of community service hours equal to the number of school hours the other child was truant, with a maximum civil money penalty of not more than $50.00 and/or fourteen (14) community service hours.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any adult who is convicted of aiding a child's truancy shall be subject to a penalty not less than $50.00, but not to exceed $500.00. The presiding judge is authorized to order community service in his/her discretion.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In addition to the imposition of civil forfeitures and community service hours for violations of this <cite path="EDU|EDU.02">Chapter EDU.02</cite>, the Tribal Court may impose other remedies including but not limited to: mental health counseling, alcohol assessment and counseling, limitations on the use of public facilities within the boundaries of the Stockbridge-Munsee Reservation and loss of privileges that go with tribal membership.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.13</annotation>
+    </section>
+    <section>
+      <num>EDU.02.14</num>
+      <heading>_</heading>
+      <text>If the Tribal Court determines a child is habitually truant, the court may order the appropriate tribal agency to initiate an in-depth investigation into the child's background to determine if a Youth-in-Need-of-Care petition should be filed.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.14</annotation>
+    </section>
+    <section>
+      <num>EDU.02.15</num>
+      <heading>_</heading>
+      <text>Nothing herein shall prohibit the referral of a tribal child to the appropriate tribal agency for the filing of a Petition for Fact Finding under <cite path="YAE|YAE.02">Chapter YAE.02</cite> of Stockbridge-Munsee Tribal Law.  A Petition for Fact Finding may be filed regarding any tribal child who has been truant for five (5) days or more in any 90 school day period.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.15</annotation>
+    </section>
+    <section>
+      <num>EDU.02.16</num>
+      <heading>_</heading>
+      <text>The Tribal Court shall have jurisdiction over cases brought to enforce this code.  Proceedings shall be conducted in accordance with applicable Stockbridge-Munsee Tribal laws.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 13, §13.16</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 226-97">Resolution No. 226-97</cite>, adopted June 17, 1997.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 013-02">Resolution No. 013-02</cite>, adopted March 5, 2002, approved by BIA March 28, 2002.</annotation>
+    </annotations>
+  </container>
+</container>

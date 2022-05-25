@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 002-06">
+  <num>002-06</num>
+  <heading/>
+  <meta>
+    <ordinance>Revenue Allocation Plan</ordinance>
+    <effective/>
+    <history>
+      <adopted>2006-10-11</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 002-06</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937  Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Class III gaming per capita payments are governed and regulated by Chapter 27, the Revenue Allocation Plan; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 46, Housing currently contains a clause that allows for a landlord remedy that could allow for per capita payments to be attached for rent payments, which would contradict Chapter 27.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby amends <cite doc="Stockbridge-Munsee Tribal Code" path="46.6" proof="needed">Section 46.6</cite>-8(A)(5).</text>
+    </recital>
+  </recitals>
+  <annotations>
+    <annotation type="Legislative History">Amended <cite path="§46.6">Section 46.6</cite>-8(A)(5).</annotation>
+  </annotations>
+</document>

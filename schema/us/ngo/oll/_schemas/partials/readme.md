@@ -1,0 +1,1 @@
+Partials should not contain any target namepace. They're used as building parts for concrete schemas - the ones with the target namespace defined. Note that partials do not import each other (for example default.xsd doesn't reference codify schemas) because they don't have target namespace defined at this point. That should be done in a release folder (v{n}.{m} ex. v0.1).

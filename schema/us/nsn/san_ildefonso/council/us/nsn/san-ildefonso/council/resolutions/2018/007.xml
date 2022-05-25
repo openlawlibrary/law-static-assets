@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R18-007">
+  <num>SI-R18-007</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-007</heading>
+  <heading type="law">Submittal for 23 U.S.C 202 Tribal Transportation Planning (6K1) and the Tribal Transportation Program (TTP) (66K) Funding</heading>
+  <meta>
+    <effective>2018-05-23</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-007</citation>
+    </citations>
+    <history>
+      <adopted>2018-05-22</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 22nd day of May, 2018, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.17</num>
+      <heading>Submittal for 23 U.S.C. 202 Tribal Transportation Planning (6K1) and the Tribal Transportation Program (TTP)(66K) Funding</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-007"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="|6.5.17.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="|6.5.17">
+        <section>
+          <num>6.5.17.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under the authority granted by Chapter 2 of Title 23, United States Code, as amended by the Fixing America's Surface Transportation (FAST) Act, Pub. L. 114-94, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part §170.423 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>Under the authority granted by Chapter 2 of Title 23, United States Code, as amended by the Fixing America's Surface Transportation (FAST) Act, Pub. L. 114-94, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part §170.423 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to contract the Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
+      <text>
+        <ul>
+          <li>TTP Tribal Transportation Improvement Plan (TTIP/Control Schedule)</li>
+          <li>Proposed Statement of Work for Planning, Design, Construction and/or Road Maintenance Supplemental</li>
+          <li>Budget</li>
+          <li>Tribal Resolution to Enter into a Pub. L. 93-638 contract</li>
+        </ul>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>To contract the Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
+          <para>
+            <num>(1)</num>
+            <text>TTP Tribal Transportation Improvement Plan (TTIP/Control Schedule)</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Proposed Statement of Work for Planning, Design, Construction and/or Road Maintenance Supplemental Budget</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Budget</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Tribal Resolution to Enter into a Pub. L. 93-638 contract</text>
+          </para>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SWRO-DOT encourages the Tribe to submit the TTP-TTIP/Control Schedule for review and approval; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>The SWRO-DOT encourages the Tribe to submit the TTP-TTIP/Control Schedule for review and approval.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has prepared a TTP-TTIP/Control Schedule for the following projects:</text>
+      <ul>
+        <li>TTP Projects:</li>
+        <ul>
+          <li>Transportation Planning</li>
+          <li>Road Maintenance Supplemental</li>
+          <li>NP421 Hay Gan Po</li>
+          <li>NP403 Tunyo Po</li>
+          <li>NP404 Tunyo Loop (Black Mesa Loop)</li>
+        </ul>
+        <li>23 U.S.C 204(j):</li>
+        <ul>
+          <li>Planning</li>
+        </ul>
+      </ul>
+      <codify:insert display-template="">
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has prepared a TTP-TTIP/Control Schedule for the following projects:</text>
+          <para>
+            <num>(1)</num>
+            <text>TTP Projects:</text>
+            <para>
+              <num>(A)</num>
+              <text>Transportation Planning</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Road Maintenance Supplemental</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>NP421 Hay Gan Po</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>NP403 Tunyo Po</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>NP404 Tunyo Loop (Black Mesa Loop)</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>23 U.S.C 204(j):</text>
+            <para>
+              <num>(A)</num>
+              <text>Planning</text>
+            </para>
+          </para>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby approves the FY2018-FY2022 Control Schedule, Statement of Work and Budgets (attached); and</text>
+      <codify:insert path="|6.5.17">
+        <section>
+          <num>6.5.17.020</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves the FY2018-FY2022 Control Schedule, Statement of Work and Budgets (attached).</text>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>that the Pueblo request to enter into a new Pub. L. 93-638 contract with the funds; and</text>
+      <codify:insert path="|6.5.17">
+        <section>
+          <num>6.5.17.030</num>
+          <text>The Pueblo request to enter into a new Pub. L. 93-638 contract with the funds.</text>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <codify:insert path="|6.5.17">
+        <section>
+          <num>6.5.17.040</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </section>
+      </codify:insert>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on May, 2018, at a meeting with a vote of 8 in favor, 0 opposed, 0 abstaining and 2 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):       Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R18-007 was presented to the Governor of the Pueblo de San Ildefonso on the 22nd day of May, 2018, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{    } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this __________ day of _______________________, 2018.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2018.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+</document>

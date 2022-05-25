@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 025-18">
+  <num>025-18</num>
+  <heading/>
+  <meta>
+    <ordinance>Tribal Court Code</ordinance>
+    <effective/>
+    <history>
+      <adopted>2018-03-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/025-18.pdf">Stockbridge-Munsee Tribal Council Res. No. 025-18</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Legislative History">Added primary election process.</annotation>
+  </annotations>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 49, the Election Ordinance, establishes the system that the Tribe uses to conduct impartial and equitable elections;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In an advisory referendum held as part of the 2017 election, the majority of voters supported the addition of a primary election to the annual election cycle;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Along with adding a primary election, the Tribal Council wishes to update Chapter 49 to add a contested ballot process, clarify that the ordinance is used as guidance for conducting recall elections and address how election appeals are handled by the Election Board and Tribal Court;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 49, which make the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>Amended sections:  Introduction, <cite doc="Stockbridge-Munsee Tribal Code" path="49.1|(A)" proof="needed">49.1(A)</cite>, (D), (E); <cite doc="Stockbridge-Munsee Tribal Code" path="49.2" proof="needed">49.2</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.3" proof="needed">49.3</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.5" proof="needed">49.5</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.6|(A)" proof="needed">49.6(A)</cite>, (B), (C), (D), (E)(3); <cite doc="Stockbridge-Munsee Tribal Code" path="49.7" proof="needed">49.7</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.8|(A)" proof="needed">49.8(A)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.9|(A)" proof="needed">49.9(A)</cite>, (D); <cite doc="Stockbridge-Munsee Tribal Code" path="49.11|(A)" proof="needed">49.11(A)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.11" proof="needed">49.11</cite>.5(B); <cite doc="Stockbridge-Munsee Tribal Code" path="49.11" proof="needed">49.11</cite>.7(A), (C); <cite doc="Stockbridge-Munsee Tribal Code" path="49.12|(A)|(3)" proof="needed">49.12(A)(3)</cite>, (B), (B)(1), (B)(1)(a-b), <cite doc="Stockbridge-Munsee Tribal Code" path="49.12|(B)|(2)|(c-d)" proof="needed">49.12(B)(2)(c-d)</cite>, (B)(3); <cite doc="Stockbridge-Munsee Tribal Code" path="49.12" proof="needed">49.12</cite>.5 (B), (C), (D), (E), (F); <cite doc="Stockbridge-Munsee Tribal Code" path="49.16|(A)" proof="needed">49.16(A)</cite>, (B), and (C).</li>
+          <li>Added new sections:  <cite doc="Stockbridge-Munsee Tribal Code" path="49.1|(A)|(3-4)" proof="needed">49.1(A)(3-4)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.6|(B)|(1-2)" proof="needed">49.6(B)(1-2)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.6|(D)" proof="needed">49.6(D)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.6|(E)|(1)" proof="needed">49.6(E)(1)</cite>,(2), (3)(i-ii) and (4); <cite doc="Stockbridge-Munsee Tribal Code" path="49.6" proof="needed">49.6</cite>.5; <cite doc="Stockbridge-Munsee Tribal Code" path="49.8|(R)|(3)|(a-b)" proof="needed">49.8(R)(3)(a-b)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.8|(U)" proof="needed">49.8(U)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.8" proof="needed">49.8</cite>.5; <cite doc="Stockbridge-Munsee Tribal Code" path="49.11|(A)|(1-2)" proof="needed">49.11(A)(1-2)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="49.12|(B)|(2)" proof="needed">49.12(B)(2)</cite>, (4), (5); <cite doc="Stockbridge-Munsee Tribal Code" path="49.12" proof="needed">49.12</cite>.5(A), (E)(1-2), (F)(1-5), (G), (H); <cite doc="Stockbridge-Munsee Tribal Code" path="49.12" proof="needed">49.12</cite>.5(G); <cite doc="Stockbridge-Munsee Tribal Code" path="49.16|(D)" proof="needed">49.16(D)</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="49.19" proof="needed">49.19</cite>.</li>
+          <li>Reordered sections: <cite doc="Stockbridge-Munsee Tribal Code" path="49.12|(A)" proof="needed">49.12 (A)</cite> and (B).</li>
+          <li>Deleted section:  <cite doc="Stockbridge-Munsee Tribal Code" path="49.12|(A)|(7)" proof="needed">49.12(A)(7)</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+</document>

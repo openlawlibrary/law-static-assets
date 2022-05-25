@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 026-18">
+  <num>026-18</num>
+  <heading/>
+  <meta>
+    <ordinance>Tax</ordinance>
+    <effective>2021-01-28</effective>
+    <history>
+      <adopted>2018-03-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/026-18.pdf">Stockbridge-Munsee Tribal Council Res. No. 026-18</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite>, the Construction Sales Tax Ordinance, was adopted in 1990 by Tribal Council resolution and has not been amended since; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="57-A">Chapter 57-A</cite>, the Room Tax Ordinance, was adopted in 2010 by Tribal Council Resolution and has not been amended since; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The proposed revisions to <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> have been posted for public comment for thirty (30) days and no comments were submitted; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The authority to enact a sales tax is vested in the Stockbridge-Munsee Community by its Constitution and By-Laws, and particularly by Article VII, Powers; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The revised <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> Tax Ordinance establishes a comprehensive tribal tax regime that incorporates both a sales tax and a hotel occupancy tax, as well as the related administrative process.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter <cite doc="Stockbridge-Munsee Tribal Code" path="57">57</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="57-A">57-A</cite> which include the following changes:</text>
+    </recital>
+    <text>
+      <ul>
+        <li>Rescind Existing <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> Construction Sales and <cite doc="Stockbridge-Munsee Tribal Code" path="57-A">Chapter 57-A</cite> Room Tax Ordinance and replace with comprehensive <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> Tax Ordinance; and</li>
+        <li>Addition and incorporation of an Occupancy Tax, Sales Tax and administrative process into revised <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite>.</li>
+      </ul>
+    </text>
+  </recitals>
+  <codify:replace path="TAX.02">
+    <container>
+      <num>TAX.02</num>
+      <prefix>Chapter</prefix>
+      <heading></heading>
+      <reason>Recodified</reason>
+      <text>Content recodified as part of <cite doc="Stockbridge-Munsee Tribal Code" path="TAX.01">TAX.01</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§TAX.02 was formerly codified as Chapter 57-A</annotation>
+        <annotation type="Legislative History">3. On March 6, 2018, in Resolution #026-18, the Tribal Council rescinded the existing Chapter 57 (Construction Tax Ordinance) and Chapter 57-A (Room Tax Ordinance) to adopt a new Tax Ordinance as Chapter 57. The new Chapter 57 establishes a more comprehensive tribal tax regime that incorporated both a sales tax and a hotel occupancy tax, as well as the related administrative process. The Tribe affirmed its adoption of the ordinance on January 21, 2021 in Resolution #017-21 after the BIA declined to act for timeliness. The new Tax Ordinance was approved by the BIA on January 28, 2021.</annotation>
+        <annotation type="Legislative History">2. Prior to publication, the Room Tax Ordinance was numbered as <cite doc="Stockbridge-Munsee Tribal Code" path="TAX|TAX.02">Chapter TAX.02</cite> of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</annotation>
+        <annotation type="Legislative History">1. On July 6, 2010, the Stockbridge-Munsee Tribal Council adopted a new ordinance titled the "Room Tax Ordinance" by Resolution 047-10.  The ordinance was approved by the BIA on August 13, 2010.</annotation>
+        <annotation type="Legislative History">Room Tax provisions have been integrated into <cite doc="Stockbridge-Munsee Tribal Code" path="TAX|TAX.01">Chapter TAX.01</cite>.</annotation>
+      </annotations>
+    </container>
+  </codify:replace>
+  <codify:find-replace path="TAX.01" count="1">
+    <find>Construction Sales Tax Ordinance</find>
+    <replace>Tax Ordinance</replace>
+  </codify:find-replace>
+  <codify:replace path="TAX.01.01">
+    <section>
+      <num>TAX.01.01</num>
+      <heading>General</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Title.</heading>
+        <text>This Tax Ordinance shall be entitled the Stockbridge-Munsee Community Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Authority.</heading>
+        <text>This Tax Ordinance is enacted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(e)">Article VII, §1(e)</cite>, <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">(f)</cite>, <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(g)">(g)</cite>, of the Stockbridge-Munsee Community (the "Tribe") Constitution ("Constitution") and By-Laws ("By-Laws").</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Tax Administration Rules And Regulations.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Stockbridge-Munsee Community Tax Commission (the "Tax Commission") is empowered to administer the tax laws of the Tribe and, to that end, shall adopt rules and regulations, both substantive and procedural, orders implementing its decisions, rulings, and instructions, as necessary for the proper and efficient administration of those laws.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tax Commission shall adopt such other rules and regulations (the "Tax Regulations") necessary to interpret and execute its authority, to interpret and enforce the Tax Ordinance, to establish the manner and means for compliance with the Tax Ordinance, and to set forth the requirements for the administration of taxes and the general tasks and responsibilities of the Tax Commission and its offices.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Purpose.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The purpose of this Tax Ordinance is:</text>
+          <para>
+            <num>(A)</num>
+            <text>to raise revenue for financial support of the Tribe's tribal government operations and administration;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>to further tribal self-government and self-determination for the benefit of the health, education and welfare of the Tribe; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>to provide a statutory basis for exercising its sovereign authority to levy taxes, raise revenue and appropriate available tribal funds for public purposes.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as otherwise provided herein, taxes collected under this Ordinance shall be paid into the Tribal Tax Fund and applied in accordance with Tribal Laws.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="TAX.01.02">
+    <section>
+      <num>TAX.01.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless otherwise defined in this Tax Ordinance, capitalized terms shall have the meaning given them in the Tax Regulations. Terms not defined in this Tax Ordinance or in the Tax Regulations shall have the meaning given them in the Internal Revenue Code of 1986, as amended. The definitions provided in this Tax Ordinance and the Tax Regulations are provided for the sole purpose of proper interpretation of this Tax Ordinance and shall be determinative unless a contrary meaning is clear from the context.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Occupancy Tax" means the tax imposed in <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.20">Section TAX.01.20</cite> through <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.23">Section TAX.01.23</cite> of the Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Occupancy Tax Code" means the Tribe's Occupancy Tax Code contained in <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.20">Section TAX.01.20</cite> through <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.23">Section TAX.01.23</cite> of the Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Individual" means a natural person.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Period" is defined to mean a calendar quarter or any other reporting period established by regulation.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Person" is defined to include but is not limited to any individual, firm, co-partnership, joint venture, association, social club, fraternal organization, corporation, estate, trust, business trust, receiver, assignee for the benefit of creditors, trustee, trustee in bankruptcy, syndicate, the United States, the State of Wisconsin, any county, city, municipality, district, or other political subdivision of the State of Wisconsin, another state or its political subdivisions, the community, or any of its political subdivisions, or any other group or combination acting as a unit.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Property" is defined to mean and include all tangible personal property of every kind and description, including without limitation, goods of every kind and description, food and beverages, except property upon which some other tax is expressly imposed in lieu of the Tax imposed by this Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Regulations" means the regulations adopted by the Commission.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Related Persons" means two or more Businesses owned or controlled, directly or indirectly, by the same person and, as applied to individuals, means two or more individuals who have a legal relationship arising out of marriage, adoption, or blood, through the third degree of kinship.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Return" means the declaration, report, form, or return required to be filed under the Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Sale," "Sale, Lease or Rental," "Retail Sale," "Sale at Retail," or equivalent terms include any one or all of the following: transfer of ownership of, title to, possession of, or enjoyment of Property, Motor Vehicle Fuel, or Services for use or consumption, but not for resale of Property or Services. Sale does not include:</text>
+        <para>
+          <num>(1)</num>
+          <text>The transfer of Property where the transferee does not intend to, and does not use or consume the transferred Property, and instead offers such transferred Property for resale;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The transfer of Property to a corporation, a limited liability company or a partnership upon its organization solely in consideration for the issuance of its stock in the corporation, a membership interest in the limited liability company, or a partnership interest in the partnership;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The transfer of Property to a corporation or a limited liability company, solely in consideration for the issuance of its stock in the corporation or a membership interest in the limited liability company, pursuant to a merger or consolidation;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The distribution of Property by a corporation to its stockholders as a dividend or in whole or partial liquidation;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The distribution of Property by a limited liability company to its members or a partnership to its partners, in whole or partial liquidation;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Repossession of Property by the Seller from the purchaser when the only consideration is cancellation of the purchaser's obligation to pay the remaining balance of the purchase price;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The transfer of Property in a reorganization, as defined in §368 of the Internal Revenue Tax Ordinance of the United State, in which no gain or loss is recognized for income tax purposes; or</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any transfer if all or substantially all of the Property held or used by a person in the course of an activity requiring a Sales Tax registration certificate, if after the transfer the real or ultimate ownership of the property is substantially similar to that which existed before the transfer. For purposes of this paragraph, "substantially similar" means 80% or more of ownership.</text>
+        </para>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Sales Tax" means the tax and any interest, penalty, or cost imposed or assessed in the Sales Tax Code.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Sales Tax Code" means the Tribe's Sales Tax Code contained in <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.15">Section TAX.01.15</cite> through <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.18">Section TAX.01.18</cite> of the Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Service" is defined to mean all acts or services rendered, furnished or performed, except services performed on tangible personal property delivered outside the jurisdiction of the Tribe, services used in processing tangible personal property for use in taxable retail sales or services, or services for an employer for a valuable consideration. The tax shall be due and collectible when the service is rendered, furnished, or performed for the ultimate user thereof.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Seller" means and includes any Person who in the ordinary course of business sells, leases, or rents any Property or performs or furnishes Services to a Person, whether the sale or service would be described as a "wholesale" or "retail" sale. Seller also means any Person who sells the use or possession or the right to use, possession, or occupancy, or for the right to use, or occupy a room or space.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Tax" and "Taxes" means any tax and any interest, penalty or cost imposed or assessed under the Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Tax Ordinance" means the chapters of this Tax Ordinance and any other tax ordinance hereinafter adopted by the Tribe.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Tax Commission" means the Stockbridge-Munsee Community Tax Commission.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Tax Commissioner" for the purposes of this ordinance means the Tax Commissioner for the Tribe.  In the event there is no separately appointed Tax Commissioner by the Tribal Council, the Tribe's Chief Financial Officer shall serve as the Commissioner.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Tax Regulations" means the regulations adopted by the Tax Commission pursuant to its authority under this Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"Taxpayer" means a Business, Person, Related Person, or Seller who is liable for Taxes imposed or assessed.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"Tribal Treasurer" means the position elected pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV">Article IV</cite>, of the Tribe's Constitution and responsible for the duties identified in <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|bylaws|I|4">Article 1, §4</cite> of the By-laws of the Tribe.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>"Tribal Council" means the Tribal Council of the Stockbridge-Munsee Community as identified in <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV">Article IV</cite>, of the Tribe's Constitution.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"Tribal Court" means the Stockbridge-Munsee Community Tribal Court.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"Tribal Lands" means all of the land within the jurisdiction of a federally recognized Indian tribe, including:  all lands located within the exterior boundaries of a reservation, any other lands the legal title to which is held in trust by a federal government for the benefit of said tribe, and any tribally-owned fee land.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text>"Tribal Roadways" means roadways located on Tribal Land over which the Tribe exercises dominion and control.</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>"Tribal Tax Fund" shall mean a Tribal fund established and administered by the Tribal Council in accordance with Tribal Laws, which shall serve as the depository for all Tribal tax revenue.</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community a federally recognized Indian tribe organized under the Indian Reorganization Act of 1934.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="TAX.01.03">
+    <section>
+      <num>TAX.01.03</num>
+      <heading>Liability For Taxes</heading>
+      <text>Taxes assessed under this Tax Ordinance are the liability of the Taxpayers.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="TAX.01.04">
+    <section>
+      <num>TAX.01.04</num>
+      <heading>Authority To Abate</heading>
+      <text>The Tax Commission may abate any part of an assessment which it determines was incorrectly, erroneously, or illegally made, as long as such abatement is: (i) in response to a written request before any court acquires jurisdiction in the matter; and (ii) made after an original assessment is found to be incorrect.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="TAX.01.05">
+    <section>
+      <num>TAX.01.05</num>
+      <heading>Closing Agreements</heading>
+      <text>If at any time after a final assessment of Taxes, the Tax Commission in good faith is in doubt of the liability of the Taxpayer for the payment thereof, it may compromise the liability by entering into a written closing agreement with the Taxpayer that adequately protects the interest of the Tribe, provided that the agreement will be subject to final approval by the Tribal Council. Any such agreement shall preserve the sovereign immunity of the Tribe and the jurisdiction of the Tribal court, and be subject to all of the laws of the Tribe.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="TAX.01.06">
+    <section>
+      <num>TAX.01.06</num>
+      <heading>Confidentiality Rule</heading>
+      <text>Information received by the Tax Commission is confidential and protected under the disclosure rules set forth in the Tax Regulations.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="TAX.01.07">
+    <section>
+      <num>TAX.01.07</num>
+      <heading>Examination And Audits</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tax Commission may make an inquiry and/or proceed with an examination under summons, including the taking of testimony as set forth in the Tax Regulations in the following circumstances:</text>
+        <para>
+          <num>(1)</num>
+          <text>for the purpose of an assessment or the making of a required return where none has been made;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to determine the correctness of any return;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to determine the liability of any person for taxes;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>to determine the liability of any transferee or fiduciary of any person for tax purposes; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>to collect any tax liability.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.08</num>
+      <heading>Notice Deemed Effective</heading>
+      <text>The Tax Commission's required notice may be effectively given to a Person by mailing the notice to the last address designated by the Person. The foregoing is not intended to exclude the use of other methods of providing notice, including publication in the tribal or local newspapers.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.8</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.09</num>
+      <heading>Enforcement</heading>
+      <text>Jurisdiction over enforcement of the provisions of the Tax Ordinance is conferred upon the Tribe's Tribal Court. The Court shall apply <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.23">Section TCT.02.23</cite> Administrative Appeals to an appeal to the Court under this Tax Ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.9</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.10</num>
+      <heading>Record Keeping</heading>
+      <text>Every Taxpayer shall keep full and true records of any Tax, any interest, penalty or cost imposed or assessed under this or any subsequent Tax Ordinance of the Tribe. Record keeping shall be in compliance with any applicable Tax Commission Rules, regulations or procedures and such records shall be available upon request to the Tax Commission. Records required to be kept under <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.11">Section TAX.01.11</cite> shall be preserved for seven years beyond the time a Tax is paid or if no payment is due, seven years beyond the end of the period to which the records relate.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.10</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.11</num>
+      <heading>Tax Commission Regulations And Filing Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Tax Commission Established.</heading>
+        <text>The Tax Commission is hereby established pursuant to the constitutional authority of the Tribal Council to provide for the levying and collection of taxes pursuant <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, §1(f)</cite> to the Tribe's Constitution and shall be subject to the provisions of this Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Duties Of Tax Commission.</heading>
+        <text>In addition to such the duties and powers set forth elsewhere in this Tax Ordinance, the Tax Commission shall have the duties and powers set forth in the Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Tax Commission Membership.</heading>
+        <text>The Tax Commission shall be composed of a sole Tax Commissioner.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Office Of The Tax Commissioner.</heading>
+        <text>The Tribal Council may delegate to the office of the Tax Commissioner complete and sole oversight and authority to administer the Tax Ordinance according to the Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Investigations; Deficiency And Refund Determination.</heading>
+        <text>The Tax Commission's investigative authority includes, without limitation, the power to inspect property, to examine and require the production of any pertinent books, records, information or evidence, to require the presence of any Person and require testimony under oath concerning the subject matter of an inquiry, and to make a permanent record of proceedings.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Tax Commission's Right To Offset.</heading>
+        <text>The Tax Commission may offset the amount of any refund for a Period or Periods, against deficiencies for another Period or Periods, or against any penalties and interest on the deficiencies, or against any amount of whatever kind, due and owing on the books of the Tax Commission from the Taxpayer claiming the refund.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Finality Of Tax Commission's Determination.</heading>
+        <text>Any Tax Commission determination shall be final unless, within 30 days after receipt of a notice of determination, the Taxpayer petitions the Tax Commission for a redetermination. A redetermination shall proceed in accordance with the Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Tax Regulations.</heading>
+        <text>The Tax Commission from time to time shall adopt the Tax Regulations in accordance with the rules in this Tax Ordinance. The Tax Regulations shall be approved by the Tax Commission and submitted to Tribal Council at the next regularly scheduled meeting for comment and input. If the Tribal Council takes no action, the regulations shall become effective following the meeting.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>General Information Authority.</heading>
+        <text>The Tax Commission shall, to the extent it deems practical, make inquiries of any and all Persons owning or having the possession and/or management of any Property with respect to which any Tax is imposed and any and all Persons who may be liable for any Tax of the Tribe.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Returns; Filing And Payment Requirements.</heading>
+        <text>The form and requirements concerning Returns, and the place and manner of filing Returns and paying Taxes, shall be as set forth in the Tax Regulations.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.11</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.12</num>
+      <heading>Assessments And Noncompliance Penalties</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Failure To File Or Pay.</heading>
+        <text>If the Tax Commission determines that a Person failed to file a Return, failed to pay any Tax imposed by this Tax Ordinance, or filed a Return with the intent to avoid or evade Tax required to be paid, the Tax Commission may estimate the amount of Taxes due under this Tax Ordinance in accordance with the Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Consequences For Violation Of Tax Ordinance.</heading>
+        <text>Upon its finding that a Taxpayer has not complied with this Tax Ordinance, the Tax Commission is authorized to impose interest, penalties and costs, and to take such other actions described in the Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Assessment Powers.</heading>
+        <text>The Tax Commission is empowered to determine and assert against a Taxpayer liability for Tax, interest, penalties, or costs when Tax payments are deficient or not made.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Examination Procedure.</heading>
+        <text>Upon completion of the examination of a Taxpayer, the Tax Commission shall provide the Taxpayer with a written statement of findings for any determination that alters a liability for Tax, interest, or penalties, and shall issue a notice of assessment (or refund) for any amounts due (or overpayment). If no such determination is made, the Tax Commission may issue a letter stating that there is no change for the assessment date or Period examined.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Notice Requirements.</heading>
+        <text>A notice of assessment (or refund) requires the payment of the amount assessed (or remittance of the refund) by a time not less than thirty (30) days after the date of the notice. The Taxpayer must comply with (or accede to) the terms of the notice and, within the time allowed in the notice, may request a redetermination or may seek an informal conference under this Section.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Refund And Abatement Powers.</heading>
+        <text>The Tax Commission is empowered to provide a refund upon an overpayment and an abatement upon the compromise of a liability in accordance with the terms of a Closing Agreement.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.12</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.13</num>
+      <heading>Collection And Appeals</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Collection Powers.</heading>
+        <text>The Tax Commission has the power and authority to collect any Taxes assessed under this Tax Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Return And Payment.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A Seller required to collect the Tax imposed by this Code shall pay the Commission the Tax collected during the preceding Period, not later than 30 days following the end of the preceding Period. At the same time, the Seller shall file with the Commission a Return and remit amounts owed in a manner prescribed by Stockbridge-Munsee Tax Regulations and Tax Commission.  When it appears that the Return filed by a Seller does not reflect the Tax due under this Code, the Commissioner shall assess the Seller for the deficiency, interest, penalties, and costs, and the Seller shall be liable for the same.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If no return is timely filed, the Commission shall make an estimate of the Tax due and assess the Seller responsible for collecting the Tax due under this Code for that Tax, including interest, penalties, and costs. This assessment is binding on the Seller unless shown to be clearly erroneous.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If a Seller fails to provide information within its possession or control that is relevant to a determination of taxes due and which it is required to provide under this Code, the Commission shall make an estimate of the Tax due and shall assess the Seller for that tax, including interest, penalties, and costs. Such assessment is binding on the Seller unless it is shown that the assessment, on the basis of the best information available to the Commission, was clearly erroneous or unless the Commission for other good cause shown relieves the Seller from the operation of <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.22">Section TAX.01.22</cite>.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>After a Return is due, the Commission may make any examination of the records and accounts of the Person making the Return that it deems necessary for determining the correctness of a Return, or to determine the amount of Tax due if no Return is filed for a Period. The Tax computed on the basis of such examination shall be the Tax due. If the Tax due is found to be greater than the tax paid, such excess shall be paid within ten days after receipt of notice. Such notice shall be given either personally or sent by registered mail to the address listed on the Return, or to the Seller's last known address if no Return is filed. If the Tax paid is greater than the Tax found to be due, the excess paid shall be refunded to the address listed on the Return.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>No Waiver Of Sovereign Immunity.</heading>
+        <text>Nothing in this Tax Ordinance or in the Tax Regulations, nor any action of the Tax Committee shall be considered a waiver of the Tribe's Sovereign Immunity.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Delinquent Liabilities.</heading>
+        <text>All Taxes, interest, penalties, and costs assessed are a debt due and owing the Tribe from the Taxpayer or other Person. If an assessment is not paid when due, the Tax Commission may bring an action against the delinquent party for the collection of the liability, interest, penalties, and costs, and other lawful charge thereon. In such action, the Tax Commission shall have the benefit of all applicable laws providing remedies against property or rights to property, real or personal, of the Person liable for the assessment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Demand For Collection.</heading>
+        <text>A notice of assessment requires the collection of the amount by the date therein; and, any amount of Taxes reported in a Return filed by a Taxpayer or otherwise due pursuant to the terms of this Tax Ordinance and not paid by the due date are collectible as of that date without further notice. Absent a stay granted pursuant to this Tax Ordinance, the amount of the notice or the report amount not paid is a delinquent liability and is subject to a demand for payment issued to the delinquent Taxpayer to commence collection action.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Limitations Of Actions.</heading>
+        <text>The Tax Commission must proceed with assessment and collection of the Taxes imposed by this Tax Ordinance within the period of limitation established under the Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Administrative Appeal.</heading>
+        <text>Appeals from assessments and denials of refund must be made first to the Tax Commission according to procedures under the Tax Regulations. Appeals from final actions of the Tax Commission, including but not limited to assessments, denial of refund, and a suspension order, shall be made only to the Tribal Court of the Tribe pursuant to <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.23">Section TCT.02.23</cite> Administrative Appeals.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Appeal To The Court.</heading>
+        <text>Upon a final action of the Tax Commission, the Taxpayer may then appeal to the Tribal Court. The request for appeal must be filed with the Tribal Court within thirty (30) days after issuance of the Tax Commission's order. No suit to restrain the assessment or collection of the Taxes imposed by this Tax Ordinance shall be maintained in any court other than the Tribal Court, by any person, whether or not such Person is the one against whom such Taxes were assessed. The Court shall apply <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.23">Section TCT.02.23</cite> Administrative Appeals.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Jurisdiction Of Court.</heading>
+        <text>The Tribal Court is vested with exclusive jurisdiction:</text>
+        <para>
+          <num>(1)</num>
+          <text><u>Persons.</u> Over any and all Persons subject of this Tax Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><u>Subjects.</u> To hear and determine any challenge to the validity of this Tax Ordinance, either generally or as applied to any Person, subject to compliance with the regulations governing administrative appeals.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text><u>Review on Appeal.</u> Review of Tax Commission actions shall be on the record made in the Tax Commission and not de novo, and shall be limited to the determination whether the action of the Tax Commission was not supported by the evidence, or was arbitrary, capricious, an abuse of discretion, beyond its authority, or otherwise contrary to the Tribe's tribal law.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text><u>Actions of the Tribal Court.</u> The Tribal Court shall be empowered to affirm, reverse, or to remand the matter to the Tax Commission for further action, and it may stay the effect of an order suspending a right to engage in productive activity, pending the appeal.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.13</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.14</num>
+      <heading>Tax Receipts</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Tax Receipts And Disbursements.</heading>
+        <text>Except as otherwise provided herein, all monies received by the Tax Commission as Taxes shall be deposited immediately into the Tribal Tax Fund.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Duties Of Tribal Treasurer.</heading>
+        <text>Except as otherwise provided herein, taxes collected under this Ordinance shall be paid into the Tribal Tax Fund.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.14</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.15</num>
+      <heading>Sales Tax Code: Purpose</heading>
+      <text>The purpose of this Sales Tax Code is to provide a revenue-generating income source to strengthen tribal self-government, and to assure security for the future of the health, welfare, and general well-being of Tribal members. The revenue generated hereunder shall be deposited into the Tribal Tax Fund and used for governmental purposes of the Tribe, as determined at the discretion of the Tribal Council.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.15</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.16</num>
+      <heading>Imposition Of Sales Tax</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Imposition Of Sales Tax On Sale Of Personal Property.</heading>
+        <text>For the privilege of doing Business within the Tribal Lands, a Sales Tax is imposed upon all Sellers on the Gross Receipts from the Sale, Lease or Rental of Property, including accessories, components, attachments, parts, supplies and materials, sold, leased or rented on Tribal Lands, at a rate set forth in the Tax Regulations. The Tax Commission is authorized to change the rate of tax by adoption or amendment of Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Imposition Of Sales Tax On Services.</heading>
+        <text>For the privilege of doing Business within the Tribal Lands, a Sales Tax is imposed upon all Sellers upon the Gross Receipts from selling, performing or furnishing Services on Tribal Lands, at a rate set forth in the Tax Regulations. The Tax Commission is authorized to change the rate of tax by adoption or amendment of Tax Regulations. The Tax Regulations shall be approved by the Tax Commission and submitted to Tribal Council at the next regularly scheduled meeting for comment and input. If the Tribal council takes no action the regulations shall become effective following the meeting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Collection From Consumer.</heading>
+        <text>A Seller shall collect Taxes imposed by this Sales Tax Code from the Consumer.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.16</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.17</num>
+      <heading>Exemptions, Returns, And Payments</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Exemptions From Sales Tax.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing a Tax on the government of the Tribe, its agencies or any wholly-owned subdivision or economic enterprise of the government of the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing a Tax on the purchase of Personal Property or Services by an enrolled member of the Tribe.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing a Tax on the transfer of Property for resale where the transferee does not intend to and does not consume or use the transferred Property.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing on the federal government of the United States any tax prohibited by the federal law of the United States.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing on the State of Wisconsin a Tax prohibited by Wisconsin law, to the extent that Wisconsin law provides a substantially similar exemption for the Tribe and its Tribal Members.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing a Tax on the salary or wages of a Person engaged as an employee of a Business.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing a Tax on any transaction which is subject to the Occupancy Tax hereof.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Nothing in this Sales Tax Code shall be construed as imposing a Tax on any Casual Sales as such sales are defined in the Tax Regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Liability Of Consumer For Sales Tax.</heading>
+        <text>If a Consumer certifies in writing to a Seller that the Property purchased is to be used in a manner or for a purpose entitling the Seller to regard the Gross Receipts from the Sale as exempted by this Sales Tax Code from the computation of the amount of Sales Tax and uses the Property in some other manner and for some other purpose, the Consumer is liable for payment of the Sales Tax. The Tax shall be measured by the sales price of the Property to the Consumer.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Sales Tax Returns And Payments.</heading>
+        <text>Sales Tax Returns shall be made available by the Tax Commission to each Seller, at the time of initial registration and upon request thereafter. The form and requirements for Returns, and the place and manner of filing Returns and paying Taxes, are set forth in the Tax Regulations.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.17</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.18</num>
+      <heading>Administrative Procedures</heading>
+      <text>The Tax Commission shall establish within the Tax Regulations such administrative procedures deemed reasonable and appropriate for the administration of this Sales Tax Code and in furtherance of the purposes stated herein.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.18</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.19</num>
+      <heading>Reserved</heading>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.19</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.20</num>
+      <heading>Occupancy Tax Code:  Purpose</heading>
+      <text>The purpose of <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.20">Section TAX.01.20</cite> through <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.23">Section TAX.01.23</cite> is to provide a revenue-generating income source to strengthen tribal self-government, and assure security for the future health, welfare, and general well-being of its members.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.20</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.21</num>
+      <heading>Imposition Of Tax</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Imposition Of Tax.</heading>
+        <text>A Tax is imposed on a Person who, under a lease, concession, permit, right of access, license, contract, or agreement, pays for the use or possession or for the right to use, possession, or occupancy, or for the right to use, or occupy a room or space costing $20 or more per day.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Rate Of Tax.</heading>
+        <text>The Occupancy Tax shall be imposed at the Tribal Tax Rate as defined in the Tax Regulations.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Collection Of Tax.</heading>
+        <text>Every Seller shall collect for the Commission the Tax at the time the Rent is paid. Those Persons paying the Tax shall receive a receipt of payment from the Seller.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.21</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.22</num>
+      <heading>Exemptions, Returns And Payments</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Exemptions From Occupancy Tax.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Nothing in this Occupancy Tax Code shall be construed as imposing a Tax on the government of the Tribe, its agencies or any wholly-owned subdivision or economic enterprise of the government of the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Nothing in this Occupancy Tax Code shall be construed as imposing a Tax on an enrolled member of the Tribe.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nothing in this Occupancy Tax Code shall be construed as imposing on the federal government of the United Sates, a tax prohibited by the federal law of the United States.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Nothing in this Occupancy Tax Code shall be construed as imposing on the State of Wisconsin a tax prohibited by Wisconsin law, to the extent that Wisconsin law provides a substantially similar exemption for the Tribe and its Tribal Members.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.22</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.23</num>
+      <heading>Administrative Regulations</heading>
+      <text>The Tax Commission shall establish within the Tax Regulations such administrative procedures deemed reasonable and appropriate for the administration of this Hotel Occupancy Tax Code and in furtherance of the purposes stated therein.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.23</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.24</num>
+      <heading>Effective Date</heading>
+      <text>This Tax Ordinance shall take effect upon ratification by the Tribal Council and subsequent BIA approval or such date as is fixed by action of the Tax Commission, and the provisions of this Tax Ordinance shall apply (except as otherwise provided) to all assessment dates and Periods beginning on or after the effective dates of the respective parts of the Tax Ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.24</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="TAX.01">
+    <section>
+      <num>TAX.01.25</num>
+      <heading>Severability</heading>
+      <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, then the remaining portions of this Ordinance shall not be affected and shall continue to be in force.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.25</annotation>
+    </section>
+  </codify:insert>
+  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No.026-18</cite>, adopted March 6, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+  <annotations>
+    <annotation type="Legislative History">Rescinded the existing Chapter 57 (Construction Tax Ordinance) and Chapter 57-A (Room Tax Ordinance) to adopt a new Tax Ordinance as Chapter 57. The new Chapter 57 establishes a more comprehensive tribal tax regime that incorporated both a sales tax and a hotel occupancy tax, as well as the related administrative process.</annotation>
+  </annotations>
+</document>

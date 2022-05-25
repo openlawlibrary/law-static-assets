@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>ADM</num>
+  <heading>Government Administration</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>ADM.01</num>
+    <heading>Procedures Ordinance</heading>
+    <section>
+      <num>ADM.01.01</num>
+      <heading>Authority, Purpose, Jurisdiction And Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>BE IT ENACTED, by the Stockbridge-Munsee Tribal Council in regular meeting assembled on November 21, 1939, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(h)">Section 11 (H), Article VII, of the Tribal Constitution</cite> that, the procedures of the Council, and of the committees and other offices of the Council, shall be regulated by the following provisions, as amended.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This ordinance is intended to ensure that tribal meetings are conducted in an organized manner that both provides for participation by tribal members and allows the tribal government to operate and conduct tribal business in a timely and efficient manner.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>This ordinance shall apply in relation to the conduct of the Council and Committees.  The Stockbridge-Munsee Community has subject matter jurisdiction over such matters based on its authority to regulate its own operations and the conduct of tribal members.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Definitions.</text>
+        <para>
+          <num>(1)</num>
+          <text>"Committee" refers to committees, boards, commissions and other similar entities established by the Council to assist the Council with conducting tribal business.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Community" refers the Stockbridge-Munsee Community.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Council" refers to the Stockbridge-Munsee Tribal Council, which is the duly-elected, governing body of the Stockbridge-Munsee Community.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>"Executive session" refers to a portion of a meeting that is closed to persons other the members of the Council or the applicable Committee, as well as any invited persons, and is used for the discussion of confidential matters.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>"In-session meeting" refers to a duly-called meeting where the Council or a Committee may take action, such as a regular Council meeting.  It does not include meetings such as semi-annual meetings and working meetings.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>"Member" refers to a duly-enrolled member of the Community.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>"Open session" refers to the proceedings of a meeting that are held in a place open and reasonably accessible to members.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>"Reservation" refers to proclaimed reservation lands and tribal lands held in trust for the benefit of the Community as well as individual trust lands under the jurisdiction of the Community.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.1</annotation>
+    </section>
+    <section>
+      <num>ADM.01.02</num>
+      <heading>Actions Affecting Civil Or Property Rights</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any general regulative act affecting the civil or property rights of the Community proposed for enactment by the Council, shall first be the subject of a motion passed by the Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Such motion, including a brief of the proposed resolution or ordinance, shall be publicized by Council members themselves and by written notices posted in public places within the Reservation for a period of not less than fourteen (14) days prior to the Council meeting at which final action on the given measure shall be taken.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.1.5</annotation>
+    </section>
+    <section>
+      <num>ADM.01.03</num>
+      <heading>Open Meetings</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be the right of any Member to attend officially-called in-session meetings of the Council or of a Committee and to be heard from the floor upon recognition by the President or the Committee chair, as applicable.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In the event the President should deny the floor to any such member, the Council or a Committee shall by a vote decide the question of allowing said member to be heard.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The open session portions of tribal meetings are open to the attendance and participation of Members subject to the terms of this ordinance.  Tribal meetings are not open to persons other than Members without specific authorization or invitation.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Tribal meetings are normally conducted in open session; however, the Council or a Committee may go into an executive session when appropriate as provided for under this ordinance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>All motions or other actions must be taken during open session of an in-session meeting.  Action taken based on discussion during an executive session shall occur during open session.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>By majority vote, Members may be removed from attendance at an open session portion of a meeting if, following a warning, the Member willfully interrupts the meeting so that an orderly meeting cannot be conducted.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Notice of an in-session meeting shall be posted prior to the meeting in accordance with this ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.2</annotation>
+    </section>
+    <section>
+      <num>ADM.01.04</num>
+      <heading>Removal From Committees</heading>
+      <text>The Council, by a majority vote, may summarily remove a member of any Committee or other officer appointed by the Committee for neglect of duty or malfeasance in office.  Neglect of duty includes, but is not limited to, missing three consecutive in-session meetings without providing an excuse prior to the meeting.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.3</annotation>
+    </section>
+    <section>
+      <num>ADM.01.05</num>
+      <heading>Voting</heading>
+      <para>
+        <num>(a)</num>
+        <text>The vote of the Council in the passing of motions, adoption of resolutions, and enactment of ordinances shall be taken in the following manner:</text>
+        <para>
+          <num>(1)</num>
+          <text>Motions - by acclamation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Resolutions - by show of hands;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Ordinance - by resolution.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The President, or Vice-President in the President's absence, may require a vote by roll call in any case for the purposes of an accurate count or the record.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The President, or Vice-President in the President's absence, has a right to vote on any matter before the Council, including to break or to create tied votes.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The majority of votes cast, ignoring abstentions, is sufficient for the adoption of any motion other than those that require a super-majority vote.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>A tie vote results in a motion being defeated.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.4</annotation>
+    </section>
+    <section>
+      <num>ADM.01.06</num>
+      <heading>Semi-Annual Meetings And Membership Meetings</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Semi-Annual Meeting.</heading>
+        <para>
+          <num>(1)</num>
+          <text>It shall be the duty of the Council at semi-annual meetings with members of the Community to report on the progress of programs during the half year proceeding, and to present its definite program proposed for the ensuing half-year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Full opportunity shall be given to the members of the Community to discuss these two reports in order that the Council may be guided thereby.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Council is not in-session at such semi-annual meeting and no official action can be taken.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Membership Meeting.</heading>
+        <text>The Council may call membership meetings as appropriate to discuss issues of interest to the Community; however, the Council is not in session at such meeting and no official action can be taken.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.5</annotation>
+    </section>
+    <section>
+      <num>ADM.01.07</num>
+      <heading>Tribal Records</heading>
+      <para>
+        <num>(a)</num>
+        <text>Minutes shall be taken in relation to the discussion and actions at any in-session meeting.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council shall regularly, following meetings, publish and distribute directives identifying actions taken by the Council during an in-session Council meeting to Tribal departments, the Mohican News and interested Tribal members upon request.  Such publication may be in electronic format, in order that all members of the community may be informed on the nature of the tribal business transacted.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Within 36-hours of the conclusion of an in-session Council meeting, a motions list corresponding to agenda items shall be prepared and distributed to the Council.  Such motions list shall report the agenda item by name and all corresponding motions regardless of whether they pass, fail or die for lack of a second.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The condensed minutes of prior in-session Council meeting(s) shall be presented to the Council for approval at the next Regular Council Meeting, except in exigent situations.  In those situations, the condensed meeting minutes shall be presented no later than 30-calendar days after the meeting.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Electronic record.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Secretary shall ensure that an audio and/or visual recording is made of the open session portion of in-session Council meetings and shall be the custodian of such recording(s).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The recording requirement may be waived by the Council when there are technical problems that prevent such recording.  The Tribal Secretary shall take minutes if there is no audio and/or visual recording of the in-session Council meeting.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any Member may review the recording of the in-session Council meeting upon making arrangements to do so with the Tribal Secretary (or, if such record has been transferred to the tribal archives, with staff at the Community's library/museum).</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Other than the recording by the Tribal Secretary and any security or surveillance recordings, no audio- or visual recordings shall be made of Council meetings.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>A copy of the minutes from each in-session Council meeting shall be maintained in the Community's archives.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Community's monthly financial statements and annual financial audits are open for review by Members.  Such review shall take place at the Tribal President's office and copies of the documents may not be removed.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.6</annotation>
+    </section>
+    <section>
+      <num>ADM.01.08</num>
+      <heading>Quorum, Location And Participation For Council Meetings</heading>
+      <para>
+        <num>(a)</num>
+        <text>A quorum consisting of a simple majority of the seated Council members is required to be in attendance at an in-session Council meeting in order for the meeting to be officially convened, except when tribal law requires a super-majority.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All Council meetings and Semi-Annual meetings shall be held at the established headquarters of the Community, except as provided under subsections <cite path="§ADM.01.08|(d)">(d)</cite>, <cite path="§ADM.01.08|(e)">(e)</cite> and <cite path="§ADM.01.08|(f)">(f)</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Council members must be physically present at meeting(s) in order to participate.  Absent Council members may submit their comments in writing, but are not permitted to otherwise participate via telecommunications or other electronic mediums.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A Semi-Annual Meeting may be held at an alternative location on the Reservation, so long as the Council has adopted a resolution authorizing the alternative location at least 7-days prior to the meeting and has posted such notice of the alternative location in tribal posting sites and on the tribal website in a timely fashion.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Membership meetings may be held at such locations as the Council determines to be appropriate, so long as prior notice of the meeting location is posted in tribal posting sites and on the tribal website in a timely fashion.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Council may hold working meetings at any location.  The Council is not in session and does not take any official actions during such working meetings.  A quorum is not required for such working meetings.  Working meetings are not open meetings.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.7</annotation>
+    </section>
+    <section>
+      <num>ADM.01.09</num>
+      <heading>Persons Authorized To Speak For The Community</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be the policy of the Council, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII">Article VII of the Tribal Constitution</cite>, to conduct all negotiations on behalf of the Community with outside persons or agencies or to identify the parties authorized to conduct such negotiations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Community and Council shall not be bound by or assume responsibility for any direct communications or negotiations between Members who are not authorized to speak on behalf of the Community and outside persons or agencies.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.8</annotation>
+    </section>
+    <section>
+      <num>ADM.01.10</num>
+      <heading>Regular Council Meetings</heading>
+      <para>
+        <num>(a)</num>
+        <text>Regular Council meetings shall be held on the first and third Tuesday every month, which shall be in-session meetings.  Council may adopt ordinances, adopt resolutions, pass motions, or conduct any other Tribal business at regular meetings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the Tribal President, and in the President's absence, the Vice-President determines that it is in the best interest of the Community to reschedule the regular meeting, the rescheduled meeting time and place shall be posted at the time the decision to reschedule is made, and at least 24-hours prior to the rescheduled meeting.  Rescheduled meetings shall take place within one week of the scheduled regular meeting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council may determine that it is in the best interests of the Community to reschedule a regular meeting for reasons such as, but not limited to, severe weather, expected lack of quorum, or the scheduled regular meeting falling on or near a holiday.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Extensive agendas:  In the event the number of agenda items is numerous, and the President reasonably estimates that the Council meeting will likely exceed four hours, then the following options are available to the President:</text>
+        <para>
+          <num>(1)</num>
+          <text>Do nothing and have a meeting at its regularly scheduled time; or,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Review the agenda items and postpone some agenda items to the next meeting if the agenda item is not time sensitive.  In no event, shall agenda items be postponed more than one time; or,</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>After consultation with the Vice-President and the Treasurer, the President can allocate the agenda items between two agendas.</text>
+          <para>
+            <num>(A)</num>
+            <text>The agenda items shall be allocated for the regular meeting and a special meeting.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In determining which agenda items shall be included in the regular meeting and which agenda items will be included in the special meeting, the President shall consider the following general criteria.</text>
+            <para>
+              <num>(i)</num>
+              <text>Administrative issues:  Executive session and items that are more administrative in nature such as applying for grants, departmental policies and procedures and reports, employment matters, legal issues, business issues, or other issues that are not time sensitive and can be scheduled for a special meeting.  These items may involve Tribal staff and to a lesser degree, anticipated input from community members.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Community issues:  Items that are more Community oriented in nature such as forestry, land, roads, ordinances, or other items that are time sensitive.  These items generally involve Community input and are not internal departmental issues.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If two agendas are prepared, the Council shall proceed with the regular Tribal Council meeting and post for a Special Council meeting, pursuant to <cite path="§ADM.01.11">Section ADM.01.11</cite>.  The Special Council meeting must occur within three business days of the regular Council meeting, but can be scheduled during normal business hours.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Notwithstanding any other provision or law, quorum for a Special Council meeting under this subsection <cite path="§ADM.01.10|(d)|(3)">(d)(3)</cite> on split agendas is five Council members.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.9</annotation>
+    </section>
+    <section>
+      <num>ADM.01.11</num>
+      <heading>Special Council Meetings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal President, and in the President's absence, the Vice-President may call Special Council meetings from time to time, which shall be in-session meetings.  Council may adopt ordinances, adopt resolutions, pass motions, or conduct any other Tribal business at special meetings, provided that any applicable posting requirements have been met.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the Tribal President, and in the President's absence, the Vice-President determines that it is in the best interest of the Community to hold a special meeting, the special meeting time and place shall be posted at the time the decision is made and at least 48-hours prior to the special meeting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Determining that it is in the best interests of the Community to hold a special meeting usually include issues that are not of an emergency nature, involve a considerable amount of time, issues that pertain to one or a few departments, or other factors that generally would make the regular council meeting unnecessarily lengthy.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.10</annotation>
+    </section>
+    <section>
+      <num>ADM.01.12</num>
+      <heading>Emergency Council Meetings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal President, and in the President's absence, the Vice-President may call Emergency Council meetings from time to time, which shall be in-session meetings.  Emergency Council meetings shall be considered a form of a Special Council meeting.  Council may adopt resolutions, pass motions, or conduct other Tribal business at emergency meetings.  Ordinances shall not be adopted at emergency meetings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the Tribal President, and in the President's absence, the Vice-President determines that it is in the best interest of the Community to hold an emergency meeting, the emergency meeting time and place shall be posted at the time the decision is made at least 24 hours prior to the emergency meeting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Determining that it is in the best interests of the Community to hold an emergency meeting usually will include issues that cannot wait until the regular council meeting, such as employment decisions, signing time sensitive contracts, political decisions at the state and federal levels, and other time sensitive issues.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The 24-hour posting may be waived if the Tribal President, or in the President's absence, the Vice-President determines that a substantial loss of funding or revenue will likely result if a contract or grant is not signed within 24-hours.  The 24-hour posting may be waived if the Tribal President, or in the President's absence, the Vice President determines that a Community emergency requires immediate attention and that waiting 24-hours will likely result in harm to the Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.11</annotation>
+    </section>
+    <section>
+      <num>ADM.01.13</num>
+      <heading>Executive Session</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council or a Committee may, as appropriate, go into an executive session as part of any meeting for purposes of discussion of topics such as, but not limited to, negotiation strategies, legal issues, audits, personnel issues, and other protected or confidential information.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Members, employees or other individuals may be invited to participate in discussions as part of executive session.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Discussions during and materials used as parts of executive session are deemed to be governmental deliberations.  Such deliberations shall be considered confidential and shall not be disclosed, except as required by official business necessity to implement direction provided during executive session or as part of an investigation into criminal misconduct.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No minutes or recording shall be made of the discussions during executive session except as required by official business necessity.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.12</annotation>
+    </section>
+    <section>
+      <num>ADM.01.14</num>
+      <heading>Meeting Agendas</heading>
+      <para>
+        <num>(a)</num>
+        <text>Persons submitting issues for inclusion on a Council meeting agenda shall provide a written summary, with appropriate supporting documents, of the issue to the Tribal Secretary or designee in a timely manner.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A proposed agenda for each in-session Council meeting shall be identified and posted at the tribal posting places and on the tribal website prior to the meeting in accordance with the requirements under this ordinance for the applicable type of meeting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The agenda shall identify items submitted for discussion by the Council as well as the full name of the person presenting the item and the presenter's job title or the name of the committee or entity the presenter represents.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The agenda for each regular in-session meeting shall include an "open agenda" portion of the meeting.</text>
+        <para>
+          <num>(1)</num>
+          <text>The open agenda portion of the meeting provides an opportunity for tribal members to provide comments and/or ask questions on any tribal-related matter.  No personnel issues will be discussed during open agenda.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Open agenda typically will be included on the agenda to be held at a particular time during the meeting.</text>
+          <para>
+            <num>(A)</num>
+            <text>If another agenda item is under discussion at that time, that item will be tabled until the open agenda discussion is complete.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>When a meeting agenda is complete, but for open agenda, the open agenda will be held as the last issue for discussion at the meeting prior to the meeting adjourning instead of it being held at the scheduled time.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No motions or resolutions may be adopted during open agenda.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Agenda items offered by Council members shall be placed on the agenda as requested by the presenting Council members, except as provided for under subsection <cite path="§ADM.01.14|(f)">(f)</cite>.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The President, or Vice-President in the President's absence, shall have final approval of the proposed agenda prior to posting for a meeting, including determining whether items submitted for discussion are placed on the proposed agenda for a particular meeting and whether an item should be in the open or the executive session of that meeting.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council shall review the proposed meeting agenda at the beginning of each in-session meeting and may make modifications, such as to add, remove or move items on the agenda, before the agenda is approved by the Council.  The meeting shall then be conducted in accordance with that agenda.  However, Council may by motion vary from the approved agenda in exceptional circumstances.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>An opportunity for open discussion, including tribal member comments, will be provided prior to Council action, if any, on each agenda item.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.13</annotation>
+    </section>
+    <section>
+      <num>ADM.01.15</num>
+      <heading>Council And Individual Council Member Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council may only engage in official action during open session of in-session Council meetings and in accordance with law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Individual Council members shall not conduct discussions, sign contracts, make commitments or make official representations on behalf of the Community without the consent of the Council or as otherwise provided for through tribal law.  This requirement is not intended to infringe on communications as part of the deliberative process between Council members and/or tribal employees, but rather to ensure that individual Council members do not speak on behalf of the Community without proper authorization.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No Council member is empowered to violate tribal law and protocol or chain of command in carrying out the duties of office.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All Council members shall respect, abide by and comply with valid Council actions.  An individual Council member shall have the right to challenge a Council action in a meeting, but once an official action is taken by the Council, regardless of the dissent, a Council member shall abide by the action.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Neither the Council nor any individual Council member shall involve themselves in any matter involving a tribal matter unless they do so through the proper, established protocol, and by following the existing chain of command.  This includes, but is not limited to such matters such as personnel actions; contracts; tribal law enforcement; procurement and bid process and any matter involving the distribution of tribal assets.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Access to and use of Tribal information.</text>
+        <para>
+          <num>(1)</num>
+          <text>Except as required by business necessity, individual Council members shall not have access to protected personal information held by various tribal entities during the normal course of business, including but not limited to:  personnel; loan; gaming and elder-youth licensing information; insurance or any other records that are individually identifiable to a specific individual.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Individual Council members may only use tribal information, including but not limited to tribal data, documents and documentation, records, contracts and grants, for carrying out their official duties as officially delegated by Council or otherwise through tribal law.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Individual Council members shall not ask or direct any employee or agent of the Community to provide or disclose confidential or proprietary tribal information without the consent of the Council or as otherwise provided for through law.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.14</annotation>
+    </section>
+    <section>
+      <num>ADM.01.16</num>
+      <heading>Recusal</heading>
+      <para>
+        <num>(a)</num>
+        <text>Persons with a conflict of interest in relation to a matter before the Council or a Committee shall avoid participation in decisions on such matter.  Tribal ethics law, particularly <cite path="ADM|ADM.02">Chapter ADM.02</cite>, shall guide what is considered to be a conflict of interest.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each person shall make the initial assessment as to whether he or she needs to recuse him or herself from a decision.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If a person recuses him or herself from a matter, then that person shall not participate in any discussion or vote on the matter.  A majority vote of the persons not recused is sufficient to adopt an action.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Recusal decisions may be challenged by any other member of the Council (or that Committee).</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Challenges to recusal decisions must be raised within 15-days of the date that the Council directives or Committee minutes are issued for a particular meeting or such a challenge is barred for not being timely.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>If the majority of the Council or a particular Committee (not including the member whose action was challenged) determines that a person should have recused himself or herself from a particular decision, then that person's vote on the matter shall be nullified.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.15</annotation>
+    </section>
+    <section>
+      <num>ADM.01.17</num>
+      <heading>Informal Hearing Process</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council and Committees shall use the following Informal Hearing Process when conducting hearings otherwise authorized under law.</text>
+        <para>
+          <num>(1)</num>
+          <text>Designated chairperson of hearing opens hearing and asks those present to identify themselves.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Party making complaint (complainant) states views or charges.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Party complained about (defendant) states view or answers charges.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Questioning and/or discussion between parties and Tribal Council.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Defendant has right to ask questions of complainant and vice-versa.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Closing statements asked for by chairperson.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Chairperson recesses hearing.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Tribal Council enters executive session for discussion purpose.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Chairperson re-opens hearing and decision is rendered.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Written decision by Tribal Council goes to both parties within 2 days.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>The Tribal Council's decision constitutes a final determination.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This <cite path="§ADM.01.17">Section ADM.01.17</cite> is procedural and does not create an independent right to a hearing.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 50, §50.16</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 023-16">Resolution No. 023-16</cite>, adopted February 3, 2016, approved by BIA February 22, 2016.</annotation>
+      <annotation type="Legislative History">7. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 046-07">Resolution No. 046-07</cite>, adopted June 19, 2007, partially approved by BIA April 16, 2012.</annotation>
+      <annotation type="Legislative History">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 056-02">Resolution No. 056-02</cite>, adopted October 1, 2002, approved by BIA October 18, 2002.</annotation>
+      <annotation type="Legislative History">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 59-99">Resolution No. 59-99</cite>, adopted September 7, 1999, approved by BIA November 1, 1999.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1401-93">Resolution No. 1401-93</cite>, adopted September 7, 1993.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0917">Resolution No. 0917</cite>, adopted Feburary 8, 1985.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0740">Resolution No. 0740</cite>, adopted March 9, 1981.</annotation>
+      <annotation type="Legislative History">1. Procedures Ordinance approved by Tribal Council November 21, 1939.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>ADM.02</num>
+    <heading>Code Of Conduct</heading>
+    <section>
+      <num>ADM.02.01</num>
+      <heading>Introduction</heading>
+      <text>This Code of Conduct is established by the Stockbridge-Munsee Tribal Council and shall govern the performance of all officers, employees or agents of the Stockbridge-Munsee Tribe engaged in the award and administration of all procurement or contracts.  For the purposes of this Code, the term "officer" shall include members of the Tribal Council.</text>
+      <annotation type="Prior Codifications">Formerly codified as an unnumbered introduction in Chapter 51</annotation>
+    </section>
+    <section>
+      <num>ADM.02.02</num>
+      <heading>Conflict Of Interest</heading>
+      <text>No officer, employee or agent of the Stockbridge-Munsee Tribe shall participate in the selection, or in the award or administration of a procurement or contract if a conflict of interest, real or apparent, would be involved.  Such a conflict would arise when:</text>
+      <para>
+        <num>(a)</num>
+        <text>The officer, employee or agent; and/or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any member of his or her immediate family; and/or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>His or her partner; and/or</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>An organization which employs, or is about to employ any of the above, has a financial or other interest in the firm selected for award.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 51, §51.1</annotation>
+    </section>
+    <section>
+      <num>ADM.02.03</num>
+      <heading>Gratuities</heading>
+      <text>No officer, employee or agent of the Stockbridge-Munsee Tribe shall either solicit or accept gratuities, favors or anything of monetary value from firms or contractors, potential firms or contractors, or parties to subcontracts.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 51, §51.2</annotation>
+    </section>
+    <section>
+      <num>ADM.02.04</num>
+      <heading>Acceptance Of Gifts</heading>
+      <text>An officer, employee or agent may accept a gift from a firm or contractor if such is unsolicited and of nominal value (not to exceed $10.00).  Acceptance of such gifts will be limited to items used as advertising by firms or contractors. Acceptance of any other gift shall constitute a violation of this Code.  The Stockbridge-Munsee Tribal Council may receive such other gifts as offered by a firm or contractor, which if accepted will be retained by the Tribe in remembrance of a program or project. In addition to the limitation on gifts, also in violation of this Code would be the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of fifty dollars [$50.00]).</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 51, §51.3</annotation>
+    </section>
+    <section>
+      <num>ADM.02.05</num>
+      <heading>Violations</heading>
+      <text>Violation of this Code of Conduct shall be prosecuted as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>Any violation of this Code of Conduct by an officer of the Stockbridge-Munsee Community shall be handled by the Stockbridge-Munsee Tribal Council.  The Tribal Council will review the violation and take such action against the officer(s) involved as is allowable under the Constitution and By-Laws of the Stockbridge-Munsee Community, including possible removal from the Tribal Council according to the terms of the Constitution, in the event that the "officer" is a member of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any violation of this Code of Conduct by an employee of the Stockbridge-Munsee Community will be handled in accordance with the Information Handbook for Employees of Mohican Nation ("the Green Book"), Sections 4, 6 and 7. Discipline, reprimand, suspension, or termination may result with respect to the seriousness of the violation.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 51, §51.4</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 074-98">Resolution No. 074-98</cite>, adopted November 17, 1998.</annotation>
+      <annotation type="Legislative History">2. Proposed Amendments submitted to Tribal Council November 24, 1985.</annotation>
+      <annotation type="Legislative History">1. Approved November 19, 1985.</annotation>
+    </annotations>
+  </container>
+</container>

@@ -1,0 +1,1272 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Tribal Council Res. No. 042-21" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>042-21</num>
+  <heading/>
+  <meta>
+    <ordinance>Fish and Wildlife</ordinance>
+    <effective>2021-08-03</effective>
+    <history>
+      <adopted>2021-08-03</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/042-21.pdf">Stockbridge-Munsee Tribal Council Res. No. 042-21</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted the Fish and Wildlife Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV.01">Chapter ENV.01</cite>, formerly known as Chapter 21;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Revisions to the Fish and Wildlife Ordinance have been recommended, which include changes to turkey fees, seasons, bag limits, hunting by minor-aged permittees, moving responsibilities from Land and Enrollment to the Conservation Department, new requirement for blaze orange or hot pink clothing during Wisconsin gun deer season, ammunition requirements, bear baiting, trapping requirements, protection of antlerless elk and moose, and updated language on taking of bear and wolves that are threat to human safety for consistency.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the following revisions to the Fish and Wildlife Ordinance:</text>
+      <text>
+        <ul>
+          <li>The addition of the following new subsections in ENV.01:  08(a)(4); 10(d); 12(c)(2-5); 13(b)(4)(D and E); 13(b)(5); 14(c)(4); 22(i); 22(j); and 27(d).</li>
+          <li>The revision of the following subsections in ENV.01: 03(f); 03(j); 08(b); 08(c)(3); 09(a); 09(b)(3); 09(c); 10(b)(1)(A and B); 10(c)(3); 12(a)(2); 12(c)(1); 13(b); 13(b)(3); 13(b)(4)(A and B); 14(c)(2 and 3); 17(c)(8); 18(a)(1 and 2); 19(a)(3); 19(b); 19(c)(1 and 4); 19(e); 22(c); 26(c)(3); 27(c); 27(e); 29(a); 29(d)(4); and 29(d)(8).</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 3rd day of August, 2021, that the foregoing resolution was duly adopted at such meeting by a vote of 4 for, 2 against, and 0 abstaining.</text>
+    <text>_______________________	   ________________________</text>
+    <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
+  </procedural-data>
+  <codify:replace path="ENV.01.01">
+    <section>
+      <num>ENV.01.01</num>
+      <heading>Tribal Council Purpose And Findings</heading>
+      <text>The Tribal Council finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text>One of the most important short and long-term resources is the fish and wildlife of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The fish and wildlife are important cultural resources to the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe desires to manage the fish and wildlife for present needs and for future generations.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Certain species need protection in order to survive as a species.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Properly managed natural resources will provide an excellent environment for natural habitat such as fish, wildlife, natural herbs, wildflowers, and forest resources.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Tribe's ownership of fee land, forest crop fee land, managed forest fee land, and the United States' ownership of federal trust and proclaimed lands for the benefit of the Tribe implicates Tribal, federal, and state law depending on the ownership of the land.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Tribe's increasing land base, home building, economic development, and reforestation efforts necessitate increasing involvement and management of the natural resources by the Conservation/Ecology Departments, the Fish and Wildlife Board and the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>All enrolled members of the Tribe shall have a right to share in the beneficial use of the natural resources of the Tribe's trust and fee lands.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>All individuals with privileges under this ordinance also have a responsibility to be good stewards of the natural resources on the Tribe's trust and fee lands.  While tribal members do have a right to share in the bounty from the land, they must do so in a responsible manner that ensures the long-term continuation of healthy and sustainable natural resource populations for the benefit of future generations.  This responsibility extends to maintaining a healthy environment for sustaining those fish and wildlife resources as all life is inter-connected.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.03">
+    <section>
+      <num>ENV.01.03</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Big game" shall mean, but not be limited to deer and bear.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Fish and Wildlife Board" means the body appointed by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Conservation/Ecology Departments" means the departments and entities such as the game warden(s) and the ecologist(s).</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Fur-bearing animals" shall mean beaver, mink, muskrat, otter, skunk, raccoon, fox, weasel, opossum, badger, coyote, fisher, and bobcat.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Infraction(s)" means violations of this Ordinance as further identified hereunder, including in <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.17">Section ENV.01.17</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.21">Section ENV.01.21</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.24">Section ENV.01.24</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.26">Section ENV.01.26</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.28">Section ENV.01.28</cite>.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Migratory birds" shall have the meaning set forth pursuant to the Migratory Bird Treaty Act regulations, 50 CFR part 10.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Minor" means a person under the age of 18 years old, at the beginning of the season for which they hold a permit.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Pan fish" means, perch, bluegill, crappie, sunfish, and rock bass.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Permittee" means a person who is a direct descendant, a spouse of a Stockbridge-Munsee tribal member, or a legally-adopted minor child of an enrolled Stockbridge-Munsee tribal member.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Small game" shall mean all wild animals not defined as big game, turkey, fur bearing animals, or protected species.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Special Permit" means a ceremonial harvest permit issued by the Tribal Council for the harvest of fish or game for use at a feast or other ceremonial occasion; a disabled permit issued by the Tribal Council to accommodate a tribal member's physical disabilities.  Such permits are issued upon such terms and conditions as the Tribal Council deems appropriate.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Spring Hole" means the area of the West Branch of the Red River, commonly known as the Spring Hole.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Tribal Court" means the Stockbridge-Munsee Court.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Tribal Council" means that the Stockbridge-Munsee Community Tribal Council.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"CITES" is an abbreviation for Convention on International Trade in Endangered Species.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Bow" is a general term for a weapon that fires arrows and includes recurve, compound, longbow, and crossbow.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Adult Bear" is a bear that measures 42 inches or greater in length, as measured in a straight line from the tip of nose to the base of tail.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Cub" is a bear that is less than 42 inches in length, as measured in a straight line from the tip of the nose to the base of the tail.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Public Road" refers to any road that is intended to provide a route for public access, such as roads listed on the Indian Reservation Roads inventory or other local road inventories, as well as driveways to facilities that are open to the public.  In addition, the railroad bed from Morgan to Camp One Road is treated as Public Road for the purpose of this Ordinance, however, this treatment does not grant any access rights to the general public.  Forest roads, as defined in <cite doc="Stockbridge-Munsee Tribal Code" path="ENV.02">Chapter ENV.02</cite>, are not Public Roads.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.08">
+    <section>
+      <num>ENV.01.08</num>
+      <heading>License, Permits, And Harvest Tags (Enrolled Member And Minor-Aged Direct Descendent)</heading>
+      <para>
+        <num>(a)</num>
+        <text>Enrolled members of the Stockbridge-Munsee Community shall not be required to purchase or possess hunting permits when hunting, possessing, or transporting any game lawfully taken within the boundaries of the Stockbridge-Munsee Indian Reservation, provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>the enrolled tribal member has his or her valid tribal identification card in his or her possession; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>when hunting, the enrolled tribal member is at least 12 years of age and has successfully completed an approved hunter safety course and possesses a certificate for such course EXCEPT that enrolled tribal members who are at least 10 years of age and less than 12 years of age may also hunt subject to the criteria outlined in <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.08|(c)">Section ENV.01.08(c)</cite> herein;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>all hunters must have harvest tags in their possession while hunting big game and turkey; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>if under 16 years of age, the enrolled tribal member must be accompanied by an adult tribal member while hunting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Permittees who are minor-aged direct descendants may receive a permit to hunt deer and turkey on the Reservation during the tribal season; provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>the permittee is at least 12 years of age and has successfully completed an approved hunter safety course and possesses a certificate for such course, EXCEPT that permittees who are at least 10 years of age and less than 12 years of age may also hunt subject to the criteria outlined in <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.08|(c)">Section ENV.01.08(c)</cite> herein; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>if under 16 years of age, the minor must be accompanied by an adult tribal member while hunting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Enrolled tribal members and permittees who are at least 10 years of age and less than 12 years of age may hunt on the tribal land so long as:</text>
+        <para>
+          <num>(1)</num>
+          <text>they have successfully completed an approved hunter safety course and possess a certificate for such course; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>there is only one (1) weapon that is jointly possessed between the minor and the adult; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>they are within an arm's length of an adult who is legally authorized to hunt with that weapon during that season at all times while the minor is in possession of the weapon; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the minor and adult comply with all other hunting laws, seasons, and bag limits.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>As long as an eligible person is enrolled in high school when he/she turns 18-years of age, then that person may obtain hunting permits as a minor-aged permittee.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>As long as an eligible person is not yet 18-years of age at the time when a specific hunting season begins, then that person may obtain and use a hunting permit as if a minor-aged permittee for that season.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Permittees who are minor-aged direct descendants are required to have their permit on their person or in their possession.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Any person who hunts within the jurisdiction of this Ordinance shall have in their possessions either an enrollment card or a valid permit. The enrollment card or permit must be in possession when:</text>
+        <para>
+          <num>(1)</num>
+          <text>Carrying a firearm or bow,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Shooting, trapping, taking or possessing small game or fur bearing animals.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Transporting game.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Any person born after August 15, 1992 must have successfully completed an approved hunter safety course and possess a certificate in order to hunt on the Reservation.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Big game and turkey hunting requires all hunters to possess valid harvest tags as provided in <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.18">Section ENV.01.18</cite>.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.09">
+    <section>
+      <num>ENV.01.09</num>
+      <heading>Permittee Hunting Permits And Fees</heading>
+      <para>
+        <num>(a)</num>
+        <text>Permittees may hunt within the Reservation provided that they have a valid Hunting Identification Permit issued by the Conservation Department and comply with all applicable laws.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Fees for adult direct descendants and spouses of tribal members are:</text>
+        <para>
+          <num>(1)</num>
+          <text>Deer, migratory birds, and small game hunting permit is $30.00 annually.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Sportsman permit for hunting and fishing, which is valid for the calendar year, is $50.00 annually.  A Sportsman permit is not valid for turkey hunting.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Turkey permit for spring or fall is $15.00.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>There are no fees for minor-aged direct descendants, however they must obtain a permit from the Conservation Department.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Permittees are required to have their permit on their person or in their possession while hunting deer, migratory birds, and small game.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Permittee hunters must have harvest tags in their possession while hunting deer and turkey.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.10">
+    <section>
+      <num>ENV.01.10</num>
+      <heading>Deer Hunting Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The deer hunting season is from August 15 to January 31 for tribal members and minor direct descendants.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The taking of deer shall be limited to four (4) per person per season for tribal members (at least 2 must be antlerless), except as permitted in <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.10|(b)|(1)">Section ENV.01.10(b)(1)</cite>.  Minor direct descendants shall be limited to one (1) deer per season.</text>
+        <para>
+          <num>(1)</num>
+          <text>A tribal member may request that up to two (2) antlerless deer be donated to them from another Tribal member.</text>
+          <para>
+            <num>(A)</num>
+            <text>The donee can request up to two (2) deer donation tags from the Conservation Department.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The donee must inform the Conservation Department who the donee will give the donation tags to.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Only another enrolled tribal member may fill or use a donation tag.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Deer hunting for adult direct descendants and other Permittees is limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Bow season:  September 15 through December 31.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Firearm season:  from the Saturday of the week before Thanksgiving to the Sunday following Thanksgiving.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Permittees under <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.10">this section</cite> are limited to one deer per year; EXCEPT, permittees who are direct descendants may take two (2) deer per season so long as one is antlerless.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All hunters are required to wear blaze orange or hot pink clothing during Wisconsin gun deer seasons. At least 50% of the outer clothing worn above the waist must be blaze orange or hot pink. A hat or head covering, if worn, must also be at least 50% blaze orange or hot pink.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.12">
+    <section>
+      <num>ENV.01.12</num>
+      <heading>Hunting Regulations – In General</heading>
+      <para>
+        <num>(a)</num>
+        <text>Equipment.</text>
+        <para>
+          <num>(1)</num>
+          <text>No permanently anchored hunting equipment, including tree stands, cameras and targets, may be used on tribal property.  Equipment is considered to be permanently anchored when nails, screws or other similar items that can damage trees are used to anchor the equipment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Tribal members and permittees may leave hunting equipment in place overnight, so long as the equipment has an identification tag.  Tags can be acquired from the Tribe's Conservation Department.  Untagged equipment will be subject to confiscation and removal.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Baiting and Feeding.</text>
+        <para>
+          <num>(1)</num>
+          <text>No person may place or use bait or feed material for the purpose of hunting any wild animal, other than bear as permitted under <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.13|(b)|(4)">Section ENV.01.13(b)(4)</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No person may place or allow the placement of any material to feed wild animals for non-hunting purposes, except as allowed for birds and small mammals under <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.12|(b)|(3)">Section ENV.01.12(b)(3)</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Material may be placed solely for the purpose of attracting and feeding wild birds and small mammals for non-hunting purposes, if:</text>
+          <para>
+            <num>(A)</num>
+            <text>Placed in bird feeding devices and structures at a sufficient height or design to prevent access by deer;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The structures and devices are within 50 yards of a dwelling for human occupancy; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>When deer are found to be utilizing bird feeding devices or structures, the devices or structures shall be enclosed or elevated higher to prevent access by deer.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Big Game Cartridge, Caliber, and Bullet Restrictions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Deer may not be taken with any rim fire cartridge or with any centerfire cartridge of less than .22-caliber.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Turkey may not be taken with any centerfire cartridge during the spring season.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Bear may not be taken with any rim fire cartridge or with any centerfire cartridge of less than .25-caliber.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Deer and bear may not be taken with an air rifle of any caliber; EXCEPT, air-powered weapons that fire arrows or bolts with broadheads are allowed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Beginning January 1, 2023, deer and bear may not be taken with lead bullets.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Arrowheads for deer hunting must be made of all steel barbless design, not less than one (1) inch wide for single two (2) blades and not less than three (3) inches in circumference for three (3) or more blades.  Arrowheads with blades of mill-tempered spring steel which contain a plastic core or ferrule conforming with the above dimensions, with a minimum weight of seventy-five (75) grain may be used.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.13">
+    <section>
+      <num>ENV.01.13</num>
+      <heading>Bear Hunting Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only tribal members may take bear.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Only adult bear may be taken during bear seasons.  The season for taking bear shall be August 15 to November 30, except that the season for taking bear with aid of dogs shall be as described in <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.13|(c)">subsection (c)</cite>.  Individuals shall be limited to taking one (1) bear per person per season.</text>
+        <para>
+          <num>(1)</num>
+          <text>It shall be unlawful to molest any bear in its den.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It shall be unlawful to shoot or molest a cub or any adult bear accompanied by cub(s).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nothing in this Ordinance shall prohibit the taking of any bear, which poses an threat to human safety.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Bait may be placed and used for the purpose of hunting bear, except that no person may place, use or hunt over bait that:</text>
+          <para>
+            <num>(A)</num>
+            <text>Is placed outside of the baiting season, which is June 15 to November 30;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Has a volume of more than 25 gallons;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Is not totally enclosed in a hollow log, a buried container, a hole in the ground or a stump and that is capped with logs, rocks, or other naturally occurring and unprocessed substances to prevent deer from accessing the bait;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Contains meat or fish byproducts; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Contains liquid grease or cooking oil.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Substances that can cause permanent damage to trees and brush, including but not limited to liquid grease or cooking oil, may not be applied to trees and brush.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Standards for Hunting Bear with Aid of Dogs.</text>
+        <para>
+          <num>(1)</num>
+          <text>The season for hunting bear with the aid of dogs shall be September 1 to October 31.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The season for training dogs by pursuing bear shall be July 1 to August 31.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It is illegal to hunt, pursue or train with more than a total of 6 dogs at one time regardless of the number of bear hunters in a group or the ownership of the dogs.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Dogs may be used to recover bear taken from November 1 to November 30; provided, the Conservation Department or game wardens are notified prior to the dogs being used solely for the recovery action.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.14">
+    <section>
+      <num>ENV.01.14</num>
+      <heading>Turkey Hunting Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Turkey hunting requires harvest tags and turkeys must be registered consistent with <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.18">Section ENV.01.18</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Spring Turkey Season:</text>
+        <para>
+          <num>(1)</num>
+          <text>The spring turkey season is open to tribal members and permittees.  Tribal members may harvest four (4) tom or jake during this season.  Permittees may harvest two (2) tom or jake during this season.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hunting season for tribal members is March 1 to June 30.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Hunting for permittees is April 15 to May 31.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Fall Turkey Season:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Fall turkey season is open to tribal members and permittees.  Tribal members may harvest four (4) turkeys of any sex.  Permittees may harvest two (2) turkeys of any sex during this season.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The fall hunting season for tribal members is from August 15 to January 31.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The fall hunting season for permittees is from September 15 to December 31.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Permittees may only take turkey with a centerfire rifle or a shotgun loaded with slugs during time periods when the permittee is also authorized to take deer with a firearm.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.15">
+    <section>
+      <num>ENV.01.15</num>
+      <heading>Small Game, Migratory Bird And Grouse Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Small game season shall be August 1 to the last day of February.  Permittee small game season is closed during traditional 9-day gun deer season.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There shall be a daily limit of ten (10) not to exceed twenty (20) in possession of taking of rabbit and squirrel.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The taking of Migratory Birds shall be subject to the maximum federal annual allowance provided for the Mississippi Flyway, as provided in 50 CFR part 20.</text>
+        <para>
+          <num>(1)</num>
+          <text>No lead shot may be used to take migratory birds over water.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Migratory bird season shall be September 1 to November 30.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There shall be a daily limit of ten (10) ducks of any sex and any species and a daily limit of five (5) geese.  The possession limit shall be double the daily bag limit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Ruffed grouse and spruce grouse shall be limited to five (5) per day per person, and the possession and transportation of these types of small game shall be limited to no more than ten (10) grouse at any time.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.17">
+    <section>
+      <num>ENV.01.17</num>
+      <heading>Hunting Infractions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Class A Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person who kills, wounds, catches, takes, traps, or has in his/her possession any bird, small game, big game, turkey, or fur bearing animal included in this Ordinance without a valid permit or permits shall be guilty of a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Taking, assisting in taking, possessing or transporting any game in violation of this Ordinance shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Wanton destruction or waste of any game animal, or bird on tribal lands shall be deemed a Class A Infraction.  Waste shall include the failure to process a game animal, or bird in a timely manner.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Violating the terms and/or conditions of any Special Permit shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>It shall be unlawful to use a set gun or swivel gun for any purpose.  Violation of this provision shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>It shall be unlawful to take game with the use of drugs, medicated bait, poison, or other deleterious substances. Violation of this provision shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>It shall be unlawful to take bear within fifty (50) yards of any garbage dump or within one hundred (100) yards of any dwelling or within one hundred (100) yards of any area designated by the Tribe as a campground.  Violation of this provision shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any person who sells, or assists, or aids in the sale of venison meat is subject to a Class A infraction.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Permanent tree strands are prohibited.  Screw in steps, metal screws, or nails attached to trees are prohibited.  Violators will be subject to a Class A infraction.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any person who intentionally disturbs the personal property of another person engaged in lawful activities under this Ordinance shall be subject to a Class A infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Class B Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Allowing any other person to make use of his/her permit, regardless of whether or not such person would qualify to receive a permit in his/her own right, shall be deemed a Class B Infraction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Exceeding established limits, using prohibited means or equipment, using bait contrary to tribal law, hunting outside of established seasons and/or hours shall be deemed a Class B Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Fraud in the procurement of any permit shall be deemed a Class B Infraction.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who uses a light for wildlife viewing at night after 10 PM or who has a firearm/bow in their vehicle while using a light for wildlife viewing shall be subject to a Class B infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Class C Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Hunting while under the influence of alcohol or controlled substances shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Carrying a firearm in any motor vehicle, unless the firearm chamber is unloaded, or a loaded magazine is not attached to the firearm or the firearm is otherwise broken down, shall be deemed a Class C Infraction.  Rounds may be stored separately from the firearm or in a separate magazine, so long as the magazine is not attached to the firearm.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Hunting from a snowmobile or chasing game with a snowmobile or other motor vehicle shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Except for hunting of raccoon or coyote, hunting of game animals by artificial lights shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Refusal of any person engaged in any activity relating to hunting regulated under this Ordinance to display the proper permit or identification upon request of any Authorized Law Enforcement Personnel shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>It shall be unlawful to hunt with any poisoned arrow or arrow with explosive tip.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>It shall be unlawful to take big game or turkey with the aid of any trap or snare, or with the aid of dogs; except bear may be taken with the aid of dogs.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>It shall be unlawful to discharge any weapon across or down any Public Road, or to hunt within fifty (50) feet of any Public Road; EXCEPT, when turkey or small game hunting, shotshells loaded with #4 or smaller shot may be discharged from unpaved Public Roads and railroad beds.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>It shall be unlawful to deposit any game entrails, body parts, and/or hide, into the waters of any creek, stream, river or lake or to dispose of same within 150 feet of any creek, stream, river, lake, Public Road, residence or residential area.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any person who uses a vehicle or other means to block a Public Road with the intent of limiting access for other individuals to engage in activities permitted under this Ordinance shall be subject to a Class C infraction.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.18">
+    <section>
+      <num>ENV.01.18</num>
+      <heading>Mandatory Registration / Wildlife Count</heading>
+      <para>
+        <num>(a)</num>
+        <text>All big game and turkey harvested on the Stockbridge-Munsee Reservation must be registered.</text>
+        <para>
+          <num>(1)</num>
+          <text>Mandatory harvest tags will be issued to enrolled members and permittees through the Stockbridge-Munsee Conservation Department.  Harvest tags must be obtained by hunters each season prior to hunting.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hunters must have harvest tags in their possession while hunting. Harvest tags must be attached immediately upon harvest.  Big game and turkey must be tagged in the following manner: Bear &amp; deer – at base of antler or hind leg through the gamble; turkey – around the base of the wing.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All big game and turkey must be registered with the Conservation/Ecology Departments within 48 hours of harvest and processed within 30 days of registration.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>During a State of Wisconsin closed season, big game and turkey transported off the Reservation must also receive a Wisconsin DNR transportation tag.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Before and during the applicable hunting season, the Conservation/Ecology Departments shall publish in the <u>Mohican News</u>, and tribal posting places, the applicable registration places, phone numbers, and hours.  The Tribe's web site may also be utilized.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>From time to time, but at least every other year, the Conservation/Ecology Departments will perform a count of the wildlife within the jurisdiction; particularly the bear, deer, and turkey, but also other species as needed. Data compiled is to be brought to the Fish and Wildlife Board for reviews and recommendations.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.19">
+    <section>
+      <num>ENV.01.19</num>
+      <heading>Fishing Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Fees for adult direct descendants and spouses of tribal members are:</text>
+        <para>
+          <num>(1)</num>
+          <text>Fishing permit, which is valid for the calendar year, is $30.00 annually.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Sportsman permit for hunting (except turkey) and fishing, which is valid for the calendar year, is $50.00 annually.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There are no fees for minor-aged direct descendants, however, they must obtain a permit from the Conservation Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There shall be no limitation on the taking of rough fish for personal use. The following regulations are imposed on the taking of:  brook trout, northern pike, rainbow trout, brown trout, bass (large mouth and small mouth), panfish, and walleye.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For trout, there will be a size limit of eight (8) inches or better, and a limit of ten (10) of any kind for tribal members and five (5) trout of any kind for other permittees per day. There will be a limit for trout possession of fifty (50) for tribal members and twenty-five (25) for other permittees.</text>
+        <para>
+          <num>(1)</num>
+          <text>There is a limit of five (5) bass per day.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>There is a limit of twenty-five (25) panfish per day.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There is a limit of five (5) northern pike per day.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>There is a limit of five (5) walleye per day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All waters within the jurisdiction shall be closed to trout fishing from October 1 to November 30. The Spring Hole, including the creek leading to the West Branch of the Red River, shall be closed from October 1 to May 1.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The trout fishing season for tribal members and minor-aged permittees is December 1 through September 30.  The trout fishing season for adult permittees shall be from the first Saturday in May until September 30.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Blue Heron Pond Regulations (located in NE¼ of Section 34, Bartelme):  Catch and release by tribal members and permittees is permitted.  Keeping fish is limited to tribal members and permittees age 15 and under, and 55 and older.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.21">
+    <section>
+      <num>ENV.01.21</num>
+      <heading>Fishing Infractions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Class A Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person who kills, wounds, catches, takes, traps, or has in his/her possession any fish included in this Ordinance without a valid permit or permits shall be guilty of a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Taking, assisting in taking, possessing or transporting any fish in violation of this Ordinance shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Wanton destruction or waste of fish on tribal lands shall be deemed a Class A Infraction.  Waste shall include the failure to process a fish in a timely manner.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Violating the terms and/or conditions of any Special Permit shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>It shall be unlawful to take fish by means of explosives, drugs, poison, lime, medicated bait, or other deleterious substances. Violation of this provision shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any person who intentionally disturbs the personal property of another person engaged in lawful activities under this Ordinance shall be subject to a Class A infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Class B Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Allowing any other person to make use of his/her permit, regardless of whether or not such person would qualify to receive a permit in his/her own right, shall be deemed a Class B Infraction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Exceeding established limits, using prohibited means or equipment, using bait contrary to tribal law, hunting outside of established seasons and/or hours shall be deemed a Class B Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Fraud in the procurement of any permit shall be deemed a Class B Infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Class C Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Carrying a firearm in any motor vehicle, unless the firearm chamber is unloaded, or a loaded magazine is not attached to the firearm or the firearm is otherwise broken down, shall be deemed a Class C Infraction.  Rounds may be stored separately from the firearm or in a separate magazine, so long as the magazine is not attached to the firearm.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The refusal of any person engaged in any activity relating to fishing regulated under this Ordinance to display the proper permit or identification upon request of any Authorized Law Enforcement Personnel shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It shall be unlawful to use fish seines, fish traps, or gill nets, except under authority of a Special Permit issued by the Council.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who uses a vehicle or other means to block a Public Road with the intent of limiting access for other individuals to engage in activities permitted under this Ordinance shall be subject to a Class C infraction.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.22">
+    <section>
+      <num>ENV.01.22</num>
+      <heading>Fur-Bearing Animals And Trapping Regulations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only tribal members may take fur-bearing animals.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Only tribal members may trap.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The season for trapping fur-bearing animals shall be October 15 – April 15.</text>
+        <para>
+          <num>(1)</num>
+          <text>Quotas for the number of fur-bearing animals that may be trapped during the season shall be set at the beginning of the season based on the recommendation of the Conservation/Ecology Departments and acceptance of the Fish and Wildlife Board.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Seasonal quotas will be posted at tribal posting places, the Little Star Convenience Store, in the Mohican News and on the tribal website.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Once a seasonal quota has been reached or will be reached imminently for a particular animal, the Conservation/Ecology Departments will close the trapping season for that animal.  Notice of season closure will be posted by the Conservation/Ecology Departments at tribal posting places, the Little Star Convenience Store, in the Mohican News and on the tribal website.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All traps and fur-bearing animals taken pursuant to these regulations shall have the tribal member's enrollment number clearly marked on them.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>When shipping furs, the parcel must be plainly marked on the outside stating the name, address, permit number of the shipper, the number and kind of skins contained in the package. The bill of lading or receipt issued by any common carrier to a shipper shall specify the number and species of furs shipped.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Hides or pelts adapted to personal use need not carry the permit number once the adaptation is completion.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Coyotes may be taken year-round with a weapon.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Bobcat, Badger, Fisher, and Otter:</text>
+        <para>
+          <num>(1)</num>
+          <text>Trappers must report their trappings with the Conservation/Ecology Departments within 48 hours of the trapping.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A seasonal quota will be set for bobcat, badger, fisher, and otter on an annual basis based on the recommendations of the Conservation/Ecology Departments and acceptance by the Fish and Wildlife Board.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Once the quota has been met, the Conservation/Ecology Departments shall post such notices at the Little Star Convenience Store, the Conservation Department and the Tribe's web site.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Tribal members must obtain a transportation tag from the Ecology Department, if the bobcat, badger, fisher, and/or otter will be transported off of the reservation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the hides or pelts legally harvested on tribal lands are to leave the State of Wisconsin, then a CITES tag may also be needed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Trap Size and Type Restrictions.</text>
+        <para>
+          <num>(1)</num>
+          <text>The use of body grip traps larger than 220 size is prohibited for dry land sets; EXCEPT, the use of body grip traps of any size is prohibited during any time period when the bobcat or fisher quota has been reached.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The use of snares or cable restraints is prohibited for dry land sets.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The restrictions on trap size and type for dry land sets does not apply to trapping weasel, mink, muskrat, beaver, and otter in, on, or amongst a body of water.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Trap Checking Requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Dry land sets must be checked at least once each calendar day.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Water sets must be checked at least once every 4 calendar days, EXCEPT, traps that are under ice water sets must be checked at least once every 14 calendar days.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.24">
+    <section>
+      <num>ENV.01.24</num>
+      <heading>Trapping Infractions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Class A Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person who kills, wounds, catches, takes, traps, or has in his/her possession any bird, small game, big game, turkey, or fur-bearing animal included in this Ordinance without a valid permit or permits shall be guilty of a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Taking, assisting in taking, possessing or transporting any game in violation of this Ordinance shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Wanton destruction or waste of any animal on tribal lands shall be deemed a Class A Infraction.  Waste shall include the failure to process an animal in a timely manner.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Violating the terms and/or conditions of any Special Permit shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>It shall be unlawful to use a set gun or swivel gun for any purpose.  Violation of this provision shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>It shall be unlawful to take game with the use of drugs, medicated bait, poison, or other deleterious substances. Violation of this provision shall be deemed a Class A Infraction.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Any person who intentionally disturbs the personal property of another person engaged in lawful activities under this Ordinance shall be subject to a Class A infraction.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any person who molests, takes, or appropriates a trap belonging to another person or the animal or contents of a lawfully placed trap belonging to another person shall be subject to a Class A infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Class B Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Allowing any other person to make use of his/her permit, regardless of whether or not such person would qualify to receive a permit in his/her own right, shall be deemed a Class B Infraction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Exceeding established limits, using prohibited means or equipment, using bait contrary to tribal law, hunting outside of established seasons and/or hours shall be deemed a Class B Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Fraud in the procurement of any permit shall be deemed a Class B Infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Class C Infractions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Carrying a firearm in any motor vehicle, unless the firearm chamber is unloaded, or a loaded magazine is not attached to the firearm or the firearm is otherwise broken down, shall be deemed a Class C Infraction.  Rounds may be stored separately from the firearm or in a separate magazine, so long as the magazine is not attached to the firearm.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hunting from a snowmobile or chasing game with a snowmobile or other motor vehicle shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Refusal of any person engaged in any activity relating to trapping regulated under this Ordinance to display the proper permit or identification upon request of any Authorized Law Enforcement Personnel shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>It shall be unlawful to take big game or turkey with the aid of any trap or snare.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>It shall be unlawful to deposit any game entrails, body parts, and/or hide, into the waters of any creek, stream, river or lake or to dispose of same within 150 feet of any creek, stream, river, lake, Public Road, residence or residential area.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any person who uses a vehicle or other means to block a Public Road with the intent of limiting access for other individuals to engage in activities permitted under this Ordinance shall be subject to a Class C infraction.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.25">
+    <section>
+      <num>ENV.01.25</num>
+      <heading>Motor Vehicles</heading>
+      <para>
+        <num>(a)</num>
+        <text>Motor vehicles are prohibited on forest roads during spring break up, except as otherwise authorized under tribal law.</text>
+        <para>
+          <num>(1)</num>
+          <text>ATVs, UTVs and snowmobiles are exempt from the spring break-up road closure.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Forest roads are defined under <cite doc="Stockbridge-Munsee Tribal Code" path="ENV.02">Chapter ENV.02</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Motor vehicles and ATVs are prohibited beyond the dells landing and other posted sensitive areas.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.26">
+    <section>
+      <num>ENV.01.26</num>
+      <heading>Motor Vehicle And Transportation Related Infractions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Class A Infractions</text>
+        <para>
+          <num>(1)</num>
+          <text>Transporting any game in violation of this Ordinance shall be deemed a Class A Infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Class B Infractions</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person who uses a light for wildlife viewing at night after 10 PM or who has a firearm/bow in their vehicle while using a light for wildlife viewing shall be subject to a Class B infraction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Class C Infractions</text>
+        <para>
+          <num>(1)</num>
+          <text>Carrying a firearm in any motor vehicle, unless the firearm chamber is unloaded, or a loaded magazine is not attached to the firearm or the firearm is otherwise broken down, shall be deemed a Class C Infraction.  Rounds may be stored separately from the firearm or in a separate magazine, so long as the magazine is not attached to the firearm.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hunting from a snowmobile or chasing game with a snowmobile or other motor vehicle shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It shall be unlawful to discharge any weapon across or down any road, or to hunt within fifty (50) feet of any paved road; EXCEPT, when turkey or small game hunting, shotshells loaded with #4 or smaller shot may be discharged from unpaved Public Roads and railroad beds.  Violation of this provision shall be deemed a Class C Infraction.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Motor vehicles or ATV use in a prohibited area is a Class C infraction.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any person who uses a vehicle or other means to block a road with the intent of limiting access for other individuals to engage in activities permitted under this Ordinance shall be subject to a Class C infraction</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.27">
+    <section>
+      <num>ENV.01.27</num>
+      <heading>Protected Species</heading>
+      <para>
+        <num>(a)</num>
+        <text>There shall be no taking, possessing or transporting at any time of species listed as protected, threatened, or endangered under federal law, including, but not limited to, those listed under the Bald and Golden Eagle Protection Act, the Migratory Bird Treaty Act, the Lacey Act, and the Endangered Species Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There shall be no taking, possession, or transporting at any time of any species of fish or wildlife that may from time to time be established or reintroduced into the lands and waters of the Stockbridge-Munsee Community until such time as the Tribal Council deems appropriate by establishing a seasons and regulations pertaining to such species.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The taking of a mountain lion or a pine marten shall not be permitted.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The taking of antlerless elk and antlerless moose shall not be permitted. Antlered elk or antlered moose may be taken subject to the following provisions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Antlered moose or antlered elk may only be taken by tribal members during the tribal deer season.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The taking of antlered moose or antlered elk is subject to the same requirements as the taking of an antlered deer.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The antlered moose or antlered elk must be tagged using the tribal member's deer tag.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The taking of a wolf shall not be permitted unless the wolf poses a threat to human safety.  In the event of a taking due to a threat to human safety, the individual shall immediately contact tribal game wardens/conservation officers; the carcass and site shall not be disturbed.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.01.29">
+    <section>
+      <num>ENV.01.29</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Both Stockbridge-Munsee Law Enforcement Officers and Game Wardens/Conservation Officers are considered "Authorized Law Enforcement" for purposes of enforcement of this Ordinance and the Forestry Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV.02">Chapter ENV.02</cite> of the Stockbridge-Munsee Tribal Code, (hereinafter referred to as "Ordinances" in this <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.29">Section ENV.01.29</cite>) and, as such, have authority to investigate and enforce the provisions of such Ordinances.  Authorized Law Enforcement shall consult with other law enforcement agencies, where appropriate.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authorized Law Enforcement is authorized to investigate and pursue violations of these Ordinances.  This may include observing persons engaged in activities under these Ordinances to ensure that the methods and equipment are lawful.  Authorized Law Enforcement shall conduct such activities in good faith and in accordance with good law enforcement practices and may take such actions as appropriate to the circumstances and under applicable laws.</text>
+        <para>
+          <num>(1)</num>
+          <text>Authorized Law Enforcement may issue warnings and/or citations to individuals who violate these Ordinances.  Such warnings and/or citations are considered to be civil in nature, rather than criminal.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Authorized Law Enforcement have authority to confiscate and seize hunting and/or fishing equipment, weapons, vehicles, or any other equipment used in violating these Ordinances.</text>
+          <para>
+            <num>(A)</num>
+            <text>If equipment, vehicles, or weapons are confiscated and seized, such equipment, vehicles or weapons shall be considered evidence and properly recorded and secured at the offices of the applicable Authorized Law Enforcement officers pending return or disposition in accordance with tribal law.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If the alleged violator pays the amount of the citation before the court hearing date, the confiscated equipment, vehicles, or weapons (except for illegal items) shall be returned to the ordinance violator unless subject to confiscation under other applicable law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Authorized Law Enforcement also has authority to confiscate and seize fish and game obtained in violation of these Ordinances.  The confiscated fish or game shall be documented and/or photographed for evidence purposes.  If the fish or game is suitable for human consumption, Authorized Law Enforcement shall turn the fish or game over to the Elderly Department or Tribal elders.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The citation must be served on the person responsible for the violation in a timely manner with copies delivered to the Tribal Court and Tribal Prosecutor within three (3) business days of service.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Prosecutor shall use his or her discretion to prosecute violations of this Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Persons convicted of violations to this Ordinance shall be subject to the penalties herein described.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In addition to forfeiture actions the Tribal Prosecutor may seek enforcement <br/>of any and all parts of this Ordinance by Court actions seeking injunctions or restraining orders.  The Tribal Prosecutor may seek an emergency order from the Court to restrain or enjoin any violation that is jeopardizing the health or safety of any person. Such an order may be sought and issued ex parte if the Tribe shows a good faith effort to serve notice on the necessary parties.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the Court finds the person not guilty of the alleged violation, any property or equipment seized by Authorized Law Enforcement shall be returned to the person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Penalties.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person found guilty of this Ordinance shall be assessed a fine ranging from $100.00 to $5,000 as specified in subsections <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.29|(d)|(6)">(6)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.29|(d)|(7)">(7)</cite> or <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.29|(d)|(8)">(8)</cite> below.  In assessing the fine, the Court shall consider the severity of the offense, the acceptance of responsibility by the charged person, the number of previous convictions, and deterrence to others.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In lieu of or in addition to any other penalty, the Tribal Court may also order that equipment or property seized by Authorized Law Enforcement not be returned to the violator and the equipment or property to become permanent property of the Conservation Department to be used of or disposed of at the Tribal Council's discretion.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In lieu of or in addition to any other penalty, any person found guilty of    <br/>violating this Ordinance may be required by the Tribal Court to provide community service or such other relief as is necessary and property for the enforcement of this ordinance.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribal Court may also order suspension of hunting, trapping, and/or fishing privileges not to exceed five years.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Revenues received from fines or forfeitures are to be deposited into the Tribe's general revenues.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Civil remedial money penalties, referred to in this Ordinance as Fish &amp; Game Infraction(s) are classified and carry penalties as follows and other remedies as the court deems appropriate:</text>
+          <para>
+            <num>(A)</num>
+            <text>Class A Infractions, not less than $500.00 nor more than $5,000.00.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Class B Infractions, not less than $300.00 nor more than $5,000.00.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Class C Infractions, not less than $200.00 nor more than $5,000.00.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>When any person is found guilty of a violation, and such person has been convicted of a previous violation of this Ordinance within a period of one year, there shall be a mandatory revocation of all privileges regulated under this Ordinance for a minimum of two years, and the Infraction penalties may be enhanced as follows and other remedies as the court deems appropriate:</text>
+          <para>
+            <num>(A)</num>
+            <text>For a Class A Infraction, $5,000.00.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>For a Class B Infraction, not less than $1,000.00 nor more than $5,000.00.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>For a Class C Infraction, not less than $500.00 nor more than $5,000.00.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>For a third violation of this Ordinance within a period of one (1) year the penalty shall be $5,000.00 and up to a mandatory lifetime revocation of all privileges regulated under this Ordinance and other remedies as the court deems appropriate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Civil Damages.  In addition to an action for civil penalties, the Tribe may bring a civil action for recovery of damages against any person unlawfully killing, wounding, catching, taking, trapping, harvesting, or having unlawfully in his or her possession any game animal, fish, or bird.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container">29. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 042-21">Resolution No. 042-021</cite>, adopted August 3, 2021.</codify:annotation>
+</document>

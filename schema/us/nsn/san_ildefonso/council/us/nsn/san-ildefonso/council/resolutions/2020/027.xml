@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R20-027">
+  <num>SI-R20-027</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-027</heading>
+  <heading type="law">Tunyo and San Ildefonso Pueblo Revolt Landscape Oral History Project Act</heading>
+  <meta>
+    <effective>2020-12-30</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-027</citation>
+    </citations>
+    <history>
+      <adopted>2020-12-29</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 29th day of December, 2020, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo Revolt Era of 1680 - 1696 was the most successful era of Indigenous rebellion</text>
+      <text>in the colonial history of the United States; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 1694 the people of Pueblo de San Ildefonso and neighboring Tewa Pueblos took refuge on Tunyo, a sacred mesa two miles north of Pueblo de San Ildefonso; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Tunyo is remembered as a significant site of Indigenous resistance during the Spanish   re-conquest of New Mexico. That resistance allowed Tewa people to remain in their homelands and maintain their sovereignty, language, and culture; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the social memory of the events at Tunyo retained in the Pueblo de San Ildefonso community is an invaluable aspect of the cultural landscape of the Pueblo de San Ildefonso; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso wishes to formally document the historical memory of the events at Tunyo held by members of Pueblo de San Ildefonso community through anthropological research, and compare and integrate Pueblo de San Ildefonso oral histories, seventeenth-century Spanish documentary history, and modern archaeological findings; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>research results approved by the Tribal Historic Preservation Office (THPO) will be presented to all stakeholders and other interested parties within the Pueblo de San Ildefonso community and, all project materials, including interview transcripts, will be archived at the Pueblo de San Ildefonso THPO to ensure their preservation for future generations; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso is committed to the balanced stewardship of Tunyo and the greater Pueblo Revolt landscape on the Pueblo de San Ildefonso Indian Reservation, land that is held in trust by the United States; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this project will support the Pueblo's stewardship goals by obtaining and preserving valuable information about the historical events that took place at Tunyo, which will enable Pueblo de San Ildefonso to better prioritize their preservation and stewardship of the landscape; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Pueblo de San Ildefonso, in partnership with Anthropological Research, LLC (Anthropological Research), proposes an oral history project that documents the living memory of the Pueblo Revolt within the Pueblo de San Ildefonso community under the auspices of the National Park Service American Battlefield Protection Program.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby approves the Tunyo and San</text>
+      <text>Ildefonso Pueblo Revolt Landscape Oral History Project Act which authorizes the Governor to submit a grant request to the National Park Service for the above purposes.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 29, 2020, at a meeting with a vote of 7 in favor, 1 opposed, 0 abstaining and 2 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S): Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td>X</td>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R20-027 was presented to the Governor of the Pueblo de San Ildefonso on the 29th  day of December, 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 30th day of December, 2020.</text>
+    <text>Perry Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.28</num>
+      <heading>Tunyo and San Ildefonso Pueblo Revolt Landscape Oral History Project Act</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.5.28"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>TUNYO AND SAN ILDEFONSO PUEBLO REVOLT LANDSCAPE ORAL HISTORY PROJECT ACT</heading>
+    <section>
+      <codify:insert num-value="6.5.28.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as "TUNYO AND SAN ILDEFONSO PUEBLO REVOLT LANDSCAPE ORAL HISTORY ACT (Act)".</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.5.28.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this act is to document the history of the Great Pueblo Revolt that occurred at the Pueblo de San Ildefonso.</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.5.28.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text>the Pueblo Revolt Era of 1680 – 1696 was the most successful era of Indigenous rebellion in the colonial history of the United States; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In 1964 the people of the Pueblo de San Ildefonso and neighboring Tewa Pueblos took refuge on Tunyo, a sacred mesa two miles north of Pueblo de San Ildefonso; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tunyo is remembered as a significant site of Indigenous resistance during the Spanish re-conquest of New Mexico. That resistance allowed Tewa people to remain in their homelands and maintain their sovereignty, language, and culture; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>the social memory of the events at Tunyo retained in the Pueblo de San Ildefonso community is an invaluable aspect of the cultural landscape of the Pueblo of San Ildefonso; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Pueblo de San Ildefonso wishes to formally document the historical memory of the events at Tunyo held by members of Pueblo de San Ildefonso community through anthropological research, and compare and integrate Pueblo de San Ildefonso oral histories, seventeenth-century Spanish documentary history, and modern archaeological findings; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Research results approved by the Tribal Historic Preservation Office (THPO) will be presented to all stakeholders and other interested parties within the Pueblo de San Ildefonso community and, all project materials, including interview transcripts, will be archived at the Pueblo of San Ildefonso THPO to ensure their preservation for future generations; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Pueblo of San Ildefonso is committed to the balanced stewardship of Tunyo and the greater Pueblo Revolt landscape on the Pueblo de San Ildefonso Indian Reservation, land 	that is held in trust by the United States; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>This project will support the Pueblo's stewardship goals by obtaining and preserving valuable information about the historical events that took place at Tunyo, which will enable Pueblo de San Ildefonso to better prioritize their preservation and stewardship of the landscape; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Pueblo of San Ildefonso, in partnership with Anthropological Research, LLC (Anthropological Research), proposes an oral history project that documents the living memory of the Pueblo Revolt within the Pueblo de San Ildefonso community under the auspices of the National Park Service American Battlefield Protection Program.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="6.5.28.040"/>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to submit a grant request to the National Park Service for the above purposes. The Pueblo de San Ildefonso strongly supports this grant.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

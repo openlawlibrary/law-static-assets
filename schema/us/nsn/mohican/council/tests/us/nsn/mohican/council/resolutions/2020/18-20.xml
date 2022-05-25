@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 18-20">
+  <num>18-20</num>
+  <heading/>
+  <meta>
+    <ordinance>Membership</ordinance>
+    <history>
+      <adopted>2019-12-03</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 18-20</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe governed by the Stockbridge-Munsee Tribal Council pursuant to authority vested in the Council by a Constitution approved in November 1937, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council has the authority under Article III, Section 4, of its Constitution, and its inherent rights as a sovereign nation, to adopt ordinances that address the adoption of new members into the Community subject to the approval of the Secretary of Interior; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council wishes to establish a new approach for calculating Blood Quantum, using a baseline of the January 1, 1940 Indian Census Roll of Stockbridge-Munsee Indians, when adopting of new members into the Community, as well as clarifying the enrollment process used to adopt new Members and making other administrative updates.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts amendments to Chapter 44 that make the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Adding headings.</li>
+        <li>Adding new subsections (A) and (C) to <cite doc="Stockbridge-Munsee Tribal Code" path="§44.1" proof="needed">Section 44.1</cite> and amending existing language to be subsection (B).</li>
+        <li>Amending <cite doc="Stockbridge-Munsee Tribal Code" path="§44.2" proof="needed">Section 44.2</cite>.</li>
+        <li>Adding new subsections (A) and (C) to <cite doc="Stockbridge-Munsee Tribal Code" path="§44.4" proof="needed">Section 44.4</cite> and amended existing language to be subsection (B).</li>
+        <li><cite doc="Stockbridge-Munsee Tribal Code" path="§44.45" proof="needed">Section 44.45</cite> established as new section – had previously been part of <cite doc="Stockbridge-Munsee Tribal Code" path="§44.4" proof="needed">Section 44.4</cite>.</li>
+        <li><cite doc="Stockbridge-Munsee Tribal Code" path="§44.5" proof="needed">Section 44.5</cite> amended.</li>
+        <li><cite doc="Stockbridge-Munsee Tribal Code" path="§44.6" proof="needed">Section 44.6</cite> amended to add new subsections (A)(1)-(5); (B); (C); (D); and (E).  Under subsection (A) modified and language previously in subsection (B) deleted.</li>
+        <li><cite doc="Stockbridge-Munsee Tribal Code" path="§44.65" proof="needed">Section 44.65</cite> is new section with materials that had previously been sub<cite doc="Stockbridge-Munsee Tribal Code" path="§44.6|(C)" proof="needed">section 44.6 (C)</cite>. New subsection (D) was added.</li>
+        <li><cite doc="Stockbridge-Munsee Tribal Code" path="§44.8" proof="needed">Section 44.8</cite> amended to clarify the ordinance does not waive the Tribe's sovereign immunity.</li>
+      </ul>
+    </text>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the amended ordinance shall be forwarded to the Secretary of Interior for approval consistent with Article III, Section 4 of the Tribe's Constitution.</text>
+    </recital>
+  </recitals>
+</document>

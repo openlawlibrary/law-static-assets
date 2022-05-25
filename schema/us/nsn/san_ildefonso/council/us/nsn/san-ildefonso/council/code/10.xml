@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>10</num>
+  <heading>DOMESTIC RELATIONS</heading>
+  <annotation type="History">1984 Code</annotation>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10.1</num>
+    <heading>Domestic Relations</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>10.1.1</num>
+      <heading>Marriage, Divorce, Adoption, and Paternity</heading>
+      <section>
+        <num>10.1.1.010</num>
+        <heading>Marriage and Divorce</heading>
+        <text>All marriages consummated according to State Law or Tribal custom or tradition before the effective date of this Code are declare valid and binding by the Pueblo of San Ildefonso, but hereafter, shall conform to the provision of this Code.</text>
+      </section>
+      <section>
+        <num>10.1.1.020</num>
+        <heading>Jurisdiction</heading>
+        <text>The Pueblo of San Ildefonso Tribal Court shall have jurisdiction over marriages and divorces of the members of the Pueblo of San Ildefonso.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Tribal Court shall have jurisdiction to hear and determine matters of divorce, separate maintenance, annulment, adoptions, determination of paternity and support, custody of minor children and change of name and to determine if full faith and credit will be given to judgments of court or other jurisdictions in these matters involving members of the Pueblo of San Ildefonso, except that a divorce obtained in another jurisdiction shall be of no force or effect in this Pueblo if both parties to the marriage were domiciled in this Pueblo at the time the proceeding for divorce was commenced.</text>
+        </para>
+      </section>
+      <section>
+        <num>10.1.1.030</num>
+        <heading>Marriages</heading>
+        <text>A valid marriage here under shall be constituted by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The issuance of a marriage license by the Pueblo of San Ildefonso Tribal Court or the State of New Mexico and by execution of a written contract by both parties to the marriage and recorded with the Clerk of the Court.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The solemnization of the marriage by Pueblo tradition and custom, by a Judge within the territorial jurisdiction of the Pueblo of San Ildefonso or by a recognized clergymen or by public official authorized to do so by the laws of any State is optional.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pueblo custom marriages consummated after the effective date of this Code shall be recognized as legal and binding if they are duly recorded within the records of the Trial Court by signing of a Marriage Register maintained by the Clerk of the Court.  A license must be obtained and each party must sign such Register within five (5) days of the Pueblo custom marriage ceremony.</text>
+        </para>
+      </section>
+      <section>
+        <num>10.1.1.040</num>
+        <heading>Marriage License</heading>
+        <text>A marriage license shall be issued by the Clerk of the Court in the absence of any showing that the proposed marriage would be invalid under any provision of this Code or Pueblo custom and tradition and:</text>
+        <para>
+          <num>(a)</num>
+          <text>Upon written application of an unmarried male and unmarried female, both of whom must be eighteen (18) years or older.  If either party to the marriage is under the age of eighteen (18), then that party must have the written consent of the Parent or legal guardian.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Upon filing with the Clerk of the Court of a certificate of physician that the parties are free of any venereal disease.</text>
+        </para>
+      </section>
+      <section>
+        <num>10.1.1.050</num>
+        <heading>Solemnization</heading>
+        <text>In the event a judge, clergyman, tribal official or anyone authorized to do so solemnizes a marriage, he shall file with the Clerk of the court a certification thereof within thirty (30) days of the solemnization.  The validity of any marriage under this Code is not affected by the absence of a ceremony.</text>
+      </section>
+      <section>
+        <num>10.1.1.060</num>
+        <heading>Invalid of Prohibited Marriages</heading>
+        <text>Marriages which are prohibited or invalid under this Code are:</text>
+        <para>
+          <num>(a)</num>
+          <text>Where either party is lawfully married to another living spouse unless the former marriage has been legally annulled or dissolved.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Between ancestors and descendants of every degree, between a stepfather and stepdaughter or between stepmother and stepson, between brothers and sisters, aunts and nephews, uncles and nieces, and between first cousins, whether the relationship is of the half or whole blood and, legitimate or illegitimate.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>When marriages are prohibited by custom and traditions of the Pueblo,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All such marriage listed in this Section are invalid for the purpose of this Code.</text>
+        </para>
+      </section>
+      <section>
+        <num>10.1.1.070</num>
+        <heading>Grounds for Annulment or Voidable Marriage</heading>
+        <text>A marriage may be voided or annulled by the Tribal Court for any one of the following reasons upon the application of one of the parties:</text>
+        <para>
+          <num>(a)</num>
+          <text>When either party to the marriage shall be incapable of consenting thereto.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>When the consent was obtained by force or fraud.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>When either party was at the time of the marriage incapable of consummating the marriage and the incapacity is continuing.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>When the marriage was invalid on one of the grounds set forth in Section 23.6.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If, after correction of any of the foregoing defects, the parties shall continue to live together as husband and wife, the marriage shall not subsequently be subject to annulment because of such defect.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Procedure for annulment must be instituted by petition of the party laboring under the disability or upon whom the force or fraud is imposed in a civil action.</text>
+        </para>
+      </section>
+      <section>
+        <num>10.1.1.080</num>
+        <heading>Effects of Annulment of Voidable Marriage</heading>
+        <text>The legitimacy of children and their entitlement to enrollment conceived or born prior to a judgment of annulment shall not be affected by the judgment.  The judgment shall be conclusive only as against the parties of the action and those claiming under them.</text>
+      </section>
+      <section>
+        <num>10.1.1.090</num>
+        <heading>Divorce</heading>
+        <text>A marriage may be dissolved by divorce in the San Ildefonso Tribal Court for incompatibility of the parties for whatever reason; when either party is a resident within the jurisdiction of the Pueblo of San Ildefonso for six (6) months.  The Rules of Civil Procedure as set forth in this code shall be followed, except the trial will be conducted by the Court only.  The Court may require a waiting period of sixty (60) days before making any divorce final.</text>
+      </section>
+      <section>
+        <num>10.1.1.100</num>
+        <heading>Actions of the court Pending Divorce or Annulment</heading>
+        <text>The San Ildefonso Trial Court any order:</text>
+        <para>
+          <num>(a)</num>
+          <text>The husband or wife to provide for the separate maintenance of his or her spouse and children as the Court may deem just upon application therefore or in the disposition of a divorce proceeding.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The care, custody and maintenance of the minor children of the marriage during the pendency of the proceedings.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any reasonably temporary property settlement for the use of real and personal properties, as between the parties, and the recovery and delivery to each of the parties of any of their personal property in possession of control of the other, for good and adequate reasons, and the use of any and all property, whether real or personal, and the payment of debts, all on a temporary basis until final adjudication by the Court.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To restore the maiden name of the wife, if requested.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>10.1.2</num>
+      <heading>Adoptions</heading>
+      <section>
+        <num>10.1.2.010</num>
+        <heading>Adoption</heading>
+        <text>The Pueblo of San Ildefonso Tribal Court shall have jurisdiction to hear, pass upon, and approve petitions for family adoption of or by members of the Pueblo following Pueblo custom and tradition or any ordinance adopted by the Council of the Pueblo of San Ildefonso governing adoptions pursuant to the Act of Nov. 8, 1978 (PL 95-608); 92 Stat. 3069).</text>
+        <para>
+          <num>(a)</num>
+          <text>Adoption proceedings shall be instituted by filing of a petition with the Court which shall conduct the proceedings in accordance with the Civil Rules of Procedure of this Code and the Rules of the Count, and Rules and Regulations of the Secretary of the Interior.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any minor Indian child under the age of eighteen (18) years may be adopted by an Indian person, if the adoption is approved by the Court or by a non-Indian person is the adoption is approved by the Court and Governor and the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any surviving natural parents must consent in writing to the adoption or the Tribal Court must consent if it has legally terminated parental rights or it there is no surviving parents.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The person or persons seeking to adopt the child shall appear before the Court and be examined and the Court may require a report to be rendered by the Social Worker of the Bureau of Indian Affairs, the Social Service Agency of a state or other person designated by the Court to make such a report, on the qualifications of the adoptive person or persons, and provide any other information for or against the proposed adoption stating the reasons therefor.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If the child is of the age of twelve (12) or over, the child must also appear before the court and consent in writing to such adoption.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>After the Court has heard all the facts on such adoption proceedings and believes that it is to the best interests of the child to be adopted, it shall enter an order accordingly which shall be kept in the records of the Pueblo of San Ildefonso, the Bureau of Indian Affairs, and the Bureau of Vital Statistics of the State of New Mexico.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Court however may issue a temporary order giving the care and custody of the child to the perspective adaptive parents or any other suitable person or persons for a period of not more than twelve (12) months in order that the potential adoptive family situation may be observed before the Court makes its final ruling.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>After a final order is issued in an adoption proceeding by the Tribal Court, the adoptive parents shall succeed to all rights and responsibilities of the natural parents whose rights shall thereafter be terminated forever and, thereafter, neither the adopted child nor his natural parent may inherit from each other, with the exception of any trust property that passes by blood descent.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Adoption of any minor child who is a member of the Pueblo of San Ildefonso shall not affect the child's status as a member.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The proceedings in all adoption cases shall be confidential and held in closed Court.  All records and files except final judgment of adoption shall be kept confidential by the Clerk of the Court and may be inspected only upon order of the Courts.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>An adult person may be adopted by any other adult person with the consent of the person to be adopted or his guardian.  After a hearing and after such investigation as the Court deems advisable if the Court finds that it is to the best interests of the persons involved, a decree of adoption may be entered.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>10.1.3</num>
+      <heading>Paternity and Support</heading>
+      <section>
+        <num>10.1.3.010</num>
+        <heading>Determination of Paternity and Support</heading>
+        <para>
+          <num>(a)</num>
+          <text>The San Ildefonso Tribal Court shall have jurisdiction of all suits brought to determine the paternity of a child and to obtain a judgment for the support of the child.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All proceedings in this Section shall be in accordance with the Civil Rules of Procedure of this Code and the Rules of the Court.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A judgment of the Court establishing the identity of the father of the child shall be conclusive of that fact in all subsequent determinations of inheritance and in criteria for enrollment with the Pueblo of San Ildefonso.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>10.1.4</num>
+      <heading>Guardianship</heading>
+      <section>
+        <num>10.1.4.010</num>
+        <heading>Appointment of Guardians</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court shall have the jurisdiction to appoint and remove legal guardians for minors and for persons who are incapable of managing their own affairs.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All proceedings in this Section shall be in accordance with the Civil Rules of Procedure of this Code and the Rules of the Court.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Court may appoint guardians over the property or over the person, or both, of a minor or for persons determined by the Court to be incapable or managing their own affairs.  Appointment of any non-Indian as guardian by the Court must be approved by the Governor and Tribal Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Court may require a report from the Social Worker of the Bureau of Indian Affairs or the State of New Mexico or other person designated by the Court to make a report on the parties involved and such other information as the Court may order.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any guardian appointed under this Section shall advise the Court by written report at least once a year or upon request of the Court on all actions of the guardian on behalf of the ward or the ward's estate.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>No guardian may dispose of any of the war's property without the approval of the Court in advance.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Any guardianship over the person of a minor shall automatically terminate when the ward becomes the age of eighteen (18) years.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Any guardianship over the property of a minor shall terminate upon application of the guardian or minor for termination of the guardianship to the Court and the approval of the Court.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>A special guardian may be appointed for the special purpose of signing deeds, contracts or other documents on behalf of a minor or a personwho is incapable of managing his own affairs.  The document to be valid must be approved by the Court and also approved by the Secretary of the Interior or his designated representative if it involves trust or restricted property or funds.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>10.1.5</num>
+      <heading>Miscellaneous</heading>
+      <section>
+        <num>10.1.5.010</num>
+        <heading>Change of Name</heading>
+        <text>The San Ildefonso Tribal Court shall have the authority to change the name of any person upon petition of such person or upon the petition of the parents of any minor.  Any order issued by the Court for change of name shall be kept as a permanent record and copies shall be filed with the pueblo of San Ildefonso, Bureau of Indian Affairs, and Bureau of Vital Statistics of the State of New Mexico or state or residence of the applicant.</text>
+      </section>
+      <section>
+        <num>10.1.5.020</num>
+        <heading>Protective Custody</heading>
+        <text>Any adult person may be placed under protective custody in detention for his own protection or the protection of others by a Law Enforcement Officer for seventy-two (72) hours.  Detention for any longer period shall be represented by lay counsel or by a professional attorney.</text>
+      </section>
+    </container>
+  </container>
+</container>
