@@ -1,2 +1,3680 @@
-/*! For license information please see main.js.LICENSE.txt */
-(()=>{var e={9790:e=>{e.exports=function(){var e=!(arguments.length>0&&void 0!==arguments[0])||arguments[0];return!e||null==e||0===e||""===e}},2220:(e,t,r)=>{var n=r(4354),o=r(3700),i=TypeError;e.exports=function(e){if(n(e))return e;throw i(o(e)+" is not a function")}},3467:(e,t,r)=>{var n=r(4354),o=String,i=TypeError;e.exports=function(e){if("object"==typeof e||n(e))return e;throw i("Can't set "+o(e)+" as a prototype")}},1421:(e,t,r)=>{var n=r(1651),o=String,i=TypeError;e.exports=function(e){if(n(e))return e;throw i(o(e)+" is not an object")}},4041:(e,t,r)=>{var n=r(7830),o=r(7841),i=r(6095),a=function(e){return function(t,r,a){var u,c=n(t),s=i(c),l=o(a,s);if(e&&r!=r){for(;s>l;)if((u=c[l++])!=u)return!0}else for(;s>l;l++)if((e||l in c)&&c[l]===r)return e||l||0;return!e&&-1}};e.exports={includes:a(!0),indexOf:a(!1)}},8250:(e,t,r)=>{var n=r(1540),o=n({}.toString),i=n("".slice);e.exports=function(e){return i(o(e),8,-1)}},3114:(e,t,r)=>{var n=r(2102),o=r(4354),i=r(8250),a=r(2931)("toStringTag"),u=Object,c="Arguments"==i(function(){return arguments}());e.exports=n?i:function(e){var t,r,n;return void 0===e?"Undefined":null===e?"Null":"string"==typeof(r=function(e,t){try{return e[t]}catch(e){}}(t=u(e),a))?r:c?i(t):"Object"==(n=i(t))&&o(t.callee)?"Arguments":n}},8625:(e,t,r)=>{var n=r(1540),o=Error,i=n("".replace),a=String(o("zxcasd").stack),u=/\n\s*at [^:]*:[^\n]*/,c=u.test(a);e.exports=function(e,t){if(c&&"string"==typeof e&&!o.prepareStackTrace)for(;t--;)e=i(e,u,"");return e}},8778:(e,t,r)=>{var n=r(5320),o=r(6830),i=r(892),a=r(378);e.exports=function(e,t,r){for(var u=o(t),c=a.f,s=i.f,l=0;l<u.length;l++){var p=u[l];n(e,p)||r&&n(r,p)||c(e,p,s(t,p))}}},7632:(e,t,r)=>{var n=r(1738),o=r(378),i=r(3233);e.exports=n?function(e,t,r){return o.f(e,t,i(1,r))}:function(e,t,r){return e[t]=r,e}},3233:e=>{e.exports=function(e,t){return{enumerable:!(1&e),configurable:!(2&e),writable:!(4&e),value:t}}},4704:(e,t,r)=>{var n=r(4354),o=r(378),i=r(9465),a=r(5967);e.exports=function(e,t,r,u){u||(u={});var c=u.enumerable,s=void 0!==u.name?u.name:t;if(n(r)&&i(r,s,u),u.global)c?e[t]=r:a(t,r);else{try{u.unsafe?e[t]&&(c=!0):delete e[t]}catch(e){}c?e[t]=r:o.f(e,t,{value:r,enumerable:!1,configurable:!u.nonConfigurable,writable:!u.nonWritable})}return e}},5967:(e,t,r)=>{var n=r(2569),o=Object.defineProperty;e.exports=function(e,t){try{o(n,e,{value:t,configurable:!0,writable:!0})}catch(r){n[e]=t}return t}},1738:(e,t,r)=>{var n=r(2112);e.exports=!n((function(){return 7!=Object.defineProperty({},1,{get:function(){return 7}})[1]}))},7934:(e,t,r)=>{var n=r(2569),o=r(1651),i=n.document,a=o(i)&&o(i.createElement);e.exports=function(e){return a?i.createElement(e):{}}},2831:(e,t,r)=>{var n=r(2430);e.exports=n("navigator","userAgent")||""},9318:(e,t,r)=>{var n,o,i=r(2569),a=r(2831),u=i.process,c=i.Deno,s=u&&u.versions||c&&c.version,l=s&&s.v8;l&&(o=(n=l.split("."))[0]>0&&n[0]<4?1:+(n[0]+n[1])),!o&&a&&(!(n=a.match(/Edge\/(\d+)/))||n[1]>=74)&&(n=a.match(/Chrome\/(\d+)/))&&(o=+n[1]),e.exports=o},4328:e=>{e.exports=["constructor","hasOwnProperty","isPrototypeOf","propertyIsEnumerable","toLocaleString","toString","valueOf"]},3137:(e,t,r)=>{var n=r(2112),o=r(3233);e.exports=!n((function(){var e=Error("a");return!("stack"in e)||(Object.defineProperty(e,"stack",o(1,7)),7!==e.stack)}))},7641:(e,t,r)=>{var n=r(2569),o=r(892).f,i=r(7632),a=r(4704),u=r(5967),c=r(8778),s=r(8787);e.exports=function(e,t){var r,l,p,f,b,d=e.target,v=e.global,h=e.stat;if(r=v?n:h?n[d]||u(d,{}):(n[d]||{}).prototype)for(l in t){if(f=t[l],p=e.dontCallGetSet?(b=o(r,l))&&b.value:r[l],!s(v?l:d+(h?".":"#")+l,e.forced)&&void 0!==p){if(typeof f==typeof p)continue;c(f,p)}(e.sham||p&&p.sham)&&i(f,"sham",!0),a(r,l,f,e)}}},2112:e=>{e.exports=function(e){try{return!!e()}catch(e){return!0}}},2976:(e,t,r)=>{var n=r(9581),o=Function.prototype,i=o.apply,a=o.call;e.exports="object"==typeof Reflect&&Reflect.apply||(n?a.bind(i):function(){return a.apply(i,arguments)})},9581:(e,t,r)=>{var n=r(2112);e.exports=!n((function(){var e=function(){}.bind();return"function"!=typeof e||e.hasOwnProperty("prototype")}))},7425:(e,t,r)=>{var n=r(9581),o=Function.prototype.call;e.exports=n?o.bind(o):function(){return o.apply(o,arguments)}},34:(e,t,r)=>{var n=r(1738),o=r(5320),i=Function.prototype,a=n&&Object.getOwnPropertyDescriptor,u=o(i,"name"),c=u&&"something"===function(){}.name,s=u&&(!n||n&&a(i,"name").configurable);e.exports={EXISTS:u,PROPER:c,CONFIGURABLE:s}},1540:(e,t,r)=>{var n=r(9581),o=Function.prototype,i=o.bind,a=o.call,u=n&&i.bind(a,a);e.exports=n?function(e){return e&&u(e)}:function(e){return e&&function(){return a.apply(e,arguments)}}},2430:(e,t,r)=>{var n=r(2569),o=r(4354),i=function(e){return o(e)?e:void 0};e.exports=function(e,t){return arguments.length<2?i(n[e]):n[e]&&n[e][t]}},5324:(e,t,r)=>{var n=r(2220);e.exports=function(e,t){var r=e[t];return null==r?void 0:n(r)}},2569:(e,t,r)=>{var n=function(e){return e&&e.Math==Math&&e};e.exports=n("object"==typeof globalThis&&globalThis)||n("object"==typeof window&&window)||n("object"==typeof self&&self)||n("object"==typeof r.g&&r.g)||function(){return this}()||Function("return this")()},5320:(e,t,r)=>{var n=r(1540),o=r(6416),i=n({}.hasOwnProperty);e.exports=Object.hasOwn||function(e,t){return i(o(e),t)}},9012:e=>{e.exports={}},8232:(e,t,r)=>{var n=r(1738),o=r(2112),i=r(7934);e.exports=!n&&!o((function(){return 7!=Object.defineProperty(i("div"),"a",{get:function(){return 7}}).a}))},6674:(e,t,r)=>{var n=r(1540),o=r(2112),i=r(8250),a=Object,u=n("".split);e.exports=o((function(){return!a("z").propertyIsEnumerable(0)}))?function(e){return"String"==i(e)?u(e,""):a(e)}:a},679:(e,t,r)=>{var n=r(4354),o=r(1651),i=r(4001);e.exports=function(e,t,r){var a,u;return i&&n(a=t.constructor)&&a!==r&&o(u=a.prototype)&&u!==r.prototype&&i(e,u),e}},5193:(e,t,r)=>{var n=r(1540),o=r(4354),i=r(7039),a=n(Function.toString);o(i.inspectSource)||(i.inspectSource=function(e){return a(e)}),e.exports=i.inspectSource},6731:(e,t,r)=>{var n=r(1651),o=r(7632);e.exports=function(e,t){n(t)&&"cause"in t&&o(e,"cause",t.cause)}},3500:(e,t,r)=>{var n,o,i,a=r(5965),u=r(2569),c=r(1540),s=r(1651),l=r(7632),p=r(5320),f=r(7039),b=r(9097),d=r(9012),v="Object already initialized",h=u.TypeError,g=u.WeakMap;if(a||f.state){var y=f.state||(f.state=new g),x=c(y.get),m=c(y.has),S=c(y.set);n=function(e,t){if(m(y,e))throw new h(v);return t.facade=e,S(y,e,t),t},o=function(e){return x(y,e)||{}},i=function(e){return m(y,e)}}else{var O=b("state");d[O]=!0,n=function(e,t){if(p(e,O))throw new h(v);return t.facade=e,l(e,O,t),t},o=function(e){return p(e,O)?e[O]:{}},i=function(e){return p(e,O)}}e.exports={set:n,get:o,has:i,enforce:function(e){return i(e)?o(e):n(e,{})},getterFor:function(e){return function(t){var r;if(!s(t)||(r=o(t)).type!==e)throw h("Incompatible receiver, "+e+" required");return r}}}},4354:e=>{e.exports=function(e){return"function"==typeof e}},8787:(e,t,r)=>{var n=r(2112),o=r(4354),i=/#|\.prototype\./,a=function(e,t){var r=c[u(e)];return r==l||r!=s&&(o(t)?n(t):!!t)},u=a.normalize=function(e){return String(e).replace(i,".").toLowerCase()},c=a.data={},s=a.NATIVE="N",l=a.POLYFILL="P";e.exports=a},1651:(e,t,r)=>{var n=r(4354);e.exports=function(e){return"object"==typeof e?null!==e:n(e)}},1274:e=>{e.exports=!1},8937:(e,t,r)=>{var n=r(2430),o=r(4354),i=r(7652),a=r(7374),u=Object;e.exports=a?function(e){return"symbol"==typeof e}:function(e){var t=n("Symbol");return o(t)&&i(t.prototype,u(e))}},6095:(e,t,r)=>{var n=r(9309);e.exports=function(e){return n(e.length)}},9465:(e,t,r)=>{var n=r(2112),o=r(4354),i=r(5320),a=r(1738),u=r(34).CONFIGURABLE,c=r(5193),s=r(3500),l=s.enforce,p=s.get,f=Object.defineProperty,b=a&&!n((function(){return 8!==f((function(){}),"length",{value:8}).length})),d=String(String).split("String"),v=e.exports=function(e,t,r){"Symbol("===String(t).slice(0,7)&&(t="["+String(t).replace(/^Symbol\(([^)]*)\)/,"$1")+"]"),r&&r.getter&&(t="get "+t),r&&r.setter&&(t="set "+t),(!i(e,"name")||u&&e.name!==t)&&(a?f(e,"name",{value:t,configurable:!0}):e.name=t),b&&r&&i(r,"arity")&&e.length!==r.arity&&f(e,"length",{value:r.arity});try{r&&i(r,"constructor")&&r.constructor?a&&f(e,"prototype",{writable:!1}):e.prototype&&(e.prototype=void 0)}catch(e){}var n=l(e);return i(n,"source")||(n.source=d.join("string"==typeof t?t:"")),e};Function.prototype.toString=v((function(){return o(this)&&p(this).source||c(this)}),"toString")},3846:e=>{var t=Math.ceil,r=Math.floor;e.exports=Math.trunc||function(e){var n=+e;return(n>0?r:t)(n)}},5598:(e,t,r)=>{var n=r(9318),o=r(2112);e.exports=!!Object.getOwnPropertySymbols&&!o((function(){var e=Symbol();return!String(e)||!(Object(e)instanceof Symbol)||!Symbol.sham&&n&&n<41}))},5965:(e,t,r)=>{var n=r(2569),o=r(4354),i=r(5193),a=n.WeakMap;e.exports=o(a)&&/native code/.test(i(a))},8238:(e,t,r)=>{var n=r(4818);e.exports=function(e,t){return void 0===e?arguments.length<2?"":t:n(e)}},378:(e,t,r)=>{var n=r(1738),o=r(8232),i=r(5734),a=r(1421),u=r(7411),c=TypeError,s=Object.defineProperty,l=Object.getOwnPropertyDescriptor,p="enumerable",f="configurable",b="writable";t.f=n?i?function(e,t,r){if(a(e),t=u(t),a(r),"function"==typeof e&&"prototype"===t&&"value"in r&&b in r&&!r.writable){var n=l(e,t);n&&n.writable&&(e[t]=r.value,r={configurable:f in r?r.configurable:n.configurable,enumerable:p in r?r.enumerable:n.enumerable,writable:!1})}return s(e,t,r)}:s:function(e,t,r){if(a(e),t=u(t),a(r),o)try{return s(e,t,r)}catch(e){}if("get"in r||"set"in r)throw c("Accessors not supported");return"value"in r&&(e[t]=r.value),e}},892:(e,t,r)=>{var n=r(1738),o=r(7425),i=r(7079),a=r(3233),u=r(7830),c=r(7411),s=r(5320),l=r(8232),p=Object.getOwnPropertyDescriptor;t.f=n?p:function(e,t){if(e=u(e),t=c(t),l)try{return p(e,t)}catch(e){}if(s(e,t))return a(!o(i.f,e,t),e[t])}},9704:(e,t,r)=>{var n=r(9313),o=r(4328).concat("length","prototype");t.f=Object.getOwnPropertyNames||function(e){return n(e,o)}},419:(e,t)=>{t.f=Object.getOwnPropertySymbols},7652:(e,t,r)=>{var n=r(1540);e.exports=n({}.isPrototypeOf)},9313:(e,t,r)=>{var n=r(1540),o=r(5320),i=r(7830),a=r(4041).indexOf,u=r(9012),c=n([].push);e.exports=function(e,t){var r,n=i(e),s=0,l=[];for(r in n)!o(u,r)&&o(n,r)&&c(l,r);for(;t.length>s;)o(n,r=t[s++])&&(~a(l,r)||c(l,r));return l}},7079:(e,t)=>{"use strict";var r={}.propertyIsEnumerable,n=Object.getOwnPropertyDescriptor,o=n&&!r.call({1:2},1);t.f=o?function(e){var t=n(this,e);return!!t&&t.enumerable}:r},4001:(e,t,r)=>{var n=r(1540),o=r(1421),i=r(3467);e.exports=Object.setPrototypeOf||("__proto__"in{}?function(){var e,t=!1,r={};try{(e=n(Object.getOwnPropertyDescriptor(Object.prototype,"__proto__").set))(r,[]),t=r instanceof Array}catch(e){}return function(r,n){return o(r),i(n),t?e(r,n):r.__proto__=n,r}}():void 0)},6964:(e,t,r)=>{var n=r(7425),o=r(4354),i=r(1651),a=TypeError;e.exports=function(e,t){var r,u;if("string"===t&&o(r=e.toString)&&!i(u=n(r,e)))return u;if(o(r=e.valueOf)&&!i(u=n(r,e)))return u;if("string"!==t&&o(r=e.toString)&&!i(u=n(r,e)))return u;throw a("Can't convert object to primitive value")}},6830:(e,t,r)=>{var n=r(2430),o=r(1540),i=r(9704),a=r(419),u=r(1421),c=o([].concat);e.exports=n("Reflect","ownKeys")||function(e){var t=i.f(u(e)),r=a.f;return r?c(t,r(e)):t}},5482:(e,t,r)=>{var n=r(378).f;e.exports=function(e,t,r){r in e||n(e,r,{configurable:!0,get:function(){return t[r]},set:function(e){t[r]=e}})}},1196:e=>{var t=TypeError;e.exports=function(e){if(null==e)throw t("Can't call method on "+e);return e}},9097:(e,t,r)=>{var n=r(9944),o=r(9225),i=n("keys");e.exports=function(e){return i[e]||(i[e]=o(e))}},7039:(e,t,r)=>{var n=r(2569),o=r(5967),i="__core-js_shared__",a=n[i]||o(i,{});e.exports=a},9944:(e,t,r)=>{var n=r(1274),o=r(7039);(e.exports=function(e,t){return o[e]||(o[e]=void 0!==t?t:{})})("versions",[]).push({version:"3.23.3",mode:n?"pure":"global",copyright:"© 2014-2022 Denis Pushkarev (zloirock.ru)",license:"https://github.com/zloirock/core-js/blob/v3.23.3/LICENSE",source:"https://github.com/zloirock/core-js"})},7841:(e,t,r)=>{var n=r(1859),o=Math.max,i=Math.min;e.exports=function(e,t){var r=n(e);return r<0?o(r+t,0):i(r,t)}},7830:(e,t,r)=>{var n=r(6674),o=r(1196);e.exports=function(e){return n(o(e))}},1859:(e,t,r)=>{var n=r(3846);e.exports=function(e){var t=+e;return t!=t||0===t?0:n(t)}},9309:(e,t,r)=>{var n=r(1859),o=Math.min;e.exports=function(e){return e>0?o(n(e),9007199254740991):0}},6416:(e,t,r)=>{var n=r(1196),o=Object;e.exports=function(e){return o(n(e))}},38:(e,t,r)=>{var n=r(7425),o=r(1651),i=r(8937),a=r(5324),u=r(6964),c=r(2931),s=TypeError,l=c("toPrimitive");e.exports=function(e,t){if(!o(e)||i(e))return e;var r,c=a(e,l);if(c){if(void 0===t&&(t="default"),r=n(c,e,t),!o(r)||i(r))return r;throw s("Can't convert object to primitive value")}return void 0===t&&(t="number"),u(e,t)}},7411:(e,t,r)=>{var n=r(38),o=r(8937);e.exports=function(e){var t=n(e,"string");return o(t)?t:t+""}},2102:(e,t,r)=>{var n={};n[r(2931)("toStringTag")]="z",e.exports="[object z]"===String(n)},4818:(e,t,r)=>{var n=r(3114),o=String;e.exports=function(e){if("Symbol"===n(e))throw TypeError("Cannot convert a Symbol value to a string");return o(e)}},3700:e=>{var t=String;e.exports=function(e){try{return t(e)}catch(e){return"Object"}}},9225:(e,t,r)=>{var n=r(1540),o=0,i=Math.random(),a=n(1..toString);e.exports=function(e){return"Symbol("+(void 0===e?"":e)+")_"+a(++o+i,36)}},7374:(e,t,r)=>{var n=r(5598);e.exports=n&&!Symbol.sham&&"symbol"==typeof Symbol.iterator},5734:(e,t,r)=>{var n=r(1738),o=r(2112);e.exports=n&&o((function(){return 42!=Object.defineProperty((function(){}),"prototype",{value:42,writable:!1}).prototype}))},2931:(e,t,r)=>{var n=r(2569),o=r(9944),i=r(5320),a=r(9225),u=r(5598),c=r(7374),s=o("wks"),l=n.Symbol,p=l&&l.for,f=c?l:l&&l.withoutSetter||a;e.exports=function(e){if(!i(s,e)||!u&&"string"!=typeof s[e]){var t="Symbol."+e;u&&i(l,e)?s[e]=l[e]:s[e]=c&&p?p(t):f(t)}return s[e]}},6685:(e,t,r)=>{"use strict";var n=r(2430),o=r(5320),i=r(7632),a=r(7652),u=r(4001),c=r(8778),s=r(5482),l=r(679),p=r(8238),f=r(6731),b=r(8625),d=r(3137),v=r(1738),h=r(1274);e.exports=function(e,t,r,g){var y="stackTraceLimit",x=g?2:1,m=e.split("."),S=m[m.length-1],O=n.apply(null,m);if(O){var w=O.prototype;if(!h&&o(w,"cause")&&delete w.cause,!r)return O;var E=n("Error"),P=t((function(e,t){var r=p(g?t:e,void 0),n=g?new O(e):new O;return void 0!==r&&i(n,"message",r),d&&i(n,"stack",b(n.stack,2)),this&&a(w,this)&&l(n,this,P),arguments.length>x&&f(n,arguments[x]),n}));if(P.prototype=w,"Error"!==S?u?u(P,E):c(P,E,{name:!0}):v&&y in O&&(s(P,O,y),s(P,O,"prepareStackTrace")),c(P,O),!h)try{w.name!==S&&i(w,"name",S),w.constructor=P}catch(e){}return P}}},3247:(e,t,r)=>{var n=r(7641),o=r(2569),i=r(2976),a=r(6685),u="WebAssembly",c=o.WebAssembly,s=7!==Error("e",{cause:7}).cause,l=function(e,t){var r={};r[e]=a(e,t,s),n({global:!0,constructor:!0,arity:1,forced:s},r)},p=function(e,t){if(c&&c[e]){var r={};r[e]=a("WebAssembly."+e,t,s),n({target:u,stat:!0,constructor:!0,arity:1,forced:s},r)}};l("Error",(function(e){return function(t){return i(e,this,arguments)}})),l("EvalError",(function(e){return function(t){return i(e,this,arguments)}})),l("RangeError",(function(e){return function(t){return i(e,this,arguments)}})),l("ReferenceError",(function(e){return function(t){return i(e,this,arguments)}})),l("SyntaxError",(function(e){return function(t){return i(e,this,arguments)}})),l("TypeError",(function(e){return function(t){return i(e,this,arguments)}})),l("URIError",(function(e){return function(t){return i(e,this,arguments)}})),p("CompileError",(function(e){return function(t){return i(e,this,arguments)}})),p("LinkError",(function(e){return function(t){return i(e,this,arguments)}})),p("RuntimeError",(function(e){return function(t){return i(e,this,arguments)}}))},5472:function(e,t,r){var n;e=r.nmd(e),function(){"use strict";var o={function:!0,object:!0},i=o[typeof window]&&window||this,a=o[typeof t]&&t,u=o.object&&e&&!e.nodeType&&e,c=a&&u&&"object"==typeof r.g&&r.g;!c||c.global!==c&&c.window!==c&&c.self!==c||(i=c);var s=Math.pow(2,53)-1,l=/\bOpera/,p=Object.prototype,f=p.hasOwnProperty,b=p.toString;function d(e){return(e=String(e)).charAt(0).toUpperCase()+e.slice(1)}function v(e){return e=m(e),/^(?:webOS|i(?:OS|P))/.test(e)?e:d(e)}function h(e,t){for(var r in e)f.call(e,r)&&t(e[r],r,e)}function g(e){return null==e?d(e):b.call(e).slice(8,-1)}function y(e){return String(e).replace(/([ -])(?!$)/g,"$1?")}function x(e,t){var r=null;return function(e,t){var r=-1,n=e?e.length:0;if("number"==typeof n&&n>-1&&n<=s)for(;++r<n;)t(e[r],r,e);else h(e,t)}(e,(function(n,o){r=t(r,n,o,e)})),r}function m(e){return String(e).replace(/^ +| +$/g,"")}var S=function e(t){var r=i,n=t&&"object"==typeof t&&"String"!=g(t);n&&(r=t,t=null);var o=r.navigator||{},a=o.userAgent||"";t||(t=a);var u,c,s,p,f,d=n?!!o.likeChrome:/\bChrome\b/.test(t)&&!/internal|\n/i.test(b.toString()),S="Object",O=n?S:"ScriptBridgingProxyObject",w=n?S:"Environment",E=n&&r.java?"JavaPackage":g(r.java),P=n?S:"RuntimeObject",j=/\bJava/.test(E)&&r.java,M=j&&g(r.environment)==w,C=j?"a":"α",F=j?"b":"β",k=r.document||{},A=r.operamini||r.opera,B=l.test(B=n&&A?A["[[Class]]"]:g(A))?B:A=null,R=t,T=[],W=null,I=t==a,_=I&&A&&"function"==typeof A.version&&A.version(),G=x([{label:"EdgeHTML",pattern:"Edge"},"Trident",{label:"WebKit",pattern:"AppleWebKit"},"iCab","Presto","NetFront","Tasman","KHTML","Gecko"],(function(e,r){return e||RegExp("\\b"+(r.pattern||y(r))+"\\b","i").exec(t)&&(r.label||r)})),D=function(e){return x(e,(function(e,r){return e||RegExp("\\b"+(r.pattern||y(r))+"\\b","i").exec(t)&&(r.label||r)}))}(["Adobe AIR","Arora","Avant Browser","Breach","Camino","Electron","Epiphany","Fennec","Flock","Galeon","GreenBrowser","iCab","Iceweasel","K-Meleon","Konqueror","Lunascape","Maxthon",{label:"Microsoft Edge",pattern:"(?:Edge|Edg|EdgA|EdgiOS)"},"Midori","Nook Browser","PaleMoon","PhantomJS","Raven","Rekonq","RockMelt",{label:"Samsung Internet",pattern:"SamsungBrowser"},"SeaMonkey",{label:"Silk",pattern:"(?:Cloud9|Silk-Accelerated)"},"Sleipnir","SlimBrowser",{label:"SRWare Iron",pattern:"Iron"},"Sunrise","Swiftfox","Vivaldi","Waterfox","WebPositive",{label:"Yandex Browser",pattern:"YaBrowser"},{label:"UC Browser",pattern:"UCBrowser"},"Opera Mini",{label:"Opera Mini",pattern:"OPiOS"},"Opera",{label:"Opera",pattern:"OPR"},"Chromium","Chrome",{label:"Chrome",pattern:"(?:HeadlessChrome)"},{label:"Chrome Mobile",pattern:"(?:CriOS|CrMo)"},{label:"Firefox",pattern:"(?:Firefox|Minefield)"},{label:"Firefox for iOS",pattern:"FxiOS"},{label:"IE",pattern:"IEMobile"},{label:"IE",pattern:"MSIE"},"Safari"]),$=L([{label:"BlackBerry",pattern:"BB10"},"BlackBerry",{label:"Galaxy S",pattern:"GT-I9000"},{label:"Galaxy S2",pattern:"GT-I9100"},{label:"Galaxy S3",pattern:"GT-I9300"},{label:"Galaxy S4",pattern:"GT-I9500"},{label:"Galaxy S5",pattern:"SM-G900"},{label:"Galaxy S6",pattern:"SM-G920"},{label:"Galaxy S6 Edge",pattern:"SM-G925"},{label:"Galaxy S7",pattern:"SM-G930"},{label:"Galaxy S7 Edge",pattern:"SM-G935"},"Google TV","Lumia","iPad","iPod","iPhone","Kindle",{label:"Kindle Fire",pattern:"(?:Cloud9|Silk-Accelerated)"},"Nexus","Nook","PlayBook","PlayStation Vita","PlayStation","TouchPad","Transformer",{label:"Wii U",pattern:"WiiU"},"Wii","Xbox One",{label:"Xbox 360",pattern:"Xbox"},"Xoom"]),N=function(e){return x(e,(function(e,r,n){return e||(r[$]||r[/^[a-z]+(?: +[a-z]+\b)*/i.exec($)]||RegExp("\\b"+y(n)+"(?:\\b|\\w*\\d)","i").exec(t))&&n}))}({Apple:{iPad:1,iPhone:1,iPod:1},Alcatel:{},Archos:{},Amazon:{Kindle:1,"Kindle Fire":1},Asus:{Transformer:1},"Barnes & Noble":{Nook:1},BlackBerry:{PlayBook:1},Google:{"Google TV":1,Nexus:1},HP:{TouchPad:1},HTC:{},Huawei:{},Lenovo:{},LG:{},Microsoft:{Xbox:1,"Xbox One":1},Motorola:{Xoom:1},Nintendo:{"Wii U":1,Wii:1},Nokia:{Lumia:1},Oppo:{},Samsung:{"Galaxy S":1,"Galaxy S2":1,"Galaxy S3":1,"Galaxy S4":1},Sony:{PlayStation:1,"PlayStation Vita":1},Xiaomi:{Mi:1,Redmi:1}}),z=function(e){return x(e,(function(e,r){var n=r.pattern||y(r);return!e&&(e=RegExp("\\b"+n+"(?:/[\\d.]+|[ \\w.]*)","i").exec(t))&&(e=function(e,t,r){var n={"10.0":"10",6.4:"10 Technical Preview",6.3:"8.1",6.2:"8",6.1:"Server 2008 R2 / 7","6.0":"Server 2008 / Vista",5.2:"Server 2003 / XP 64-bit",5.1:"XP",5.01:"2000 SP1","5.0":"2000","4.0":"NT","4.90":"ME"};return t&&r&&/^Win/i.test(e)&&!/^Windows Phone /i.test(e)&&(n=n[/[\d.]+$/.exec(e)])&&(e="Windows "+n),e=String(e),t&&r&&(e=e.replace(RegExp(t,"i"),r)),v(e.replace(/ ce$/i," CE").replace(/\bhpw/i,"web").replace(/\bMacintosh\b/,"Mac OS").replace(/_PowerPC\b/i," OS").replace(/\b(OS X) [^ \d]+/i,"$1").replace(/\bMac (OS X)\b/,"$1").replace(/\/(\d)/," $1").replace(/_/g,".").replace(/(?: BePC|[ .]*fc[ \d.]+)$/i,"").replace(/\bx86\.64\b/gi,"x86_64").replace(/\b(Windows Phone) OS\b/,"$1").replace(/\b(Chrome OS \w+) [\d.]+\b/,"$1").split(" on ")[0])}(e,n,r.label||r)),e}))}(["Windows Phone","KaiOS","Android","CentOS",{label:"Chrome OS",pattern:"CrOS"},"Debian",{label:"DragonFly BSD",pattern:"DragonFly"},"Fedora","FreeBSD","Gentoo","Haiku","Kubuntu","Linux Mint","OpenBSD","Red Hat","SuSE","Ubuntu","Xubuntu","Cygwin","Symbian OS","hpwOS","webOS ","webOS","Tablet OS","Tizen","Linux","Mac OS X","Macintosh","Mac","Windows 98;","Windows "]);function L(e){return x(e,(function(e,r){var n=r.pattern||y(r);return!e&&(e=RegExp("\\b"+n+" *\\d+[.\\w_]*","i").exec(t)||RegExp("\\b"+n+" *\\w+-[\\w]*","i").exec(t)||RegExp("\\b"+n+"(?:; *(?:[a-z]+[_-])?[a-z]+\\d+|[^ ();-]*)","i").exec(t))&&((e=String(r.label&&!RegExp(n,"i").test(r.label)?r.label:e).split("/"))[1]&&!/[\d.]+/.test(e[0])&&(e[0]+=" "+e[1]),r=r.label||r,e=v(e[0].replace(RegExp(n,"i"),r).replace(RegExp("; *(?:"+r+"[_-])?","i")," ").replace(RegExp("("+r+")[-_.]?(\\w)","i"),"$1 $2"))),e}))}function X(e){return x(e,(function(e,r){return e||(RegExp(r+"(?:-[\\d.]+/|(?: for [\\w-]+)?[ /-])([\\d.]+[^ ();/_-]*)","i").exec(t)||0)[1]||null}))}if(G&&(G=[G]),/\bAndroid\b/.test(z)&&!$&&(u=/\bAndroid[^;]*;(.*?)(?:Build|\) AppleWebKit)\b/i.exec(t))&&($=m(u[1]).replace(/^[a-z]{2}-[a-z]{2};\s*/i,"")||null),N&&!$?$=L([N]):N&&$&&($=$.replace(RegExp("^("+y(N)+")[-_.\\s]","i"),N+" ").replace(RegExp("^("+y(N)+")[-_.]?(\\w)","i"),N+" $2")),(u=/\bGoogle TV\b/.exec($))&&($=u[0]),/\bSimulator\b/i.test(t)&&($=($?$+" ":"")+"Simulator"),"Opera Mini"==D&&/\bOPiOS\b/.test(t)&&T.push("running in Turbo/Uncompressed mode"),"IE"==D&&/\blike iPhone OS\b/.test(t)?(N=(u=e(t.replace(/like iPhone OS/,""))).manufacturer,$=u.product):/^iP/.test($)?(D||(D="Safari"),z="iOS"+((u=/ OS ([\d_]+)/i.exec(t))?" "+u[1].replace(/_/g,"."):"")):"Konqueror"==D&&/^Linux\b/i.test(z)?z="Kubuntu":N&&"Google"!=N&&(/Chrome/.test(D)&&!/\bMobile Safari\b/i.test(t)||/\bVita\b/.test($))||/\bAndroid\b/.test(z)&&/^Chrome/.test(D)&&/\bVersion\//i.test(t)?(D="Android Browser",z=/\bAndroid\b/.test(z)?z:"Android"):"Silk"==D?(/\bMobi/i.test(t)||(z="Android",T.unshift("desktop mode")),/Accelerated *= *true/i.test(t)&&T.unshift("accelerated")):"UC Browser"==D&&/\bUCWEB\b/.test(t)?T.push("speed mode"):"PaleMoon"==D&&(u=/\bFirefox\/([\d.]+)\b/.exec(t))?T.push("identifying as Firefox "+u[1]):"Firefox"==D&&(u=/\b(Mobile|Tablet|TV)\b/i.exec(t))?(z||(z="Firefox OS"),$||($=u[1])):!D||(u=!/\bMinefield\b/i.test(t)&&/\b(?:Firefox|Safari)\b/.exec(D))?(D&&!$&&/[\/,]|^[^(]+?\)/.test(t.slice(t.indexOf(u+"/")+8))&&(D=null),(u=$||N||z)&&($||N||/\b(?:Android|Symbian OS|Tablet OS|webOS)\b/.test(z))&&(D=/[a-z]+(?: Hat)?/i.exec(/\bAndroid\b/.test(z)?z:u)+" Browser")):"Electron"==D&&(u=(/\bChrome\/([\d.]+)\b/.exec(t)||0)[1])&&T.push("Chromium "+u),_||(_=X(["(?:Cloud9|CriOS|CrMo|Edge|Edg|EdgA|EdgiOS|FxiOS|HeadlessChrome|IEMobile|Iron|Opera ?Mini|OPiOS|OPR|Raven|SamsungBrowser|Silk(?!/[\\d.]+$)|UCBrowser|YaBrowser)","Version",y(D),"(?:Firefox|Minefield|NetFront)"])),(u=("iCab"==G&&parseFloat(_)>3?"WebKit":/\bOpera\b/.test(D)&&(/\bOPR\b/.test(t)?"Blink":"Presto"))||/\b(?:Midori|Nook|Safari)\b/i.test(t)&&!/^(?:Trident|EdgeHTML)$/.test(G)&&"WebKit"||!G&&/\bMSIE\b/i.test(t)&&("Mac OS"==z?"Tasman":"Trident")||"WebKit"==G&&/\bPlayStation\b(?! Vita\b)/i.test(D)&&"NetFront")&&(G=[u]),"IE"==D&&(u=(/; *(?:XBLWP|ZuneWP)(\d+)/i.exec(t)||0)[1])?(D+=" Mobile",z="Windows Phone "+(/\+$/.test(u)?u:u+".x"),T.unshift("desktop mode")):/\bWPDesktop\b/i.test(t)?(D="IE Mobile",z="Windows Phone 8.x",T.unshift("desktop mode"),_||(_=(/\brv:([\d.]+)/.exec(t)||0)[1])):"IE"!=D&&"Trident"==G&&(u=/\brv:([\d.]+)/.exec(t))&&(D&&T.push("identifying as "+D+(_?" "+_:"")),D="IE",_=u[1]),I){if(p="global",f=null!=(s=r)?typeof s[p]:"number",/^(?:boolean|number|string|undefined)$/.test(f)||"object"==f&&!s[p])g(u=r.runtime)==O?(D="Adobe AIR",z=u.flash.system.Capabilities.os):g(u=r.phantom)==P?(D="PhantomJS",_=(u=u.version||null)&&u.major+"."+u.minor+"."+u.patch):"number"==typeof k.documentMode&&(u=/\bTrident\/(\d+)/i.exec(t))?(_=[_,k.documentMode],(u=+u[1]+4)!=_[1]&&(T.push("IE "+_[1]+" mode"),G&&(G[1]=""),_[1]=u),_="IE"==D?String(_[1].toFixed(1)):_[0]):"number"==typeof k.documentMode&&/^(?:Chrome|Firefox)\b/.test(D)&&(T.push("masking as "+D+" "+_),D="IE",_="11.0",G=["Trident"],z="Windows");else if(j&&(R=(u=j.lang.System).getProperty("os.arch"),z=z||u.getProperty("os.name")+" "+u.getProperty("os.version")),M){try{_=r.require("ringo/engine").version.join("."),D="RingoJS"}catch(e){(u=r.system)&&u.global.system==r.system&&(D="Narwhal",z||(z=u[0].os||null))}D||(D="Rhino")}else"object"==typeof r.process&&!r.process.browser&&(u=r.process)&&("object"==typeof u.versions&&("string"==typeof u.versions.electron?(T.push("Node "+u.versions.node),D="Electron",_=u.versions.electron):"string"==typeof u.versions.nw&&(T.push("Chromium "+_,"Node "+u.versions.node),D="NW.js",_=u.versions.nw)),D||(D="Node.js",R=u.arch,z=u.platform,_=(_=/[\d.]+/.exec(u.version))?_[0]:null));z=z&&v(z)}if(_&&(u=/(?:[ab]|dp|pre|[ab]\d+pre)(?:\d+\+?)?$/i.exec(_)||/(?:alpha|beta)(?: ?\d)?/i.exec(t+";"+(I&&o.appMinorVersion))||/\bMinefield\b/i.test(t)&&"a")&&(W=/b/i.test(u)?"beta":"alpha",_=_.replace(RegExp(u+"\\+?$"),"")+("beta"==W?F:C)+(/\d+\+?/.exec(u)||"")),"Fennec"==D||"Firefox"==D&&/\b(?:Android|Firefox OS|KaiOS)\b/.test(z))D="Firefox Mobile";else if("Maxthon"==D&&_)_=_.replace(/\.[\d.]+/,".x");else if(/\bXbox\b/i.test($))"Xbox 360"==$&&(z=null),"Xbox 360"==$&&/\bIEMobile\b/.test(t)&&T.unshift("mobile mode");else if(!/^(?:Chrome|IE|Opera)$/.test(D)&&(!D||$||/Browser|Mobi/.test(D))||"Windows CE"!=z&&!/Mobi/i.test(t))if("IE"==D&&I)try{null===r.external&&T.unshift("platform preview")}catch(e){T.unshift("embedded")}else(/\bBlackBerry\b/.test($)||/\bBB10\b/.test(t))&&(u=(RegExp($.replace(/ +/g," *")+"/([.\\d]+)","i").exec(t)||0)[1]||_)?(z=((u=[u,/BB10/.test(t)])[1]?($=null,N="BlackBerry"):"Device Software")+" "+u[0],_=null):this!=h&&"Wii"!=$&&(I&&A||/Opera/.test(D)&&/\b(?:MSIE|Firefox)\b/i.test(t)||"Firefox"==D&&/\bOS X (?:\d+\.){2,}/.test(z)||"IE"==D&&(z&&!/^Win/.test(z)&&_>5.5||/\bWindows XP\b/.test(z)&&_>8||8==_&&!/\bTrident\b/.test(t)))&&!l.test(u=e.call(h,t.replace(l,"")+";"))&&u.name&&(u="ing as "+u.name+((u=u.version)?" "+u:""),l.test(D)?(/\bIE\b/.test(u)&&"Mac OS"==z&&(z=null),u="identify"+u):(u="mask"+u,D=B?v(B.replace(/([a-z])([A-Z])/g,"$1 $2")):"Opera",/\bIE\b/.test(u)&&(z=null),I||(_=null)),G=["Presto"],T.push(u));else D+=" Mobile";(u=(/\bAppleWebKit\/([\d.]+\+?)/i.exec(t)||0)[1])&&(u=[parseFloat(u.replace(/\.(\d)$/,".0$1")),u],"Safari"==D&&"+"==u[1].slice(-1)?(D="WebKit Nightly",W="alpha",_=u[1].slice(0,-1)):_!=u[1]&&_!=(u[2]=(/\bSafari\/([\d.]+\+?)/i.exec(t)||0)[1])||(_=null),u[1]=(/\b(?:Headless)?Chrome\/([\d.]+)/i.exec(t)||0)[1],537.36==u[0]&&537.36==u[2]&&parseFloat(u[1])>=28&&"WebKit"==G&&(G=["Blink"]),I&&(d||u[1])?(G&&(G[1]="like Chrome"),u=u[1]||((u=u[0])<530?1:u<532?2:u<532.05?3:u<533?4:u<534.03?5:u<534.07?6:u<534.1?7:u<534.13?8:u<534.16?9:u<534.24?10:u<534.3?11:u<535.01?12:u<535.02?"13+":u<535.07?15:u<535.11?16:u<535.19?17:u<536.05?18:u<536.1?19:u<537.01?20:u<537.11?"21+":u<537.13?23:u<537.18?24:u<537.24?25:u<537.36?26:"Blink"!=G?"27":"28")):(G&&(G[1]="like Safari"),u=(u=u[0])<400?1:u<500?2:u<526?3:u<533?4:u<534?"4+":u<535?5:u<537?6:u<538?7:u<601?8:u<602?9:u<604?10:u<606?11:u<608?12:"12"),G&&(G[1]+=" "+(u+="number"==typeof u?".x":/[.+]/.test(u)?"":"+")),"Safari"==D&&(!_||parseInt(_)>45)?_=u:"Chrome"==D&&/\bHeadlessChrome/i.test(t)&&T.unshift("headless")),"Opera"==D&&(u=/\bzbov|zvav$/.exec(z))?(D+=" ",T.unshift("desktop mode"),"zvav"==u?(D+="Mini",_=null):D+="Mobile",z=z.replace(RegExp(" *"+u+"$"),"")):"Safari"==D&&/\bChrome\b/.exec(G&&G[1])?(T.unshift("desktop mode"),D="Chrome Mobile",_=null,/\bOS X\b/.test(z)?(N="Apple",z="iOS 4.3+"):z=null):/\bSRWare Iron\b/.test(D)&&!_&&(_=X("Chrome")),_&&0==_.indexOf(u=/[\d.]+$/.exec(z))&&t.indexOf("/"+u+"-")>-1&&(z=m(z.replace(u,""))),z&&-1!=z.indexOf(D)&&!RegExp(D+" OS").test(z)&&(z=z.replace(RegExp(" *"+y(D)+" *"),"")),G&&!/\b(?:Avant|Nook)\b/.test(D)&&(/Browser|Lunascape|Maxthon/.test(D)||"Safari"!=D&&/^iOS/.test(z)&&/\bSafari\b/.test(G[1])||/^(?:Adobe|Arora|Breach|Midori|Opera|Phantom|Rekonq|Rock|Samsung Internet|Sleipnir|SRWare Iron|Vivaldi|Web)/.test(D)&&G[1])&&(u=G[G.length-1])&&T.push(u),T.length&&(T=["("+T.join("; ")+")"]),N&&$&&$.indexOf(N)<0&&T.push("on "+N),$&&T.push((/^on /.test(T[T.length-1])?"":"on ")+$),z&&(u=/ ([\d.+]+)$/.exec(z),c=u&&"/"==z.charAt(z.length-u[0].length-1),z={architecture:32,family:u&&!c?z.replace(u[0],""):z,version:u?u[1]:null,toString:function(){var e=this.version;return this.family+(e&&!c?" "+e:"")+(64==this.architecture?" 64-bit":"")}}),(u=/\b(?:AMD|IA|Win|WOW|x86_|x)64\b/i.exec(R))&&!/\bi686\b/i.test(R)?(z&&(z.architecture=64,z.family=z.family.replace(RegExp(" *"+u),"")),D&&(/\bWOW64\b/i.test(t)||I&&/\w(?:86|32)$/.test(o.cpuClass||o.platform)&&!/\bWin64; x64\b/i.test(t))&&T.unshift("32-bit")):z&&/^OS X/.test(z.family)&&"Chrome"==D&&parseFloat(_)>=39&&(z.architecture=64),t||(t=null);var K={};return K.description=t,K.layout=G&&G[0],K.manufacturer=N,K.name=D,K.prerelease=W,K.product=$,K.ua=t,K.version=D&&_,K.os=z||{architecture:null,family:null,version:null,toString:function(){return"null"}},K.parse=e,K.toString=function(){return this.description||""},K.version&&T.unshift(_),K.name&&T.unshift(D),z&&D&&(z!=String(z).split(" ")[0]||z!=D.split(" ")[0]&&!$)&&T.push($?"("+z+")":"on "+z),T.length&&(K.description=T.join(" ")),K}();i.platform=S,void 0===(n=function(){return S}.call(t,r,t,e))||(e.exports=n)}.call(this)}},t={};function r(n){var o=t[n];if(void 0!==o)return o.exports;var i=t[n]={id:n,loaded:!1,exports:{}};return e[n].call(i.exports,i,i.exports,r),i.loaded=!0,i.exports}r.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return r.d(t,{a:t}),t},r.d=(e,t)=>{for(var n in t)r.o(t,n)&&!r.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},r.g=function(){if("object"==typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(e){if("object"==typeof window)return window}}(),r.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),r.nmd=e=>(e.paths=[],e.children||(e.children=[]),e),(()=>{"use strict";r(3247);function e(e,t,r){return t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r,e}function t(e,t){var r=Object.keys(e);if(Object.getOwnPropertySymbols){var n=Object.getOwnPropertySymbols(e);t&&(n=n.filter((function(t){return Object.getOwnPropertyDescriptor(e,t).enumerable}))),r.push.apply(r,n)}return r}function n(e,t){return t||(t=e.slice(0)),Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(t)}}))}r(5472);var o,i=r(9790),a=r.n(i),u=function(e){var t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;if(a()(t)||t.length<2)throw new Error("Please add a proper file extension. Got ".concat(t));var r=new RegExp(String.raw(o||(o=n([".","((#|?){0,1}[a-zA-Z0-9.=#_-]{0,})$"],["\\.","((#|\\?){0,1}[a-zA-Z0-9.=#_-]{0,})$"])),t),"gmiu");return r.test(e)},c=function(r){var n=function(r){for(var n=1;n<arguments.length;n++){var o=null!=arguments[n]?arguments[n]:{};n%2?t(Object(o),!0).forEach((function(t){e(r,t,o[t])})):Object.getOwnPropertyDescriptors?Object.defineProperties(r,Object.getOwnPropertyDescriptors(o)):t(Object(o)).forEach((function(e){Object.defineProperty(r,e,Object.getOwnPropertyDescriptor(o,e))}))}return r}({src:null,head:!0},r);if(a()(n.src)&&a()(n.script))throw new Error('Both "src" and "script" are missing. One must be present.');if(!u(n.src,"js"))throw new Error('File extension is not "js". Got resource URL '.concat(n.src));var o=document.createElement("script");o.setAttribute("src",n.src),n.head?document.head.insertAdjacentElement("beforeend",o):document.body.insertAdjacentElement("beforeend",o)};!function(){var e=document.querySelectorAll('head link[rel="stylesheet"]'),t=[];e.forEach((function(e){t.push(e.getAttribute("href"))}));var r,n=t.find((function(e){return e.includes("_document")}))||null;if(null===n)throw new Error("Unable to find static assets root. Not initializing Reader Lite");try{var o=null!==(r=/^((?:[\0-\t\x0B\f\x0E-\u2027\u202A-\uD7FF\uE000-\uFFFF]|[\uD800-\uDBFF][\uDC00-\uDFFF]|[\uD800-\uDBFF](?![\uDC00-\uDFFF])|(?:[^\uD800-\uDBFF]|^)[\uDC00-\uDFFF])*?)_document\/v[0-9]*/gim.exec(n))?{documentUrl:r[0],themeUrl:r[1]}:null;c({src:o.documentUrl+"/js/readerLite.js"}),c({src:"/_analytics/stats.js"})}catch(e){console.error(e)}}()})()})();
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ "../../../../../core__front-end/v2/shared/js/reader-loader/reader-loader.js":
+/*!**********************************************************************************!*\
+  !*** ../../../../../core__front-end/v2/shared/js/reader-loader/reader-loader.js ***!
+  \**********************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "addReaderLiteScripts": () => (/* binding */ addReaderLiteScripts)
+/* harmony export */ });
+/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.error.cause.js */ "../../../../../node_modules/core-js/modules/es.error.cause.js");
+/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! Shared/js/utils/HtmlUtils */ "../../../../../core__front-end/v2/shared/js/utils/HtmlUtils.js");
+
+
+/**
+ * Adds Reader Lite and analytics scripts to the HTML document.
+ * Correct analytics will be added through nginx url rewrite
+ */
+
+var addReaderLiteScripts = function addReaderLiteScripts() {
+  var cssFiles = document.querySelectorAll('head link[rel="stylesheet"]');
+  var cssUrls = []; // Find first document css and extract path to static resources
+
+  cssFiles.forEach(function (cssFile) {
+    cssUrls.push(cssFile.getAttribute('href'));
+  });
+  var documentCss = cssUrls.find(function (cssUrl) {
+    return cssUrl.includes('_document');
+  }) || null;
+
+  if (documentCss === null) {
+    throw new Error('Unable to find static assets root. Not initializing Reader Lite');
+  } else {
+    try {
+      var resourcePaths = (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__.findThemeDir)(documentCss); // Add Reader lite to the head of the HTML document
+
+      (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__.addJS)({
+        src: resourcePaths.documentUrl + '/js/readerLite.js'
+      }); // Attach analytics to the end of the body
+
+      (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__.addJS)({
+        src: '/_analytics/stats.js'
+      });
+    } catch (error) {
+      console.error(error);
+    }
+  }
+};
+
+/***/ }),
+
+/***/ "../../../../../core__front-end/v2/shared/js/utils/HtmlUtils.js":
+/*!**********************************************************************!*\
+  !*** ../../../../../core__front-end/v2/shared/js/utils/HtmlUtils.js ***!
+  \**********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "AddHtmlClasses": () => (/* binding */ AddHtmlClasses),
+/* harmony export */   "addCSS": () => (/* binding */ addCSS),
+/* harmony export */   "addJS": () => (/* binding */ addJS),
+/* harmony export */   "findThemeDir": () => (/* binding */ findThemeDir),
+/* harmony export */   "hasFileExtension": () => (/* binding */ hasFileExtension),
+/* harmony export */   "isDocumentUrl": () => (/* binding */ isDocumentUrl)
+/* harmony export */ });
+/* harmony import */ var C_Users_ThomasLewandowski_oll_platform_publish_client_node_modules_babel_runtime_helpers_esm_objectSpread2_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../../node_modules/@babel/runtime/helpers/esm/objectSpread2.js */ "../../../../../node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var C_Users_ThomasLewandowski_oll_platform_publish_client_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../../node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js */ "../../../../../node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js");
+/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/es.error.cause.js */ "../../../../../node_modules/core-js/modules/es.error.cause.js");
+/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var platform__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! platform */ "../../../../../node_modules/platform/platform.js");
+/* harmony import */ var platform__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(platform__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _isFalsy__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./isFalsy */ "../../../../../core__front-end/v2/shared/js/utils/isFalsy.js");
+/* harmony import */ var _isFalsy__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_isFalsy__WEBPACK_IMPORTED_MODULE_4__);
+
+
+
+var _templateObject;
+
+
+
+
+/**
+ * Adds basic utility classes to HTML element: `js`, browser engine and browser name
+ */
+
+var AddHtmlClasses = function AddHtmlClasses() {
+  var _htmlEl$classList;
+
+  var acceptableClassName = function acceptableClassName(name) {
+    return String(name).toLowerCase().replace(/\s/gi, '_');
+  };
+
+  var browserName = acceptableClassName((platform__WEBPACK_IMPORTED_MODULE_3___default().name));
+  var browserEngine = acceptableClassName((platform__WEBPACK_IMPORTED_MODULE_3___default().layout));
+  var htmlEl = document.firstElementChild;
+  (_htmlEl$classList = htmlEl.classList) === null || _htmlEl$classList === void 0 ? void 0 : _htmlEl$classList.remove('no-js');
+  htmlEl.classList.add('js');
+  htmlEl.classList.add(browserEngine);
+  htmlEl.classList.add(browserName);
+};
+/**
+ * Tests is file has a specific extension
+ *
+ * @param {String} url - Resource url
+ * @param {String} extension - File extension to be tested
+ * @returns {Boolean}
+ *
+ * @example
+ * hasFileExtension('//resources/main.js?v=1.2.3', 'js') // True
+ */
+
+var hasFileExtension = function hasFileExtension(url) {
+  var extension = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
+
+  if (_isFalsy__WEBPACK_IMPORTED_MODULE_4___default()(extension) || extension.length < 2) {
+    throw new Error("Please add a proper file extension. Got ".concat(extension));
+  }
+
+  var urlPattern = new RegExp(String.raw(_templateObject || (_templateObject = (0,C_Users_ThomasLewandowski_oll_platform_publish_client_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral_js__WEBPACK_IMPORTED_MODULE_1__["default"])([".", "((#|?){0,1}[a-zA-Z0-9.=#_-]{0,})$"], ["\\.", "((#|\\?){0,1}[a-zA-Z0-9.=#_-]{0,})$"])), extension), 'gmiu');
+  return urlPattern.test(url);
+};
+/**
+ * Tests if url is a document URL
+ *
+ * @param {String} url
+ * @returns {Boolean}
+ */
+
+var isDocumentUrl = function isDocumentUrl(url) {
+  var documentPattern = /^((?:[\0-\t\x0B\f\x0E-\u2027\u202A-\uD7FF\uE000-\uFFFF]|[\uD800-\uDBFF][\uDC00-\uDFFF]|[\uD800-\uDBFF](?![\uDC00-\uDFFF])|(?:[^\uD800-\uDBFF]|^)[\uDC00-\uDFFF])*?)_document\/v[0-9]*/gmi;
+  return documentPattern.test(url);
+};
+/**
+ * Finds theme directory based on a complete resource URL
+ *
+ * @param {String} url
+ * @returns {Object} Returns object with `documentUrl` and `themeUrl`
+ *
+ * @example
+ * findThemeDir('/us/ngo/oll/_document/v2/biticons/biticons.css')
+ *
+ * // Output
+ * {
+ *   documentUrl: "/us/ngo/oll/_document/v2",
+ *   themeUrl: "/us/ngo/oll/"
+ * }
+ */
+
+var findThemeDir = function findThemeDir(url) {
+  var pattern = /^((?:[\0-\t\x0B\f\x0E-\u2027\u202A-\uD7FF\uE000-\uFFFF]|[\uD800-\uDBFF][\uDC00-\uDFFF]|[\uD800-\uDBFF](?![\uDC00-\uDFFF])|(?:[^\uD800-\uDBFF]|^)[\uDC00-\uDFFF])*?)_document\/v[0-9]*/gmi;
+  var result = pattern.exec(url);
+  return result !== null ? {
+    documentUrl: result[0],
+    themeUrl: result[1]
+  } : null;
+};
+/**
+ * Add JS resource to HTML document
+ *
+ * @param {Object} parameters
+ * @param {String} parameters.src - Script URL / path
+ * @param {Boolean} [parameters.head = true] - Adds to `head`, otherwise to the end of `body`
+ */
+
+var addJS = function addJS(parameters) {
+  var OPTIONS = (0,C_Users_ThomasLewandowski_oll_platform_publish_client_node_modules_babel_runtime_helpers_esm_objectSpread2_js__WEBPACK_IMPORTED_MODULE_0__["default"])({
+    src: null,
+    head: true
+  }, parameters); // Error checks
+
+
+  if (_isFalsy__WEBPACK_IMPORTED_MODULE_4___default()(OPTIONS.src) && _isFalsy__WEBPACK_IMPORTED_MODULE_4___default()(OPTIONS.script)) {
+    throw new Error('Both "src" and "script" are missing. One must be present.');
+  }
+
+  if (!hasFileExtension(OPTIONS.src, 'js')) {
+    throw new Error("File extension is not \"js\". Got resource URL ".concat(OPTIONS.src));
+  } // Add script resource to HTML
+
+
+  var script = document.createElement('script');
+  script.setAttribute('src', OPTIONS.src);
+  OPTIONS.head ? document.head.insertAdjacentElement('beforeend', script) : document.body.insertAdjacentElement('beforeend', script);
+};
+/**
+ * Add JS resource to HTML document
+ *
+ * @param {Object} parameters
+ * @param {String} parameters.url - CSS URL / path
+ * @param {String} [parameters.media = true] - Optional media attribute
+ */
+
+var addCSS = function addCSS(parameters) {
+  var OPTIONS = (0,C_Users_ThomasLewandowski_oll_platform_publish_client_node_modules_babel_runtime_helpers_esm_objectSpread2_js__WEBPACK_IMPORTED_MODULE_0__["default"])({
+    url: null,
+    media: null
+  }, parameters); // Error checking
+
+
+  if (!hasFileExtension(OPTIONS.src, 'css')) {
+    throw new Error("Invalid file extension in resource URL. Expected \"css\" file, got ".concat(OPTIONS.url));
+  } // Build style link
+
+
+  var link = document.createElement('link');
+
+  if (!_isFalsy__WEBPACK_IMPORTED_MODULE_4___default()(OPTIONS.media)) {
+    link.setAttribute('media', OPTIONS.media);
+  }
+
+  link.setAttribute('rel', 'stylesheet');
+  link.setAttribute('type', 'text/css');
+  link.setAttribute('href', OPTIONS.url); // Append link to head
+
+  document.head.insertAdjacentElement('beforeend', link);
+};
+
+/***/ }),
+
+/***/ "../../../../../core__front-end/v2/shared/js/utils/isFalsy.js":
+/*!********************************************************************!*\
+  !*** ../../../../../core__front-end/v2/shared/js/utils/isFalsy.js ***!
+  \********************************************************************/
+/***/ ((module) => {
+
+/**
+ * Checks if statement is falsy
+ *
+ * @param { Any } statement - Checks any statement for falsy
+ * @returns { Boolean }
+ */
+var isFalsy = function isFalsy() {
+  var statement = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : true;
+
+  if (!statement || statement === null || typeof statement === 'undefined' || statement === 0 || statement === '') {
+    return true;
+  }
+
+  return false;
+};
+
+module.exports = isFalsy;
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/a-callable.js":
+/*!*******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/a-callable.js ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var tryToString = __webpack_require__(/*! ../internals/try-to-string */ "../../../../../node_modules/core-js/internals/try-to-string.js");
+
+var $TypeError = TypeError;
+
+// `Assert: IsCallable(argument) is true`
+module.exports = function (argument) {
+  if (isCallable(argument)) return argument;
+  throw $TypeError(tryToString(argument) + ' is not a function');
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/a-possible-prototype.js":
+/*!*****************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/a-possible-prototype.js ***!
+  \*****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+
+var $String = String;
+var $TypeError = TypeError;
+
+module.exports = function (argument) {
+  if (typeof argument == 'object' || isCallable(argument)) return argument;
+  throw $TypeError("Can't set " + $String(argument) + ' as a prototype');
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/an-object.js":
+/*!******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/an-object.js ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var isObject = __webpack_require__(/*! ../internals/is-object */ "../../../../../node_modules/core-js/internals/is-object.js");
+
+var $String = String;
+var $TypeError = TypeError;
+
+// `Assert: Type(argument) is Object`
+module.exports = function (argument) {
+  if (isObject(argument)) return argument;
+  throw $TypeError($String(argument) + ' is not an object');
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/array-includes.js":
+/*!***********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/array-includes.js ***!
+  \***********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ "../../../../../node_modules/core-js/internals/to-indexed-object.js");
+var toAbsoluteIndex = __webpack_require__(/*! ../internals/to-absolute-index */ "../../../../../node_modules/core-js/internals/to-absolute-index.js");
+var lengthOfArrayLike = __webpack_require__(/*! ../internals/length-of-array-like */ "../../../../../node_modules/core-js/internals/length-of-array-like.js");
+
+// `Array.prototype.{ indexOf, includes }` methods implementation
+var createMethod = function (IS_INCLUDES) {
+  return function ($this, el, fromIndex) {
+    var O = toIndexedObject($this);
+    var length = lengthOfArrayLike(O);
+    var index = toAbsoluteIndex(fromIndex, length);
+    var value;
+    // Array#includes uses SameValueZero equality algorithm
+    // eslint-disable-next-line no-self-compare -- NaN check
+    if (IS_INCLUDES && el != el) while (length > index) {
+      value = O[index++];
+      // eslint-disable-next-line no-self-compare -- NaN check
+      if (value != value) return true;
+    // Array#indexOf ignores holes, Array#includes - not
+    } else for (;length > index; index++) {
+      if ((IS_INCLUDES || index in O) && O[index] === el) return IS_INCLUDES || index || 0;
+    } return !IS_INCLUDES && -1;
+  };
+};
+
+module.exports = {
+  // `Array.prototype.includes` method
+  // https://tc39.es/ecma262/#sec-array.prototype.includes
+  includes: createMethod(true),
+  // `Array.prototype.indexOf` method
+  // https://tc39.es/ecma262/#sec-array.prototype.indexof
+  indexOf: createMethod(false)
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/classof-raw.js":
+/*!********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/classof-raw.js ***!
+  \********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+
+var toString = uncurryThis({}.toString);
+var stringSlice = uncurryThis(''.slice);
+
+module.exports = function (it) {
+  return stringSlice(toString(it), 8, -1);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/classof.js":
+/*!****************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/classof.js ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var TO_STRING_TAG_SUPPORT = __webpack_require__(/*! ../internals/to-string-tag-support */ "../../../../../node_modules/core-js/internals/to-string-tag-support.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var classofRaw = __webpack_require__(/*! ../internals/classof-raw */ "../../../../../node_modules/core-js/internals/classof-raw.js");
+var wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ "../../../../../node_modules/core-js/internals/well-known-symbol.js");
+
+var TO_STRING_TAG = wellKnownSymbol('toStringTag');
+var $Object = Object;
+
+// ES3 wrong here
+var CORRECT_ARGUMENTS = classofRaw(function () { return arguments; }()) == 'Arguments';
+
+// fallback for IE11 Script Access Denied error
+var tryGet = function (it, key) {
+  try {
+    return it[key];
+  } catch (error) { /* empty */ }
+};
+
+// getting tag from ES6+ `Object.prototype.toString`
+module.exports = TO_STRING_TAG_SUPPORT ? classofRaw : function (it) {
+  var O, tag, result;
+  return it === undefined ? 'Undefined' : it === null ? 'Null'
+    // @@toStringTag case
+    : typeof (tag = tryGet(O = $Object(it), TO_STRING_TAG)) == 'string' ? tag
+    // builtinTag case
+    : CORRECT_ARGUMENTS ? classofRaw(O)
+    // ES3 arguments fallback
+    : (result = classofRaw(O)) == 'Object' && isCallable(O.callee) ? 'Arguments' : result;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/clear-error-stack.js":
+/*!**************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/clear-error-stack.js ***!
+  \**************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+
+var $Error = Error;
+var replace = uncurryThis(''.replace);
+
+var TEST = (function (arg) { return String($Error(arg).stack); })('zxcasd');
+var V8_OR_CHAKRA_STACK_ENTRY = /\n\s*at [^:]*:[^\n]*/;
+var IS_V8_OR_CHAKRA_STACK = V8_OR_CHAKRA_STACK_ENTRY.test(TEST);
+
+module.exports = function (stack, dropEntries) {
+  if (IS_V8_OR_CHAKRA_STACK && typeof stack == 'string' && !$Error.prepareStackTrace) {
+    while (dropEntries--) stack = replace(stack, V8_OR_CHAKRA_STACK_ENTRY, '');
+  } return stack;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/copy-constructor-properties.js":
+/*!************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/copy-constructor-properties.js ***!
+  \************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+var ownKeys = __webpack_require__(/*! ../internals/own-keys */ "../../../../../node_modules/core-js/internals/own-keys.js");
+var getOwnPropertyDescriptorModule = __webpack_require__(/*! ../internals/object-get-own-property-descriptor */ "../../../../../node_modules/core-js/internals/object-get-own-property-descriptor.js");
+var definePropertyModule = __webpack_require__(/*! ../internals/object-define-property */ "../../../../../node_modules/core-js/internals/object-define-property.js");
+
+module.exports = function (target, source, exceptions) {
+  var keys = ownKeys(source);
+  var defineProperty = definePropertyModule.f;
+  var getOwnPropertyDescriptor = getOwnPropertyDescriptorModule.f;
+  for (var i = 0; i < keys.length; i++) {
+    var key = keys[i];
+    if (!hasOwn(target, key) && !(exceptions && hasOwn(exceptions, key))) {
+      defineProperty(target, key, getOwnPropertyDescriptor(source, key));
+    }
+  }
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/create-non-enumerable-property.js":
+/*!***************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/create-non-enumerable-property.js ***!
+  \***************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var definePropertyModule = __webpack_require__(/*! ../internals/object-define-property */ "../../../../../node_modules/core-js/internals/object-define-property.js");
+var createPropertyDescriptor = __webpack_require__(/*! ../internals/create-property-descriptor */ "../../../../../node_modules/core-js/internals/create-property-descriptor.js");
+
+module.exports = DESCRIPTORS ? function (object, key, value) {
+  return definePropertyModule.f(object, key, createPropertyDescriptor(1, value));
+} : function (object, key, value) {
+  object[key] = value;
+  return object;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/create-property-descriptor.js":
+/*!***********************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/create-property-descriptor.js ***!
+  \***********************************************************************************/
+/***/ ((module) => {
+
+module.exports = function (bitmap, value) {
+  return {
+    enumerable: !(bitmap & 1),
+    configurable: !(bitmap & 2),
+    writable: !(bitmap & 4),
+    value: value
+  };
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/define-built-in.js":
+/*!************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/define-built-in.js ***!
+  \************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var definePropertyModule = __webpack_require__(/*! ../internals/object-define-property */ "../../../../../node_modules/core-js/internals/object-define-property.js");
+var makeBuiltIn = __webpack_require__(/*! ../internals/make-built-in */ "../../../../../node_modules/core-js/internals/make-built-in.js");
+var defineGlobalProperty = __webpack_require__(/*! ../internals/define-global-property */ "../../../../../node_modules/core-js/internals/define-global-property.js");
+
+module.exports = function (O, key, value, options) {
+  if (!options) options = {};
+  var simple = options.enumerable;
+  var name = options.name !== undefined ? options.name : key;
+  if (isCallable(value)) makeBuiltIn(value, name, options);
+  if (options.global) {
+    if (simple) O[key] = value;
+    else defineGlobalProperty(key, value);
+  } else {
+    try {
+      if (!options.unsafe) delete O[key];
+      else if (O[key]) simple = true;
+    } catch (error) { /* empty */ }
+    if (simple) O[key] = value;
+    else definePropertyModule.f(O, key, {
+      value: value,
+      enumerable: false,
+      configurable: !options.nonConfigurable,
+      writable: !options.nonWritable
+    });
+  } return O;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/define-global-property.js":
+/*!*******************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/define-global-property.js ***!
+  \*******************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+
+// eslint-disable-next-line es-x/no-object-defineproperty -- safe
+var defineProperty = Object.defineProperty;
+
+module.exports = function (key, value) {
+  try {
+    defineProperty(global, key, { value: value, configurable: true, writable: true });
+  } catch (error) {
+    global[key] = value;
+  } return value;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/descriptors.js":
+/*!********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/descriptors.js ***!
+  \********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+
+// Detect IE8's incomplete defineProperty implementation
+module.exports = !fails(function () {
+  // eslint-disable-next-line es-x/no-object-defineproperty -- required for testing
+  return Object.defineProperty({}, 1, { get: function () { return 7; } })[1] != 7;
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/document-create-element.js":
+/*!********************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/document-create-element.js ***!
+  \********************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var isObject = __webpack_require__(/*! ../internals/is-object */ "../../../../../node_modules/core-js/internals/is-object.js");
+
+var document = global.document;
+// typeof document.createElement is 'object' in old IE
+var EXISTS = isObject(document) && isObject(document.createElement);
+
+module.exports = function (it) {
+  return EXISTS ? document.createElement(it) : {};
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/engine-user-agent.js":
+/*!**************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/engine-user-agent.js ***!
+  \**************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var getBuiltIn = __webpack_require__(/*! ../internals/get-built-in */ "../../../../../node_modules/core-js/internals/get-built-in.js");
+
+module.exports = getBuiltIn('navigator', 'userAgent') || '';
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/engine-v8-version.js":
+/*!**************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/engine-v8-version.js ***!
+  \**************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var userAgent = __webpack_require__(/*! ../internals/engine-user-agent */ "../../../../../node_modules/core-js/internals/engine-user-agent.js");
+
+var process = global.process;
+var Deno = global.Deno;
+var versions = process && process.versions || Deno && Deno.version;
+var v8 = versions && versions.v8;
+var match, version;
+
+if (v8) {
+  match = v8.split('.');
+  // in old Chrome, versions of V8 isn't V8 = Chrome / 10
+  // but their correct versions are not interesting for us
+  version = match[0] > 0 && match[0] < 4 ? 1 : +(match[0] + match[1]);
+}
+
+// BrowserFS NodeJS `process` polyfill incorrectly set `.v8` to `0.0`
+// so check `userAgent` even if `.v8` exists, but 0
+if (!version && userAgent) {
+  match = userAgent.match(/Edge\/(\d+)/);
+  if (!match || match[1] >= 74) {
+    match = userAgent.match(/Chrome\/(\d+)/);
+    if (match) version = +match[1];
+  }
+}
+
+module.exports = version;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/enum-bug-keys.js":
+/*!**********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/enum-bug-keys.js ***!
+  \**********************************************************************/
+/***/ ((module) => {
+
+// IE8- don't enum bug keys
+module.exports = [
+  'constructor',
+  'hasOwnProperty',
+  'isPrototypeOf',
+  'propertyIsEnumerable',
+  'toLocaleString',
+  'toString',
+  'valueOf'
+];
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/error-stack-installable.js":
+/*!********************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/error-stack-installable.js ***!
+  \********************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+var createPropertyDescriptor = __webpack_require__(/*! ../internals/create-property-descriptor */ "../../../../../node_modules/core-js/internals/create-property-descriptor.js");
+
+module.exports = !fails(function () {
+  var error = Error('a');
+  if (!('stack' in error)) return true;
+  // eslint-disable-next-line es-x/no-object-defineproperty -- safe
+  Object.defineProperty(error, 'stack', createPropertyDescriptor(1, 7));
+  return error.stack !== 7;
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/export.js":
+/*!***************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/export.js ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var getOwnPropertyDescriptor = (__webpack_require__(/*! ../internals/object-get-own-property-descriptor */ "../../../../../node_modules/core-js/internals/object-get-own-property-descriptor.js").f);
+var createNonEnumerableProperty = __webpack_require__(/*! ../internals/create-non-enumerable-property */ "../../../../../node_modules/core-js/internals/create-non-enumerable-property.js");
+var defineBuiltIn = __webpack_require__(/*! ../internals/define-built-in */ "../../../../../node_modules/core-js/internals/define-built-in.js");
+var defineGlobalProperty = __webpack_require__(/*! ../internals/define-global-property */ "../../../../../node_modules/core-js/internals/define-global-property.js");
+var copyConstructorProperties = __webpack_require__(/*! ../internals/copy-constructor-properties */ "../../../../../node_modules/core-js/internals/copy-constructor-properties.js");
+var isForced = __webpack_require__(/*! ../internals/is-forced */ "../../../../../node_modules/core-js/internals/is-forced.js");
+
+/*
+  options.target         - name of the target object
+  options.global         - target is the global object
+  options.stat           - export as static methods of target
+  options.proto          - export as prototype methods of target
+  options.real           - real prototype method for the `pure` version
+  options.forced         - export even if the native feature is available
+  options.bind           - bind methods to the target, required for the `pure` version
+  options.wrap           - wrap constructors to preventing global pollution, required for the `pure` version
+  options.unsafe         - use the simple assignment of property instead of delete + defineProperty
+  options.sham           - add a flag to not completely full polyfills
+  options.enumerable     - export as enumerable property
+  options.dontCallGetSet - prevent calling a getter on target
+  options.name           - the .name of the function if it does not match the key
+*/
+module.exports = function (options, source) {
+  var TARGET = options.target;
+  var GLOBAL = options.global;
+  var STATIC = options.stat;
+  var FORCED, target, key, targetProperty, sourceProperty, descriptor;
+  if (GLOBAL) {
+    target = global;
+  } else if (STATIC) {
+    target = global[TARGET] || defineGlobalProperty(TARGET, {});
+  } else {
+    target = (global[TARGET] || {}).prototype;
+  }
+  if (target) for (key in source) {
+    sourceProperty = source[key];
+    if (options.dontCallGetSet) {
+      descriptor = getOwnPropertyDescriptor(target, key);
+      targetProperty = descriptor && descriptor.value;
+    } else targetProperty = target[key];
+    FORCED = isForced(GLOBAL ? key : TARGET + (STATIC ? '.' : '#') + key, options.forced);
+    // contained in target
+    if (!FORCED && targetProperty !== undefined) {
+      if (typeof sourceProperty == typeof targetProperty) continue;
+      copyConstructorProperties(sourceProperty, targetProperty);
+    }
+    // add a flag to not completely full polyfills
+    if (options.sham || (targetProperty && targetProperty.sham)) {
+      createNonEnumerableProperty(sourceProperty, 'sham', true);
+    }
+    defineBuiltIn(target, key, sourceProperty, options);
+  }
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/fails.js":
+/*!**************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/fails.js ***!
+  \**************************************************************/
+/***/ ((module) => {
+
+module.exports = function (exec) {
+  try {
+    return !!exec();
+  } catch (error) {
+    return true;
+  }
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/function-apply.js":
+/*!***********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/function-apply.js ***!
+  \***********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var NATIVE_BIND = __webpack_require__(/*! ../internals/function-bind-native */ "../../../../../node_modules/core-js/internals/function-bind-native.js");
+
+var FunctionPrototype = Function.prototype;
+var apply = FunctionPrototype.apply;
+var call = FunctionPrototype.call;
+
+// eslint-disable-next-line es-x/no-reflect -- safe
+module.exports = typeof Reflect == 'object' && Reflect.apply || (NATIVE_BIND ? call.bind(apply) : function () {
+  return call.apply(apply, arguments);
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/function-bind-native.js":
+/*!*****************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/function-bind-native.js ***!
+  \*****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+
+module.exports = !fails(function () {
+  // eslint-disable-next-line es-x/no-function-prototype-bind -- safe
+  var test = (function () { /* empty */ }).bind();
+  // eslint-disable-next-line no-prototype-builtins -- safe
+  return typeof test != 'function' || test.hasOwnProperty('prototype');
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/function-call.js":
+/*!**********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/function-call.js ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var NATIVE_BIND = __webpack_require__(/*! ../internals/function-bind-native */ "../../../../../node_modules/core-js/internals/function-bind-native.js");
+
+var call = Function.prototype.call;
+
+module.exports = NATIVE_BIND ? call.bind(call) : function () {
+  return call.apply(call, arguments);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/function-name.js":
+/*!**********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/function-name.js ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+
+var FunctionPrototype = Function.prototype;
+// eslint-disable-next-line es-x/no-object-getownpropertydescriptor -- safe
+var getDescriptor = DESCRIPTORS && Object.getOwnPropertyDescriptor;
+
+var EXISTS = hasOwn(FunctionPrototype, 'name');
+// additional protection from minified / mangled / dropped function names
+var PROPER = EXISTS && (function something() { /* empty */ }).name === 'something';
+var CONFIGURABLE = EXISTS && (!DESCRIPTORS || (DESCRIPTORS && getDescriptor(FunctionPrototype, 'name').configurable));
+
+module.exports = {
+  EXISTS: EXISTS,
+  PROPER: PROPER,
+  CONFIGURABLE: CONFIGURABLE
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/function-uncurry-this.js":
+/*!******************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/function-uncurry-this.js ***!
+  \******************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var NATIVE_BIND = __webpack_require__(/*! ../internals/function-bind-native */ "../../../../../node_modules/core-js/internals/function-bind-native.js");
+
+var FunctionPrototype = Function.prototype;
+var bind = FunctionPrototype.bind;
+var call = FunctionPrototype.call;
+var uncurryThis = NATIVE_BIND && bind.bind(call, call);
+
+module.exports = NATIVE_BIND ? function (fn) {
+  return fn && uncurryThis(fn);
+} : function (fn) {
+  return fn && function () {
+    return call.apply(fn, arguments);
+  };
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/get-built-in.js":
+/*!*********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/get-built-in.js ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+
+var aFunction = function (argument) {
+  return isCallable(argument) ? argument : undefined;
+};
+
+module.exports = function (namespace, method) {
+  return arguments.length < 2 ? aFunction(global[namespace]) : global[namespace] && global[namespace][method];
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/get-method.js":
+/*!*******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/get-method.js ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var aCallable = __webpack_require__(/*! ../internals/a-callable */ "../../../../../node_modules/core-js/internals/a-callable.js");
+
+// `GetMethod` abstract operation
+// https://tc39.es/ecma262/#sec-getmethod
+module.exports = function (V, P) {
+  var func = V[P];
+  return func == null ? undefined : aCallable(func);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/global.js":
+/*!***************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/global.js ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var check = function (it) {
+  return it && it.Math == Math && it;
+};
+
+// https://github.com/zloirock/core-js/issues/86#issuecomment-115759028
+module.exports =
+  // eslint-disable-next-line es-x/no-global-this -- safe
+  check(typeof globalThis == 'object' && globalThis) ||
+  check(typeof window == 'object' && window) ||
+  // eslint-disable-next-line no-restricted-globals -- safe
+  check(typeof self == 'object' && self) ||
+  check(typeof __webpack_require__.g == 'object' && __webpack_require__.g) ||
+  // eslint-disable-next-line no-new-func -- fallback
+  (function () { return this; })() || Function('return this')();
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/has-own-property.js":
+/*!*************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/has-own-property.js ***!
+  \*************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+var toObject = __webpack_require__(/*! ../internals/to-object */ "../../../../../node_modules/core-js/internals/to-object.js");
+
+var hasOwnProperty = uncurryThis({}.hasOwnProperty);
+
+// `HasOwnProperty` abstract operation
+// https://tc39.es/ecma262/#sec-hasownproperty
+// eslint-disable-next-line es-x/no-object-hasown -- safe
+module.exports = Object.hasOwn || function hasOwn(it, key) {
+  return hasOwnProperty(toObject(it), key);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/hidden-keys.js":
+/*!********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/hidden-keys.js ***!
+  \********************************************************************/
+/***/ ((module) => {
+
+module.exports = {};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/ie8-dom-define.js":
+/*!***********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/ie8-dom-define.js ***!
+  \***********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+var createElement = __webpack_require__(/*! ../internals/document-create-element */ "../../../../../node_modules/core-js/internals/document-create-element.js");
+
+// Thanks to IE8 for its funny defineProperty
+module.exports = !DESCRIPTORS && !fails(function () {
+  // eslint-disable-next-line es-x/no-object-defineproperty -- required for testing
+  return Object.defineProperty(createElement('div'), 'a', {
+    get: function () { return 7; }
+  }).a != 7;
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/indexed-object.js":
+/*!***********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/indexed-object.js ***!
+  \***********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+var classof = __webpack_require__(/*! ../internals/classof-raw */ "../../../../../node_modules/core-js/internals/classof-raw.js");
+
+var $Object = Object;
+var split = uncurryThis(''.split);
+
+// fallback for non-array-like ES3 and non-enumerable old V8 strings
+module.exports = fails(function () {
+  // throws an error in rhino, see https://github.com/mozilla/rhino/issues/346
+  // eslint-disable-next-line no-prototype-builtins -- safe
+  return !$Object('z').propertyIsEnumerable(0);
+}) ? function (it) {
+  return classof(it) == 'String' ? split(it, '') : $Object(it);
+} : $Object;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/inherit-if-required.js":
+/*!****************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/inherit-if-required.js ***!
+  \****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var isObject = __webpack_require__(/*! ../internals/is-object */ "../../../../../node_modules/core-js/internals/is-object.js");
+var setPrototypeOf = __webpack_require__(/*! ../internals/object-set-prototype-of */ "../../../../../node_modules/core-js/internals/object-set-prototype-of.js");
+
+// makes subclassing work correct for wrapped built-ins
+module.exports = function ($this, dummy, Wrapper) {
+  var NewTarget, NewTargetPrototype;
+  if (
+    // it can work only with native `setPrototypeOf`
+    setPrototypeOf &&
+    // we haven't completely correct pre-ES6 way for getting `new.target`, so use this
+    isCallable(NewTarget = dummy.constructor) &&
+    NewTarget !== Wrapper &&
+    isObject(NewTargetPrototype = NewTarget.prototype) &&
+    NewTargetPrototype !== Wrapper.prototype
+  ) setPrototypeOf($this, NewTargetPrototype);
+  return $this;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/inspect-source.js":
+/*!***********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/inspect-source.js ***!
+  \***********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var store = __webpack_require__(/*! ../internals/shared-store */ "../../../../../node_modules/core-js/internals/shared-store.js");
+
+var functionToString = uncurryThis(Function.toString);
+
+// this helper broken in `core-js@3.4.1-3.4.4`, so we can't use `shared` helper
+if (!isCallable(store.inspectSource)) {
+  store.inspectSource = function (it) {
+    return functionToString(it);
+  };
+}
+
+module.exports = store.inspectSource;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/install-error-cause.js":
+/*!****************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/install-error-cause.js ***!
+  \****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var isObject = __webpack_require__(/*! ../internals/is-object */ "../../../../../node_modules/core-js/internals/is-object.js");
+var createNonEnumerableProperty = __webpack_require__(/*! ../internals/create-non-enumerable-property */ "../../../../../node_modules/core-js/internals/create-non-enumerable-property.js");
+
+// `InstallErrorCause` abstract operation
+// https://tc39.es/proposal-error-cause/#sec-errorobjects-install-error-cause
+module.exports = function (O, options) {
+  if (isObject(options) && 'cause' in options) {
+    createNonEnumerableProperty(O, 'cause', options.cause);
+  }
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/internal-state.js":
+/*!***********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/internal-state.js ***!
+  \***********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var NATIVE_WEAK_MAP = __webpack_require__(/*! ../internals/native-weak-map */ "../../../../../node_modules/core-js/internals/native-weak-map.js");
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+var isObject = __webpack_require__(/*! ../internals/is-object */ "../../../../../node_modules/core-js/internals/is-object.js");
+var createNonEnumerableProperty = __webpack_require__(/*! ../internals/create-non-enumerable-property */ "../../../../../node_modules/core-js/internals/create-non-enumerable-property.js");
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+var shared = __webpack_require__(/*! ../internals/shared-store */ "../../../../../node_modules/core-js/internals/shared-store.js");
+var sharedKey = __webpack_require__(/*! ../internals/shared-key */ "../../../../../node_modules/core-js/internals/shared-key.js");
+var hiddenKeys = __webpack_require__(/*! ../internals/hidden-keys */ "../../../../../node_modules/core-js/internals/hidden-keys.js");
+
+var OBJECT_ALREADY_INITIALIZED = 'Object already initialized';
+var TypeError = global.TypeError;
+var WeakMap = global.WeakMap;
+var set, get, has;
+
+var enforce = function (it) {
+  return has(it) ? get(it) : set(it, {});
+};
+
+var getterFor = function (TYPE) {
+  return function (it) {
+    var state;
+    if (!isObject(it) || (state = get(it)).type !== TYPE) {
+      throw TypeError('Incompatible receiver, ' + TYPE + ' required');
+    } return state;
+  };
+};
+
+if (NATIVE_WEAK_MAP || shared.state) {
+  var store = shared.state || (shared.state = new WeakMap());
+  var wmget = uncurryThis(store.get);
+  var wmhas = uncurryThis(store.has);
+  var wmset = uncurryThis(store.set);
+  set = function (it, metadata) {
+    if (wmhas(store, it)) throw new TypeError(OBJECT_ALREADY_INITIALIZED);
+    metadata.facade = it;
+    wmset(store, it, metadata);
+    return metadata;
+  };
+  get = function (it) {
+    return wmget(store, it) || {};
+  };
+  has = function (it) {
+    return wmhas(store, it);
+  };
+} else {
+  var STATE = sharedKey('state');
+  hiddenKeys[STATE] = true;
+  set = function (it, metadata) {
+    if (hasOwn(it, STATE)) throw new TypeError(OBJECT_ALREADY_INITIALIZED);
+    metadata.facade = it;
+    createNonEnumerableProperty(it, STATE, metadata);
+    return metadata;
+  };
+  get = function (it) {
+    return hasOwn(it, STATE) ? it[STATE] : {};
+  };
+  has = function (it) {
+    return hasOwn(it, STATE);
+  };
+}
+
+module.exports = {
+  set: set,
+  get: get,
+  has: has,
+  enforce: enforce,
+  getterFor: getterFor
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/is-callable.js":
+/*!********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/is-callable.js ***!
+  \********************************************************************/
+/***/ ((module) => {
+
+// `IsCallable` abstract operation
+// https://tc39.es/ecma262/#sec-iscallable
+module.exports = function (argument) {
+  return typeof argument == 'function';
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/is-forced.js":
+/*!******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/is-forced.js ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+
+var replacement = /#|\.prototype\./;
+
+var isForced = function (feature, detection) {
+  var value = data[normalize(feature)];
+  return value == POLYFILL ? true
+    : value == NATIVE ? false
+    : isCallable(detection) ? fails(detection)
+    : !!detection;
+};
+
+var normalize = isForced.normalize = function (string) {
+  return String(string).replace(replacement, '.').toLowerCase();
+};
+
+var data = isForced.data = {};
+var NATIVE = isForced.NATIVE = 'N';
+var POLYFILL = isForced.POLYFILL = 'P';
+
+module.exports = isForced;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/is-object.js":
+/*!******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/is-object.js ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+
+module.exports = function (it) {
+  return typeof it == 'object' ? it !== null : isCallable(it);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/is-pure.js":
+/*!****************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/is-pure.js ***!
+  \****************************************************************/
+/***/ ((module) => {
+
+module.exports = false;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/is-symbol.js":
+/*!******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/is-symbol.js ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var getBuiltIn = __webpack_require__(/*! ../internals/get-built-in */ "../../../../../node_modules/core-js/internals/get-built-in.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var isPrototypeOf = __webpack_require__(/*! ../internals/object-is-prototype-of */ "../../../../../node_modules/core-js/internals/object-is-prototype-of.js");
+var USE_SYMBOL_AS_UID = __webpack_require__(/*! ../internals/use-symbol-as-uid */ "../../../../../node_modules/core-js/internals/use-symbol-as-uid.js");
+
+var $Object = Object;
+
+module.exports = USE_SYMBOL_AS_UID ? function (it) {
+  return typeof it == 'symbol';
+} : function (it) {
+  var $Symbol = getBuiltIn('Symbol');
+  return isCallable($Symbol) && isPrototypeOf($Symbol.prototype, $Object(it));
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/length-of-array-like.js":
+/*!*****************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/length-of-array-like.js ***!
+  \*****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var toLength = __webpack_require__(/*! ../internals/to-length */ "../../../../../node_modules/core-js/internals/to-length.js");
+
+// `LengthOfArrayLike` abstract operation
+// https://tc39.es/ecma262/#sec-lengthofarraylike
+module.exports = function (obj) {
+  return toLength(obj.length);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/make-built-in.js":
+/*!**********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/make-built-in.js ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var CONFIGURABLE_FUNCTION_NAME = (__webpack_require__(/*! ../internals/function-name */ "../../../../../node_modules/core-js/internals/function-name.js").CONFIGURABLE);
+var inspectSource = __webpack_require__(/*! ../internals/inspect-source */ "../../../../../node_modules/core-js/internals/inspect-source.js");
+var InternalStateModule = __webpack_require__(/*! ../internals/internal-state */ "../../../../../node_modules/core-js/internals/internal-state.js");
+
+var enforceInternalState = InternalStateModule.enforce;
+var getInternalState = InternalStateModule.get;
+// eslint-disable-next-line es-x/no-object-defineproperty -- safe
+var defineProperty = Object.defineProperty;
+
+var CONFIGURABLE_LENGTH = DESCRIPTORS && !fails(function () {
+  return defineProperty(function () { /* empty */ }, 'length', { value: 8 }).length !== 8;
+});
+
+var TEMPLATE = String(String).split('String');
+
+var makeBuiltIn = module.exports = function (value, name, options) {
+  if (String(name).slice(0, 7) === 'Symbol(') {
+    name = '[' + String(name).replace(/^Symbol\(([^)]*)\)/, '$1') + ']';
+  }
+  if (options && options.getter) name = 'get ' + name;
+  if (options && options.setter) name = 'set ' + name;
+  if (!hasOwn(value, 'name') || (CONFIGURABLE_FUNCTION_NAME && value.name !== name)) {
+    if (DESCRIPTORS) defineProperty(value, 'name', { value: name, configurable: true });
+    else value.name = name;
+  }
+  if (CONFIGURABLE_LENGTH && options && hasOwn(options, 'arity') && value.length !== options.arity) {
+    defineProperty(value, 'length', { value: options.arity });
+  }
+  try {
+    if (options && hasOwn(options, 'constructor') && options.constructor) {
+      if (DESCRIPTORS) defineProperty(value, 'prototype', { writable: false });
+    // in V8 ~ Chrome 53, prototypes of some methods, like `Array.prototype.values`, are non-writable
+    } else if (value.prototype) value.prototype = undefined;
+  } catch (error) { /* empty */ }
+  var state = enforceInternalState(value);
+  if (!hasOwn(state, 'source')) {
+    state.source = TEMPLATE.join(typeof name == 'string' ? name : '');
+  } return value;
+};
+
+// add fake Function#toString for correct work wrapped methods / constructors with methods like LoDash isNative
+// eslint-disable-next-line no-extend-native -- required
+Function.prototype.toString = makeBuiltIn(function toString() {
+  return isCallable(this) && getInternalState(this).source || inspectSource(this);
+}, 'toString');
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/math-trunc.js":
+/*!*******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/math-trunc.js ***!
+  \*******************************************************************/
+/***/ ((module) => {
+
+var ceil = Math.ceil;
+var floor = Math.floor;
+
+// `Math.trunc` method
+// https://tc39.es/ecma262/#sec-math.trunc
+// eslint-disable-next-line es-x/no-math-trunc -- safe
+module.exports = Math.trunc || function trunc(x) {
+  var n = +x;
+  return (n > 0 ? floor : ceil)(n);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/native-symbol.js":
+/*!**********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/native-symbol.js ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+/* eslint-disable es-x/no-symbol -- required for testing */
+var V8_VERSION = __webpack_require__(/*! ../internals/engine-v8-version */ "../../../../../node_modules/core-js/internals/engine-v8-version.js");
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+
+// eslint-disable-next-line es-x/no-object-getownpropertysymbols -- required for testing
+module.exports = !!Object.getOwnPropertySymbols && !fails(function () {
+  var symbol = Symbol();
+  // Chrome 38 Symbol has incorrect toString conversion
+  // `get-own-property-symbols` polyfill symbols converted to object are not Symbol instances
+  return !String(symbol) || !(Object(symbol) instanceof Symbol) ||
+    // Chrome 38-40 symbols are not inherited from DOM collections prototypes to instances
+    !Symbol.sham && V8_VERSION && V8_VERSION < 41;
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/native-weak-map.js":
+/*!************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/native-weak-map.js ***!
+  \************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var inspectSource = __webpack_require__(/*! ../internals/inspect-source */ "../../../../../node_modules/core-js/internals/inspect-source.js");
+
+var WeakMap = global.WeakMap;
+
+module.exports = isCallable(WeakMap) && /native code/.test(inspectSource(WeakMap));
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/normalize-string-argument.js":
+/*!**********************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/normalize-string-argument.js ***!
+  \**********************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var toString = __webpack_require__(/*! ../internals/to-string */ "../../../../../node_modules/core-js/internals/to-string.js");
+
+module.exports = function (argument, $default) {
+  return argument === undefined ? arguments.length < 2 ? '' : $default : toString(argument);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-define-property.js":
+/*!*******************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-define-property.js ***!
+  \*******************************************************************************/
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var IE8_DOM_DEFINE = __webpack_require__(/*! ../internals/ie8-dom-define */ "../../../../../node_modules/core-js/internals/ie8-dom-define.js");
+var V8_PROTOTYPE_DEFINE_BUG = __webpack_require__(/*! ../internals/v8-prototype-define-bug */ "../../../../../node_modules/core-js/internals/v8-prototype-define-bug.js");
+var anObject = __webpack_require__(/*! ../internals/an-object */ "../../../../../node_modules/core-js/internals/an-object.js");
+var toPropertyKey = __webpack_require__(/*! ../internals/to-property-key */ "../../../../../node_modules/core-js/internals/to-property-key.js");
+
+var $TypeError = TypeError;
+// eslint-disable-next-line es-x/no-object-defineproperty -- safe
+var $defineProperty = Object.defineProperty;
+// eslint-disable-next-line es-x/no-object-getownpropertydescriptor -- safe
+var $getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
+var ENUMERABLE = 'enumerable';
+var CONFIGURABLE = 'configurable';
+var WRITABLE = 'writable';
+
+// `Object.defineProperty` method
+// https://tc39.es/ecma262/#sec-object.defineproperty
+exports.f = DESCRIPTORS ? V8_PROTOTYPE_DEFINE_BUG ? function defineProperty(O, P, Attributes) {
+  anObject(O);
+  P = toPropertyKey(P);
+  anObject(Attributes);
+  if (typeof O === 'function' && P === 'prototype' && 'value' in Attributes && WRITABLE in Attributes && !Attributes[WRITABLE]) {
+    var current = $getOwnPropertyDescriptor(O, P);
+    if (current && current[WRITABLE]) {
+      O[P] = Attributes.value;
+      Attributes = {
+        configurable: CONFIGURABLE in Attributes ? Attributes[CONFIGURABLE] : current[CONFIGURABLE],
+        enumerable: ENUMERABLE in Attributes ? Attributes[ENUMERABLE] : current[ENUMERABLE],
+        writable: false
+      };
+    }
+  } return $defineProperty(O, P, Attributes);
+} : $defineProperty : function defineProperty(O, P, Attributes) {
+  anObject(O);
+  P = toPropertyKey(P);
+  anObject(Attributes);
+  if (IE8_DOM_DEFINE) try {
+    return $defineProperty(O, P, Attributes);
+  } catch (error) { /* empty */ }
+  if ('get' in Attributes || 'set' in Attributes) throw $TypeError('Accessors not supported');
+  if ('value' in Attributes) O[P] = Attributes.value;
+  return O;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-get-own-property-descriptor.js":
+/*!*******************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
+  \*******************************************************************************************/
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var call = __webpack_require__(/*! ../internals/function-call */ "../../../../../node_modules/core-js/internals/function-call.js");
+var propertyIsEnumerableModule = __webpack_require__(/*! ../internals/object-property-is-enumerable */ "../../../../../node_modules/core-js/internals/object-property-is-enumerable.js");
+var createPropertyDescriptor = __webpack_require__(/*! ../internals/create-property-descriptor */ "../../../../../node_modules/core-js/internals/create-property-descriptor.js");
+var toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ "../../../../../node_modules/core-js/internals/to-indexed-object.js");
+var toPropertyKey = __webpack_require__(/*! ../internals/to-property-key */ "../../../../../node_modules/core-js/internals/to-property-key.js");
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+var IE8_DOM_DEFINE = __webpack_require__(/*! ../internals/ie8-dom-define */ "../../../../../node_modules/core-js/internals/ie8-dom-define.js");
+
+// eslint-disable-next-line es-x/no-object-getownpropertydescriptor -- safe
+var $getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
+
+// `Object.getOwnPropertyDescriptor` method
+// https://tc39.es/ecma262/#sec-object.getownpropertydescriptor
+exports.f = DESCRIPTORS ? $getOwnPropertyDescriptor : function getOwnPropertyDescriptor(O, P) {
+  O = toIndexedObject(O);
+  P = toPropertyKey(P);
+  if (IE8_DOM_DEFINE) try {
+    return $getOwnPropertyDescriptor(O, P);
+  } catch (error) { /* empty */ }
+  if (hasOwn(O, P)) return createPropertyDescriptor(!call(propertyIsEnumerableModule.f, O, P), O[P]);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-get-own-property-names.js":
+/*!**************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-get-own-property-names.js ***!
+  \**************************************************************************************/
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+var internalObjectKeys = __webpack_require__(/*! ../internals/object-keys-internal */ "../../../../../node_modules/core-js/internals/object-keys-internal.js");
+var enumBugKeys = __webpack_require__(/*! ../internals/enum-bug-keys */ "../../../../../node_modules/core-js/internals/enum-bug-keys.js");
+
+var hiddenKeys = enumBugKeys.concat('length', 'prototype');
+
+// `Object.getOwnPropertyNames` method
+// https://tc39.es/ecma262/#sec-object.getownpropertynames
+// eslint-disable-next-line es-x/no-object-getownpropertynames -- safe
+exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
+  return internalObjectKeys(O, hiddenKeys);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-get-own-property-symbols.js":
+/*!****************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-get-own-property-symbols.js ***!
+  \****************************************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+// eslint-disable-next-line es-x/no-object-getownpropertysymbols -- safe
+exports.f = Object.getOwnPropertySymbols;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-is-prototype-of.js":
+/*!*******************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-is-prototype-of.js ***!
+  \*******************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+
+module.exports = uncurryThis({}.isPrototypeOf);
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-keys-internal.js":
+/*!*****************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-keys-internal.js ***!
+  \*****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+var toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ "../../../../../node_modules/core-js/internals/to-indexed-object.js");
+var indexOf = (__webpack_require__(/*! ../internals/array-includes */ "../../../../../node_modules/core-js/internals/array-includes.js").indexOf);
+var hiddenKeys = __webpack_require__(/*! ../internals/hidden-keys */ "../../../../../node_modules/core-js/internals/hidden-keys.js");
+
+var push = uncurryThis([].push);
+
+module.exports = function (object, names) {
+  var O = toIndexedObject(object);
+  var i = 0;
+  var result = [];
+  var key;
+  for (key in O) !hasOwn(hiddenKeys, key) && hasOwn(O, key) && push(result, key);
+  // Don't enum bug & hidden keys
+  while (names.length > i) if (hasOwn(O, key = names[i++])) {
+    ~indexOf(result, key) || push(result, key);
+  }
+  return result;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-property-is-enumerable.js":
+/*!**************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-property-is-enumerable.js ***!
+  \**************************************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+var $propertyIsEnumerable = {}.propertyIsEnumerable;
+// eslint-disable-next-line es-x/no-object-getownpropertydescriptor -- safe
+var getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
+
+// Nashorn ~ JDK8 bug
+var NASHORN_BUG = getOwnPropertyDescriptor && !$propertyIsEnumerable.call({ 1: 2 }, 1);
+
+// `Object.prototype.propertyIsEnumerable` method implementation
+// https://tc39.es/ecma262/#sec-object.prototype.propertyisenumerable
+exports.f = NASHORN_BUG ? function propertyIsEnumerable(V) {
+  var descriptor = getOwnPropertyDescriptor(this, V);
+  return !!descriptor && descriptor.enumerable;
+} : $propertyIsEnumerable;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/object-set-prototype-of.js":
+/*!********************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/object-set-prototype-of.js ***!
+  \********************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+/* eslint-disable no-proto -- safe */
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+var anObject = __webpack_require__(/*! ../internals/an-object */ "../../../../../node_modules/core-js/internals/an-object.js");
+var aPossiblePrototype = __webpack_require__(/*! ../internals/a-possible-prototype */ "../../../../../node_modules/core-js/internals/a-possible-prototype.js");
+
+// `Object.setPrototypeOf` method
+// https://tc39.es/ecma262/#sec-object.setprototypeof
+// Works with __proto__ only. Old v8 can't work with null proto objects.
+// eslint-disable-next-line es-x/no-object-setprototypeof -- safe
+module.exports = Object.setPrototypeOf || ('__proto__' in {} ? function () {
+  var CORRECT_SETTER = false;
+  var test = {};
+  var setter;
+  try {
+    // eslint-disable-next-line es-x/no-object-getownpropertydescriptor -- safe
+    setter = uncurryThis(Object.getOwnPropertyDescriptor(Object.prototype, '__proto__').set);
+    setter(test, []);
+    CORRECT_SETTER = test instanceof Array;
+  } catch (error) { /* empty */ }
+  return function setPrototypeOf(O, proto) {
+    anObject(O);
+    aPossiblePrototype(proto);
+    if (CORRECT_SETTER) setter(O, proto);
+    else O.__proto__ = proto;
+    return O;
+  };
+}() : undefined);
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/ordinary-to-primitive.js":
+/*!******************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/ordinary-to-primitive.js ***!
+  \******************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var call = __webpack_require__(/*! ../internals/function-call */ "../../../../../node_modules/core-js/internals/function-call.js");
+var isCallable = __webpack_require__(/*! ../internals/is-callable */ "../../../../../node_modules/core-js/internals/is-callable.js");
+var isObject = __webpack_require__(/*! ../internals/is-object */ "../../../../../node_modules/core-js/internals/is-object.js");
+
+var $TypeError = TypeError;
+
+// `OrdinaryToPrimitive` abstract operation
+// https://tc39.es/ecma262/#sec-ordinarytoprimitive
+module.exports = function (input, pref) {
+  var fn, val;
+  if (pref === 'string' && isCallable(fn = input.toString) && !isObject(val = call(fn, input))) return val;
+  if (isCallable(fn = input.valueOf) && !isObject(val = call(fn, input))) return val;
+  if (pref !== 'string' && isCallable(fn = input.toString) && !isObject(val = call(fn, input))) return val;
+  throw $TypeError("Can't convert object to primitive value");
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/own-keys.js":
+/*!*****************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/own-keys.js ***!
+  \*****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var getBuiltIn = __webpack_require__(/*! ../internals/get-built-in */ "../../../../../node_modules/core-js/internals/get-built-in.js");
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+var getOwnPropertyNamesModule = __webpack_require__(/*! ../internals/object-get-own-property-names */ "../../../../../node_modules/core-js/internals/object-get-own-property-names.js");
+var getOwnPropertySymbolsModule = __webpack_require__(/*! ../internals/object-get-own-property-symbols */ "../../../../../node_modules/core-js/internals/object-get-own-property-symbols.js");
+var anObject = __webpack_require__(/*! ../internals/an-object */ "../../../../../node_modules/core-js/internals/an-object.js");
+
+var concat = uncurryThis([].concat);
+
+// all object keys, includes non-enumerable and symbols
+module.exports = getBuiltIn('Reflect', 'ownKeys') || function ownKeys(it) {
+  var keys = getOwnPropertyNamesModule.f(anObject(it));
+  var getOwnPropertySymbols = getOwnPropertySymbolsModule.f;
+  return getOwnPropertySymbols ? concat(keys, getOwnPropertySymbols(it)) : keys;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/proxy-accessor.js":
+/*!***********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/proxy-accessor.js ***!
+  \***********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var defineProperty = (__webpack_require__(/*! ../internals/object-define-property */ "../../../../../node_modules/core-js/internals/object-define-property.js").f);
+
+module.exports = function (Target, Source, key) {
+  key in Target || defineProperty(Target, key, {
+    configurable: true,
+    get: function () { return Source[key]; },
+    set: function (it) { Source[key] = it; }
+  });
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/require-object-coercible.js":
+/*!*********************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/require-object-coercible.js ***!
+  \*********************************************************************************/
+/***/ ((module) => {
+
+var $TypeError = TypeError;
+
+// `RequireObjectCoercible` abstract operation
+// https://tc39.es/ecma262/#sec-requireobjectcoercible
+module.exports = function (it) {
+  if (it == undefined) throw $TypeError("Can't call method on " + it);
+  return it;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/shared-key.js":
+/*!*******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/shared-key.js ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var shared = __webpack_require__(/*! ../internals/shared */ "../../../../../node_modules/core-js/internals/shared.js");
+var uid = __webpack_require__(/*! ../internals/uid */ "../../../../../node_modules/core-js/internals/uid.js");
+
+var keys = shared('keys');
+
+module.exports = function (key) {
+  return keys[key] || (keys[key] = uid(key));
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/shared-store.js":
+/*!*********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/shared-store.js ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var defineGlobalProperty = __webpack_require__(/*! ../internals/define-global-property */ "../../../../../node_modules/core-js/internals/define-global-property.js");
+
+var SHARED = '__core-js_shared__';
+var store = global[SHARED] || defineGlobalProperty(SHARED, {});
+
+module.exports = store;
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/shared.js":
+/*!***************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/shared.js ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var IS_PURE = __webpack_require__(/*! ../internals/is-pure */ "../../../../../node_modules/core-js/internals/is-pure.js");
+var store = __webpack_require__(/*! ../internals/shared-store */ "../../../../../node_modules/core-js/internals/shared-store.js");
+
+(module.exports = function (key, value) {
+  return store[key] || (store[key] = value !== undefined ? value : {});
+})('versions', []).push({
+  version: '3.23.3',
+  mode: IS_PURE ? 'pure' : 'global',
+  copyright: '© 2014-2022 Denis Pushkarev (zloirock.ru)',
+  license: 'https://github.com/zloirock/core-js/blob/v3.23.3/LICENSE',
+  source: 'https://github.com/zloirock/core-js'
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-absolute-index.js":
+/*!**************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-absolute-index.js ***!
+  \**************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var toIntegerOrInfinity = __webpack_require__(/*! ../internals/to-integer-or-infinity */ "../../../../../node_modules/core-js/internals/to-integer-or-infinity.js");
+
+var max = Math.max;
+var min = Math.min;
+
+// Helper for a popular repeating case of the spec:
+// Let integer be ? ToInteger(index).
+// If integer < 0, let result be max((length + integer), 0); else let result be min(integer, length).
+module.exports = function (index, length) {
+  var integer = toIntegerOrInfinity(index);
+  return integer < 0 ? max(integer + length, 0) : min(integer, length);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-indexed-object.js":
+/*!**************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-indexed-object.js ***!
+  \**************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+// toObject with fallback for non-array-like ES3 strings
+var IndexedObject = __webpack_require__(/*! ../internals/indexed-object */ "../../../../../node_modules/core-js/internals/indexed-object.js");
+var requireObjectCoercible = __webpack_require__(/*! ../internals/require-object-coercible */ "../../../../../node_modules/core-js/internals/require-object-coercible.js");
+
+module.exports = function (it) {
+  return IndexedObject(requireObjectCoercible(it));
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-integer-or-infinity.js":
+/*!*******************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-integer-or-infinity.js ***!
+  \*******************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var trunc = __webpack_require__(/*! ../internals/math-trunc */ "../../../../../node_modules/core-js/internals/math-trunc.js");
+
+// `ToIntegerOrInfinity` abstract operation
+// https://tc39.es/ecma262/#sec-tointegerorinfinity
+module.exports = function (argument) {
+  var number = +argument;
+  // eslint-disable-next-line no-self-compare -- NaN check
+  return number !== number || number === 0 ? 0 : trunc(number);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-length.js":
+/*!******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-length.js ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var toIntegerOrInfinity = __webpack_require__(/*! ../internals/to-integer-or-infinity */ "../../../../../node_modules/core-js/internals/to-integer-or-infinity.js");
+
+var min = Math.min;
+
+// `ToLength` abstract operation
+// https://tc39.es/ecma262/#sec-tolength
+module.exports = function (argument) {
+  return argument > 0 ? min(toIntegerOrInfinity(argument), 0x1FFFFFFFFFFFFF) : 0; // 2 ** 53 - 1 == 9007199254740991
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-object.js":
+/*!******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-object.js ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var requireObjectCoercible = __webpack_require__(/*! ../internals/require-object-coercible */ "../../../../../node_modules/core-js/internals/require-object-coercible.js");
+
+var $Object = Object;
+
+// `ToObject` abstract operation
+// https://tc39.es/ecma262/#sec-toobject
+module.exports = function (argument) {
+  return $Object(requireObjectCoercible(argument));
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-primitive.js":
+/*!*********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-primitive.js ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var call = __webpack_require__(/*! ../internals/function-call */ "../../../../../node_modules/core-js/internals/function-call.js");
+var isObject = __webpack_require__(/*! ../internals/is-object */ "../../../../../node_modules/core-js/internals/is-object.js");
+var isSymbol = __webpack_require__(/*! ../internals/is-symbol */ "../../../../../node_modules/core-js/internals/is-symbol.js");
+var getMethod = __webpack_require__(/*! ../internals/get-method */ "../../../../../node_modules/core-js/internals/get-method.js");
+var ordinaryToPrimitive = __webpack_require__(/*! ../internals/ordinary-to-primitive */ "../../../../../node_modules/core-js/internals/ordinary-to-primitive.js");
+var wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ "../../../../../node_modules/core-js/internals/well-known-symbol.js");
+
+var $TypeError = TypeError;
+var TO_PRIMITIVE = wellKnownSymbol('toPrimitive');
+
+// `ToPrimitive` abstract operation
+// https://tc39.es/ecma262/#sec-toprimitive
+module.exports = function (input, pref) {
+  if (!isObject(input) || isSymbol(input)) return input;
+  var exoticToPrim = getMethod(input, TO_PRIMITIVE);
+  var result;
+  if (exoticToPrim) {
+    if (pref === undefined) pref = 'default';
+    result = call(exoticToPrim, input, pref);
+    if (!isObject(result) || isSymbol(result)) return result;
+    throw $TypeError("Can't convert object to primitive value");
+  }
+  if (pref === undefined) pref = 'number';
+  return ordinaryToPrimitive(input, pref);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-property-key.js":
+/*!************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-property-key.js ***!
+  \************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var toPrimitive = __webpack_require__(/*! ../internals/to-primitive */ "../../../../../node_modules/core-js/internals/to-primitive.js");
+var isSymbol = __webpack_require__(/*! ../internals/is-symbol */ "../../../../../node_modules/core-js/internals/is-symbol.js");
+
+// `ToPropertyKey` abstract operation
+// https://tc39.es/ecma262/#sec-topropertykey
+module.exports = function (argument) {
+  var key = toPrimitive(argument, 'string');
+  return isSymbol(key) ? key : key + '';
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-string-tag-support.js":
+/*!******************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-string-tag-support.js ***!
+  \******************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ "../../../../../node_modules/core-js/internals/well-known-symbol.js");
+
+var TO_STRING_TAG = wellKnownSymbol('toStringTag');
+var test = {};
+
+test[TO_STRING_TAG] = 'z';
+
+module.exports = String(test) === '[object z]';
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/to-string.js":
+/*!******************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/to-string.js ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var classof = __webpack_require__(/*! ../internals/classof */ "../../../../../node_modules/core-js/internals/classof.js");
+
+var $String = String;
+
+module.exports = function (argument) {
+  if (classof(argument) === 'Symbol') throw TypeError('Cannot convert a Symbol value to a string');
+  return $String(argument);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/try-to-string.js":
+/*!**********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/try-to-string.js ***!
+  \**********************************************************************/
+/***/ ((module) => {
+
+var $String = String;
+
+module.exports = function (argument) {
+  try {
+    return $String(argument);
+  } catch (error) {
+    return 'Object';
+  }
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/uid.js":
+/*!************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/uid.js ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var uncurryThis = __webpack_require__(/*! ../internals/function-uncurry-this */ "../../../../../node_modules/core-js/internals/function-uncurry-this.js");
+
+var id = 0;
+var postfix = Math.random();
+var toString = uncurryThis(1.0.toString);
+
+module.exports = function (key) {
+  return 'Symbol(' + (key === undefined ? '' : key) + ')_' + toString(++id + postfix, 36);
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/use-symbol-as-uid.js":
+/*!**************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/use-symbol-as-uid.js ***!
+  \**************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+/* eslint-disable es-x/no-symbol -- required for testing */
+var NATIVE_SYMBOL = __webpack_require__(/*! ../internals/native-symbol */ "../../../../../node_modules/core-js/internals/native-symbol.js");
+
+module.exports = NATIVE_SYMBOL
+  && !Symbol.sham
+  && typeof Symbol.iterator == 'symbol';
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/v8-prototype-define-bug.js":
+/*!********************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/v8-prototype-define-bug.js ***!
+  \********************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+
+// V8 ~ Chrome 36-
+// https://bugs.chromium.org/p/v8/issues/detail?id=3334
+module.exports = DESCRIPTORS && fails(function () {
+  // eslint-disable-next-line es-x/no-object-defineproperty -- required for testing
+  return Object.defineProperty(function () { /* empty */ }, 'prototype', {
+    value: 42,
+    writable: false
+  }).prototype != 42;
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/well-known-symbol.js":
+/*!**************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/well-known-symbol.js ***!
+  \**************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var shared = __webpack_require__(/*! ../internals/shared */ "../../../../../node_modules/core-js/internals/shared.js");
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+var uid = __webpack_require__(/*! ../internals/uid */ "../../../../../node_modules/core-js/internals/uid.js");
+var NATIVE_SYMBOL = __webpack_require__(/*! ../internals/native-symbol */ "../../../../../node_modules/core-js/internals/native-symbol.js");
+var USE_SYMBOL_AS_UID = __webpack_require__(/*! ../internals/use-symbol-as-uid */ "../../../../../node_modules/core-js/internals/use-symbol-as-uid.js");
+
+var WellKnownSymbolsStore = shared('wks');
+var Symbol = global.Symbol;
+var symbolFor = Symbol && Symbol['for'];
+var createWellKnownSymbol = USE_SYMBOL_AS_UID ? Symbol : Symbol && Symbol.withoutSetter || uid;
+
+module.exports = function (name) {
+  if (!hasOwn(WellKnownSymbolsStore, name) || !(NATIVE_SYMBOL || typeof WellKnownSymbolsStore[name] == 'string')) {
+    var description = 'Symbol.' + name;
+    if (NATIVE_SYMBOL && hasOwn(Symbol, name)) {
+      WellKnownSymbolsStore[name] = Symbol[name];
+    } else if (USE_SYMBOL_AS_UID && symbolFor) {
+      WellKnownSymbolsStore[name] = symbolFor(description);
+    } else {
+      WellKnownSymbolsStore[name] = createWellKnownSymbol(description);
+    }
+  } return WellKnownSymbolsStore[name];
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/wrap-error-constructor-with-cause.js":
+/*!******************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/wrap-error-constructor-with-cause.js ***!
+  \******************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+
+var getBuiltIn = __webpack_require__(/*! ../internals/get-built-in */ "../../../../../node_modules/core-js/internals/get-built-in.js");
+var hasOwn = __webpack_require__(/*! ../internals/has-own-property */ "../../../../../node_modules/core-js/internals/has-own-property.js");
+var createNonEnumerableProperty = __webpack_require__(/*! ../internals/create-non-enumerable-property */ "../../../../../node_modules/core-js/internals/create-non-enumerable-property.js");
+var isPrototypeOf = __webpack_require__(/*! ../internals/object-is-prototype-of */ "../../../../../node_modules/core-js/internals/object-is-prototype-of.js");
+var setPrototypeOf = __webpack_require__(/*! ../internals/object-set-prototype-of */ "../../../../../node_modules/core-js/internals/object-set-prototype-of.js");
+var copyConstructorProperties = __webpack_require__(/*! ../internals/copy-constructor-properties */ "../../../../../node_modules/core-js/internals/copy-constructor-properties.js");
+var proxyAccessor = __webpack_require__(/*! ../internals/proxy-accessor */ "../../../../../node_modules/core-js/internals/proxy-accessor.js");
+var inheritIfRequired = __webpack_require__(/*! ../internals/inherit-if-required */ "../../../../../node_modules/core-js/internals/inherit-if-required.js");
+var normalizeStringArgument = __webpack_require__(/*! ../internals/normalize-string-argument */ "../../../../../node_modules/core-js/internals/normalize-string-argument.js");
+var installErrorCause = __webpack_require__(/*! ../internals/install-error-cause */ "../../../../../node_modules/core-js/internals/install-error-cause.js");
+var clearErrorStack = __webpack_require__(/*! ../internals/clear-error-stack */ "../../../../../node_modules/core-js/internals/clear-error-stack.js");
+var ERROR_STACK_INSTALLABLE = __webpack_require__(/*! ../internals/error-stack-installable */ "../../../../../node_modules/core-js/internals/error-stack-installable.js");
+var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ "../../../../../node_modules/core-js/internals/descriptors.js");
+var IS_PURE = __webpack_require__(/*! ../internals/is-pure */ "../../../../../node_modules/core-js/internals/is-pure.js");
+
+module.exports = function (FULL_NAME, wrapper, FORCED, IS_AGGREGATE_ERROR) {
+  var STACK_TRACE_LIMIT = 'stackTraceLimit';
+  var OPTIONS_POSITION = IS_AGGREGATE_ERROR ? 2 : 1;
+  var path = FULL_NAME.split('.');
+  var ERROR_NAME = path[path.length - 1];
+  var OriginalError = getBuiltIn.apply(null, path);
+
+  if (!OriginalError) return;
+
+  var OriginalErrorPrototype = OriginalError.prototype;
+
+  // V8 9.3- bug https://bugs.chromium.org/p/v8/issues/detail?id=12006
+  if (!IS_PURE && hasOwn(OriginalErrorPrototype, 'cause')) delete OriginalErrorPrototype.cause;
+
+  if (!FORCED) return OriginalError;
+
+  var BaseError = getBuiltIn('Error');
+
+  var WrappedError = wrapper(function (a, b) {
+    var message = normalizeStringArgument(IS_AGGREGATE_ERROR ? b : a, undefined);
+    var result = IS_AGGREGATE_ERROR ? new OriginalError(a) : new OriginalError();
+    if (message !== undefined) createNonEnumerableProperty(result, 'message', message);
+    if (ERROR_STACK_INSTALLABLE) createNonEnumerableProperty(result, 'stack', clearErrorStack(result.stack, 2));
+    if (this && isPrototypeOf(OriginalErrorPrototype, this)) inheritIfRequired(result, this, WrappedError);
+    if (arguments.length > OPTIONS_POSITION) installErrorCause(result, arguments[OPTIONS_POSITION]);
+    return result;
+  });
+
+  WrappedError.prototype = OriginalErrorPrototype;
+
+  if (ERROR_NAME !== 'Error') {
+    if (setPrototypeOf) setPrototypeOf(WrappedError, BaseError);
+    else copyConstructorProperties(WrappedError, BaseError, { name: true });
+  } else if (DESCRIPTORS && STACK_TRACE_LIMIT in OriginalError) {
+    proxyAccessor(WrappedError, OriginalError, STACK_TRACE_LIMIT);
+    proxyAccessor(WrappedError, OriginalError, 'prepareStackTrace');
+  }
+
+  copyConstructorProperties(WrappedError, OriginalError);
+
+  if (!IS_PURE) try {
+    // Safari 13- bug: WebAssembly errors does not have a proper `.name`
+    if (OriginalErrorPrototype.name !== ERROR_NAME) {
+      createNonEnumerableProperty(OriginalErrorPrototype, 'name', ERROR_NAME);
+    }
+    OriginalErrorPrototype.constructor = WrappedError;
+  } catch (error) { /* empty */ }
+
+  return WrappedError;
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/modules/es.error.cause.js":
+/*!*********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/modules/es.error.cause.js ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+/* eslint-disable no-unused-vars -- required for functions `.length` */
+var $ = __webpack_require__(/*! ../internals/export */ "../../../../../node_modules/core-js/internals/export.js");
+var global = __webpack_require__(/*! ../internals/global */ "../../../../../node_modules/core-js/internals/global.js");
+var apply = __webpack_require__(/*! ../internals/function-apply */ "../../../../../node_modules/core-js/internals/function-apply.js");
+var wrapErrorConstructorWithCause = __webpack_require__(/*! ../internals/wrap-error-constructor-with-cause */ "../../../../../node_modules/core-js/internals/wrap-error-constructor-with-cause.js");
+
+var WEB_ASSEMBLY = 'WebAssembly';
+var WebAssembly = global[WEB_ASSEMBLY];
+
+var FORCED = Error('e', { cause: 7 }).cause !== 7;
+
+var exportGlobalErrorCauseWrapper = function (ERROR_NAME, wrapper) {
+  var O = {};
+  O[ERROR_NAME] = wrapErrorConstructorWithCause(ERROR_NAME, wrapper, FORCED);
+  $({ global: true, constructor: true, arity: 1, forced: FORCED }, O);
+};
+
+var exportWebAssemblyErrorCauseWrapper = function (ERROR_NAME, wrapper) {
+  if (WebAssembly && WebAssembly[ERROR_NAME]) {
+    var O = {};
+    O[ERROR_NAME] = wrapErrorConstructorWithCause(WEB_ASSEMBLY + '.' + ERROR_NAME, wrapper, FORCED);
+    $({ target: WEB_ASSEMBLY, stat: true, constructor: true, arity: 1, forced: FORCED }, O);
+  }
+};
+
+// https://github.com/tc39/proposal-error-cause
+exportGlobalErrorCauseWrapper('Error', function (init) {
+  return function Error(message) { return apply(init, this, arguments); };
+});
+exportGlobalErrorCauseWrapper('EvalError', function (init) {
+  return function EvalError(message) { return apply(init, this, arguments); };
+});
+exportGlobalErrorCauseWrapper('RangeError', function (init) {
+  return function RangeError(message) { return apply(init, this, arguments); };
+});
+exportGlobalErrorCauseWrapper('ReferenceError', function (init) {
+  return function ReferenceError(message) { return apply(init, this, arguments); };
+});
+exportGlobalErrorCauseWrapper('SyntaxError', function (init) {
+  return function SyntaxError(message) { return apply(init, this, arguments); };
+});
+exportGlobalErrorCauseWrapper('TypeError', function (init) {
+  return function TypeError(message) { return apply(init, this, arguments); };
+});
+exportGlobalErrorCauseWrapper('URIError', function (init) {
+  return function URIError(message) { return apply(init, this, arguments); };
+});
+exportWebAssemblyErrorCauseWrapper('CompileError', function (init) {
+  return function CompileError(message) { return apply(init, this, arguments); };
+});
+exportWebAssemblyErrorCauseWrapper('LinkError', function (init) {
+  return function LinkError(message) { return apply(init, this, arguments); };
+});
+exportWebAssemblyErrorCauseWrapper('RuntimeError', function (init) {
+  return function RuntimeError(message) { return apply(init, this, arguments); };
+});
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/platform/platform.js":
+/*!********************************************************!*\
+  !*** ../../../../../node_modules/platform/platform.js ***!
+  \********************************************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+/* module decorator */ module = __webpack_require__.nmd(module);
+var __WEBPACK_AMD_DEFINE_RESULT__;/*!
+ * Platform.js v1.3.6
+ * Copyright 2014-2020 Benjamin Tan
+ * Copyright 2011-2013 John-David Dalton
+ * Available under MIT license
+ */
+;(function() {
+  'use strict';
+
+  /** Used to determine if values are of the language type `Object`. */
+  var objectTypes = {
+    'function': true,
+    'object': true
+  };
+
+  /** Used as a reference to the global object. */
+  var root = (objectTypes[typeof window] && window) || this;
+
+  /** Backup possible global object. */
+  var oldRoot = root;
+
+  /** Detect free variable `exports`. */
+  var freeExports = objectTypes[typeof exports] && exports;
+
+  /** Detect free variable `module`. */
+  var freeModule = objectTypes["object"] && module && !module.nodeType && module;
+
+  /** Detect free variable `global` from Node.js or Browserified code and use it as `root`. */
+  var freeGlobal = freeExports && freeModule && typeof __webpack_require__.g == 'object' && __webpack_require__.g;
+  if (freeGlobal && (freeGlobal.global === freeGlobal || freeGlobal.window === freeGlobal || freeGlobal.self === freeGlobal)) {
+    root = freeGlobal;
+  }
+
+  /**
+   * Used as the maximum length of an array-like object.
+   * See the [ES6 spec](http://people.mozilla.org/~jorendorff/es6-draft.html#sec-tolength)
+   * for more details.
+   */
+  var maxSafeInteger = Math.pow(2, 53) - 1;
+
+  /** Regular expression to detect Opera. */
+  var reOpera = /\bOpera/;
+
+  /** Possible global object. */
+  var thisBinding = this;
+
+  /** Used for native method references. */
+  var objectProto = Object.prototype;
+
+  /** Used to check for own properties of an object. */
+  var hasOwnProperty = objectProto.hasOwnProperty;
+
+  /** Used to resolve the internal `[[Class]]` of values. */
+  var toString = objectProto.toString;
+
+  /*--------------------------------------------------------------------------*/
+
+  /**
+   * Capitalizes a string value.
+   *
+   * @private
+   * @param {string} string The string to capitalize.
+   * @returns {string} The capitalized string.
+   */
+  function capitalize(string) {
+    string = String(string);
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+
+  /**
+   * A utility function to clean up the OS name.
+   *
+   * @private
+   * @param {string} os The OS name to clean up.
+   * @param {string} [pattern] A `RegExp` pattern matching the OS name.
+   * @param {string} [label] A label for the OS.
+   */
+  function cleanupOS(os, pattern, label) {
+    // Platform tokens are defined at:
+    // http://msdn.microsoft.com/en-us/library/ms537503(VS.85).aspx
+    // http://web.archive.org/web/20081122053950/http://msdn.microsoft.com/en-us/library/ms537503(VS.85).aspx
+    var data = {
+      '10.0': '10',
+      '6.4':  '10 Technical Preview',
+      '6.3':  '8.1',
+      '6.2':  '8',
+      '6.1':  'Server 2008 R2 / 7',
+      '6.0':  'Server 2008 / Vista',
+      '5.2':  'Server 2003 / XP 64-bit',
+      '5.1':  'XP',
+      '5.01': '2000 SP1',
+      '5.0':  '2000',
+      '4.0':  'NT',
+      '4.90': 'ME'
+    };
+    // Detect Windows version from platform tokens.
+    if (pattern && label && /^Win/i.test(os) && !/^Windows Phone /i.test(os) &&
+        (data = data[/[\d.]+$/.exec(os)])) {
+      os = 'Windows ' + data;
+    }
+    // Correct character case and cleanup string.
+    os = String(os);
+
+    if (pattern && label) {
+      os = os.replace(RegExp(pattern, 'i'), label);
+    }
+
+    os = format(
+      os.replace(/ ce$/i, ' CE')
+        .replace(/\bhpw/i, 'web')
+        .replace(/\bMacintosh\b/, 'Mac OS')
+        .replace(/_PowerPC\b/i, ' OS')
+        .replace(/\b(OS X) [^ \d]+/i, '$1')
+        .replace(/\bMac (OS X)\b/, '$1')
+        .replace(/\/(\d)/, ' $1')
+        .replace(/_/g, '.')
+        .replace(/(?: BePC|[ .]*fc[ \d.]+)$/i, '')
+        .replace(/\bx86\.64\b/gi, 'x86_64')
+        .replace(/\b(Windows Phone) OS\b/, '$1')
+        .replace(/\b(Chrome OS \w+) [\d.]+\b/, '$1')
+        .split(' on ')[0]
+    );
+
+    return os;
+  }
+
+  /**
+   * An iteration utility for arrays and objects.
+   *
+   * @private
+   * @param {Array|Object} object The object to iterate over.
+   * @param {Function} callback The function called per iteration.
+   */
+  function each(object, callback) {
+    var index = -1,
+        length = object ? object.length : 0;
+
+    if (typeof length == 'number' && length > -1 && length <= maxSafeInteger) {
+      while (++index < length) {
+        callback(object[index], index, object);
+      }
+    } else {
+      forOwn(object, callback);
+    }
+  }
+
+  /**
+   * Trim and conditionally capitalize string values.
+   *
+   * @private
+   * @param {string} string The string to format.
+   * @returns {string} The formatted string.
+   */
+  function format(string) {
+    string = trim(string);
+    return /^(?:webOS|i(?:OS|P))/.test(string)
+      ? string
+      : capitalize(string);
+  }
+
+  /**
+   * Iterates over an object's own properties, executing the `callback` for each.
+   *
+   * @private
+   * @param {Object} object The object to iterate over.
+   * @param {Function} callback The function executed per own property.
+   */
+  function forOwn(object, callback) {
+    for (var key in object) {
+      if (hasOwnProperty.call(object, key)) {
+        callback(object[key], key, object);
+      }
+    }
+  }
+
+  /**
+   * Gets the internal `[[Class]]` of a value.
+   *
+   * @private
+   * @param {*} value The value.
+   * @returns {string} The `[[Class]]`.
+   */
+  function getClassOf(value) {
+    return value == null
+      ? capitalize(value)
+      : toString.call(value).slice(8, -1);
+  }
+
+  /**
+   * Host objects can return type values that are different from their actual
+   * data type. The objects we are concerned with usually return non-primitive
+   * types of "object", "function", or "unknown".
+   *
+   * @private
+   * @param {*} object The owner of the property.
+   * @param {string} property The property to check.
+   * @returns {boolean} Returns `true` if the property value is a non-primitive, else `false`.
+   */
+  function isHostType(object, property) {
+    var type = object != null ? typeof object[property] : 'number';
+    return !/^(?:boolean|number|string|undefined)$/.test(type) &&
+      (type == 'object' ? !!object[property] : true);
+  }
+
+  /**
+   * Prepares a string for use in a `RegExp` by making hyphens and spaces optional.
+   *
+   * @private
+   * @param {string} string The string to qualify.
+   * @returns {string} The qualified string.
+   */
+  function qualify(string) {
+    return String(string).replace(/([ -])(?!$)/g, '$1?');
+  }
+
+  /**
+   * A bare-bones `Array#reduce` like utility function.
+   *
+   * @private
+   * @param {Array} array The array to iterate over.
+   * @param {Function} callback The function called per iteration.
+   * @returns {*} The accumulated result.
+   */
+  function reduce(array, callback) {
+    var accumulator = null;
+    each(array, function(value, index) {
+      accumulator = callback(accumulator, value, index, array);
+    });
+    return accumulator;
+  }
+
+  /**
+   * Removes leading and trailing whitespace from a string.
+   *
+   * @private
+   * @param {string} string The string to trim.
+   * @returns {string} The trimmed string.
+   */
+  function trim(string) {
+    return String(string).replace(/^ +| +$/g, '');
+  }
+
+  /*--------------------------------------------------------------------------*/
+
+  /**
+   * Creates a new platform object.
+   *
+   * @memberOf platform
+   * @param {Object|string} [ua=navigator.userAgent] The user agent string or
+   *  context object.
+   * @returns {Object} A platform object.
+   */
+  function parse(ua) {
+
+    /** The environment context object. */
+    var context = root;
+
+    /** Used to flag when a custom context is provided. */
+    var isCustomContext = ua && typeof ua == 'object' && getClassOf(ua) != 'String';
+
+    // Juggle arguments.
+    if (isCustomContext) {
+      context = ua;
+      ua = null;
+    }
+
+    /** Browser navigator object. */
+    var nav = context.navigator || {};
+
+    /** Browser user agent string. */
+    var userAgent = nav.userAgent || '';
+
+    ua || (ua = userAgent);
+
+    /** Used to flag when `thisBinding` is the [ModuleScope]. */
+    var isModuleScope = isCustomContext || thisBinding == oldRoot;
+
+    /** Used to detect if browser is like Chrome. */
+    var likeChrome = isCustomContext
+      ? !!nav.likeChrome
+      : /\bChrome\b/.test(ua) && !/internal|\n/i.test(toString.toString());
+
+    /** Internal `[[Class]]` value shortcuts. */
+    var objectClass = 'Object',
+        airRuntimeClass = isCustomContext ? objectClass : 'ScriptBridgingProxyObject',
+        enviroClass = isCustomContext ? objectClass : 'Environment',
+        javaClass = (isCustomContext && context.java) ? 'JavaPackage' : getClassOf(context.java),
+        phantomClass = isCustomContext ? objectClass : 'RuntimeObject';
+
+    /** Detect Java environments. */
+    var java = /\bJava/.test(javaClass) && context.java;
+
+    /** Detect Rhino. */
+    var rhino = java && getClassOf(context.environment) == enviroClass;
+
+    /** A character to represent alpha. */
+    var alpha = java ? 'a' : '\u03b1';
+
+    /** A character to represent beta. */
+    var beta = java ? 'b' : '\u03b2';
+
+    /** Browser document object. */
+    var doc = context.document || {};
+
+    /**
+     * Detect Opera browser (Presto-based).
+     * http://www.howtocreate.co.uk/operaStuff/operaObject.html
+     * http://dev.opera.com/articles/view/opera-mini-web-content-authoring-guidelines/#operamini
+     */
+    var opera = context.operamini || context.opera;
+
+    /** Opera `[[Class]]`. */
+    var operaClass = reOpera.test(operaClass = (isCustomContext && opera) ? opera['[[Class]]'] : getClassOf(opera))
+      ? operaClass
+      : (opera = null);
+
+    /*------------------------------------------------------------------------*/
+
+    /** Temporary variable used over the script's lifetime. */
+    var data;
+
+    /** The CPU architecture. */
+    var arch = ua;
+
+    /** Platform description array. */
+    var description = [];
+
+    /** Platform alpha/beta indicator. */
+    var prerelease = null;
+
+    /** A flag to indicate that environment features should be used to resolve the platform. */
+    var useFeatures = ua == userAgent;
+
+    /** The browser/environment version. */
+    var version = useFeatures && opera && typeof opera.version == 'function' && opera.version();
+
+    /** A flag to indicate if the OS ends with "/ Version" */
+    var isSpecialCasedOS;
+
+    /* Detectable layout engines (order is important). */
+    var layout = getLayout([
+      { 'label': 'EdgeHTML', 'pattern': 'Edge' },
+      'Trident',
+      { 'label': 'WebKit', 'pattern': 'AppleWebKit' },
+      'iCab',
+      'Presto',
+      'NetFront',
+      'Tasman',
+      'KHTML',
+      'Gecko'
+    ]);
+
+    /* Detectable browser names (order is important). */
+    var name = getName([
+      'Adobe AIR',
+      'Arora',
+      'Avant Browser',
+      'Breach',
+      'Camino',
+      'Electron',
+      'Epiphany',
+      'Fennec',
+      'Flock',
+      'Galeon',
+      'GreenBrowser',
+      'iCab',
+      'Iceweasel',
+      'K-Meleon',
+      'Konqueror',
+      'Lunascape',
+      'Maxthon',
+      { 'label': 'Microsoft Edge', 'pattern': '(?:Edge|Edg|EdgA|EdgiOS)' },
+      'Midori',
+      'Nook Browser',
+      'PaleMoon',
+      'PhantomJS',
+      'Raven',
+      'Rekonq',
+      'RockMelt',
+      { 'label': 'Samsung Internet', 'pattern': 'SamsungBrowser' },
+      'SeaMonkey',
+      { 'label': 'Silk', 'pattern': '(?:Cloud9|Silk-Accelerated)' },
+      'Sleipnir',
+      'SlimBrowser',
+      { 'label': 'SRWare Iron', 'pattern': 'Iron' },
+      'Sunrise',
+      'Swiftfox',
+      'Vivaldi',
+      'Waterfox',
+      'WebPositive',
+      { 'label': 'Yandex Browser', 'pattern': 'YaBrowser' },
+      { 'label': 'UC Browser', 'pattern': 'UCBrowser' },
+      'Opera Mini',
+      { 'label': 'Opera Mini', 'pattern': 'OPiOS' },
+      'Opera',
+      { 'label': 'Opera', 'pattern': 'OPR' },
+      'Chromium',
+      'Chrome',
+      { 'label': 'Chrome', 'pattern': '(?:HeadlessChrome)' },
+      { 'label': 'Chrome Mobile', 'pattern': '(?:CriOS|CrMo)' },
+      { 'label': 'Firefox', 'pattern': '(?:Firefox|Minefield)' },
+      { 'label': 'Firefox for iOS', 'pattern': 'FxiOS' },
+      { 'label': 'IE', 'pattern': 'IEMobile' },
+      { 'label': 'IE', 'pattern': 'MSIE' },
+      'Safari'
+    ]);
+
+    /* Detectable products (order is important). */
+    var product = getProduct([
+      { 'label': 'BlackBerry', 'pattern': 'BB10' },
+      'BlackBerry',
+      { 'label': 'Galaxy S', 'pattern': 'GT-I9000' },
+      { 'label': 'Galaxy S2', 'pattern': 'GT-I9100' },
+      { 'label': 'Galaxy S3', 'pattern': 'GT-I9300' },
+      { 'label': 'Galaxy S4', 'pattern': 'GT-I9500' },
+      { 'label': 'Galaxy S5', 'pattern': 'SM-G900' },
+      { 'label': 'Galaxy S6', 'pattern': 'SM-G920' },
+      { 'label': 'Galaxy S6 Edge', 'pattern': 'SM-G925' },
+      { 'label': 'Galaxy S7', 'pattern': 'SM-G930' },
+      { 'label': 'Galaxy S7 Edge', 'pattern': 'SM-G935' },
+      'Google TV',
+      'Lumia',
+      'iPad',
+      'iPod',
+      'iPhone',
+      'Kindle',
+      { 'label': 'Kindle Fire', 'pattern': '(?:Cloud9|Silk-Accelerated)' },
+      'Nexus',
+      'Nook',
+      'PlayBook',
+      'PlayStation Vita',
+      'PlayStation',
+      'TouchPad',
+      'Transformer',
+      { 'label': 'Wii U', 'pattern': 'WiiU' },
+      'Wii',
+      'Xbox One',
+      { 'label': 'Xbox 360', 'pattern': 'Xbox' },
+      'Xoom'
+    ]);
+
+    /* Detectable manufacturers. */
+    var manufacturer = getManufacturer({
+      'Apple': { 'iPad': 1, 'iPhone': 1, 'iPod': 1 },
+      'Alcatel': {},
+      'Archos': {},
+      'Amazon': { 'Kindle': 1, 'Kindle Fire': 1 },
+      'Asus': { 'Transformer': 1 },
+      'Barnes & Noble': { 'Nook': 1 },
+      'BlackBerry': { 'PlayBook': 1 },
+      'Google': { 'Google TV': 1, 'Nexus': 1 },
+      'HP': { 'TouchPad': 1 },
+      'HTC': {},
+      'Huawei': {},
+      'Lenovo': {},
+      'LG': {},
+      'Microsoft': { 'Xbox': 1, 'Xbox One': 1 },
+      'Motorola': { 'Xoom': 1 },
+      'Nintendo': { 'Wii U': 1,  'Wii': 1 },
+      'Nokia': { 'Lumia': 1 },
+      'Oppo': {},
+      'Samsung': { 'Galaxy S': 1, 'Galaxy S2': 1, 'Galaxy S3': 1, 'Galaxy S4': 1 },
+      'Sony': { 'PlayStation': 1, 'PlayStation Vita': 1 },
+      'Xiaomi': { 'Mi': 1, 'Redmi': 1 }
+    });
+
+    /* Detectable operating systems (order is important). */
+    var os = getOS([
+      'Windows Phone',
+      'KaiOS',
+      'Android',
+      'CentOS',
+      { 'label': 'Chrome OS', 'pattern': 'CrOS' },
+      'Debian',
+      { 'label': 'DragonFly BSD', 'pattern': 'DragonFly' },
+      'Fedora',
+      'FreeBSD',
+      'Gentoo',
+      'Haiku',
+      'Kubuntu',
+      'Linux Mint',
+      'OpenBSD',
+      'Red Hat',
+      'SuSE',
+      'Ubuntu',
+      'Xubuntu',
+      'Cygwin',
+      'Symbian OS',
+      'hpwOS',
+      'webOS ',
+      'webOS',
+      'Tablet OS',
+      'Tizen',
+      'Linux',
+      'Mac OS X',
+      'Macintosh',
+      'Mac',
+      'Windows 98;',
+      'Windows '
+    ]);
+
+    /*------------------------------------------------------------------------*/
+
+    /**
+     * Picks the layout engine from an array of guesses.
+     *
+     * @private
+     * @param {Array} guesses An array of guesses.
+     * @returns {null|string} The detected layout engine.
+     */
+    function getLayout(guesses) {
+      return reduce(guesses, function(result, guess) {
+        return result || RegExp('\\b' + (
+          guess.pattern || qualify(guess)
+        ) + '\\b', 'i').exec(ua) && (guess.label || guess);
+      });
+    }
+
+    /**
+     * Picks the manufacturer from an array of guesses.
+     *
+     * @private
+     * @param {Array} guesses An object of guesses.
+     * @returns {null|string} The detected manufacturer.
+     */
+    function getManufacturer(guesses) {
+      return reduce(guesses, function(result, value, key) {
+        // Lookup the manufacturer by product or scan the UA for the manufacturer.
+        return result || (
+          value[product] ||
+          value[/^[a-z]+(?: +[a-z]+\b)*/i.exec(product)] ||
+          RegExp('\\b' + qualify(key) + '(?:\\b|\\w*\\d)', 'i').exec(ua)
+        ) && key;
+      });
+    }
+
+    /**
+     * Picks the browser name from an array of guesses.
+     *
+     * @private
+     * @param {Array} guesses An array of guesses.
+     * @returns {null|string} The detected browser name.
+     */
+    function getName(guesses) {
+      return reduce(guesses, function(result, guess) {
+        return result || RegExp('\\b' + (
+          guess.pattern || qualify(guess)
+        ) + '\\b', 'i').exec(ua) && (guess.label || guess);
+      });
+    }
+
+    /**
+     * Picks the OS name from an array of guesses.
+     *
+     * @private
+     * @param {Array} guesses An array of guesses.
+     * @returns {null|string} The detected OS name.
+     */
+    function getOS(guesses) {
+      return reduce(guesses, function(result, guess) {
+        var pattern = guess.pattern || qualify(guess);
+        if (!result && (result =
+              RegExp('\\b' + pattern + '(?:/[\\d.]+|[ \\w.]*)', 'i').exec(ua)
+            )) {
+          result = cleanupOS(result, pattern, guess.label || guess);
+        }
+        return result;
+      });
+    }
+
+    /**
+     * Picks the product name from an array of guesses.
+     *
+     * @private
+     * @param {Array} guesses An array of guesses.
+     * @returns {null|string} The detected product name.
+     */
+    function getProduct(guesses) {
+      return reduce(guesses, function(result, guess) {
+        var pattern = guess.pattern || qualify(guess);
+        if (!result && (result =
+              RegExp('\\b' + pattern + ' *\\d+[.\\w_]*', 'i').exec(ua) ||
+              RegExp('\\b' + pattern + ' *\\w+-[\\w]*', 'i').exec(ua) ||
+              RegExp('\\b' + pattern + '(?:; *(?:[a-z]+[_-])?[a-z]+\\d+|[^ ();-]*)', 'i').exec(ua)
+            )) {
+          // Split by forward slash and append product version if needed.
+          if ((result = String((guess.label && !RegExp(pattern, 'i').test(guess.label)) ? guess.label : result).split('/'))[1] && !/[\d.]+/.test(result[0])) {
+            result[0] += ' ' + result[1];
+          }
+          // Correct character case and cleanup string.
+          guess = guess.label || guess;
+          result = format(result[0]
+            .replace(RegExp(pattern, 'i'), guess)
+            .replace(RegExp('; *(?:' + guess + '[_-])?', 'i'), ' ')
+            .replace(RegExp('(' + guess + ')[-_.]?(\\w)', 'i'), '$1 $2'));
+        }
+        return result;
+      });
+    }
+
+    /**
+     * Resolves the version using an array of UA patterns.
+     *
+     * @private
+     * @param {Array} patterns An array of UA patterns.
+     * @returns {null|string} The detected version.
+     */
+    function getVersion(patterns) {
+      return reduce(patterns, function(result, pattern) {
+        return result || (RegExp(pattern +
+          '(?:-[\\d.]+/|(?: for [\\w-]+)?[ /-])([\\d.]+[^ ();/_-]*)', 'i').exec(ua) || 0)[1] || null;
+      });
+    }
+
+    /**
+     * Returns `platform.description` when the platform object is coerced to a string.
+     *
+     * @name toString
+     * @memberOf platform
+     * @returns {string} Returns `platform.description` if available, else an empty string.
+     */
+    function toStringPlatform() {
+      return this.description || '';
+    }
+
+    /*------------------------------------------------------------------------*/
+
+    // Convert layout to an array so we can add extra details.
+    layout && (layout = [layout]);
+
+    // Detect Android products.
+    // Browsers on Android devices typically provide their product IDS after "Android;"
+    // up to "Build" or ") AppleWebKit".
+    // Example:
+    // "Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus) AppleWebKit/537.36
+    // (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+    if (/\bAndroid\b/.test(os) && !product &&
+        (data = /\bAndroid[^;]*;(.*?)(?:Build|\) AppleWebKit)\b/i.exec(ua))) {
+      product = trim(data[1])
+        // Replace any language codes (eg. "en-US").
+        .replace(/^[a-z]{2}-[a-z]{2};\s*/i, '')
+        || null;
+    }
+    // Detect product names that contain their manufacturer's name.
+    if (manufacturer && !product) {
+      product = getProduct([manufacturer]);
+    } else if (manufacturer && product) {
+      product = product
+        .replace(RegExp('^(' + qualify(manufacturer) + ')[-_.\\s]', 'i'), manufacturer + ' ')
+        .replace(RegExp('^(' + qualify(manufacturer) + ')[-_.]?(\\w)', 'i'), manufacturer + ' $2');
+    }
+    // Clean up Google TV.
+    if ((data = /\bGoogle TV\b/.exec(product))) {
+      product = data[0];
+    }
+    // Detect simulators.
+    if (/\bSimulator\b/i.test(ua)) {
+      product = (product ? product + ' ' : '') + 'Simulator';
+    }
+    // Detect Opera Mini 8+ running in Turbo/Uncompressed mode on iOS.
+    if (name == 'Opera Mini' && /\bOPiOS\b/.test(ua)) {
+      description.push('running in Turbo/Uncompressed mode');
+    }
+    // Detect IE Mobile 11.
+    if (name == 'IE' && /\blike iPhone OS\b/.test(ua)) {
+      data = parse(ua.replace(/like iPhone OS/, ''));
+      manufacturer = data.manufacturer;
+      product = data.product;
+    }
+    // Detect iOS.
+    else if (/^iP/.test(product)) {
+      name || (name = 'Safari');
+      os = 'iOS' + ((data = / OS ([\d_]+)/i.exec(ua))
+        ? ' ' + data[1].replace(/_/g, '.')
+        : '');
+    }
+    // Detect Kubuntu.
+    else if (name == 'Konqueror' && /^Linux\b/i.test(os)) {
+      os = 'Kubuntu';
+    }
+    // Detect Android browsers.
+    else if ((manufacturer && manufacturer != 'Google' &&
+        ((/Chrome/.test(name) && !/\bMobile Safari\b/i.test(ua)) || /\bVita\b/.test(product))) ||
+        (/\bAndroid\b/.test(os) && /^Chrome/.test(name) && /\bVersion\//i.test(ua))) {
+      name = 'Android Browser';
+      os = /\bAndroid\b/.test(os) ? os : 'Android';
+    }
+    // Detect Silk desktop/accelerated modes.
+    else if (name == 'Silk') {
+      if (!/\bMobi/i.test(ua)) {
+        os = 'Android';
+        description.unshift('desktop mode');
+      }
+      if (/Accelerated *= *true/i.test(ua)) {
+        description.unshift('accelerated');
+      }
+    }
+    // Detect UC Browser speed mode.
+    else if (name == 'UC Browser' && /\bUCWEB\b/.test(ua)) {
+      description.push('speed mode');
+    }
+    // Detect PaleMoon identifying as Firefox.
+    else if (name == 'PaleMoon' && (data = /\bFirefox\/([\d.]+)\b/.exec(ua))) {
+      description.push('identifying as Firefox ' + data[1]);
+    }
+    // Detect Firefox OS and products running Firefox.
+    else if (name == 'Firefox' && (data = /\b(Mobile|Tablet|TV)\b/i.exec(ua))) {
+      os || (os = 'Firefox OS');
+      product || (product = data[1]);
+    }
+    // Detect false positives for Firefox/Safari.
+    else if (!name || (data = !/\bMinefield\b/i.test(ua) && /\b(?:Firefox|Safari)\b/.exec(name))) {
+      // Escape the `/` for Firefox 1.
+      if (name && !product && /[\/,]|^[^(]+?\)/.test(ua.slice(ua.indexOf(data + '/') + 8))) {
+        // Clear name of false positives.
+        name = null;
+      }
+      // Reassign a generic name.
+      if ((data = product || manufacturer || os) &&
+          (product || manufacturer || /\b(?:Android|Symbian OS|Tablet OS|webOS)\b/.test(os))) {
+        name = /[a-z]+(?: Hat)?/i.exec(/\bAndroid\b/.test(os) ? os : data) + ' Browser';
+      }
+    }
+    // Add Chrome version to description for Electron.
+    else if (name == 'Electron' && (data = (/\bChrome\/([\d.]+)\b/.exec(ua) || 0)[1])) {
+      description.push('Chromium ' + data);
+    }
+    // Detect non-Opera (Presto-based) versions (order is important).
+    if (!version) {
+      version = getVersion([
+        '(?:Cloud9|CriOS|CrMo|Edge|Edg|EdgA|EdgiOS|FxiOS|HeadlessChrome|IEMobile|Iron|Opera ?Mini|OPiOS|OPR|Raven|SamsungBrowser|Silk(?!/[\\d.]+$)|UCBrowser|YaBrowser)',
+        'Version',
+        qualify(name),
+        '(?:Firefox|Minefield|NetFront)'
+      ]);
+    }
+    // Detect stubborn layout engines.
+    if ((data =
+          layout == 'iCab' && parseFloat(version) > 3 && 'WebKit' ||
+          /\bOpera\b/.test(name) && (/\bOPR\b/.test(ua) ? 'Blink' : 'Presto') ||
+          /\b(?:Midori|Nook|Safari)\b/i.test(ua) && !/^(?:Trident|EdgeHTML)$/.test(layout) && 'WebKit' ||
+          !layout && /\bMSIE\b/i.test(ua) && (os == 'Mac OS' ? 'Tasman' : 'Trident') ||
+          layout == 'WebKit' && /\bPlayStation\b(?! Vita\b)/i.test(name) && 'NetFront'
+        )) {
+      layout = [data];
+    }
+    // Detect Windows Phone 7 desktop mode.
+    if (name == 'IE' && (data = (/; *(?:XBLWP|ZuneWP)(\d+)/i.exec(ua) || 0)[1])) {
+      name += ' Mobile';
+      os = 'Windows Phone ' + (/\+$/.test(data) ? data : data + '.x');
+      description.unshift('desktop mode');
+    }
+    // Detect Windows Phone 8.x desktop mode.
+    else if (/\bWPDesktop\b/i.test(ua)) {
+      name = 'IE Mobile';
+      os = 'Windows Phone 8.x';
+      description.unshift('desktop mode');
+      version || (version = (/\brv:([\d.]+)/.exec(ua) || 0)[1]);
+    }
+    // Detect IE 11 identifying as other browsers.
+    else if (name != 'IE' && layout == 'Trident' && (data = /\brv:([\d.]+)/.exec(ua))) {
+      if (name) {
+        description.push('identifying as ' + name + (version ? ' ' + version : ''));
+      }
+      name = 'IE';
+      version = data[1];
+    }
+    // Leverage environment features.
+    if (useFeatures) {
+      // Detect server-side environments.
+      // Rhino has a global function while others have a global object.
+      if (isHostType(context, 'global')) {
+        if (java) {
+          data = java.lang.System;
+          arch = data.getProperty('os.arch');
+          os = os || data.getProperty('os.name') + ' ' + data.getProperty('os.version');
+        }
+        if (rhino) {
+          try {
+            version = context.require('ringo/engine').version.join('.');
+            name = 'RingoJS';
+          } catch(e) {
+            if ((data = context.system) && data.global.system == context.system) {
+              name = 'Narwhal';
+              os || (os = data[0].os || null);
+            }
+          }
+          if (!name) {
+            name = 'Rhino';
+          }
+        }
+        else if (
+          typeof context.process == 'object' && !context.process.browser &&
+          (data = context.process)
+        ) {
+          if (typeof data.versions == 'object') {
+            if (typeof data.versions.electron == 'string') {
+              description.push('Node ' + data.versions.node);
+              name = 'Electron';
+              version = data.versions.electron;
+            } else if (typeof data.versions.nw == 'string') {
+              description.push('Chromium ' + version, 'Node ' + data.versions.node);
+              name = 'NW.js';
+              version = data.versions.nw;
+            }
+          }
+          if (!name) {
+            name = 'Node.js';
+            arch = data.arch;
+            os = data.platform;
+            version = /[\d.]+/.exec(data.version);
+            version = version ? version[0] : null;
+          }
+        }
+      }
+      // Detect Adobe AIR.
+      else if (getClassOf((data = context.runtime)) == airRuntimeClass) {
+        name = 'Adobe AIR';
+        os = data.flash.system.Capabilities.os;
+      }
+      // Detect PhantomJS.
+      else if (getClassOf((data = context.phantom)) == phantomClass) {
+        name = 'PhantomJS';
+        version = (data = data.version || null) && (data.major + '.' + data.minor + '.' + data.patch);
+      }
+      // Detect IE compatibility modes.
+      else if (typeof doc.documentMode == 'number' && (data = /\bTrident\/(\d+)/i.exec(ua))) {
+        // We're in compatibility mode when the Trident version + 4 doesn't
+        // equal the document mode.
+        version = [version, doc.documentMode];
+        if ((data = +data[1] + 4) != version[1]) {
+          description.push('IE ' + version[1] + ' mode');
+          layout && (layout[1] = '');
+          version[1] = data;
+        }
+        version = name == 'IE' ? String(version[1].toFixed(1)) : version[0];
+      }
+      // Detect IE 11 masking as other browsers.
+      else if (typeof doc.documentMode == 'number' && /^(?:Chrome|Firefox)\b/.test(name)) {
+        description.push('masking as ' + name + ' ' + version);
+        name = 'IE';
+        version = '11.0';
+        layout = ['Trident'];
+        os = 'Windows';
+      }
+      os = os && format(os);
+    }
+    // Detect prerelease phases.
+    if (version && (data =
+          /(?:[ab]|dp|pre|[ab]\d+pre)(?:\d+\+?)?$/i.exec(version) ||
+          /(?:alpha|beta)(?: ?\d)?/i.exec(ua + ';' + (useFeatures && nav.appMinorVersion)) ||
+          /\bMinefield\b/i.test(ua) && 'a'
+        )) {
+      prerelease = /b/i.test(data) ? 'beta' : 'alpha';
+      version = version.replace(RegExp(data + '\\+?$'), '') +
+        (prerelease == 'beta' ? beta : alpha) + (/\d+\+?/.exec(data) || '');
+    }
+    // Detect Firefox Mobile.
+    if (name == 'Fennec' || name == 'Firefox' && /\b(?:Android|Firefox OS|KaiOS)\b/.test(os)) {
+      name = 'Firefox Mobile';
+    }
+    // Obscure Maxthon's unreliable version.
+    else if (name == 'Maxthon' && version) {
+      version = version.replace(/\.[\d.]+/, '.x');
+    }
+    // Detect Xbox 360 and Xbox One.
+    else if (/\bXbox\b/i.test(product)) {
+      if (product == 'Xbox 360') {
+        os = null;
+      }
+      if (product == 'Xbox 360' && /\bIEMobile\b/.test(ua)) {
+        description.unshift('mobile mode');
+      }
+    }
+    // Add mobile postfix.
+    else if ((/^(?:Chrome|IE|Opera)$/.test(name) || name && !product && !/Browser|Mobi/.test(name)) &&
+        (os == 'Windows CE' || /Mobi/i.test(ua))) {
+      name += ' Mobile';
+    }
+    // Detect IE platform preview.
+    else if (name == 'IE' && useFeatures) {
+      try {
+        if (context.external === null) {
+          description.unshift('platform preview');
+        }
+      } catch(e) {
+        description.unshift('embedded');
+      }
+    }
+    // Detect BlackBerry OS version.
+    // http://docs.blackberry.com/en/developers/deliverables/18169/HTTP_headers_sent_by_BB_Browser_1234911_11.jsp
+    else if ((/\bBlackBerry\b/.test(product) || /\bBB10\b/.test(ua)) && (data =
+          (RegExp(product.replace(/ +/g, ' *') + '/([.\\d]+)', 'i').exec(ua) || 0)[1] ||
+          version
+        )) {
+      data = [data, /BB10/.test(ua)];
+      os = (data[1] ? (product = null, manufacturer = 'BlackBerry') : 'Device Software') + ' ' + data[0];
+      version = null;
+    }
+    // Detect Opera identifying/masking itself as another browser.
+    // http://www.opera.com/support/kb/view/843/
+    else if (this != forOwn && product != 'Wii' && (
+          (useFeatures && opera) ||
+          (/Opera/.test(name) && /\b(?:MSIE|Firefox)\b/i.test(ua)) ||
+          (name == 'Firefox' && /\bOS X (?:\d+\.){2,}/.test(os)) ||
+          (name == 'IE' && (
+            (os && !/^Win/.test(os) && version > 5.5) ||
+            /\bWindows XP\b/.test(os) && version > 8 ||
+            version == 8 && !/\bTrident\b/.test(ua)
+          ))
+        ) && !reOpera.test((data = parse.call(forOwn, ua.replace(reOpera, '') + ';'))) && data.name) {
+      // When "identifying", the UA contains both Opera and the other browser's name.
+      data = 'ing as ' + data.name + ((data = data.version) ? ' ' + data : '');
+      if (reOpera.test(name)) {
+        if (/\bIE\b/.test(data) && os == 'Mac OS') {
+          os = null;
+        }
+        data = 'identify' + data;
+      }
+      // When "masking", the UA contains only the other browser's name.
+      else {
+        data = 'mask' + data;
+        if (operaClass) {
+          name = format(operaClass.replace(/([a-z])([A-Z])/g, '$1 $2'));
+        } else {
+          name = 'Opera';
+        }
+        if (/\bIE\b/.test(data)) {
+          os = null;
+        }
+        if (!useFeatures) {
+          version = null;
+        }
+      }
+      layout = ['Presto'];
+      description.push(data);
+    }
+    // Detect WebKit Nightly and approximate Chrome/Safari versions.
+    if ((data = (/\bAppleWebKit\/([\d.]+\+?)/i.exec(ua) || 0)[1])) {
+      // Correct build number for numeric comparison.
+      // (e.g. "532.5" becomes "532.05")
+      data = [parseFloat(data.replace(/\.(\d)$/, '.0$1')), data];
+      // Nightly builds are postfixed with a "+".
+      if (name == 'Safari' && data[1].slice(-1) == '+') {
+        name = 'WebKit Nightly';
+        prerelease = 'alpha';
+        version = data[1].slice(0, -1);
+      }
+      // Clear incorrect browser versions.
+      else if (version == data[1] ||
+          version == (data[2] = (/\bSafari\/([\d.]+\+?)/i.exec(ua) || 0)[1])) {
+        version = null;
+      }
+      // Use the full Chrome version when available.
+      data[1] = (/\b(?:Headless)?Chrome\/([\d.]+)/i.exec(ua) || 0)[1];
+      // Detect Blink layout engine.
+      if (data[0] == 537.36 && data[2] == 537.36 && parseFloat(data[1]) >= 28 && layout == 'WebKit') {
+        layout = ['Blink'];
+      }
+      // Detect JavaScriptCore.
+      // http://stackoverflow.com/questions/6768474/how-can-i-detect-which-javascript-engine-v8-or-jsc-is-used-at-runtime-in-androi
+      if (!useFeatures || (!likeChrome && !data[1])) {
+        layout && (layout[1] = 'like Safari');
+        data = (data = data[0], data < 400 ? 1 : data < 500 ? 2 : data < 526 ? 3 : data < 533 ? 4 : data < 534 ? '4+' : data < 535 ? 5 : data < 537 ? 6 : data < 538 ? 7 : data < 601 ? 8 : data < 602 ? 9 : data < 604 ? 10 : data < 606 ? 11 : data < 608 ? 12 : '12');
+      } else {
+        layout && (layout[1] = 'like Chrome');
+        data = data[1] || (data = data[0], data < 530 ? 1 : data < 532 ? 2 : data < 532.05 ? 3 : data < 533 ? 4 : data < 534.03 ? 5 : data < 534.07 ? 6 : data < 534.10 ? 7 : data < 534.13 ? 8 : data < 534.16 ? 9 : data < 534.24 ? 10 : data < 534.30 ? 11 : data < 535.01 ? 12 : data < 535.02 ? '13+' : data < 535.07 ? 15 : data < 535.11 ? 16 : data < 535.19 ? 17 : data < 536.05 ? 18 : data < 536.10 ? 19 : data < 537.01 ? 20 : data < 537.11 ? '21+' : data < 537.13 ? 23 : data < 537.18 ? 24 : data < 537.24 ? 25 : data < 537.36 ? 26 : layout != 'Blink' ? '27' : '28');
+      }
+      // Add the postfix of ".x" or "+" for approximate versions.
+      layout && (layout[1] += ' ' + (data += typeof data == 'number' ? '.x' : /[.+]/.test(data) ? '' : '+'));
+      // Obscure version for some Safari 1-2 releases.
+      if (name == 'Safari' && (!version || parseInt(version) > 45)) {
+        version = data;
+      } else if (name == 'Chrome' && /\bHeadlessChrome/i.test(ua)) {
+        description.unshift('headless');
+      }
+    }
+    // Detect Opera desktop modes.
+    if (name == 'Opera' &&  (data = /\bzbov|zvav$/.exec(os))) {
+      name += ' ';
+      description.unshift('desktop mode');
+      if (data == 'zvav') {
+        name += 'Mini';
+        version = null;
+      } else {
+        name += 'Mobile';
+      }
+      os = os.replace(RegExp(' *' + data + '$'), '');
+    }
+    // Detect Chrome desktop mode.
+    else if (name == 'Safari' && /\bChrome\b/.exec(layout && layout[1])) {
+      description.unshift('desktop mode');
+      name = 'Chrome Mobile';
+      version = null;
+
+      if (/\bOS X\b/.test(os)) {
+        manufacturer = 'Apple';
+        os = 'iOS 4.3+';
+      } else {
+        os = null;
+      }
+    }
+    // Newer versions of SRWare Iron uses the Chrome tag to indicate its version number.
+    else if (/\bSRWare Iron\b/.test(name) && !version) {
+      version = getVersion('Chrome');
+    }
+    // Strip incorrect OS versions.
+    if (version && version.indexOf((data = /[\d.]+$/.exec(os))) == 0 &&
+        ua.indexOf('/' + data + '-') > -1) {
+      os = trim(os.replace(data, ''));
+    }
+    // Ensure OS does not include the browser name.
+    if (os && os.indexOf(name) != -1 && !RegExp(name + ' OS').test(os)) {
+      os = os.replace(RegExp(' *' + qualify(name) + ' *'), '');
+    }
+    // Add layout engine.
+    if (layout && !/\b(?:Avant|Nook)\b/.test(name) && (
+        /Browser|Lunascape|Maxthon/.test(name) ||
+        name != 'Safari' && /^iOS/.test(os) && /\bSafari\b/.test(layout[1]) ||
+        /^(?:Adobe|Arora|Breach|Midori|Opera|Phantom|Rekonq|Rock|Samsung Internet|Sleipnir|SRWare Iron|Vivaldi|Web)/.test(name) && layout[1])) {
+      // Don't add layout details to description if they are falsey.
+      (data = layout[layout.length - 1]) && description.push(data);
+    }
+    // Combine contextual information.
+    if (description.length) {
+      description = ['(' + description.join('; ') + ')'];
+    }
+    // Append manufacturer to description.
+    if (manufacturer && product && product.indexOf(manufacturer) < 0) {
+      description.push('on ' + manufacturer);
+    }
+    // Append product to description.
+    if (product) {
+      description.push((/^on /.test(description[description.length - 1]) ? '' : 'on ') + product);
+    }
+    // Parse the OS into an object.
+    if (os) {
+      data = / ([\d.+]+)$/.exec(os);
+      isSpecialCasedOS = data && os.charAt(os.length - data[0].length - 1) == '/';
+      os = {
+        'architecture': 32,
+        'family': (data && !isSpecialCasedOS) ? os.replace(data[0], '') : os,
+        'version': data ? data[1] : null,
+        'toString': function() {
+          var version = this.version;
+          return this.family + ((version && !isSpecialCasedOS) ? ' ' + version : '') + (this.architecture == 64 ? ' 64-bit' : '');
+        }
+      };
+    }
+    // Add browser/OS architecture.
+    if ((data = /\b(?:AMD|IA|Win|WOW|x86_|x)64\b/i.exec(arch)) && !/\bi686\b/i.test(arch)) {
+      if (os) {
+        os.architecture = 64;
+        os.family = os.family.replace(RegExp(' *' + data), '');
+      }
+      if (
+          name && (/\bWOW64\b/i.test(ua) ||
+          (useFeatures && /\w(?:86|32)$/.test(nav.cpuClass || nav.platform) && !/\bWin64; x64\b/i.test(ua)))
+      ) {
+        description.unshift('32-bit');
+      }
+    }
+    // Chrome 39 and above on OS X is always 64-bit.
+    else if (
+        os && /^OS X/.test(os.family) &&
+        name == 'Chrome' && parseFloat(version) >= 39
+    ) {
+      os.architecture = 64;
+    }
+
+    ua || (ua = null);
+
+    /*------------------------------------------------------------------------*/
+
+    /**
+     * The platform object.
+     *
+     * @name platform
+     * @type Object
+     */
+    var platform = {};
+
+    /**
+     * The platform description.
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.description = ua;
+
+    /**
+     * The name of the browser's layout engine.
+     *
+     * The list of common layout engines include:
+     * "Blink", "EdgeHTML", "Gecko", "Trident" and "WebKit"
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.layout = layout && layout[0];
+
+    /**
+     * The name of the product's manufacturer.
+     *
+     * The list of manufacturers include:
+     * "Apple", "Archos", "Amazon", "Asus", "Barnes & Noble", "BlackBerry",
+     * "Google", "HP", "HTC", "LG", "Microsoft", "Motorola", "Nintendo",
+     * "Nokia", "Samsung" and "Sony"
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.manufacturer = manufacturer;
+
+    /**
+     * The name of the browser/environment.
+     *
+     * The list of common browser names include:
+     * "Chrome", "Electron", "Firefox", "Firefox for iOS", "IE",
+     * "Microsoft Edge", "PhantomJS", "Safari", "SeaMonkey", "Silk",
+     * "Opera Mini" and "Opera"
+     *
+     * Mobile versions of some browsers have "Mobile" appended to their name:
+     * eg. "Chrome Mobile", "Firefox Mobile", "IE Mobile" and "Opera Mobile"
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.name = name;
+
+    /**
+     * The alpha/beta release indicator.
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.prerelease = prerelease;
+
+    /**
+     * The name of the product hosting the browser.
+     *
+     * The list of common products include:
+     *
+     * "BlackBerry", "Galaxy S4", "Lumia", "iPad", "iPod", "iPhone", "Kindle",
+     * "Kindle Fire", "Nexus", "Nook", "PlayBook", "TouchPad" and "Transformer"
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.product = product;
+
+    /**
+     * The browser's user agent string.
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.ua = ua;
+
+    /**
+     * The browser/environment version.
+     *
+     * @memberOf platform
+     * @type string|null
+     */
+    platform.version = name && version;
+
+    /**
+     * The name of the operating system.
+     *
+     * @memberOf platform
+     * @type Object
+     */
+    platform.os = os || {
+
+      /**
+       * The CPU architecture the OS is built for.
+       *
+       * @memberOf platform.os
+       * @type number|null
+       */
+      'architecture': null,
+
+      /**
+       * The family of the OS.
+       *
+       * Common values include:
+       * "Windows", "Windows Server 2008 R2 / 7", "Windows Server 2008 / Vista",
+       * "Windows XP", "OS X", "Linux", "Ubuntu", "Debian", "Fedora", "Red Hat",
+       * "SuSE", "Android", "iOS" and "Windows Phone"
+       *
+       * @memberOf platform.os
+       * @type string|null
+       */
+      'family': null,
+
+      /**
+       * The version of the OS.
+       *
+       * @memberOf platform.os
+       * @type string|null
+       */
+      'version': null,
+
+      /**
+       * Returns the OS string.
+       *
+       * @memberOf platform.os
+       * @returns {string} The OS string.
+       */
+      'toString': function() { return 'null'; }
+    };
+
+    platform.parse = parse;
+    platform.toString = toStringPlatform;
+
+    if (platform.version) {
+      description.unshift(version);
+    }
+    if (platform.name) {
+      description.unshift(name);
+    }
+    if (os && name && !(os == String(os).split(' ')[0] && (os == name.split(' ')[0] || product))) {
+      description.push(product ? '(' + os + ')' : 'on ' + os);
+    }
+    if (description.length) {
+      platform.description = description.join(' ');
+    }
+    return platform;
+  }
+
+  /*--------------------------------------------------------------------------*/
+
+  // Export platform.
+  var platform = parse();
+
+  // Some AMD build optimizers, like r.js, check for condition patterns like the following:
+  if (true) {
+    // Expose platform on the global object to prevent errors when platform is
+    // loaded by a script tag in the presence of an AMD loader.
+    // See http://requirejs.org/docs/errors.html#mismatch for more details.
+    root.platform = platform;
+
+    // Define as an anonymous module so platform can be aliased through path mapping.
+    !(__WEBPACK_AMD_DEFINE_RESULT__ = (function() {
+      return platform;
+    }).call(exports, __webpack_require__, exports, module),
+		__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+  }
+  // Check for `exports` after `define` in case a build optimizer adds an `exports` object.
+  else {}
+}.call(this));
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/@babel/runtime/helpers/esm/defineProperty.js":
+/*!********************************************************************************!*\
+  !*** ../../../../../node_modules/@babel/runtime/helpers/esm/defineProperty.js ***!
+  \********************************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ _defineProperty)
+/* harmony export */ });
+function _defineProperty(obj, key, value) {
+  if (key in obj) {
+    Object.defineProperty(obj, key, {
+      value: value,
+      enumerable: true,
+      configurable: true,
+      writable: true
+    });
+  } else {
+    obj[key] = value;
+  }
+
+  return obj;
+}
+
+/***/ }),
+
+/***/ "../../../../../node_modules/@babel/runtime/helpers/esm/objectSpread2.js":
+/*!*******************************************************************************!*\
+  !*** ../../../../../node_modules/@babel/runtime/helpers/esm/objectSpread2.js ***!
+  \*******************************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ _objectSpread2)
+/* harmony export */ });
+/* harmony import */ var _defineProperty_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./defineProperty.js */ "../../../../../node_modules/@babel/runtime/helpers/esm/defineProperty.js");
+
+
+function ownKeys(object, enumerableOnly) {
+  var keys = Object.keys(object);
+
+  if (Object.getOwnPropertySymbols) {
+    var symbols = Object.getOwnPropertySymbols(object);
+    enumerableOnly && (symbols = symbols.filter(function (sym) {
+      return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+    })), keys.push.apply(keys, symbols);
+  }
+
+  return keys;
+}
+
+function _objectSpread2(target) {
+  for (var i = 1; i < arguments.length; i++) {
+    var source = null != arguments[i] ? arguments[i] : {};
+    i % 2 ? ownKeys(Object(source), !0).forEach(function (key) {
+      (0,_defineProperty_js__WEBPACK_IMPORTED_MODULE_0__["default"])(target, key, source[key]);
+    }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) {
+      Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+    });
+  }
+
+  return target;
+}
+
+/***/ }),
+
+/***/ "../../../../../node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js":
+/*!***************************************************************************************!*\
+  !*** ../../../../../node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js ***!
+  \***************************************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ _taggedTemplateLiteral)
+/* harmony export */ });
+function _taggedTemplateLiteral(strings, raw) {
+  if (!raw) {
+    raw = strings.slice(0);
+  }
+
+  return Object.freeze(Object.defineProperties(strings, {
+    raw: {
+      value: Object.freeze(raw)
+    }
+  }));
+}
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			id: moduleId,
+/******/ 			loaded: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Flag the module as loaded
+/******/ 		module.loaded = true;
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/************************************************************************/
+/******/ 	/* webpack/runtime/compat get default export */
+/******/ 	(() => {
+/******/ 		// getDefaultExport function for compatibility with non-harmony modules
+/******/ 		__webpack_require__.n = (module) => {
+/******/ 			var getter = module && module.__esModule ?
+/******/ 				() => (module['default']) :
+/******/ 				() => (module);
+/******/ 			__webpack_require__.d(getter, { a: getter });
+/******/ 			return getter;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/define property getters */
+/******/ 	(() => {
+/******/ 		// define getter functions for harmony exports
+/******/ 		__webpack_require__.d = (exports, definition) => {
+/******/ 			for(var key in definition) {
+/******/ 				if(__webpack_require__.o(definition, key) && !__webpack_require__.o(exports, key)) {
+/******/ 					Object.defineProperty(exports, key, { enumerable: true, get: definition[key] });
+/******/ 				}
+/******/ 			}
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/make namespace object */
+/******/ 	(() => {
+/******/ 		// define __esModule on exports
+/******/ 		__webpack_require__.r = (exports) => {
+/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 			}
+/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/node module decorator */
+/******/ 	(() => {
+/******/ 		__webpack_require__.nmd = (module) => {
+/******/ 			module.paths = [];
+/******/ 			if (!module.children) module.children = [];
+/******/ 			return module;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/************************************************************************/
+var __webpack_exports__ = {};
+// This entry need to be wrapped in an IIFE because it need to be in strict mode.
+(() => {
+"use strict";
+/*!********************************!*\
+  !*** ./src/_reader/js/main.js ***!
+  \********************************/
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var Shared_js_reader_loader_reader_loader__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! Shared/js/reader-loader/reader-loader */ "../../../../../core__front-end/v2/shared/js/reader-loader/reader-loader.js");
+
+(0,Shared_js_reader_loader_reader_loader__WEBPACK_IMPORTED_MODULE_0__.addReaderLiteScripts)();
+})();
+
+/******/ })()
+;
+//# sourceMappingURL=main.js.map
