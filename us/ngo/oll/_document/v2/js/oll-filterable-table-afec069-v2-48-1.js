@@ -539,4 +539,4 @@ function _typeof(obj) {
 /***/ })
 
 }]);
-//# sourceMappingURL=oll-filterable-table-afec069-v2-43-6.js.map
+//# sourceMappingURL=oll-filterable-table-afec069-v2-48-1.js.map

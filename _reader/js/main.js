@@ -12,9 +12,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "addReaderLiteScripts": () => (/* binding */ addReaderLiteScripts)
 /* harmony export */ });
-/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.error.cause.js */ "../../../../../node_modules/core-js/modules/es.error.cause.js");
-/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! Shared/js/utils/HtmlUtils */ "../../../../../core__front-end/v2/shared/js/utils/HtmlUtils.js");
+/* harmony import */ var core_js_modules_es_array_push_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.array.push.js */ "../../../../../node_modules/core-js/modules/es.array.push.js");
+/* harmony import */ var core_js_modules_es_array_push_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_push_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/es.error.cause.js */ "../../../../../node_modules/core-js/modules/es.error.cause.js");
+/* harmony import */ var core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_error_cause_js__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! Shared/js/utils/HtmlUtils */ "../../../../../core__front-end/v2/shared/js/utils/HtmlUtils.js");
+
 
 
 /**
@@ -37,13 +40,13 @@ var addReaderLiteScripts = function addReaderLiteScripts() {
     throw new Error('Unable to find static assets root. Not initializing Reader Lite');
   } else {
     try {
-      var resourcePaths = (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__.findThemeDir)(documentCss); // Add Reader lite to the head of the HTML document
+      var resourcePaths = (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_2__.findThemeDir)(documentCss); // Add Reader lite to the head of the HTML document
 
-      (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__.addJS)({
+      (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_2__.addJS)({
         src: resourcePaths.documentUrl + '/js/readerLite.js'
       }); // Attach analytics to the end of the body
 
-      (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_1__.addJS)({
+      (0,Shared_js_utils_HtmlUtils__WEBPACK_IMPORTED_MODULE_2__.addJS)({
         src: '/_analytics/stats.js'
       });
     } catch (error) {
@@ -66,6 +69,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "AddHtmlClasses": () => (/* binding */ AddHtmlClasses),
 /* harmony export */   "addCSS": () => (/* binding */ addCSS),
 /* harmony export */   "addJS": () => (/* binding */ addJS),
+/* harmony export */   "findClosest": () => (/* binding */ findClosest),
 /* harmony export */   "findThemeDir": () => (/* binding */ findThemeDir),
 /* harmony export */   "hasFileExtension": () => (/* binding */ hasFileExtension),
 /* harmony export */   "isDocumentUrl": () => (/* binding */ isDocumentUrl)
@@ -220,6 +224,25 @@ var addCSS = function addCSS(parameters) {
   link.setAttribute('href', OPTIONS.url); // Append link to head
 
   document.head.insertAdjacentElement('beforeend', link);
+};
+/**
+ * Finds the closest node in the DOM that has the given selector.
+ *
+ * @param {HTMLElement} el - The element to start searching from
+ * @param {string} selector - The selector to search for
+ * @returns {HTMLElement|null} The closest matching element, or null if none found
+ */
+
+var findClosest = function findClosest(el, selector) {
+  while (el) {
+    if (el.matches(selector)) {
+      return el;
+    }
+
+    el = el.parentElement;
+  }
+
+  return null;
 };
 
 /***/ }),
@@ -587,6 +610,23 @@ var EXISTS = isObject(document) && isObject(document.createElement);
 
 module.exports = function (it) {
   return EXISTS ? document.createElement(it) : {};
+};
+
+
+/***/ }),
+
+/***/ "../../../../../node_modules/core-js/internals/does-not-exceed-safe-integer.js":
+/*!*************************************************************************************!*\
+  !*** ../../../../../node_modules/core-js/internals/does-not-exceed-safe-integer.js ***!
+  \*************************************************************************************/
+/***/ ((module) => {
+
+var $TypeError = TypeError;
+var MAX_SAFE_INTEGER = 0x1FFFFFFFFFFFFF; // 2 ** 53 - 1 == 9007199254740991
+
+module.exports = function (it) {
+  if (it > MAX_SAFE_INTEGER) throw $TypeError('Maximum allowed index exceeded');
+  return it;
 };
 
 
@@ -2146,6 +2186,56 @@ module.exports = function (FULL_NAME, wrapper, FORCED, IS_AGGREGATE_ERROR) {
 
 /***/ }),
 
+/***/ "../../../../../node_modules/core-js/modules/es.array.push.js":
+/*!********************************************************************!*\
+  !*** ../../../../../node_modules/core-js/modules/es.array.push.js ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+
+var $ = __webpack_require__(/*! ../internals/export */ "../../../../../node_modules/core-js/internals/export.js");
+var toObject = __webpack_require__(/*! ../internals/to-object */ "../../../../../node_modules/core-js/internals/to-object.js");
+var lengthOfArrayLike = __webpack_require__(/*! ../internals/length-of-array-like */ "../../../../../node_modules/core-js/internals/length-of-array-like.js");
+var doesNotExceedSafeInteger = __webpack_require__(/*! ../internals/does-not-exceed-safe-integer */ "../../../../../node_modules/core-js/internals/does-not-exceed-safe-integer.js");
+var fails = __webpack_require__(/*! ../internals/fails */ "../../../../../node_modules/core-js/internals/fails.js");
+
+var INCORRECT_TO_LENGTH = fails(function () {
+  return [].push.call({ length: 0x100000000 }, 1) !== 4294967297;
+});
+
+// V8 and Safari <= 15.4, FF < 23 throws InternalError
+// https://bugs.chromium.org/p/v8/issues/detail?id=12681
+var SILENT_ON_NON_WRITABLE_LENGTH = !function () {
+  try {
+    // eslint-disable-next-line es-x/no-object-defineproperty -- safe
+    Object.defineProperty([], 'length', { writable: false }).push();
+  } catch (error) {
+    return error instanceof TypeError;
+  }
+}();
+
+// `Array.prototype.push` method
+// https://tc39.es/ecma262/#sec-array.prototype.push
+$({ target: 'Array', proto: true, arity: 1, forced: INCORRECT_TO_LENGTH || SILENT_ON_NON_WRITABLE_LENGTH }, {
+  // eslint-disable-next-line no-unused-vars -- required for `.length`
+  push: function push(item) {
+    var O = toObject(this);
+    var len = lengthOfArrayLike(O);
+    var argCount = arguments.length;
+    doesNotExceedSafeInteger(len + argCount);
+    for (var i = 0; i < argCount; i++) {
+      O[len] = arguments[i];
+      len++;
+    }
+    O.length = len;
+    return len;
+  }
+});
+
+
+/***/ }),
+
 /***/ "../../../../../node_modules/core-js/modules/es.error.cause.js":
 /*!*********************************************************************!*\
   !*** ../../../../../node_modules/core-js/modules/es.error.cause.js ***!
@@ -3497,7 +3587,6 @@ function _defineProperty(obj, key, value) {
   } else {
     obj[key] = value;
   }
-
   return obj;
 }
 
@@ -3516,20 +3605,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _defineProperty_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./defineProperty.js */ "../../../../../node_modules/@babel/runtime/helpers/esm/defineProperty.js");
 
-
 function ownKeys(object, enumerableOnly) {
   var keys = Object.keys(object);
-
   if (Object.getOwnPropertySymbols) {
     var symbols = Object.getOwnPropertySymbols(object);
     enumerableOnly && (symbols = symbols.filter(function (sym) {
       return Object.getOwnPropertyDescriptor(object, sym).enumerable;
     })), keys.push.apply(keys, symbols);
   }
-
   return keys;
 }
-
 function _objectSpread2(target) {
   for (var i = 1; i < arguments.length; i++) {
     var source = null != arguments[i] ? arguments[i] : {};
@@ -3539,7 +3624,6 @@ function _objectSpread2(target) {
       Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
     });
   }
-
   return target;
 }
 
@@ -3560,7 +3644,6 @@ function _taggedTemplateLiteral(strings, raw) {
   if (!raw) {
     raw = strings.slice(0);
   }
-
   return Object.freeze(Object.defineProperties(strings, {
     raw: {
       value: Object.freeze(raw)
