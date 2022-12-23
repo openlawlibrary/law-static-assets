@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 011-20">
+  <num>011-20</num>
+  <heading/>
+  <meta>
+    <ordinance>Civil Procedure</ordinance>
+    <effective>2021-01-28</effective>
+    <history>
+      <adopted>2019-11-05</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 011-20</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council established general rules of civil procedure for its court system under Chapter 5, Civil Procedure, in tribal law;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to now establish a separate ordinance addressing procedure before the Stockbridge-Munsee Court of Appeals; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The present  <cite doc="Stockbridge-Munsee Tribal Code" path="TCT|TCT.02">Chapter 5</cite> needs to be modified in order to replace references to appellate procedure with cross reference to the new  <cite doc="Stockbridge-Munsee Tribal Code" path="TCT|TCT.03">Chapter 5-A</cite>, Appellate Procedure ordinance and deleting language addressing appellate procedure.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.02|(a)|(3)">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.22">Section 5.22</cite>, which previously addressed appellate procedure.</text>
+    </recital>
+  </recitals>
+  <codify:replace path="TCT.02.02|(a)|(3)">
+    <para>
+      <num>(3)</num>
+      <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT|TCT.03">Chapter TCT.03</cite>; and</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="TCT.02.22">
+    <section>
+      <num>TCT.02.22</num>
+      <heading>Reserved</heading>
+    </section>
+  </codify:replace>
+  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 011-20">Resolution No.011-20</cite>, adopted November 5, 2019. Amended to remove provisions on procedure before court of appeals to be part of new appellate procedure ordinance.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite> on January 21, 2021.  Approved by BIA January 28, 2021.</codify:annotation>
+</document>

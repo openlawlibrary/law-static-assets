@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R18-015">
+  <num>SI-R18-015</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-015</heading>
+  <heading type="law">Submittal for the 2017 Congressional Directive – Allocation of Increased Road Maintenance Funding</heading>
+  <meta>
+    <effective>2018-08-07</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-015</citation>
+    </citations>
+    <history>
+      <adopted>2018-08-07</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 7th day of August, 2018, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.18</num>
+      <heading>Submittal for the 2017 Congressinal Directive-Allocation of Increased Road Maintenance Funding</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-015"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="|6.5.18.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+      <codify:insert path="|6.5.18">
+        <section>
+          <num>6.5.18.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under the authority granted by the 2017 Congressional Directive – Allocation of Increased Road Maintenance Funding, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part §170.423 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>Under the authority granted by the 2017 Congressional Directive – Allocation of Increased Road Maintenance Funding, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part §170.423 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to contract the 2017 Congressional Directive one-time funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
+      <text>
+        <ul>
+          <li>Scope of Work:  Addressing maintenance operations for LOS 4 and 5 BIA routes, with emphasis on school bus routes.</li>
+          <li>Budget</li>
+          <li>Tribal Resolution to Enter into a Pub. L. 93-638 contract.</li>
+        </ul>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>To contract the 2017 Congressional Directive one-time funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
+          <para>
+            <num>(1)</num>
+            <text>Scope of Work:  Addressing maintenance operations for LOS 4 and 5 BIA routes, with emphasis on school bus routes.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Budget</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Tribal Resolution to Enter into a Pub. L. 93-638 contract.</text>
+          </para>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SWRO-DOT encourages the Tribe to submit the Scope of Work, Budget and Tribal Resolution for review and approval; and</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>The SWRO-DOT encourages the Tribe to submit the Scope of Work, Budget and Tribal Resolution for review and approval.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has prepared a Scope of Work, Budget for the following project:</text>
+      <text>
+        <ul>
+          <li>One-Time Congressional Road Maintenance Funding</li>
+        </ul>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has prepared a Scope of Work, Budget for the following project:</text>
+          <para>
+            <num>(1)</num>
+            <text>One-Time Congressional Road Maintenance Funding</text>
+          </para>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby approves the FY2017 One-Time Congressional Road Maintenance Funds, Statement of Work and Budget (attached); and</text>
+      <codify:insert path="|6.5.18">
+        <section>
+          <num>6.5.18.020</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves the FY2017 One-Time Congressional Road Maintenance Funds, Statement of Work and Budget (attached).</text>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>that the Pueblo requests to enter into a new Pub. L. 93-638 contract with the funds; and</text>
+      <codify:insert path="|6.5.18">
+        <section>
+          <num>6.5.18.030</num>
+          <text>The Pueblo requests to enter into a new Pub. L. 93-638 contract with the funds.</text>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <codify:insert path="|6.5.18">
+        <section>
+          <num>6.5.18.040</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </section>
+      </codify:insert>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on August 7, 2018, at a meeting with a vote of in favor, opposed, abstaining and absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):       Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R18-015 was presented to the Governor of the Pueblo de San Ildefonso on the 7th day of August, 2018, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{    } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this __________ day of _______________________, 2018.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2018.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+</document>

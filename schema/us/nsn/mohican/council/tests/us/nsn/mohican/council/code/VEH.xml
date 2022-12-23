@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>VEH</num>
+  <heading>Vehicles, Roads And Traffic</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>VEH.01</num>
+    <heading>Road Safety Ordinance</heading>
+    <section>
+      <num>VEH.01.01</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this ordinance is to establish the rules for road safety within the jurisdiction of the Stockbridge-Munsee Tribe and its Roads Department in order that Stockbridge-Munsee Community employees may work safely and efficiently on the roads and in order that the roads may be kept safe and in good condition.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.1</annotation>
+    </section>
+    <section>
+      <num>VEH.01.02</num>
+      <heading>Jurisdiction.</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Debris" means any object within the right of way placed there some person  including snow plowed or shoveled from a person's property into the right of way.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Department" means the Stockbridge-Munsee Road Department.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Towed at owner's expense" means all costs associated with towing an automobile whether the automobile is actually towed or not, and includes any charges for travel miles or time, storage and return and any other associated costs.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Right of way" means the corridor beginning at the center of a road or street and ending 33 feet from the center on either side.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Snow removal" season means the period between October 1 and May 1.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Tribal court" means the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.2</annotation>
+    </section>
+    <section>
+      <num>VEH.01.03</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Debris" means any object within the right of way placed there some person  including snow plowed or shoveled from a person's property into the right of way.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Department" means the Stockbridge-Munsee Road Department.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Towed at owner's expense" means all costs associated with towing an automobile whether the automobile is actually towed or not, and includes any charges for travel miles or time, storage and return and any other associated costs.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Right of way" means the corridor beginning at the center of a road or street and ending 33 feet from the center on either side.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Snow removal" season means the period between October 1 and May 1.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Tribal court" means the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.2</annotation>
+    </section>
+    <section>
+      <num>VEH.01.04</num>
+      <heading>Snow Removal Season.</heading>
+      <para>
+        <num>(a)</num>
+        <text>During snow removal season, between the hours of 10:00 p.m. and 6:00 a.m., all rights of ways must remain clear of motor vehicles, logs, and any other debris or obstruction except as provided by this ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>During snow removal season, any motor vehicle in a right of way between the hours of 10:00 p.m. and 6:00 a.m. which interferes with the Department's duties may be ordered towed at the owner's expense. The director of the Department or his appointee may order a motor vehicle towed.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>During snow removal season, any logs in a right of way which interfere with the Department's duties must be removed by the Forestry Department.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any damage caused to any of the Department's equipment caused by logs or other debris or objects which were not visible from the road and which the Department could not have reasonably anticipated in the right of way shall be paid for by the party responsible for leaving the objects in the right of way.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.3</annotation>
+    </section>
+    <section>
+      <num>VEH.01.05</num>
+      <heading>General Road Safety.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as stated in <cite path="§VEH.01.04">Section VEH.01.04</cite>, if in the course of their regular work Department employees find that they are unable to complete work due to or other objects in the right of way, the Department will first make a reasonable effort to contact the owner of the motor vehicle or object.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Except as stated in <cite path="§VEH.01.04|(a)">Section VEH.01.04(a)</cite>, if the Department is unable to contact the owner of the motor vehicle or debris, the Department director or his appointee may have the motor vehicle towed or debris removed at the owner's expense.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.4</annotation>
+    </section>
+    <section>
+      <num>VEH.01.06</num>
+      <heading>Mailboxes.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If in the course of its duties, Department equipment comes into contact with a mailbox which causes it to become destroyed or inoperable, the Department will replace the mailbox at the Department's expense.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If in the course of performing its snow removal duties, snow removed from the road causes a mailbox to become destroyed or inoperable, the Department is not responsible for replacing the mailbox.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.5</annotation>
+    </section>
+    <section>
+      <num>VEH.01.07</num>
+      <heading>Towing.</heading>
+      <text>If the Department orders an automobile towed under <cite path="§VEH.01.04">Section VEH.01.04</cite>, and the owner of the automobile refuses to pay the cost of towing, the Department may use the Tribal Court to collect the towing fee from the owner of the automobile.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.6</annotation>
+    </section>
+    <section>
+      <num>VEH.01.08</num>
+      <heading>Warnings And Citations.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Stockbridge-Munsee law enforcement officers may assist the Department with enforcement of this ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Stockbridge-Munsee law enforcement officers may issue warnings and citations for violations of this ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The deposit for a citation issued under this ordinance shall be $100.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Court may levy a fine up to $500 for a violation of this ordinance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The regular Tribal Court code and procedures apply.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47, §47.7</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 090-96">Resolution No. 090-96</cite>, adopted November 5, 1996.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>VEH.02</num>
+    <heading>All Terrain Vehicle Safety Ordinance</heading>
+    <section>
+      <num>VEH.02.01</num>
+      <heading>Council Findings And Purpose</heading>
+      <text>Tribal Council finds that the Community will benefit from regulations governing safe use of ATVs.  Tribal Council finds that unregulated use of ATVs, especially within populated areas such as housing areas, creates a safety hazard for the operator, pedestrians, residents, automobiles, and others.  Tribal Council also finds that unregulated use of ATVs threatens or directly affects the political integrity, the economic security, and/or the health and welfare of the Community.  Tribal Council also reaffirms that it is a general policy to promote safety and protection for persons, property, and environment.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.1</annotation>
+    </section>
+    <section>
+      <num>VEH.02.02</num>
+      <heading>Interpretation</heading>
+      <text>This Ordinance should be interpreted with the Community's safety as the primary purpose and should be construed broadly to accomplish this purpose.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.2</annotation>
+    </section>
+    <section>
+      <num>VEH.02.03</num>
+      <heading>Applicability</heading>
+      <text>This Ordinance applies to all persons operating ATVs within  residential areas, the Many Trails Park and Pow Wow grounds, walking trails, logging trails, and all other Tribal/Bureau of Indian Affairs roadways.  This Ordinance does not apply to Tribal emergency ATVs.  The court shall have jurisdiction to enforce this Ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.3</annotation>
+    </section>
+    <section>
+      <num>VEH.02.04</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"ATV" means an engine-driven device that has a net weight of 1,000 pounds or less.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Court" means the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Law enforcement officer" means the Stockbridge-Munsee Tribal police, or Stockbridge-Munsee Game Warden.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Operator" means a person driving an ATV, or a person who drove an ATV.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Property damage" means any physical harm to personal or real property, or cost to repair any personal or real property.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Residential area" means the Ah Toh Wuk residential area, the  Koo Yi Kun residential area, and the Tribal Housing residential area including the area along Camp 14 Road from Moheconnuck Road to Murphy's Road, the roadways, and the general area in between, including Birch, Oak, Maplewood, Cherry, Poplar and Elm Streets.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Roadway" means the road and right of way.  Generally, the right of way is forty feet (on each side) from the centerline of road.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Safety certificate" means documentation issued by a Tribal or state agency that shows that the holder of the safety certificate is properly trained in the safe operation of an ATV.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Tribal service providers" means the Family Center, Elder Center, Day Care, Head Start, and other similar programs and facilities.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Waterways" means lakes, ponds, streams, and rivers.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.4</annotation>
+    </section>
+    <section>
+      <num>VEH.02.05</num>
+      <heading>Minimum Requirements And Prohibitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>The minimum age to operate an ATV is twelve (12) years of age.</text>
+        <para>
+          <num>(1)</num>
+          <text>Effective January 1, 2001 operators under sixteen (16) will be required to have obtained a safety certificate and to carry the safety certificate while operating an ATV.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A copy of the ATV Safety Ordinance shall be given to each certificate holder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Operators under eighteen (18) years of age must wear safety helmets.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Only Tribal members, a spouse of a Tribal member, or direct descendants may be an operator.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal member spouses and direct descendants are required to have a Tribal permit issued by the Department of Public Safety.</text>
+          <para>
+            <num>(A)</num>
+            <text>The annual permit fee shall be $10.00 and the permits shall expire on December 31 of each year.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A copy of the ATV Safety Ordinance shall be given to each permit holder.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All ATVs must be registered with the Department of Public Safety within 15 days of purchase, transfer or delivery on the reservation.  There is no fee for the ATV registration and the ATV registration does not need to be renewed unless sold, transferred or gifted to another buyer.</text>
+        <para>
+          <num>(1)</num>
+          <text>A copy of the ATV Safety Ordinance shall be given to the owner of the ATV.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>While operating an ATV:</text>
+        <para>
+          <num>(1)</num>
+          <text>No more than one person (the operator) may be on an ATV, unless the ATV is factory designed to carry more than one person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Headlights, if equipped on the ATV, must be turned on.  If driving at night, the ATV must be equipped with headlight and taillights, and must be turned on.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Operators shall be strictly liable for property damage, except for possible claims of comparative negligence.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The maximum speed limit for ATVs on roadways is 20 miles per hour. If the road is posted at a slower speed, the slower speed is the maximum speed limit.  Between the hours of 10:30 p.m. and 7:00 a.m. the maximum speed is 20 miles per hour if operated within 150 feet of a dwelling.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>ATVs are prohibited from operating:</text>
+          <para>
+            <num>(A)</num>
+            <text>In designated wilderness areas, as defined in the Land Use Plan.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In waterways and on walking trails.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>In the Tribal cemeteries.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Creating new trail systems or paths without prior Tribal Council approval.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>With any after market modification to the muffler system that would lead to increased or excessive noise.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The operator shall always operate the ATV in a reasonably safe manner and shall obey all other rules of the road.</text>
+          <para>
+            <num>(A)</num>
+            <text>On a roadway, the operator shall drive on the side of the road which is with the general flow of vehicle traffic and shall operate the ATV the furthest to the edge of the roadway, including ditches, as is reasonably safe.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Operating ATVs on shoulders is prohibited, except when yielding to motor vehicle traffic, when crossing a road, or in an emergency situation, provided that the operator uses care not to cause damage to the shoulder or to spread gravel on to the road.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Reckless operation by an operator of an ATV is prohibited.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Operators are prohibited from operating while under the influence as defined in Wis. Stats. <cite doc="Wis. Stat." path="§346.63|(1)|(a)">346.63(1)(a)</cite>, <cite doc="Wis. Stat." path="§346.63|(1)|(b)">346.63(1)(b)</cite> and <cite doc="Wis. Stat." path="§346.63|(2m)">346.63(2m)</cite>.  For the privilege of operating an ATV, Operators have given implied consent to appropriate testing by law enforcement.  Law enforcement and/or the court may utilize applicable Wisconsin state law for procedures for obtaining blood or breath samples or other applicable procedures and law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>In the Many Trails Park area:</text>
+          <para>
+            <num>(A)</num>
+            <text>ATV's are prohibited from operating in the bowl area of Pow Wow grounds.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>ATV's are required to stay on marked roadways.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.5</annotation>
+    </section>
+    <section>
+      <num>VEH.02.06</num>
+      <heading>Residential Areas: Safe Zones</heading>
+      <para>
+        <num>(a)</num>
+        <text>Because of the higher population of Tribal members and the high number of Tribal service providers in the Tribal housing area, and the number of private homes in other areas, residential areas are  hereby designated  safe zones.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to the requirements in <cite path="§VEH.02.05">Section VEH.02.05</cite>, ATV operators in the Tribal residential  areas:</text>
+        <para>
+          <num>(1)</num>
+          <text>Are prohibited from operating ATVs from 9pm-6am.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Shall operate ATVs no faster than 15 miles per hour.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Shall not operate ATVs on sidewalks or yards, unless the operator is on their own land or land assignment.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Shall use extra caution, including yielding right of way, whenever there are pedestrians or other motor vehicle traffic in the near vicinity.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Shall not cause excessive noise with ATVs.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Shall not use the public driveways of Tribal service providers, unless conducting business.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Shall not use the Tribal residential  areas as a riding area.  In the Tribal residential housing areas, ATVs should only be utilized to get to and from another area.</text>
+          <para>
+            <num>(A)</num>
+            <text>Operators shall use the shortest distances when entering and exiting the Tribal residential  areas.  For example, operators going to a residence within the Tribal housing area must take the most direct route to the residence.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.6</annotation>
+    </section>
+    <section>
+      <num>VEH.02.07</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any Stockbridge-Munsee law enforcement officer may issue warnings and citations for violations of this Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The court may levy fines up to $<cite path="§500.00">500.00</cite> for each separate violation of this Ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The court may also levy any other reasonable penalty the court deems just, including but not limited to, ordering safety classes, and/or suspending or revoking the operator's privilege to operate an ATV, and/or restitution.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.7</annotation>
+    </section>
+    <section>
+      <num>VEH.02.08</num>
+      <heading>Severability</heading>
+      <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, the remaining portions of this Ordinance shall remain unaffected and remain in force.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.8</annotation>
+    </section>
+    <section>
+      <num>VEH.02.09</num>
+      <heading>Effective Date</heading>
+      <text>This Ordinance shall take effect 5 calendar days after Bureau of Indian Affairs approval.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.9</annotation>
+    </section>
+    <section>
+      <num>VEH.02.10</num>
+      <heading>Future Amendments</heading>
+      <text>Amendments to this Ordinance will be effective upon enactment by the Stockbridge-Munsee Tribal Council without further review by the Secretary of Interior.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 47-A, §47-A.10</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 048-2000">Resolution No. 048-2000</cite>, adopted August 8, 2000, approved by BIA August 23, 2000.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 020-05">Resolution No. 020-05</cite>, adopted April 5, 2005, approved by BIA May 3, 2005.</annotation>
+    </annotations>
+  </container>
+</container>

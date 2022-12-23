@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2015" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://open.law/schemas/library
+  ../../../../../../../../../../ngo/oll/_schemas/v0.1/docs/ordinance.xsd">
+  <heading>2015 Council Resolutions</heading>
+  <xi:include href="./057-15.xml"/>
+  <xi:include href="./054-15.xml"/>
+  <xi:include href="./053-15.xml"/>
+  <xi:include href="./049-15.xml"/>
+  <xi:include href="./048-15.xml"/>
+  <xi:include href="./047-15.xml"/>
+  <xi:include href="./024-15.xml"/>
+  <xi:include href="./08-15.xml"/>
+</collection>

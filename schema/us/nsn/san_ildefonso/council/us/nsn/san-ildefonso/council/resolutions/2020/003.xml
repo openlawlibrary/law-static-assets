@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="17" id="Pueblo de San Ildefonso Council Res. No. SI-R20-003">
+  <num>SI-R20-003</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-003</heading>
+  <heading type="law">Act Authorizing Assessment of Areas for Potential Warehouse and Distribution Center</heading>
+  <meta>
+    <effective>2020-03-23</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-003</citation>
+    </citations>
+    <history>
+      <adopted>2020-03-12</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 12th day of March, 2020, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has been approached by the Department of Energy/NNSA about developing a warehouse and distribution center for the Los Alamos National Laboratory operations on Pueblo lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo representatives have toured the existing distribution center on LANL property and received preliminary information about the general requirements for such a facility; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has identified three potential areas within the Pueblo's lands that may be suitable for such a project; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the potential project sites are at the White Rock and Totavi Station areas as shown on Attachment A and Attachment B and a site in the vicinity of the State Road 502 and CMR 101D as shown on Attachment C; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined it is in the Pueblo's best interest to authorize that each of the identified areas be assessed to determine if either site is suitable for a warehouse and distribution center.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on March 12, 2020, at a meeting with a vote of 9 in favor, 0 opposed, 0 abstaining and 1 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):     Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Raymond Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No.  SI-R20-003 was presented to the Governor of the Pueblo de San Ildefonso on the 12th day of March, 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X }   APPROVED</text>
+    <text>{   }   VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 23rd day of March, 2020.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   }   YES</text>
+    <text>{   }   NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>17.3</num>
+      <heading>Business Authorizations</heading>
+      <container>
+        <prefix>Part</prefix>
+        <num>17.3.1</num>
+        <heading>Act Authorizing Assessment of Areas for Potential Warehouse and Distribution Center</heading>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
+      </container>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="|17.3.1"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER</heading>
+    <section>
+      <codify:insert num-value="17.3.1.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="17.3.1.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the assessment of areas within the Pueblo de San Ildefonso lands for potential siting of a warehouse and distribution center for Los Alamos National Laboratory ("LANL") operations.</text>
+    </section>
+    <section>
+      <codify:insert num-value="17.3.1.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo has been approached by the Department of Energy/NNSA about developing a warehouse and distribution center for the LANL operations on Pueblo lands; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo representatives have toured the existing distribution center on the LANL property and received preliminary information about the general requirements for such a facility; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo has identified two potential areas within the Pueblo's lands that may be suitable for such a project; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The potential project sites are at the White Rock and Totavi Station areas as shown on Attachment A and Attachment B, and an area in the vicinity of State Road 502 and CMR 101D as shown on Attachment C, hereto; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council has determined it is in the Pueblo's best interest to authorize that each of the identified areas be assessed to determine if either site is suitable for a warehouse and distribution center.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="17.3.1.040"/>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council authorizes the assessment of White Rock, Totavi Station and the State Road 502 areas to determine suitability for siting a warehouse and distribution center and/or other facilities for use by DOE/NNSA for LANL operations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized to initiate the assessment of the identified areas and work with such entities such as San Ildefonso Services, LLC, DOE/NNSA and others as necessary to conduct the required due diligence for this project and report to the Council on the status of the assessment.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Governor is authorized to take such actions as he deems necessary to carry out the intent and direction of this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

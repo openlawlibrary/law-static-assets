@@ -1,0 +1,1567 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>24</num>
+  <heading>PROPERTY</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.1</num>
+    <heading>Zoning</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.1.1</num>
+      <heading>Zoning and Planning, Building Permits, and Miscellaneous</heading>
+      <section>
+        <num>24.1.1.010</num>
+        <heading>Residency Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <heading>APPROVAL REQUIRED FOR USE OF PROPERTY BY NON-RESIDENTS.</heading>
+          <text>All members of the Pueblo of San Ildefonso shall first obtain approval from the Governor and Tribal Council before renting, leasing or lending building, houses, or land, under their ownership or control, to non-members of the Pueblo for temporary or permanent use within the jurisdiction of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>APPROVAL REQUIRED FOR RESIDENCE BY NON-MEMBER SPOUSES.</heading>
+          <text>All non members that plan to reside in the Pueblo or on Pueblo land with their member spouse or any other non-member must first report to the Governor and Tribal Council before taking up residence, and sign an agreement that they will respect and will abide by the laws, customs, rules and regulations of the Pueblo Council or any of its agencies or commissions.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.1.1.020</num>
+        <heading>Building Permits</heading>
+        <para>
+          <num>(a)</num>
+          <heading>PURPOSE.</heading>
+          <text>The Governor and Council are interested in the orderly development of the Pueblo and it is recognized that there are certain types of construction that may be detrimental to the health, safety, and general welfare of the Pueblo residents and their property, depending on the fact of each particular case.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>BUILDING PERMITS REQUIRED.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Prior to the commencements of any construction having a value of over $100.00, a plan will be submitted to the Governor and Tribal Council.  If the Governor and Council approve the plan, a building permit will be issued by the Governor and Council to the applicant, with any conditions or requirements deemed proper, which will be valid for a period of one year.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any building permit issued under this Section must state, among other conditions, the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>Name and address of party requesting the permit.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Location of construction; that is section, township, range and any subdivision thereof, or other appropriate description.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Type of construction—residential, agricultural, commercial or industrial or public.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>The approximate cost of construction.</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Statement that the construction will not be detrimental to the public peace, health, safety and general welfare of the public.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>That the party requesting the permit will sign the permit thereby agreeing to perform the construction as required by the permit to maintain warning signs and lights at the site of construction, to remove all rubbish from public roadways and not to block such roadways except with approval of the Governor and Council, and leave construction site in a clean and slightly manner as may be required.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>24.1.1.030</num>
+        <heading>Miscellaneous Provisions</heading>
+        <para>
+          <num>(a)</num>
+          <heading>CRIMINAL TRESPASS – BUILDINGS.</heading>
+          <text>Any person who without permission of the owner shall entre or intentionally remain in any building or separately secured or occupied portion thereof, knowing that he is not licensed or privileged to do so whether by day or night, shall be guilty of a violation and, upon conviction thereof, may be subject to pay a penalty assessment of not to exceed $300.00 with costs, or to such other orders of the Court, and may be ordered by the Court to make restitution for any damage caused by the act of trespass.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>DEFACING OFFICIAL SIGNS.</heading>
+          <text>Any person who shall, without proper authorization, pull down or deface any sign of any nature of the Pueblo, State or Federal Government or any advertisement authorized by law, shall be guilty of a violation and, upon conviction thereof, may be subject to pay a penalty assessment of not to exceed $50.00 with costs, or to such other orders of the Court, and may be required to make restitution for the damages done.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>DESECRATION OF RELIGIOUS SITES.</heading>
+          <text>Any person who shall desecrate by any act, including removal of artifacts or any other material firm burial grounds or other religious and sacred or traditional areas of the Pueblo of San Ildefonso, shall be guilty of a violation and, upon conviction thereof, shall be subject to pay a penalty assessment of not to exceed $500.00, with costs, or such other orders of the Court, and may be required to make appropriate restitution in the discretion of the Court, or may be excluded from the San Ildefonso Reservation under provisions of this Code.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>INJURY TO PUBLIC PROPERTY.</heading>
+          <text>Any person who by any means whatever shall willfully or mischievously injure, destroy or deface any building or other property of the Pueblo, State or the United States Government or any other public property or deface or write upon any walls or shall injure the grounds appurtenant thereto or the trees, fences, soil or pavement thereof, shall be guilty of a violation and, upon conviction thereof, shall be subject to pay a penalty assessment of not more than $200.00, with costs, or to such other orders of the Court, and may be required to make proper restitution, including parents of minor children who violate this Section.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>LITTERING.</heading>
+          <text>Any person who shall dispose of any garbage or other forms of litter or waste anywhere within the exterior boundaries of the Pueblo, including waterways, roadways, public roads, campgrounds or other public places, except in public waste disposal grounds designated by the Council shall be guilty of a violation and, upon conviction thereof, may be subject to pay a penalty assessment of not to exceed $100.00, with costs, or to such other orders of the Court, and may be required to clean up the litter.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>MAINTAINING A PUBLIC NUISANCE.</heading>
+          <text>Any person who shall act in such manner or permit his property to fall into such condition as to injure the property of other persons or the Pueblo or to place another person in fear of his safety, health or comfort, shall be guilty of a violation and, upon conviction thereof, nay be subject to pay a penalty assessment of not to exceed $200.00 with costs, or to such other orders of the Court, and may be required to remove or correct such nuisance when ordered by the Court, or shall be removed or corrected by the Pueblo if the person so convicted is sixty (60) years of age or older.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>ADDENDUM Littering And Illegal Dumping<strong>.</strong></text>
+          <text>Any person(s) who shall dispose of any garbage or other forms of litter or waste anywhere within the exterior boundaries of the Pueblo of San Ildefonso, including waterways, roadways, public roads, campgrounds or other public places, except in public waste disposal grounds designated by the San Ildefonso Tribal Council shall be guilty of a violation and, upon conviction thereof, may by subject to pay penalty assessment of a minimum of $500.00 and a maximum of $1,000.00, with costs, or to such other orders of the Court, and may be required to clean</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.2</num>
+    <heading>Rights-Of-Way</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.1</num>
+      <heading>Approving a Right-of-Way for the Valor Telecommunications of Texas, LLC d/b/a/ Windstream Communications Southwest</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-005, dated January 9, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-005"/>
+      <section>
+        <num>24.2.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Windstream Communications ("Windstream") has been working with the Pueblo to resolve right-of-way issues for existing facilities located in the Pajarito area.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Application process requires the property to be appraised for monetary consideration for a Grant of Easement for Right of Way.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An Appraisal Report was prepared for Windstream by Kathleen Klar, MAI, SRA of Albuquerque, New Mexico for a market value of $112,400.00.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Appraisal Report was reviewed for fair market value by Regional Supervisory Appraiser, Ms. Deborah Lewis, ARA from the Office of Appraisal Services – Southwest Regional and approved.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Appraisal Report was approved on July 28, 2011 for its intended use in negotiations purposes.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo and Windstream have negotiated and settled to a monetary consideration in the amount of $145,000.00 for a 15 year term starting June 22, 2010, the date that the prior Agreement between the Pueblo and Windstream expired.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>On December 21, 2011 Windstream delivered a Right-of-Way Application and supporting documentation to the Pueblo for approval.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.1.020</num>
+        <text>The Pueblo and Windstream have negotiated in good faith to resolve outstanding right-of-way issues.</text>
+      </section>
+      <section>
+        <num>24.2.1.030</num>
+        <text>The Tribal Council hereby approves a Grant of Easement for Right of Way to Valor Telecommunication of Texas, LLC d/b/a Windstream Communications Southwest for a monetary value of One Hundred Forty Five Thousand Dollars ($145,000.00) for a fifteen (15) year term starting June 22, 2010.</text>
+      </section>
+      <section>
+        <num>24.2.1.040</num>
+        <text>The Grant of Easement will expire fifteen years from June 22, 2010 after which a new Grant of Easement for Right of Way will be required.</text>
+      </section>
+      <section>
+        <num>24.2.1.050</num>
+        <text>The Pueblo requests the United States Department of Interior, Northern Pueblos Agency Superintendent, to approve the Grant of Easement for Right of Way for a term of fifteen (15) year term starting June 22, 2010.</text>
+      </section>
+      <section>
+        <num>24.2.1.060</num>
+        <text>Tribal Council Authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent and purpose of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.2</num>
+      <heading>Approving Grant of Easement for Right-of-way for Gas Line Facilities Amendment No. 1</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-039, dated October 9, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-039"/>
+      <section>
+        <num>24.2.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>On April 30, 1962, the Pueblo de San Ildefonso granted an easement for right-of-way ("Easement") for a gal line to Southern Union Gas Company, a Corporation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The New Mexico Gas Company is now the GRANTEE as successor to the original Grantee, and provider of natural gas services on lands of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Easement was granted for a fifty year term beginning on April 30, 1962 and ending on April 29, 2012.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The United States Bureau of Indian Affairs approved the Easement on May 10, 1962.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On January 22, 2004, the Pueblo de San Ildefonso and the County of Los Alamos entered into the Las Alamos Agreement to address issues which result form, or are affected by, the Settlement Agreement for Docket 354 of the Indian Claims Commission, including the Grant of Easement to the Southern Union Gas Company, a Corporation for Gas Line Facilities. The Los Alamos Agreement requires the Pueblo to amend the Easement to incorporate terms and conditions of the Los Alamos Agreement.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Public Law 109-286, 120 Stat. 1218 (2006), the Pueblo de San Ildefonso Claims Settlement Act ("Settlement Act"), ratified the Los Alamos Agreement.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Los Alamos Agreement requires the Pueblo to amend the Easement to eliminate the limitation of term and allow the existing Easement to continue until such time as the Easement is abandoned by the County or other utility provider.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo hereby reaffirms and clarifies its intent regarding the scope of the Easement and its Amendment authorized by this Resolution that (a) any expansion or upgrade of the size or capacity, change in location, or assignment of any interest requires prior written approval of the Pueblo, and (b) the Pueblo retains the right to obtain services for the utility provider holding the Easement.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The attached "Grant of Easement" for Right-of-Way for Gas Line Facilities Amendment No. 1," with Attachment A being the original Grant of Easement for right-of-way for a gas line and Attachment B being the corrected Re-Survey and Legal Description, have been reviewed and recommended by staff at the Bureau of Indian Affairs and The Pueblo Realty Office.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.2.020</num>
+        <text>That the Pueblo de San Ildefonso Council approves the attached document labeled "Grant of Easement for Right-of-Way for Gas Line Facilities Amendment No.1" attached to this resolution, which deletes the term limitation required pursuant to the Los Alamos Agreement."</text>
+      </section>
+      <section>
+        <num>24.2.2.030</num>
+        <text>That the Pueblo requests the United States Department of the Interior, Northern Pueblos Agency Superintendent, to approve the attached "Grant of Easement for Right-of-Way for a Gas Line Facilities Amendment No. 1."</text>
+      </section>
+      <section>
+        <num>24.2.2.040</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the "Agreement," according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.3</num>
+      <heading>Approving a Right-of-Way for Indian Health Services for a Water Main Extension from Black Mesa Well #1 to the New Black Mesa Pumphouse and for the Water Main Extension from the Pumphouse to the Pajarito Water System</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-032 dated July 24, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-032"/>
+      <section>
+        <num>24.2.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>On January 26, 2006, an amendment to the Environmental Protection Agency (EPA) Safe Drinking Water Act (SDWA) reduced the maximum contaminant level (MCL) for arsenic from 50 to 10 parts per billion (ppb).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pajarito water system, consisting of two wells, has an arsenic concentration between 15 and 22 ppb and subsequently does not comply with the amended MCL.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo requested and has been granted an exemption that gives the Pueblo until January 2015 to  bring the Pajarito water system into compliance with the SDWA.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In 2007, the Pueblo received and will administer a direct grant under the EPA in the amount of $783,000, which will be allocated towards drilling a 1,200 ft deep well in Pajarito ($650,00) and renovating existing Main Village Wells #1 and #2 ($133,000).</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On April 6, 2010, Indian Health Services (IHS) presented to the Tribal Council and recommended reducing MCL levels by developing a new well on the Ease side of the Rio Grande and pumping water to Pajarito via boring locations under the Rio Grande.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In September 2010, the Pueblo requested assistance from IHS  to engineer and oversee construction of video inspection, pump testing, and water quality testing of Main Village Wells #1 and #2.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo and IHS entered into a Memorandum of Agreement under HIS project, AL 10-110 for this scope of work.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>In March 2011, IHS helped the Pueblo secure an additional $800,000 from EPA SWDA funding to construct a new well, pumphouse booster, station, and water main extension to Pajarito under the Rio Grande through IHS project Al 11-115.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Based on video inspection, pump testing, and water quality testing of Main Village Wells #1 and #2 completed in March 2011, it was determined that these new wells should not be used and a new community well should be drilled.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>In October 2011, IHS utilized their government contract with Bohannan-Huston Inc. to have a hydrogeological study performed to site the best location for a new community well.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The hydrogeological study recommended drilling a new exploratory well and production well approximately 850 feet north of the existing Black Mesa Well, which will increase water system reliability and provide sufficient water supply for both the Main Village and Pajarito communities.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Well construction began in July 2012 and is now nearly complete, HIS is sizing the new well pump, and the hydrogeologist has completed a 95% draft report on the well.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The EPA has indicated that the direct grant ($783,000) funds will expire on October 31, 2013 and that if they are not spent, EPA will have to cancel the grant and the remaining funds will be used for a different project.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>IHS is working with the Pueblo and The EPA to try to spend as much of the grant direct funds as possibly before they expire.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>IHS has proposed designs to the Pueblo for a water main from the new pumphouse near Black Mesa Well #2 and a water main extension from the new pumphouse to connect to the existing water system.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>The Pueblo held to noticed community meetings on June 26, 2013 and July 11, 2013 to address impacts to tribal members' assigned lands along the water main route.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>At the June 26, 2013 community meeting, tribal members with assigned property along the water main route requested changes and a revised route was designed as shown on the attached map.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>No changes to the new route were requested at the community meeting held on July 11, 2013.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>The Pueblo finds that it is in the best interest of the Pueblo to move forward with the route proposed at the June 26, 2011 meeting.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.3.020</num>
+        <text>The Council for the Pueblo de San Ildefonso hereby approves of a Grant of Easement for Right-of-Way to Indian Health Services for a new water main from the Black Mesa Well #1 to the new Black Mesa Pumphouse and water main extension from the new pumphouse to connect to the existing water system as shown on the attached map.</text>
+      </section>
+      <section>
+        <num>24.2.3.030</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carryout the intent of this Resolution</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.4</num>
+      <heading>Approving Phase II of Proposed Verde Transmission, L.L.C.'s Project and Route Alternative 3 for the Verde Transmission Project</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-048 dated November 25, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-048"/>
+      <section>
+        <num>24.2.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Verde Transmission, L.L.C., a Delaware limited liability company ("Verde"), proposes to construct a new 345 kV electric power transmission line between the Ojo Substation, near Hernandez, NM and the Norton Substation, near Santa Fe, NM, together with various ancillary facilities, to be called the "Verde Project," a project that would greatly increase the robustness and reliability of the electric transmission grid in northern New Mexico and facilitate the delivery of renewable energy to customers throughout the Southwest.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Verde approached the Pueblo for the purpose of entering into negotiations for a right-of-way and permission to construct the new line.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Many details of the proposed project, including the specific alignment to be followed by the line over tribal lands, must be negotiated by the Pueblo's representatives and considered by the Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo has decided to carry out negotiations of the project in two phases.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On October 10, 2012, the Council adopted Council Resolution No SI-R12-030 (Oct. 12, 2012), which expressed interest in the Verde Project subject to the development of a proposed route acceptable to the Pueblo and authorized Verde to conduct a land survey for the proposed transmission corridor under the first phase of the project.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Pursuant to Council Resolution No. SI-R12-030, the Governor has established a Pueblo negotiating team to work with Verde to review and analyze the project and determine a suitable route for the transmission lines.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The second phase of the project will involve final negotiation of the right-of-way.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Based on land surveys Verde has proposed three different route alternatives for the Pueblo's consideration:</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Route Alternative 1</u> – Parallel to existing 115 kV line.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Route Alternative 2</u> – Along the northern and most of the eastern boundary of the Pueblo, entirely within Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><u>Route Alternative 3</u>- Along the eastern boundary of the Pueblo, including private lands within the exterior boundaries.</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council recognizes that Route Alternative 3 is the proposed route that best serves the Pueblo's interests.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Pueblo will require Verde to pay the Pueblo's Land Use Application Fee for the second phase of activity in accordance with Council Resolution SI-R11-032 (Oct. 20. 2011) to cover the costs incurred by the Pueblo in negotiations of the project.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.4.020</num>
+        <text>The Council determined that Route Alternative 1 is not an acceptable route.</text>
+      </section>
+      <section>
+        <num>24.2.4.030</num>
+        <text>The Council for the Pueblo de San Ildefonso hereby approves of Verde Transmission, L.L.C's proposed Route Alternative 3 for a right-of-way along the Pueblo de San Ildefonso's eastern boundary, provided that it is a feasible route.</text>
+      </section>
+      <section>
+        <num>24.2.4.040</num>
+        <text>The Council approves Route Alternative 2 as an alternate option in the event that Route Alternative 3 is not feasible.</text>
+      </section>
+      <section>
+        <num>24.2.4.050</num>
+        <text>The Governor is authorized to proceed with Phase II for the project and begin negotiations of the right-of-way and to take all steps needed for diligent negotiation.</text>
+      </section>
+      <section>
+        <num>24.2.4.060</num>
+        <text>Verde shall pay to the Pueblo the non-refundable Land Use Application Fee of $78,576 ($38,576 for administrative costs and $40,000 for third party costs) for the second phase of the project as reimbursement for the Pueblo's expenses related to determining the monetary value of the land use rights to be authorized, conducting any necessary negotiations, obtaining legal counsel and professional consulting services, and conducting administrative review of the project in accordance with the attached proposed letter agreement with Verde.  Should the Pueblo's third party costs exceed those sums due to unforeseen developments, the parties will negotiate as to additional payments to cover such excess costs.</text>
+      </section>
+      <section>
+        <num>24.2.4.070</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.5</num>
+      <heading>Authorizing Amending of the Right-of-Way Agreement with Jemez Mountain Electric Cooperative</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-001 dated January 29, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-001"/>
+      <section>
+        <num>24.2.5.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>In early 2012, the Pueblo and Jemez Mountains Electric Cooperative, Inc. (JMEC)  negotiated a settlement for three expired rights-of-way across the Pueblo's lands and the renewal for the substation properties in a global settlement that included both the past due amounts and future payments for all of the JMEC rights-of-way and substation lease under a new rights-of-way agreement for a 25 year term.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The "Rights of Way, Lease and Trespass Settlement Agreement" dated February 11, 2012 provided for payment of $5,998,695 over 25 years for 74.73 acres based on a value of $3211.09 per acre.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>JMEC filed various Rate Riders with the New Mexico Public Regulation Commission ("PRC") in order to recover the cost of rights-of-way across several different Pueblos' lands.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The initial proposed rate increase filed with the PRC for the recovery of the costs for the Pueblo's rights of way was based on revised acreage amounts for JMEC Facilities on San Ildefonso lands of 78.43 acres.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Rate Rider No. 4 as initially filed could have raised the electric bills for JMEC customers residing within the Pueblo's boundaries by as much as 50% and such an increase would have caused an economic hardship to both tribal and non-tribal residents.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo agreed to mediation in an effort to find ways to reduce the impact of the rate increase.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Pueblo and JMEC representatives met numerous times to reevaluate the routes, acreage, and type of electric facilities in a good faith effort to reduce the electric rate increase while still maintaining the Pueblo's right to compensation for rights of way over its lands.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo has proposed to have several local distribution lines be subject to service line agreements rather than a right of way agreement, thereby removing those lines from the total right of way acreage amount subject to compensation.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>reducing the amount of local distribution line acreage will result in the Pueblo receiving less compensation for the right of way across its lands but it will have the beneficial effect of reducing the rate increase for all JMEC customers within the Pueblo's boundaries.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Council has been continuously informed of the proposed negotiations regarding the right-of-way and the rate increase matters and has determined that it is in the Pueblo's best interest to amend the right of way agreement with JMEC to maintain the value per acre of $3211.09 and reduce the right of way acreage from 74.73 acres in the initial agreement to 58.19 acres.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Council understands that the reduction in acreage will result in the Pueblo forgoing approximately $53,111 annually and $1,327,785 over the life of the 25 year right of way agreement term.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>The Council has determined it is in the best interest of the Pueblo and its residents, both tribal and non-tribal, to amend the right of way agreement in order to reduce the economic impact for JMEC customers within its boundaries as a result of rate recovery actions.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.5.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby directs that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor negotiate terms to amend the existing "Rights of Way, Lease and Trespass Settlement Agreement" dated February 11, 2012 between the Pueblo and JMEC to reflect the reduced overall acreage amount of 58.19 acres.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Negotiate such other terms as necessary to carry out the intent of this Resolution; provided that any finally negotiated right of way agreement amendment must be brought back before the Council for final approval and authorization.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.5.030</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.6</num>
+      <heading>Approving Amendment No. 1 to the Rights-of-Way, Lease and Trespass Settlement Agreement with Jemez Mountains Electric Cooperative</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-006 dated February 23, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-006"/>
+      <section>
+        <num>24.2.6.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>In early 2012, the Pueblo and Jemez Mountains Electric Cooperative, Inc. (JMEC) negotiated a settlement for three expired rights-of-way across the Pueblo's lands and the renewal for the substation properties in a global settlement that included both the past due amounts and future payments for all of the JMEC rights-of-way and substation lease under a new rights-of-way agreement for a 25 year term.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The "Rights of Way, Lease and Trespass Settlement Agreement" dated February 11, 2012 provided for payment of $5,998,695 over 25 years for 74.73 acres based on a value of $3211.09 per acre.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>JMEC filed a Rate Rider with the New Mexico Public Regulation Commission ("PRC") to recover the cost of the right-of-way based on revised acreage amounts for JMEC Facilities on San Ildefonso lands of 78.43 acres.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Rate Rider No. 4 as initially filed could have raised the electri bills for JMEC customers residing within the Pueblo's boundaries by as much as 50% and such an increase would have caused an economic hardship to both tribal and non-tribal residents.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council in SI-R14-001 has determined it is in the best interest of the Pueblo and its residents, both tribal and non-tribal, to amend the right of way agreement in order to reduce the economic impact for JMEC customers within its boundaries as a result of PRC rate recovery actions.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Governor has negotiated Amendment No. 1 to Rights of Way, Lease and Trespass Settlements Agreements, attached hereto, which reduces the overall acreage amount to 58.19 acres and will result in a total payment of $4,671,333.18.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed the attached Amendment No. 1 and has determined it is consistent with the directive of SI-R14-001 and that it is in the best interest of the Pueblo to approve the amendment to the JMEC Right of Way Agreement.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.6.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby directs that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is authorized to sign Amendment No. 1 to Rights of Way, Lease and Trespass Settlement Agreement dated February 11, 2012, between the Pueblo and JMEC to reflect the reduced overall acreage amount of 58.19 acres for a total payment of $4,671,333.18.  (See, Resolution No. SI-R14-006 for attached Amendment No. 1).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is further authorized to make such non-substantive changes to the final Amendment document as may be necessary to carry out the intent of this Resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.2.6.030</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.3</num>
+    <heading>Real Property Acquisition</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.3.1</num>
+      <heading>Pueblo de San Ildefonso Real Property Acquisition Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-018, dated May 13, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-018"/>
+      <section>
+        <num>24.3.1.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Real Property Acquisition Act ("Act").</text>
+      </section>
+      <section>
+        <num>24.3.1.020</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Acquisition" means the act of becoming owner of certain real property in the name of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council, the duly constituted legislative body acting for the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Real Property" means land, and generally whatever is erected or growing or affixed to land.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.3.1.030</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this act is to establish procedures, protocols and guidelines for the acquisition of real property for the Pueblo de San Ildefonso.</text>
+      </section>
+      <section>
+        <num>24.3.1.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The spiritual, physical, mental and emotional well-being of the Pueblo and its Members is directly related to the acquisition of real property to preserve and extend the culture and traditions of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo has current and future needs for real property for housing, community development, government facilities and infrastructure, protection of historic and cultural  resources, economic development, and restoration of the Pueblo's land base;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The acquisition of real property is in the best interest of the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo requires procedures and guidelines in order to make decisions regarding the acquisition of real property.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.3.1.050</num>
+        <heading>Acquisition of Real Property</heading>
+        <text>Real property may be acquired by the Pueblo through donation, exchange, or purchase.  Acquisition of real property shall require direct approval and authorization of the Council as evidenced by the adoption of a resolution which grants the authority to take that action.</text>
+      </section>
+      <section>
+        <num>24.3.1.060</num>
+        <heading>Acquisition Protocol</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor shall notify the Council of any and all property available for acquisition before engaging in any type of negotiations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor shall have authority to engage in negotiations for the acquisition of real property at a price the Governor determines does not exceed fair market value. The Governor is authorized to take all steps needed for diligent negotiation, including, but not limited to, boundary surveys, property inspections, appraisals, and environmental inquiries.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Once the terms are negotiated to the satisfaction of the Governor, he or she shall submit to the Council a request to acquire the real property in the form of a resolution which includes the legal description of the property.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.3.1.070</num>
+        <heading>Funding</heading>
+        <text>The funding for the acquisition of real property will be in accordance with the Pueblo Investment Plan and Budgeting process.</text>
+      </section>
+      <section>
+        <num>24.3.1.080</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this Act upon majority vote of the Council.</text>
+      </section>
+      <section>
+        <num>24.3.1.090</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.4</num>
+    <heading>Purchases and Sales</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.4.1</num>
+      <heading>Authorizing Sale of Certain Lands to Santa Clara Pueblo</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-012, dated February 8, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-012"/>
+      <section>
+        <num>24.4.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>In 1951 the Pueblo de San Ildefonso filed suit against the United States before the Indian Claims Commission, which was styled Pueblo de San Ildefonso v. United States, Docket No. 354.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo settled that claim on terms described in Public Law 109-286, enacted 2006, which among other terms authorized the Pueblo to purchase lands from the Forest Service designated "Settlement Area Lands", which includes over 7,000 acres, using some of the funds paid by the United States to settle its liability to the Pueblo under Docket 354.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In 2004, the San Ildefonso-Santa Clara Land Agreement was signed by both Pueblos.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>That two Pueblo land agreement approved an aboriginal boundary line between the two Pueblos in the Settlement Area Lands.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo de San Ildefonso agreed to sell lands north of that aboriginal boundary to Santa Clara Pueblo.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo owns two tracts of land north of that boundary between the two Pueblos, namely the "Miller Property" acquired by gift from the Estate of Henrietta Meyers Miller consisting of approximately 18 acres, and the portion of the Settlement Area Lands north of the aboriginal boundary between the two Pueblos, consisting of approximately 185 acres.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The 2004 Agreement between the two Pueblos provided that the price of this land sale will use the formula described in what became Public Law 109-286.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The purchase price for the two properties from the Pueblo should be no less than $102,738.85.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>A Warranty Deed to the Miller Property and a Quitclaim Deed to the Settlement Area Lands north of the boundary between the two Pueblos are attachments 1 and 2 to this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.4.1.020</num>
+        <text>That the Tribal Council approves the sale to Santa Clara Pueblo of the 18.4 acres of property acquired from the Miller Estate, and 185.84 acres of Settlement Area Lands north of the agreed upon boundary between the Pueblo and Santa Clara Pueblo, as shown on the two deeds attached to this resolution.</text>
+      </section>
+      <section>
+        <num>24.4.1.030</num>
+        <text>That the Pueblo Governor is authorized and directed to sign these deeds on behalf of the Pueblo.</text>
+      </section>
+      <section>
+        <num>24.4.1.040</num>
+        <text>That the signed deeds are to be held by attorney Peter Chestnut until Santa Clara Pueblo (1) provides a check in the amount of at least $102,738.85, and (3) provides to the Pueblo a grant of easement at no cost through Santa Clara Pueblo and the so-called Northern Tier Lands which the Forest Service is selling to Santa Clara Pueblo as part of the transactions authorized by the Public Law 109-286, so that Pueblo members can reach the Settlement Area Lands from the North.</text>
+      </section>
+      <section>
+        <num>24.4.1.050</num>
+        <text>That the Governor and the Realty Director are authorized and directed to take all other steps necessary to complete this transaction.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.4.2</num>
+      <heading>Approval to Purchase Property at 4 Pajarito Loop</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-045, dated December 4, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-045"/>
+      <section>
+        <num>24.4.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Adam Trubow, the owner of a parcel of fee simple property within the Pueblo's exterior boundaries, approached the Pueblo with an offer to sell.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The property consisting of approximately .92 acres is located at 4 Pajarito Loop, as shown on the attached Boundary Survey, and is offered for sale for $40,000.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined it to be in the best interest of the Pueblo to purchase the offered property.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.4.2.020</num>
+        <text>The Pueblo de San Ildefonso Council approves the purchase of the property located at 4 Pajarito Loop in the amount of $40,000 and authorizes the Governor to sign a Purchase Agreement for the property.</text>
+      </section>
+      <section>
+        <num>24.4.2.030</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.4.3</num>
+      <heading>Approval for the Purchase of the Lujan Property off SR 30 and Little Bird Road</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-019, dated May 13, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-019"/>
+      <section>
+        <num>24.4.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Eloy Lujan, the personal representative for the Estate of Mrs. Alfredo Lujan, owner of a parcel of fee simple property within the Pueblo's exterior boundaries, approached the Pueblo with an offer to sell.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The property consisting of approximately 33.594 acres is located off SR 30 &amp; Little Bird Rd within Complaint 142, Private Claim 131, Parcel 1 within Sec 5, Township 19 North Range East, N.M.P.M. near Pajarito, NM, as shown on the attached Boundary Survey, and is offered for sale for $600,000.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined it to be in the best interest of the Pueblo to purchase the offered property.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.4.3.020</num>
+        <text>The Pueblo de San Ildefonso Council approves the purchase of the property located off SR 30 &amp; Little Bird Rd within Complaint 142, Private Claim 131, Parcel 1 within Sec 5, Township 19 North Range East, N.M.P.M. near Pajarito, NM, in the amount of $600,000 and authorizes the Governor to sign a Purchase Agreement for the property.</text>
+      </section>
+      <section>
+        <num>24.4.3.030</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carryout the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.4.4</num>
+      <heading>Approval to Drawdown $640,000 from Judgment Funds Awarded to the Pueblo de San Ildefonso Claims Settlement Act of 2005 to Acquire Lands</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-021 dated May 13, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-021"/>
+      <section>
+        <num>24.4.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>In 2005, the United States Court of Federal Claims awarded the Pueblo a judgment amount of $6,900,000.00 for the settlement of the Pueblo's claims in <em>Pueblo de San Ildefonso v. United States</em>, Docket Number 354, resolving the Pueblo's land title and trespass claims against the Federal Government, the City of Los Alamos, and Los Alamos County.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo de San Ildefonso Claims Settlement Act of 2005, 25 U.S.C. § 1780 et. seq. sets forth the requirements of the distribution and use of these judgment funds.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pursuant to 25 U.S.C. § 1780d, the funds may only be used to acquire the federally administered Settlement Area Lands; to pay for the acquisition of the Water System Lands, as provided in the Los Alamos Agreement, and at the option of the Pueblo, to acquire other land.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo exercised its right to purchase Forest Service lands from the Federal Government for approximately $3.9 million.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Office of the Special Trustee for American Indians ("Special Trustee") manages the remaining Pueblo de San Ildefonso Claims Settlement Act of 2005 funds.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>After the purchase of the lands, the remaining balance of judgment funds is $3,198,729.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council approved a long0term investment plan for the use and distribution of all Pueblo de San Ildefonso Claims Settlement Act of 2005 judgment funds including accrued interest and investment income, which shall be managed by the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The long-term investment plan for the Pueblo de San Ildefonso Claim Settlement Act of 2005 funds shall advance $1,000,000 into a "long-term" account with the intent that these account funds are not expected to be withdrawn in the foreseeable future.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The long-term investment plan for the Pueblo de San Ildefonso Claim Settlement Act of 2005 funds shall advance $1,558,729 which shall be invested into the "income" account to generate current income to meet tribal operating needs in accordance with Pueblo de San Ildefonso Investment plan.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The long-term investment plan for Pueblo de San Ildefonso Claim settlement Act of 2005 funds shall continue to hold $640,00 in the "liquidity" account in accordance with Pueblo de San Ildefonso Investment Plan.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>No Authorized tribal expenditure shall provide per capita or dividend payments to tribal members.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>The investment plan shall only be used to acquire the federally administered Settlement Area Land to pay for the acquisition of the Water System Land, as provided in the Los Alamos Agreement; and at the option of the Pueblo, to acquire other land.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>On December 21, 2012, the Council approved the purchase of property located at 4 Pajarito Loop in the amount of $40,000.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>On May 13, 2013, the Council approved the purchase of the Lujan property located off SR 30 &amp; Little Bird Road in the amount of $600,000.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>These purchases are allowable expenses under this settlement and the Pueblo seeks to drawdown funds to cover these purchases.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.4.4.020</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby grants approval to drawdown judgment funds from the Pueblo de San Ildefonso Claims Settlement Act of 2005 trust account for the purpose to acquire lands.</text>
+      </section>
+      <section>
+        <num>24.4.4.030</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby directs the Governor to use the judgment funds to fund the purchase of properties located at 4 Pajarito Loop and the Lujan property located off SR 30 &amp; Little Bird Rd in the total amount of $640,000.</text>
+      </section>
+      <section>
+        <num>24.4.4.040</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carryout the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.4.5</num>
+      <heading>Approval for the Purchase of Property at 386 SF County Road 84, El Rancho, New Mexico</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-030 dated August 8, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-030"/>
+      <section>
+        <num>24.4.5.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Kevin Yockers, owner of a parcel of fee simple property within the Pueblo's exterior boundaries, approached the Pueblo with an offer to sell.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The property, consisting of approximately 0.815 acres and a 3,505 square feet building, is located at 386 SF County Road 84, El Rancho, New Mexico on the southeast intersection of SF County Road 101D and SF County Road 84 and is appraised at $440,000, as indicated in the attached Appraisal Report.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined it to be in the best interest of the Pueblo to purchase the offered property.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.4.5.020</num>
+        <text>That the Pueblo de San Ildefonso Council approves the purchase of the property located at 386 Santa Fe County Road 84, El Rancho, New Mexico in the amount of $440,000 and authorizes the Governor to sign a Purchase Agreement for the property.</text>
+      </section>
+      <section>
+        <num>24.4.5.030</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carryout the intent of this Resolution.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.5</num>
+    <heading>Leases</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.5.1</num>
+      <heading>Approving Leases of Tribally Owned Land to the Northern Pueblos Housing Authority for Housing Development and Authorizing the Governor to Execute the Environmental Review Record for the Housing Development</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-008, dated May 7, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-008"/>
+      <section>
+        <num>24.5.1.010</num>
+        <heading>Findings</heading>
+        <text>On April 12, 2000, the Council adopted Ordinance NO. SI-R00-001, establishing the Northern Pueblos Housing Authority ("NPHA").</text>
+        <para>
+          <num>(a)</num>
+          <text>NPHA is the Tribally Designated Housing Entity ("TDHE") for the Pueblo, established by the Pueblo pursuant to § 4(18) and (21) of the Native American Housing and Self Determination Act of 1996, 25 U.S.C. §§ 4401 <em>et seq. </em>("NAHASDA") for developing, operating, and managing housing units assisted by the United States Department of Housing and Urban Development ("HUD").</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo has a shortage of affordable housing and it is critical to build new housing for income eligible tribal members.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On January  29<sup>th</sup>, 2009, the Council approved, through Resolution No. SI-R09-002, the donation of a 25 year renewable land-lease to the NPHA, known as Tract 1, Deer Tail Vista.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>NPHA developed a proposal for development of a ten-lot duplex housing project to be located in the Deer Tail Vista Subdivision ("Project").</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On October 2010 an Environmental Assessment (EA) for the Project was prepared by WHPacific for NPHA and HUD.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>On March 16, 2011, HUD completed a Finding of No Significant Impact (FONSI) for the Project.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>In 2011 the Council reviewed the Project proposal and determined that it was to the best interest of the Pueblo to construct single housing units to avoid future problems between tenants.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>On May 16<sup>th</sup>, 2011, through Resolution No SI-R11-013, and on November 21<sup>st</sup> 2011, through Resolution No. SI-R11-034, the Council authorized the NPHA to apply for 2011 and 2012 Indian Community Development Block Grants respectively, on behalf of the Pueblo of financing of the Project.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>On January 23, 2012 the United States Department of Interior, Bureau of Indian Affairs ("BIA"), Northern Pueblo's Agency posted a Notice of Availability of Environmental Assessment and completed a FONSI for the Project.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Souder, Miller &amp; Associates of Albuquerque completed a survey plat titled "DEER TAIL VISTA, LOTS 1-10 WITHIN A PORTION OF TRACTS 1 &amp; 2, DEER TAIL VISTA IN SECTIONS 6, T, 19N, N.M.P.M. IN THE SAN ILDEFONSO GRANT, SANTA FE COUNTY, NEW MEXICO.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The survey plat was reviewed by the Pueblo and submitted to the BLM Indian land Surveyor of the BIA, Southwest Regional Office for review and was accepted on December 4, 2012.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>On December 12<sup>th</sup>, 2011, the Council, through Resolution No. SI-R11-038, authorized NPHA to apply for a HUD Title VI Loan Guarantee for the Project and authorized NPHA and the Pueblo to enter into a contract amongst HUD, the Pueblo and NPHA.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The Pueblo has used master residential leases in the past.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>A master lease provides only a legal description of the perimeter of the property and not for individual lots.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Subsequent conveyance of units to homebuyers under the master lease was administratively complex because it required a survey of the individual unit, a request to the Pueblo to partition the lease, approval of the partition by the Bureau of Indian Affairs (BIA), and then final Pueblo and BIA approval for unit conveyance.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Individual residential leases for each residential lot simplifies the conveyance process because only NPHA's quitclaim of its interest and final approval by the Pueblo and the BIA is required.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>For the purpose of construction of the Project, NPHA is requesting from the Pueblo fifty (50) year leasehold interests in ten residential lots, more specifically described in proposed leases, copies of which are attached hereto and incorporated herein by reference.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>In support of this Project, the Pueblo will contribute to the Project leasehold interests in the above-mentioned parcels of land in the form of Bureau of Indian Affairs approved and recorded Residential Leases of Tribally Owned Land.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>NPHA has requested that the Pueblo execute an Environmental Review Record (ERR) reaffirming acceptance of the Environmental Review for the Project and authorizing NPHA to use up to $849,280 in previously committed and Pueblo-approved IHBG funds for Project construction.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.5.1.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves the grant of ten (10) individual fifty (50) year residential land leases to Northern Pueblos Housing Authority for the purpose of developing homes and related uses on that land.</text>
+      </section>
+      <section>
+        <num>24.5.1.030</num>
+        <text>Such leasehold interests shall be of lands specifically described in the proposed leases.</text>
+      </section>
+      <section>
+        <num>24.5.1.040</num>
+        <text>Such leases shall be in the form of Bureau of Indian Affairs approved and recorded Residential Leases of Tribally Owned Land between the Pueblo and NPHA, a copy of such leases being attached hereto and incorporated herein by reference.</text>
+      </section>
+      <section>
+        <num>24.5.1.050</num>
+        <text>The Council hereby authorizes the Governor to execute such leases to address the development of the project.</text>
+      </section>
+      <section>
+        <num>24.5.1.060</num>
+        <text>The Council hereby reaffirms acceptance of the Environmental Review for the project, authorizes use of up to $849,280.00 in IHBG funds and authorizes the Governor to execute the Environmental Review Record.</text>
+      </section>
+      <section>
+        <num>24.5.1.070</num>
+        <text>Authorizes the Governor to enter into the contract between HUD, NHPA, and the Pueblo.</text>
+      </section>
+      <section>
+        <num>24.5.1.080</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.6</num>
+    <heading>Negotiations, Litigation, and Settlements</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.6.1</num>
+      <heading>Approving Settlement of Trespass Over Tribal Lands by Jemez Mountains Electric Cooperative, Inc. and Renewal of Rights of Way and El Rancho Substation Lease</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-013, dated February 8, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-013"/>
+      <section>
+        <num>24.6.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Jemez Mountains Electric Cooperative, Inc. (JMEC) has expired rights of way across the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The JMEC also desires to renew its lease for the Pueblo's lands on which the El Rancho substation is located and also its rights of way across the Pueblo lands for the tie-in lines to the substation and the distribution lines associated with the substation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo assembled a Tribal Negotiation Team to address both the expired power line rights of way and the proposed lease renewal for the substation site and, the Team has been in negotiations with JMEC to resolved these matters in a global settlement that incudes both the past due amounts and future payments for renewal of all the JMEC rights of way and the substation lease for 25 year terms and to cure past trespasses by JMEC over the Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Tribal Negotiation Team has been advising the Tribal Council on the negotiations with JMEC, including the Pueblo's initial right of way valuation and a series of counter offers by both JMEC and the Pueblo.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Tribal Negotiating Team and JMEC have reached an agreement subject to the approval of the Tribal Council as regards rights of way over Pueblo lands and the lease of Pueblo lands to JMEC for the El Rancho substation based on a $3,211.09 per acre valuation of the rights of way and lease in question, with annual payments for the rights of way and lease to be paid over a 25 year period pursuant to the Final Payment Schedule attached as Ex. 1.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Tribal Negotiating Team and JMEC have also reached an agreement subject to the approval of the Tribal Council as regards the settlement of trespass claims against JMEC for its continued use of expired rights of way across Pueblo lands.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.1.020</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby approves the settlement of trespass claims against the Jemez Mountain Electric Cooperative under which JMEC will pay the outstanding trespass claims against the Jemez Mountain Electric Cooperative under which JMEC will pay the outstanding trespass claims plus right of way and lease payments in the amount of $5,943,981.00 as follows: the annual payment for 2012 shall be $339,534 after a credit to JMEC of $54,713 for a three month Special Land Use License Fee payment; annual payments for 2013 and 2014 will be set at $394,248; and, annual lease and rights of way payments for years 2015 thru 2036 will be set as $218,907.</text>
+      </section>
+      <section>
+        <num>24.6.1.030</num>
+        <text>The right of way and lease agreement with JMEC shall include a clause under which JMEC shall pay the remaining amount of trespass damages of $526,024 spread over 2012, 2013, and 2014 before it is eligible to exercise its option to terminate the right of way and lease agreement after three (3) years.</text>
+      </section>
+      <section>
+        <num>24.6.1.040</num>
+        <text>The Governor or his designee is directed and authorized to take such actions and sign such documents as are deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+      <section>
+        <num>24.6.1.050</num>
+        <text>The parties shall execute a mutual release upon the full payment by JMEC of the Pueblo's trespass claims.</text>
+      </section>
+      <section>
+        <num>24.6.1.060</num>
+        <text>The Secretary of Interior is hereby requested to approve rights of way, lease and trespass settlement agreements between JMEC and the Pueblo.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.6.2</num>
+      <heading>Evaluation of Verde Transmission, L.L.C.'s Verde Project</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-030, dated October 9, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-030"/>
+      <section>
+        <num>24.6.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Verde Transmission, L.L.C., a Delaware limited liability company, ("Verde") proposes to construct a new 345 kV electric power transmission line between the Ojo Substation, near Hernandez, NM and the Norton Substation, near Santa Fe, NM, together with various ancillary facilities, to be called the "Verde Project," which project would greatly increase the robustness and reliability of the electric transmission grid in northern New Mexico and facilitate the delivery or renewable energy to customers through the Southwest.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The proposed line would generally follow the route of the existing 115 kV power lines located in the area but may be altered based on negotiations with the Pueblo for a route that is acceptable to the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Verde approached the Pueblo for the purpose of entering into negotiations for a right-of-way and permission to construct the new line.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Many details of the purposed project, including the specific alignment to be followed by the line over tribal lands, must be negotiated by the Pueblo's representatives and considered by the Council.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Governor will establish a Pueblo negotiating team to work with Verde to review, evaluate and analyze the project.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A presentation was made to the Council by Verde Transmission and the Council is willing to consider the project.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>In order for the parties to move forward in evaluating the project, Verde must undertake land survey for the proposed transmission corridor within the Pueblo's lands, and Council is willing to permit Verde to proceed with such survey.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo will require Verde to pay the Pueblo's Land Use Application Fee for the first phase of activity in accordance with Tribal Council Resolution SI-R11-032 (October 20, 2011) to cover the costs incurred by the Pueblo in evaluating the project.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.2.020</num>
+        <text>The Council expresses its interest the Verde Project, but subject to the development of proposed route acceptable to the Pueblo.</text>
+      </section>
+      <section>
+        <num>24.6.2.030</num>
+        <text>The Governor shall establish a negotiating team to work with Verde to determine a suitable route.</text>
+      </section>
+      <section>
+        <num>24.6.2.040</num>
+        <text>Verde shall pay to the Pueblo the non-refundable Land Use Application Fee of $36,533 for the first phase of the project as advance reimbursement of the Pueblo's expenses related to its participation in the necessary evaluation and studies for the proposed route, and should the Pueblo's costs exceed those sums due to unforeseen developments, the parties will negotiate as to additional payments to cover such excess costs, provided that a separate Land Use Application fee will be required for any subsequent phase of activities for this project.</text>
+      </section>
+      <section>
+        <num>24.6.2.050</num>
+        <text>Upon payment of the Land Use Application Fee, Verde is hereby authorized to enter onto Pueblo land, for the purpose of conducting a land survey, for the development of a proposed alternate route for the Verde Project, provided that all such activities shall be carried out in conjunction with all appropriate Pueblo de Ildefonso tribal representative when present on Pueblo de San Ildefonso lands.</text>
+      </section>
+      <section>
+        <num>24.6.2.060</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to Published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.6.3</num>
+      <heading>Authorizing Negotiations for Stipulation Agreement in Public Regulation Commission Rate Increase Case Involving Jemez Mountains Electric Cooperative</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-002 dated January 29, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-002"/>
+      <section>
+        <num>24.6.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>JMEC filed various Rate Riders with the New Mexico Public Regulation Commission ("PRC") in order to recover the cost of rights-of-way across several different Pueblos' lands, including the rights of way over the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Rate Rider No. 4 as initially filed could have raised the electric bills for JMEC customers residing within the Pueblo's boundaries by as much as 50% and such an increase would have caused an economic hardship to both tribal and non-tribal residents.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo agreed to mediation in an effort to find ways to reduce the impact of the rate increase.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pueblo and JMEC representatives met numerous times to reevaluate the routes, acreage, and type of electric facilities in a good faith effort to reduce the electric rate increase.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In keeping within the limitations of Rate 19, the Pueblo has proposed to have several local distribution lines be subject to service line agreements rather than a right of way agreement, thereby removing those lines from the total right of way acreage amount subject to compensation.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Reducing the amount of local distribution line acreage will result in the Pueblo receiving less compensation for the right of way across its lands but it will have the beneficial effect of reducing the rate increase for all JMEC customers within the Pueblo's boundaries.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council has been continuously informed of the proposed negotiations regarding the right-of-way and the rate increase matters and has authorized the amendment of the underlying right of way agreement with JMEC.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council has determined it is in the best interest of the Pueblo and its residents, both tribal and non-tribal, to negotiate a stipulated agreement with JMEC and other parties in the PRC rate case to put in place the lower rate increase that will result from the amended right of way agreement and establish terms that will effectively resolve the rate increase matter.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.3.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby directs that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor negotiate terms to stipulated agreement that reflect the amended terms of the right of way agreement in order to effectuate a lower electric rate increase amount.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Negotiate such other terms as necessary to carry out the intent of this Resolution; provided that any finally negotiated Stipulation Agreement must be brought back before the Council for final approval and authorization.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.3.030</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.6.4</num>
+      <heading>Approving Stipulation Agreement in Public Regulation Commission Rate Increase Case Involving Jemez Mountains Electric Cooperative</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-013 dated March 11, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-013"/>
+      <section>
+        <num>24.6.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>JMEC filed various Rate Riders with the New Mexico Public Regulation Commission ("PRC") in order to recover the cost of rights-of-way across several different Pueblos' lands, including the rights of way over the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Rate Rider No. 4 as initially filed could have raised the electric bills for JMEC customers within the Pueblo's boundaries by as much as 50% and such an increase would have caused an economic hardship to both tribal and non-tribal customers.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo agreed to mediation in an effort to find ways to reduce the impact of the rate increase on tribal and non-tribal customers of JMEC.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pueblo and JMEC representatives met numerous times to reevaluate the routes, acreage, and type of electric facilities in a good faith effort to reduce the amount of electric rate increase.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In keeping within the limitations of Rate 19, the Pueblo has proposed to have several local distribution lines be subject to service line agreements rather than a right of way agreement, thereby removing those lines from the total right of way acreage amount subject to compensation.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Reducing the amount of local distribution line acreage will result in the Pueblo receiving less compensation for the right of way across its lands, but it will have the beneficial effect of reducing the rate increase for all JMEC customers within the Pueblo's boundaries.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council has approved the amendment of the underlying right of way agreement with JMEC per Resolution No. SI-2014-006.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council has been continuously informed about the negotiations and proceedings regarding the PRC rate case.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Governor has negotiated the attached Stipulation agreement with JMEC and other parties in the PRC rate case to put in place the lower rate increase that will result from the amended right of way agreement and establish terms that will effectively resolve the rate increase matter.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Governor presented a draft Stipulation to the Council on March 7, 2014, and having the opportunity to provide input and comment, the Council authorized the filing of the Stipulation with the PRC on March 10, 2014.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.4.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby directs that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor, or his designee, is authorized to sign the Stipulation agreement in PRC Case No. 13-00202-UT that reflects the amended terms of the right of way agreement as authorized in Council Resolution No. SI-R14-006 in order to effectuate a lower electric rate increase amount.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The signature and filing of the Stipulation with the PRC on March 10, 2014 is hereby ratified and approved.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.4.030</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.6.5</num>
+      <heading>Act Reaffirming the Pueblo de San Ildefonso's Water Rights Policy, Adjudication and Subsequent Agreements Necessary for the Implementation of the Regional Water System as part of the Settlement, State v. Aamodt</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-001 dated January 13, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-001"/>
+      <section>
+        <num>24.6.5.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication State v. Aamodt, U.S. District Court of New Mexico No. 66CV6639;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2006, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. No. 11-129, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act");</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo, the United States and six other governments approved the Settlement Agreement (April 19, 2012) signed March 13, 2013 ("Revised Agreement") which includes terms required by the Settlement Act;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A revised "Settlement Agreement" and Cost Sharing and System Integration Agreement ("CSSIA") were signed by the United States, the Pueblo de San Ildefonso and six other governments on March 14, 2013;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council authorized the Governor to sign the "Memorandum of Agreement" between the Bureau of Reclamation and the Pueblo de San Ildefonso to Facililtate Pueblo de San Ildefonso Involvement in the Planning, Design and Construction of the Pojoaque Basin regional Water System" on behalf of the Pueblo in Resolution No. SI-R13-015;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The "Settlement Agreement", appropriated $15 million to the Pueblos Conservation Fund, to be allocated as directed by the four Pueblos known as the Pueblo Economic Development Water Agreement;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Economic Development Water Agreement signed July 18, 2013, allows the Pueblo to use these funds for any water related infrastructure activity "that is more cost-effective when implemented in conjunction with the construction of the Regional Water System, as determined by the Secretary [of the Interior]";</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council and Governor, water representatives, and attorney(s) have taken the necessary steps to implement the "Settlement Agreement" in conformity with Act signed into Law by the President on December 8, 2010;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo de San Ildefonso Water Policy is to implement the "Settlement Agreement" deliverables and criteria objectives as approved and agreed upon in the Act, which includes but limited to survey of pipeline alignment, identification of easements, and land parcels;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Pueblo de San Ildefonso Tribal Council has determined that it is in the best interest of the Pueblo to reaffirm the prior Administration's Policy on water rights adjudication and subsequent agreements for the implementation of the Regional Water System.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.5.020</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby authorizes reaffirms and directs the Governor, water representatives, and attorney(s) to take the necessary steps to implement the Pueblo's policy to reaffirm the prior administration's water rights adjudication and subsequent agreements for the implementation of the Regional Water System.</text>
+      </section>
+      <section>
+        <num>24.6.5.030</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.6.6</num>
+      <heading>Approving Addendum No. 1 to the NM Gas Company Rights-Of-Way Agreement</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-018 dated July 6, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-018"/>
+      <section>
+        <num>24.6.6.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The New Mexico Gas Company ("NMGC") owns and operates several natural gas transmission and distribution lines within the exterior boundaries of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo and NMGC negotiated a comprehensive Right-of-Way Agreement for all of the NMGC pipelines and the Tribal Council approved the Right-of-Way Agreement on November 20, 2014.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The NMGC Right-of-Way Agreement has been submitted to the Bureau of Indian Affairs for review and approval as required by 25 CFR Part 169 and is currently pending approval.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>When NMGC started its pipeline integrity activities, NMGC discovered that approximately a 2650 foot segment of the Los Alamos Mainline – West pipeline is located under State Road 502 and that segment reduces from a 12 inch line to a 10 inch line which prevents the pipeline integrity equipment from checking that segment of the pipeline.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>NMGC has proposed to change the pipeline to a 12 inch pipeline and relocate the majority of the segment of pipeline within the highway right-of-way with a minimal portion running under the road.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>the Council has been fully briefed and has reviewed the attached Addendum No. 1 to the Right of Way Agreement and has determined that it is in the best interest of the Pueblo to approve the Addendum.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.6.020</num>
+        <text>The Council authorizes NMCG to proceed with the work related to relocating and resizing the pipeline within the highway right-of-way and the minimal portion running under the road pending BIA review and approval of the Right-Of-Way and Addendum, provided NMGC notifies the Pueblo when work will continue.</text>
+      </section>
+      <section>
+        <num>24.6.6.030</num>
+        <text>NMCG shall comply with all federal, state and tribal laws including the full compliance with the Pueblo's access permit process.</text>
+      </section>
+      <section>
+        <num>24.6.6.040</num>
+        <text>The Council approves the attached Addendum No. 1 to the Right of Way Agreement in its material form. (<em>See,</em> Resolution No. SI-R-15-018 for attachment).</text>
+      </section>
+      <section>
+        <num>24.6.6.050</num>
+        <text>The Council authorizes the Governor to make any non-substantive changes to the document, if necessary, and to sign the Addendum.</text>
+      </section>
+      <section>
+        <num>24.6.6.060</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.6.7</num>
+      <heading>Authorizing the Bureau of Indian Affairs to initiate Trespass Actions Against Santa Fe County</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-025 dated .</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-025"/>
+      <section>
+        <num>24.6.7.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Since as early as 1965 and before, the Pueblo has had ongoing concerns regarding the alleged and continued trespass by Santa Fe County for roads over the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>On November 3, 2013, the Pueblo requested the Bureau of Indian Affairs (BIA) to initiate formal trespass actions against Santa Fe County for the roads.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On December 6, 2013, Bureau of Indian Affairs Superintendent Fry issued a Notice to Show Cause to County Manager Katherine Miller as to why the County should not be assessed trespass damages for certain roads within the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Santa Fe County denied the County is in trespass but felt the matter would be best addressed through negotiated settlement between the Pueblo and the County, without the intervention of the Bureau of Indian Affairs.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In the past two years, the Pueblo has made extensive efforts to work with Santa Fe County to resolve the road issues without success.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>During this time, the Pueblo has expended human resources such as tribal official and staff time, and incurred huge costs for surveying, legal, and other professional services and resources to research, clarify, and document the property boundaries and ownership to aid in bringing about a resolution to the trespass issues.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The United States, by and through the Bureau of Indian Affairs, has a trust responsibility to the Pueblo de San Ildefonso to protect the Pueblo from trespass by any person, including but not limited to state and local governments.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council finds it in the best interest of the Pueblo to have the Bureau of Indian Affairs initiate legal action against the County of Santa Fe for trespass or such other actions in order to establish clear title to all roads and land to which the County of Santa Fe claims an interest within the exterior boundaries of the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.6.7.020</num>
+        <text>The Pueblo de San Ildefonso hereby authorizes and directs the Bureau of Indian Affairs to initiate legal action against the County of Santa Fe for trespass or such other actions as deemed necessary to establish clear title to all roads and lands to which the County of Santa Fe claims an interest within the exterior boundaries of the Pueblo de San Ildefonso.</text>
+      </section>
+      <section>
+        <num>24.6.7.030</num>
+        <text>Any and all Tribal Council resolutions which conflict in any way with the provisions of this Resolution are hereby repealed to the extent they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Resolution.</text>
+      </section>
+      <section>
+        <num>24.6.7.040</num>
+        <text>That the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.7</num>
+    <heading>Roads</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.7.1</num>
+      <heading>Additions/Deletions to Tribal Roads to the Bureau of Indian Affairs Indian Reservation Roads System</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-011, dated February 8, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-011"/>
+      <section>
+        <num>24.7.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Agency, Bureau of Indian Affairs, currently constructs, maintains, and operates those roads which are on the Bureau of Indian Affairs Indian Reservation Roads (IRR) system.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pueblo de San Ildefonso currently has limited capacity to construct, maintain and operate Tribal roads.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To maintain an acceptable infrastructure network of roads to access Tribal lands and serve Tribal interests it is imperative that roadway construction, maintenance, and operations needs are met.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo has identified 52.4 miles of paved, unpaved Tribal Roadways that are within the Pueblo de San Ildefonso Reservation Boundaries and should remain on the Bureau of Indian Affairs IRR System for construction, maintenances, and operations funding.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo has identified 0.6 miles of paved and unpaved housing streets that are within the Pueblo de San Ildefonso Reservation Boundaries and should be modified or added to the Bureau of Indian Affairs IRR system for construction, maintenance and operations funding.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has identified 19.3 miles of Tribal roadways that are within the Pueblo de San Ildefonso Reservation Boundaries that should be removed from the Bureau of Indian Affairs IRR System.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The inclusion of any State, County, or City owned and operated roadways on the Bureau of Indian Affairs IRR System does not obligate Pueblo de San Ildefonso to fund construction, maintenance, or operations of those roads.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The list of streets and roads that require modification, addition or deletion to/from the Bureau of Indian Affairs Indian Reservation Roads Inventory is attached to this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.7.1.020</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby authorizes the Governor of the Pueblo de San Ildefonso to take the necessary actions to enter into agreements on behalf of the Pueblo and approves the attached list of Tribal Roads to be modified, added or deleted to/from the Bureau of Indian Affairs IRR System. The Pueblo grants a highway easement for each paved housing street to the Bureau of Indian Affairs for a width of twenty (20) feet on each side from the centerline of each existing street with the understanding that each design phase will be approved by the Tribal Council. Pueblo de San Ildefonso certifies that all housing streets identified in this Tribal Resolution are located on Tribal Trust Land and are open to the public except during ceremonial activities or another activities as authorized by the Governor or Tribal Council.</text>
+      </section>
+      <section>
+        <num>24.7.1.030</num>
+        <text>The Pueblo de San Ildefonso Tribal Council authorizes the BIA Southwest Regional Office (SWRO) to approve the modifications, additions and deletions to the Pueblo de San Ildefonso Road Inventory Information in the IRR Road Inventory Field Data System.</text>
+      </section>
+      <section>
+        <num>24.7.1.040</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent and purpose of this Resolution.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.8</num>
+    <heading>Land Surveys</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.8.1</num>
+      <heading>Act Acknowledging Medrano Boundary Survey And A Authorizing Recording Of The Survey Appropriate Entities</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-006, dated March 21, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-006"/>
+      <section>
+        <num>24.8.1.010</num>
+        <heading>Findings</heading>
+        <text>The Council finds that it is in the best interest of the Pueblo to acknowledge receipt of  the boundary survey prepared by surveyor Larry Medrano of Precision Surveys, Inc. ("Medrano Boundary Survey") as presented and authorize that the Medrano Boundary Survey be filed with such entities as deemed necessary by the Governor to protect the property interests of the Pueblo.</text>
+      </section>
+      <section>
+        <num>24.8.1.020</num>
+        <text>The Council hereby enacts the attached law entitled the "ACT ACKNOWLEDGING MEDRANO BOUNDARY SURVEY AND AUTHORIZING RECORDING OF THE SURVEY WITH APPROPRIATE ENTITIES."</text>
+      </section>
+      <section>
+        <num>24.8.1.030</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT ACKNOWLEDGING MEDRANO BOUNDARY SURVEY AND AUTHORIZING RECORDING OF THE SURVEY WITH APPROPRIATE ENTITIES ("Act")."</text>
+      </section>
+      <section>
+        <num>24.8.1.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to acknowledge receipt of  the boundary survey prepared by surveyor Larry Medrano of Precision Surveys, Inc. ("Medrano Boundary Survey") and authorize the Governor to direct the recording or filing of the survey with such appropriate entities as deemed necessary by the Governor to protect the property interests of the Pueblo de San Ildefonso ("Pueblo").</text>
+      </section>
+      <section>
+        <num>24.8.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo has commissioned professional surveyor, Larry W. Medrano of Precision Surveys, Inc. to conduct a boundary survey of certain areas of the Pueblo's lands, including the area known as El Rancho.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Medrano Boundary Survey, as presented on the date of this enactment, is fundamentally complete except for the area located in the El Rancho area referred to as the Duran area where Precision Surveys, Inc. crews were denied access by the private landowners.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any recording of the Medrano Boundary Survey would note that access was denied to the Duran area, and if the area is surveyed by Precision Surveys, Inc. at a later date, the Medrano Boundary Survey can be amended to reflect the newly surveyed areas.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Medrano Boundary Survey identifies and confirms the Pueblo's property boundaries and this survey information is necessary for recognition and protection of the Pueblo's property rights.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The recording,  filing, and/or delivery of the Medrano Boundary Survey with appropriate entities such as the Santa Fe County Clerk's Office or the Bureau of Indian Affairs [A1], etc., serves as public notice of the Pueblo's boundaries and puts other surveyors on notice of the  findings and conclusions regarding the Pueblo's boundaries contained in the Medrano Boundary Survey.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council finds it in the best interest of the Pueblo to acknowledge receipt of the Medrano Boundary Survey, provided that it may be amended at a later date to include survey information from the Duran area, and to authorize recording of the amended survey with such appropriate public entities as deemed necessary by the Governor to protect the Pueblo's property rights.</text>
+        </para>
+      </section>
+      <section>
+        <num>24.8.1.060</num>
+        <heading>Authorization</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby acknowledges receipt of the Medrano Boundary Survey, and the Governor is hereby authorized to direct the recording, filing, and/or delivery of the Medrano Boundary Survey with such appropriate public entities as deemed necessary by the Governor to protect the Pueblo's property rights.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Prior to any such recording, the Governor shall inform the Council of the intent to record, the entity where the survey or amended survey will be recorded, and the reason for such recording.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+</container>

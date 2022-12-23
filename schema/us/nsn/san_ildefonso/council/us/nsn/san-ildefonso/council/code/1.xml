@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>1</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.1</num>
+    <heading>Authority.</heading>
+    <annotation type="History">1984 Code</annotation>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.1.1</num>
+      <heading>Preamble</heading>
+      <section>
+        <num>1.1.1.010</num>
+        <heading>General</heading>
+        <text>We, the people of the Pueblo of San Ildefonso, in order to establish justice, promote the common welfare and preserve the advantages of self-government, do hereby establish the Civil and Criminal Code of the Pueblo of San Ildefonso (1) to protect the peace and order of all person and their property within the territorial boundaries of the pueblo of San Ildefonso; (2) to protect the traditions, customs, landbase and human resources of the Pueblo of San Ildefonso; (3) to protect the natural resources and beauty of the Pueblo of San Ildefonso; (4) to preserve the life ways and natural resources of the Pueblo of San Ildefonso for future generations so that they may have the benefits that will be theirs to enjoy and keep.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.1.2</num>
+      <heading>Adoption and Amendment</heading>
+      <section>
+        <num>1.1.2.010</num>
+        <heading>Authority</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>This Civil and Criminal Code shall become effective when adopted by Resolution of the San Ildefonso Pueblo Council pursuant to the power invested in the Pueblo of San Ildefonso under the laws of the United States of America and applicable, treaties, and the will of the people of San Ildefonso, and shall apply to all persons who, through their residence, presence, business dealings, acts or omissions, have significant contacts with the Pueblo of San Ildefonso or its residents or incur civil obligations to persons or entities entitled to the protection of the judicial system at the Pueblo of San Ildefonso, and to all persons who commit criminal offenses against the Pueblo of or against its members, residents of other persons within the jurisdiction and on the lands of the Pueblo of San Ildefonso, under the traditions, customs and laws of the Pueblo of San Ildefonso and the laws of the United States of America.</em>
+          </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>The power to preserve internal order within the exterior boundaries of the Pueblo of San Ildefonso by punishing when necessary those under its jurisdiction who violate Pueblo civil or criminal law is absolutely essential to the existing sovereignty of the Pueblo of San Ildefonso.  Further, the Pueblo of San Ildefonso has neither waived or surrendered its civil jurisdiction over non-Indians within the jurisdiction and/or on the lands of the Pueblo of San Ildefonso and no treaty or federal law has withdrawn the civil jurisdiction of the Pueblo of San Ildefonso over non-Indians found on the lands of the Pueblo of San Ildefonso.</em>
+          </text>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-013"/>
+        </para>
+      </section>
+      <section>
+        <num>1.1.2.020</num>
+        <heading>Repeal of Prior Inconsistent Ordinances</heading>
+        <text>Any and all ordinances or portions thereof heretofore enacted by the San Ildefonso Pueblo council which is any way in conflict with the provisions of this Civil and Criminal Code are hereby repealed.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.1.3</num>
+      <heading>Interpretation of This Code</heading>
+      <section>
+        <num>1.1.3.010</num>
+        <heading>General</heading>
+        <text>This Code shall be interpreted pursuant to the traditions and customs of the San Ildefonso Tribe.  Where any doubt arises as to these traditions and customs, the Court may request the advise of elders as counselors whom are familiar with these traditions and customs.  If none such exists, then the Court may use applicable federal and state case law and statutory law, adopting those principles and procedures not in conflict with the laws, customs and traditions of the Pueblo of San Ildefonso.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.1.4</num>
+      <heading>Code Reform and Approval Act of 2016</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-013, dated July 7, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-013"/>
+      <section>
+        <num>1.1.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2011, the Pueblo approved a new governing Agreement ("Agreement") that separates the different duties and functions for the Governor, Council, and Courts;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Agreement places the responsibility to write laws and approve budgets in the Council;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Agreement requires the Council to pass laws and approve budgets in meetings 	that are open to the public, and to codify and publish all Council enactments;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo enacted a "Law and Order Code" in 1984, and has passed various laws and resolutions since 1984;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council finds the need to update the Code to create a master, comprehensive Code to include not only the 1984 Code but also the enactments of the Pueblo since 2012.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council hereby enacts the attached law 	entitled, "Code Reform and Approval Act of 2016."</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and 	adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.1.4.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the, "Code Reform and Approval Act of 2016."</text>
+      </section>
+      <section>
+        <num>1.1.4.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Code" means the Pueblo de San Ildefonso Code of laws.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"PSIC" means the Pueblo de San Ildefonso Code.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.1.4.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to approve the Code, and to establish a process to maintain and update the Code as laws and budgets are enacted by the Council.</text>
+      </section>
+      <section>
+        <num>1.1.4.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>In 2011,<strong> t</strong>he Pueblo approved a new Governing Agreement ("Agreement") that separates the different duties and functions for the Governor, Council, and Courts;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Agreement places the responsibility to write laws and approve budgets in the Council;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Agreement requires the Council to pass laws and approve budgets in meetings that are open to the public, and to codify and publish all Council enactments;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo enacted a "Law and Order Code" in 1984, and has passed various laws and resolutions since 1984;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council finds the need to update the Code to create a master, comprehensive Code to not only include the 1984 Code but also to include all Council enactments since 2012;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council finds that the Code requires constant updating to maintain an up-to-date, comprehensive record of all enactments of the Council including all laws and budgets.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.1.4.060</num>
+        <heading>Approval of Code</heading>
+        <text>Section 1.2.1 of the Code shall read as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>This Code, which includes both civil and criminal laws, shall become effective upon enactment and shall apply to all persons and property within the jurisdiction of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The power to preserve internal order within the exterior boundaries of the Pueblo by punishing, when necessary, those persons under its jurisdiction who violate Pueblo civil or criminal law is absolutely essential to the existing sovereignty of the Pueblo.  The Pueblo has neither waived nor surrendered its civil jurisdiction over non-Indians within its jurisdiction and/or on the lands of the Pueblo, and no treaty or federal law has withdrawn the civil jurisdiction of the Pueblo over non-Indians found within the jurisdiction of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Legislative Clerk, under the direction of the Lt. Governor or Council designee, shall maintain and update the Code as necessary.  The Legislative Clerk shall have the power to number, renumber, cite, and reorganize the Code in order to maintain a comprehensive set of laws and budgets that are accessible to the public; provided, that the Legislative Clerk shall not have the power to modify any substantive provision of a law or budget enacted or approved by the Council.   The Legislative Clerk shall redact from all Resolutions and laws the dollar amount or price that the Pueblo paid for any land purchase; provided that a member of the Pueblo shall be entitled to obtain the redacted purchase price(s) pursuant to an administrative process, which shall be established by the Governor to protect the proprietary and governmental interests of the Pueblo.  In the absence of a Legislative Clerk, the Secretary shall assume the duties of the Legislative Clerk.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Legislative Clerk shall provide official notice in writing of the enactment of a law, or approval of a budget or budget modification, by providing an official copy of such law or budget to the Executive and Judicial branches of government.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.2</num>
+    <heading>Name of the Pueblo.</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-017, dated May 7, 2013.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-017"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.2.1</num>
+      <heading>Findings</heading>
+      <section>
+        <num>1.2.1.010</num>
+        <text>The Pueblo is currently recognized by the Department of the Interior, Bureau of Indian Affairs (BIA) as the "Pueblo of San Ildefonso";</text>
+      </section>
+      <section>
+        <num>1.2.1.020</num>
+        <text>Subsequently, the Pueblo is identified as the "Pueblo of San Ildefonso" on the list of tribes published annually in the Federal Register, pursuant to the Federally Recognized Indian Tribe List Act of 1994, Public Law 103-454; §103(4), 108 Stat. 4791;</text>
+      </section>
+      <section>
+        <num>1.2.1.030</num>
+        <text>The list of Federally Recognized Indian Tribes is used by Federal agencies and departments to determine eligibility for services;</text>
+      </section>
+      <section>
+        <num>1.2.1.040</num>
+        <text>The name "the Pueblo de San Ildefonso" is used in the Agreement, as approved by the BIA;</text>
+      </section>
+      <section>
+        <num>1.2.1.050</num>
+        <text>The Council recognizes the need to formally adopt an official name, such that there is consistency between the Pueblo's Governance Agreement, recognition by the BIA, listing in the Federal Register, and all other Pueblo documents.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.2.2</num>
+      <heading>Name</heading>
+      <section>
+        <num>1.2.2.010</num>
+        <text>The Pueblo de San Ildefonso Council hereby formally adopts the "Pueblo de San Ildefonso" as the official name of the Pueblo;</text>
+      </section>
+      <section>
+        <num>1.2.2.020</num>
+        <text>The Council requests that the United States Department of Interior acknowledge and change the name of the Pueblo to Pueblo de San Ildefonso.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.3</num>
+    <heading>Government Organization.</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-031, dated August 20, 2012.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-031"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.3.1</num>
+      <heading>Findings</heading>
+      <section>
+        <num>1.3.1.010</num>
+        <text>The Council finds that well organized governments promote efficient provision of services to members;</text>
+      </section>
+      <section>
+        <num>1.3.1.020</num>
+        <text>The Councils finds it necessary to establish an organizational chart of the Pueblo including various departments;</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.3.2</num>
+      <heading>Governmental Organizational Act</heading>
+      <section>
+        <num>1.3.2.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Governmental Organizational Act ("Organization Act").</text>
+      </section>
+      <section>
+        <num>1.3.2.020</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Department" means a division established under the Executive Branch of the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.3.2.030</num>
+        <heading>Purpose</heading>
+        <text>The purpose of the Act is to establish procedures regarding governmental organization of the Pueblo.</text>
+      </section>
+      <section>
+        <num>1.3.2.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds that, establishing a clear governmental organization will promote efficiency and the cost-effective delivery of services to Members.</text>
+      </section>
+      <section>
+        <num>1.3.2.050</num>
+        <heading>Organization</heading>
+        <text><em>Governmental Organization</em> – The Council hereby adopts the attached organizational chart (<em>See,</em> Exhibit A).  The Governor may not reorganize the attached organizational chart without prior Council approval.</text>
+      </section>
+      <section>
+        <num>1.3.2.060</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+      </section>
+      <section>
+        <num>1.3.2.070</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.3.3</num>
+      <heading>Governmental Organizational Act of 2016</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-015, dated July 21, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-015"/>
+      <section>
+        <num>1.3.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council finds the need to reaffirm and enact an organizational chart for the Pueblo;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council hereby enacts the attached law 	entitled, "GOVERNMENTAL ORGANIZATIONAL ACT OF 2016."</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.3.3.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "GOVERNMENTAL ORGANIZATIONAL ACT OF 2016" ("Act").</text>
+      </section>
+      <section>
+        <num>1.3.3.030</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to adopt a single organizational chart for the government of the Pueblo, and to repeal all prior organizational charts for the government of the Pueblo.</text>
+      </section>
+      <section>
+        <num>1.3.3.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Establishing a clear governmental organization, including clear lines of authority, will promote efficiency and the cost-effective delivery of services to Members.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2012, soon after the adoption of the Government Agreement by the voters of the Pueblo, the Council passed Resolution No. SI-R12-031 and enacted an organization chart for the Pueblo, listed as "Exhibit A," including various departments with the Executive branch of government.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Subsequently, the Pueblo enacted a budget which attached a different organizational chart for the government.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>It is in the best interests of the Pueblo to clarify and adopt a single organizational chart for the government of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.3.3.050</num>
+        <heading>Governmental Organization</heading>
+        <para>
+          <num>(a)</num>
+          <text>Resolution No. SI-R12-031 and the Governmental Organizational Act, enacted on August 20, 2012, are hereby repealed.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby adopts the attached organizational chart (Exhibit B), which shall serve as the official organizational chart for the government of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor shall not have the power to alter or modify the attached organizational chart (Exhibit B).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All prior organizational charts for the government of the Pueblo are hereby repealed.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>1.3.4</num>
+      <heading>Typographical Correction Act of 2016</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-012, dated July 7, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-012"/>
+      <section>
+        <num>1.3.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council finds the need to correct two typographical errors in the Governing Agreement of the Pueblo;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council hereby enacts the attached law 	entitled, "Typographical Correction Act of 2016."</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.3.4.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "Typographical Correction Act of 2016" ("Act").</text>
+      </section>
+      <section>
+        <num>1.3.4.030</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to correct two, minor, non-substantive, typographical errors in the Governing Agreement ("Agreement") of the Pueblo.</text>
+      </section>
+      <section>
+        <num>1.3.4.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>In 2011, the voters of the Pueblo approved the Agreement to establish a new form of government for the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council recognizes that it cannot unilaterally modify the Agreement unless approved by the voters of the Pueblo; however, the Council also recognizes that the Agreement sets the foundation for the government and must be interpreted in a logical and sensible manner especially when the courts are presented with a question regarding the interpretation of the Agreement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Agreement includes two, minor, non-substantive, typographical errors involving the juxtaposition of two letters in the traditional name for the Pueblo as listed in the Preamble of the Agreement, and the single word "of" incorrectly listed for the word "or," which represents a typographical error of one letter.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The only logical reading of ELECTIONS AND VOTING, Section 4.  <u>Removal</u>, of the Agreement leads to the conclusion that the word "of" is incorrectly listed for the word "or" so that the proper meaning of ELECTIONS AND VOTING, Section 4. Removal, can only be discerned by using the word "or."</text>
+        </para>
+      </section>
+      <section>
+        <num>1.3.4.050</num>
+        <heading>Corrections</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Courts, when interpreting and applying the Agreement, shall give the only logical and reasonable interpretation to the Preamble, and to ELECTIONS AND VOTING, Section 4.  <u>Removal</u>, in accordance with the typographical errors corrected by this Act.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Preamble of the Agreement shall use word "Po-woh-geh" in place of the word "Po-who-geh."</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>ELECTIONS AND VOTING, Section 4.  <u>Removal</u>, of the Agreement shall use the word "or" in place of the word "of" so that the first sentence of Section 4 should read as follows: "The People give the Council power to remove a fellow Council Member or the Governor by at least a four-fifths vote of the entire Council, excluding the Member or Members of the Council subject to removal, after providing due process, including a written list of charges, adequate notice to provide a defense, and an opportunity to provide a defense."</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Governor shall ensure that all official copies of the Agreement prepared or issued by the Pueblo shall include the two typographical corrections contained in this Section 1.4 of this Act.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+</container>

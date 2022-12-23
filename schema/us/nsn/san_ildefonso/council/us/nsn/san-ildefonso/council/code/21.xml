@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>21</num>
+  <heading>PROBATE</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>21.1</num>
+    <heading>Probate</heading>
+    <annotation type="History">1984 Code</annotation>
+    <container>
+      <prefix>Part</prefix>
+      <num>21.1.1</num>
+      <heading>Probate Procedure</heading>
+      <section>
+        <num>21.1.1.010</num>
+        <heading>Jurisdiction</heading>
+        <para>
+          <num>(a)</num>
+          <text>When a member of the Pueblo of San Ildefonso or any other person residing in the jurisdiction of the Pueblo of San Ildefonso dies intestate, the heirs of the decedent, the claims of the creditors, and the distribution of the estate shall be determined by the San Ildefonso Trial Court under this Code. The jurisdiction of the Court in such cases covers all of the decedent's property that is located anywhere within the territorial jurisdiction of the Trial Court except property and funds which are restricted or held in trust by the Federal Government. All proceedings under the Probate Code shall be conducted under the Riles of Civil Procedure of this Code.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>21.1.2</num>
+      <heading>Small Estates</heading>
+      <section>
+        <num>21.1.2.010</num>
+        <heading>Small Estates.</heading>
+        <text>Any interested person may file a petition with the Clerk of the Court for the distribution, without administration of estate of a decedent who died testate or intestate and in which the total estate consisting of nontrust property not exceeding $5,000.00 in value, provided that the decedent is survived by a widow or widower or by one (1) or more minor children, otherwise the procedures of Chapters 30 and 31 of this Title shall be followed.</text>
+      </section>
+      <section>
+        <num>21.1.2.020</num>
+        <heading>Information Required.</heading>
+        <text>The petition for distribution of a small estate shall contain the information required by Sec. 30.5. The petition shall be sworn to before the Clerk of the Court or other officer authorized to administer oaths.</text>
+      </section>
+      <section>
+        <num>21.1.2.030</num>
+        <heading>Findings and Final Order.</heading>
+        <text>If the Court finds that the estate does not exceed $5,000.00 in value, and that more than thirty (30) days have elapsed since the death of the decedent, the Court may order the estate distributed pursuant to the decedent's will, if any, or according to t e rules of the descent and distribution of this Title.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>21.1.3</num>
+      <heading>Administration</heading>
+      <section>
+        <num>21.1.3.010</num>
+        <heading>Petition for Administrator or Executor.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Immediately upon the death of a member of the Pueblo of San Ildefonso and prior to appointment of the executor or administrator, the Court shall have authority to seal the estate, including all belongings and property, of the decedent, and to appoint a caretaker to take possession and control of the property of the decedent, and to care for and maintain the property.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person claiming to be the heir of any member of the Pueblo of San Ildefonso or any other person residing on the Pueblo of San Ildefonso or surviving spouse of the decedent, surviving children, creditors, or the Pueblo may file a petition for the appointment of an executor, if there is a will, or administrator of the estate with the Clerk of the Trial Court. All procedures shall be conducted accordance with the Civil Procedures of this Code.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Court shall thereupon appoint an administrator or executor of the estate who shall take possession and control of the property of the decedent from the caretaker until the administration of the estate has been completed and he has been discharged by order of the Court.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>It shall be the duty of the executor or administrator to preserve and protect the property for the benefit of the estate and heirs.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Upon petition of the caretaker, administrator or executor, the Court may authorize the unsealing of the estate, including all belongings and property, for the purposes of a traditional give-away under the customs of the Pueblo of San Ildefonso; however, only persons designated by the decedent or eligible under Pueblo custom and tradition shall be eligible to take.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Reasonable maintenance may be authorized by the Court to any surviving spouse or surviving minor children pending settlement of the estate.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The caretaker, administrator or executor shall petition the Court for the appointment of guardians for any minor children or any person deemed to be incompetent who may be probable heirs or devisees of the decedent.</text>
+        </para>
+      </section>
+      <section>
+        <num>21.1.3.020</num>
+        <heading>Wills.</heading>
+        <text>Every custodian of a will must deliver the will to the Trial Court within five (5) days of the death of its maker. Failure to do so may subject that person to the damages sustained by any person injured thereby.</text>
+        <para>
+          <num>(a)</num>
+          <text>A will may be proved by the affidavit of two (2) attesting witnesses identifying the signature of the testator and affirming that the will was executed by the decedent in the presence of the witnesses and declared by him to be his last will and testament.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the event that any person contests the validity of the will, the Court shall take no further action except to set a date for a hearing to establish the validity of the will and until the Court rules on the validity of the will.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Upon the completion of the hearing or hearings regarding the validity of the will, the Judge of the Trial Court shall either affirm the will and order it admitted to probate or reject the will and order the administration of the decedent's estate as if the decedent had died intestate without executing the will.</text>
+        </para>
+      </section>
+      <section>
+        <num>21.1.3.030</num>
+        <heading>Appraisal of Property.</heading>
+        <text>When any action is filed under this Title for the probate of a decedent's estate, the Court shall appoint a qualified appraiser to appraise all of the property within the jurisdiction of the Court who shall file the appraisal report with the Clerk of the Court.</text>
+      </section>
+      <section>
+        <num>21.1.3.040</num>
+        <heading>Claims.</heading>
+        <text>Creditors of the estate or those having a claim against the decedent shall file their claim with the Clerk of the Court or the executor or administrator within sixty (60) days from official notice of the appointment of the executor or administrator published locally by the press or posting of signs at the Tribal and other offices, giving appropriate notice for the filing of claims.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Court or Administrator or executor shall examine all claims within ninety (90) days of his appointment and notify the claimant whether his claim is accepted or rejected. If the claimant is notified of rejection, the claimant any appeal to the Trial Court before the date set for distribution of the estate for determination of the appeal at the distribution hearing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Claims shall be preferred in the following order:</text>
+          <para>
+            <num>(1)</num>
+            <text>All reasonable expenses of last illness and burial.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Reasonable expenses of administration.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All other claims, including claims filed by agencies of the State and Federal Government.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any amount due the Pueblo of San Ildefonso, including notice of all Tribal liens on any part of the estate of the decedent.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>21.1.3.050</num>
+        <heading>Administration of Estate.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Within one-hundred (100) days after the appointment of the executor or administrator, he shall file a petition for the determination of heirs and distribution of the estate.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The petition shall be filed in duplicate and shall be sworn to or affirmed and shall contain:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name of decedent.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Place and date of decedent's death.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Names, ages, and relationship to decedent of all heirs of decedent and, if decedent dies testate names, ages, and relationship, if any, of all beneficiaries under his will.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Nature and extent of decedent's property and location of same.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>State of existence or absence of will with attachment of original will if decedent dies testate.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Copy of death certificate or other adequate proof of death.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Statement of all claims including those approved or rejected for payment.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>A certificate of heirs signed by the Tribal Official in charge of Tribal Census Records.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Proof of service on persons personally served, names of persons served by mail, and the number of notices posted and their location.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>The Court may file a petition for the determination of heirs and distribution of the estate in its own motion in the event an executor or administrator is not appointed or fails to act as required.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>21.2</num>
+    <heading>Descent and Distribution</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>21.2.1</num>
+      <heading>Determination of the Court</heading>
+      <section>
+        <num>21.2.1.010</num>
+        <heading>Determination of the Court.</heading>
+        <text>At the time set for hearing, the Trial Court shall proceed to examine all evidence relating to the distribution of the decedent's estate and determine any controversy relating to claims or as to those entitled to receive the decedent's estate. Upon conclusion of the hearing, the Court shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Enter its order determining the heirs or devisees.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide for payment of approved claims.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide for distribution of the decedent's estate by the executor or administrator as ordered by the Court.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Require a report in thirty (30) days from any executor or administrator that he has carried out the orders of the Court.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Discharge the executor or administrator and close the estate upon finding that the executor or administrator has faithfully discharged his duties.</text>
+        </para>
+      </section>
+      <section>
+        <num>21.2.1.020</num>
+        <heading>Descent and Distribution.</heading>
+        <text>In the event there is no will admitted to probation and there is no Pueblo custom or ordinance to the contrary recognized by the Court, the estate shall be distributed by order of the Court as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>If a husband or wife survives and there is no issue over the age of eighteen (18) years, the husband or wife shall take the entire estate.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a husband or wife survives and an issue over the age of eighteen (18) survives, the surviving husband or wife shall take one-half (1) and the balance is divided equally among the surviving issue over the age of eighteen (18) years.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Issue is any direct descendent of deceased person, whether child, grandchild, great-grandchild or more remote descendent.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If no husband or wife survives, the surviving children will take the entire estate in equal shares.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If neither husband or wife or issue survives, the parents of the decedent will take all of the estate, sharing it equally if both survive or the survivor taking all if but one (1) survives.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>If no spouse, issue or father or mother survives, the brothers and sisters shall inherit in equal shares, except that if pre-deceased brothers and sisters left issue, the issue shall share equally in the interest of their predeceased parent.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>If no spouse, issue, father or mother, brother or sister or nephew or niece or decedent survives the estate shall escheat or pass to the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>An illegitimate child shall inherit from his mother the same as if born in lawful wedlock and shall inherit also from the person who, in writing and before a competent attesting witness, shall have declared himself to be his father or found to be the father in a paternity suit.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Adoptive children and parents shall share in the same manner as natural children and parents.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Family heirlooms, artifacts, articles or traditional or religious significance may be funeral gifted by or shall descend to the closest enrolled San Ildefonso male relative by blood of a paternal decedent and to the closest enrolled San Ildefonso Pueblo female relative by blood of a maternal decedent.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Any person who pleads guilty to or is convicted of homicide or murder of the first or second degree of the decedent, under any state or federal law, shall not be eligible to inherit any part of the decedent's estate under this Code by law, Pueblo custom or will of the decedent, and all property, including any trust property that must pass will escheat to the Tribe if there are no other heirs at law.</text>
+        </para>
+      </section>
+      <section>
+        <num>21.2.1.030</num>
+        <heading>Expenses and Fees.</heading>
+        <text>After the payment of all expenses in connection with the distribution of the estate, the Court may charge such fees as may be deemed proper taking into consideration the appraised value of the estate of the decedent, but not to exceed $500.00.</text>
+      </section>
+    </container>
+  </container>
+</container>

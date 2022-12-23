@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R19-024">
+  <num>SI-R19-024</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-024</heading>
+  <heading type="law">Authorization and Approval for Submission of Title VI Federal Application for Continued Funding for the ENIPC, Inc. Senior Citizen Program</heading>
+  <meta>
+    <effective>2019-12-12</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R19-024</citation>
+    </citations>
+    <history>
+      <adopted>2019-12-12</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 12th day of December, 2019, the following Resolution and law were adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Eight Northern Indian Pueblos Council Inc. ("ENIPC"), is comprised of the Northern New Mexico Pueblos of Taos, Picuris, Ohkay Owingeh, Santa Clara, San Ildefonso, Pojoaque, Nambe and Tesuque; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the ENIPC Board of Governors is comprised of appointed and elected Tribal Governors from the respective Eight Northern Pueblo Tribes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>ENIPC is established to provide community-based services in the areas of education, employment and training, behavioral health, domestic violence counseling, senior services, environmental support services, child care providing, commodity distribution, woman and infant services, and administrative support services; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the ENIPC, Inc. Senior Citizens Program currently provides nutritional meals to our homebound and congregate elders five days a week, we also provide respite care, transportation, case management, health and wellness promotions, etc. on behalf of four of the Eight Northern Pueblos; Picuris, Pojoaque, Nambe and San Ildefonso Pueblos; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the 1978 Amendments to the Older Americans Act (OAA) created Title VI grants for Indian Tribal Organizations, to promote the delivery of supportive and nutritional services for Indian elders that are comparable to services provided under Title III of the OAA; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Federal Application under Title VI is for continued Federal Funding with estimated funding of $391,911.13 to be received for FY April 1, 2020- March 31, 2023; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the ENIPC, Inc. Senior Citizens Program will apply for services required by the OAA Title VI to include: Nutrition, Information and Assistance, Other Support Services, Care Giver Services, Counseling/Support Groups/Training, Respite Care and Supplemental Services; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") supports the ENIPC's Senior Citizens Program's application for services required by OAA Title VI to include: Nutrition, Information and Assistance, Other Support Services, Care Giver Services, Counseling/Support Groups/Training, Respite Care and Supplemental Services; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo supports the submission of the Senior Citizens Program's application for services required by OAA Title VI to include: Nutrition, Information and Assistance, Other Support Services, Care Giver Services, Counseling/Support Groups/Training, Respite Care and Supplemental Services.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby approves and adopts the resolution and attached law in accordance with the requirements of the Agreement, according to the published Council Procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 12, 2019, at a meeting with a vote of 8 in favor, 0 opposed, 0 abstaining and 2 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):     Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No.  SI-R19-024 was presented to the Governor of the Pueblo de San Ildefonso on the 12th day of December, 2019, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this ____12th ___ day of _______December_______, 2019.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2019.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.25</num>
+      <heading>Authorization and Approval for Submission of Title VI Federal Application for Continued Funding for the ENIPC, Inc. Senior Citizen Program</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.5.25"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>AUTHORIZATION AND APPROVAL FOR SUBMISSION OF TITLE VI FEDERAL APPLICATION FOR CONTINUED FUNDING FOR THE ENIPC, INC. SENIOR CITIZEN PROGRAM</heading>
+    <section>
+      <codify:insert num-value="6.5.25.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the Act, "SENIOR CITIZENS PROGRAM FUNDING AUTHORIZATION ACT ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.5.25.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize and direct the Governor to take the steps necessary to submit the application for the deferral funding to continue the Senior Citizens Program for the Pueblo.</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.5.25.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Eight Northern Indian Pueblos Council, Inc. ("ENIPC"), is compromised of the Northern New Mexico Pueblos of Taos, Picuris, Ohkay Owingeh, Santa Clara, San Ildefonso, Pojoaque, Nambe and Tesuque; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The ENIPC Board of Governors is comprised of appointed and elected Tribal Governors from the respective Eight Northern Pueblo Tribes; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>ENIPC is established to provide community-based services in the areas of education, employment and training, behavioral health, domestic violence counseling, senior services, environmental support services, childcare providing, commodity distribution, woman and infant services, and administrative support services; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The ENIPC, Inc. Senior Citizens Program currently provides nutritional meals to our homebound and congregate elders five days a week, they also provide respite care, transportation, case management, health and wellness promotions, etc. on behalf of four of the Eight Northern Pueblos; Picuris, Pojoaque, Nambe and San Ildefonso Pueblos; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The 1978 Amendments to the Older Americans Act (OAA) created Title VI grants for Indian Tribal Organizations, to promote the delivery of supportive and nutritional services for Indian elders that are comparable to services provided under Title III of the OAA; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Federal Application under Title VI is for continued Federal Funding with estimated funding of $391,911 to be received for FY April 1, 2020 – March 31, 2023; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The ENIPC, Inc. Senior Citizens Program will apply for services required by the OAA Title VI to include: Nutrition, Information and Assistance, Other Support Services, Care Giver Services, Counseling/Support Groups Training, Respite Care and Supplemental Services; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Pueblo supports the ENIPC's Senior Citizens Program's application for services required by OAA Title VI to include: Nutrition, Information and Assistance, Other Support Service, Care Giver Services, Counseling/Support Groups/Training, Respite Care and Supplemental Services; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Pueblo de San Ildefonso supports the submission of the Senior Citizens Program's application for services required by OAA Title VI to include: Nutrition, Information and Assistance, Other Support Services, Care Giver Services, Counseling/Support Groups Training, Respite Care and Supplemental Services.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <codify:insert num-value="6.5.25.040"/>
+      <heading>Insert</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes and directs the Governor to take all steps necessary to submit the application for federal funding to continue the Senior Citizens Program for the Pueblo through ENIPC, Inc., and to take all other actions necessary to carry out the intent of this Resolution and law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council hereby authorizes and directs the Governor to negotiate and execute a Memorandum of Agreement ("MOA") or a Memorandum of Understanding ("MOU") with ENIPC, Inc., to provide the Pueblo with greater oversight of the Senior Citizens Program operated by ENIPC, Inc. for the Pueblo including the authority of the Pueblo to determine the budget for the Pueblo's Senior Citizens Program pursuant to the formal Annual Budget and/or Budget Modification process, and including a plan which shall be developed within two years for the Pueblo to independently operate and manage its Senior Citizens Program when appropriate.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1" id="Pueblo de San Ildefonso Council Res. No. SI-R21-018">
+  <num>SI-R21-018</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-018</heading>
+  <heading type="law">Housing Utility Infrastructure Authorization Act</heading>
+  <meta>
+    <effective>2021-08-30</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-018</citation>
+    </citations>
+    <history>
+      <adopted>2021-08-26</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 26th day of August, 2021, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the population of the Pueblo is increasing putting pressure on existing housing supplies and creating a need for new housing; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>many members of the Pueblo have expressed the need for new housing and improvements to existing homes; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has some land parcels available that could be utilized for new housing purposes; however, these parcels often lack adequate utilities, ingress and egress, and other infrastructure needs; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has issued land assignments to members of the Pueblo, in some cases decades ago initially for farming purposes, and some members and their descendants have utilized or desire to utilize land assignments to develop or improve housing including manufactured and new construction homes; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo desires to make land available for housing for members of the Pueblo in a fair and equal manner while taking into account the impacts new housing will likely have on neighboring land assignments, existing land uses, the natural environment, culturally-sensitive areas, aesthetics, infrastructure, utilities, and overall policies established by the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the IHS has, from time to time, provided utility line construction and installation services to deliver certain utilities such as water and wastewater systems to members of the Pueblo, including to both existing homes and new homes, at a significant cost savings to the Pueblo and its members; however, the process to apply for IHS-funded services, and the process for the Pueblo to authorize IHS-funded construction services, has been haphazard and unclear, due in part to federal funding limitations; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as part of the Aamodt water rights litigation and settlement, the Pueblo is in the process of constructing a major water infrastructure project that will result in the availability of additional water resources to the Pueblo and its members including water for housing, farming, economic development, conservation, and other purposes; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amount of land available for housing purposes is limited, and any decisions regarding the development of new housing projects must be made in a thoughtful, systematic, and culturally-appropriate manner to protect against waste, duplication of services including utility infrastructure, and to reduce conflicts, while, at the same time, establishing fair and transparent rules and procedures for all members of the Pueblo to address their housing and utility infrastructure needs; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that it is in the best interests of the Pueblo and its members to authorize and direct the Governor to address housing issues including the authority to approve and enter into agreements with the IHS to provide utility infrastructure services to homes and homesites of members of the Pueblo.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "HOUSING UTILITY INFRASTRUCTURE AUTHORIZATION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>August 26</u> , 2021, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R21-018</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>30</u><sup><u>th</u></sup> day of <u>August</u> , 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>30</u><sup><u>th</u></sup> day of <u>August</u> , 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.6</num>
+      <heading>Housing Utility Infrastructure Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-018"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="15.1.6"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading>HOUSING UTILITY INFRASTRUCTURE AUTHORIZATION ACT</heading>
+    <section>
+      <codify:insert num-value="15.1.6.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "HOUSING UTILITY INFRASTRUCTURE AUTHORIZATION ACT."</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to: (1) Establish a process for members of the Pueblo to apply for home utility infrastructure services or to initiate a Utility Infrastructure Project; (2) ) Establish the standards, process, and requirements for approval of applications for home and homesite utility services; (3) Require public notice of any pending Utility Infrastructure Project with an opportunity for public comments prior to approval; and (4) Authorize the Governor to make final decisions on land use matters pursuant to this Act including applications for home and homesite utility infrastructure services and/or a Utility Infrastructure Project.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.030"/>
+      <num>1.3</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Act" means the Housing Utility Infrastructure Authorization Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Application" means a mandatory, written application completed by a member of the Pueblo to request or initiate a Utility Infrastructure Project.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"DNR" means the Department of Natural Resources of the Pueblo or a designee.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"IHS" means the U.S. Indian Health Service.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Project" means any and all home or homesite Utility Infrastructure Projects located on the Pueblo that is funded in whole or in part by or through a member of the Pueblo, a resident of the Pueblo, a private party, the Pueblo, and/or IHS or other governmental agency, as requested in a written Application and subject to the approval of the Governor.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Pueblo" means the Pueblo de San Ildefonso. "Pueblo" also means the lands over which the Pueblo has jurisdiction.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Utility Infrastructure Project" means any and all projects to develop, repair, or improve water, wastewater, electric, gas, or internet services to a home or homesite.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.040"/>
+      <num>1.4</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The population of the Pueblo is increasing putting pressure on existing housing supplies and creating a need for new housing; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Many members of the Pueblo have expressed the need for new housing and improvements to existing homes; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo has some land parcels available that could be utilized for new housing purposes; however, these parcels often lack adequate utilities, ingress and egress, and other infrastructure needs; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo has issued land assignments to members of the Pueblo, in some cases decades ago, initially for farming purposes, and some members and their descendants have utilized or desire to utilize land assignments to develop or improve housing including manufactured and new construction homes; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Pueblo desires to make land available for housing for members of the Pueblo in a fair and equal manner while taking into account the impacts new housing will likely have on neighboring land assignments, land use, the natural environment, culturally-sensitive areas, aesthetics, infrastructure, utilities, and overall policies established by the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The IHS has, from time to time, provided utility line construction and installation services to deliver certain utilities such as water and wastewater systems to members of the Pueblo, including to both existing homes and new homes, at a significant cost savings to the Pueblo and its members; however, the process to apply for IHS-funded services, and the process for the Pueblo to authorize IHS-funded construction services, has been haphazard and unclear, due in part to federal funding limitations; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>As part of the <u>Aamodt</u> water rights litigation and settlement, the Pueblo is in the process of constructing a major water infrastructure project that will result in the availability of additional water resources to the Pueblo and its members including water for housing, farming, economic development, conservation, and other purposes; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The amount of land available for housing purposes is limited, and any decisions regarding the development of new housing projects must be made in a thoughtful, systematic, and culturally-appropriate manner to protect against waste, duplication of services including utility infrastructure, and to reduce conflicts, while, at the same time, establishing fair and transparent rules and procedures for all members of the Pueblo to address their housing needs; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Council has determined that it is in the best interests of the Pueblo and its members to authorize and direct the Governor to address housing utility issues including the authority to approve and enter into agreements with the IHS to provide utility infrastructure services or to initiate a Utility Infrastructure Project to homes and homesites of members of the Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.050"/>
+      <num>1.5</num>
+      <heading>Mandatory Approval Process for All Utility Infrastructure Projects</heading>
+      <para>
+        <num>(a)</num>
+        <text>All Utility Infrastructure Projects shall comply with the requirements of this Act. Any person or entity seeking approval of a Utility Infrastructure Project shall fila an Application with DNR. This Act shall not apply to minor repairs or normal; maintenance to home utility services.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.060"/>
+      <num>1.6</num>
+      <heading>Process for Members to Apply for Approval of a Utility Infrastructure Project</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any member of the Pueblo shall be eligible to apply for approval of a Project by filing a written Application with the DNR, which shall be in addition to any application or process required by any other government. DNR may request additional information from an applicant which DNR determines is necessary for consideration and approval of the Project.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be the responsibility of the applicant to provide adequate information requested in the Application and to cooperate with reasonable requests from DNR for additional information that will assist in the consideration and approval of the Project.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.070"/>
+      <num>1.7</num>
+      <heading>Responsibilities of the Department of Natural Resources</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Application</u>. DNR shall develop a written Application for any member of the Pueblo to apply for approval of a Project.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>New Applications</u>. DNR shall keep a chronological list of all Applications for a Project received by the DNR. If an Application seeks assistance and funding from IHS for a Project, DNR shall cooperate with IHS to fulfill the requests for services contained in the Applications in the order the Application was received depending on the nature of the request and the availability of funding; Provided, that the Governor may alter the order of Projects in urgent or emergency situations to protect the health and safety of the citizens of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Pending Applications and/or Requests for Assistance</u>. DNR shall keep a separate list of any known applications or requests for assistance previously filed with IHS and/or pending with IHS at the time of the approval of this Act. DNR shall apply this Act to the extent reasonably possible to all applications or requests for assistance pending at the time of the approval of this Act.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The DNR shall be authorized to promulgate a rule to establish design criteria for all Projects pursuant to notice and comment rule-making.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The DNR shall review each Application and shall consider the following factors:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Applicant's land assignment or other indication of the Applicant's property</text>
+          <text>interest in the home or homesite; Provided, that the burden of proof demonstrating a property interest shall be on the Applicant, and if DNR and/or the Governor cannot determine that a cognizable property interest exists, then DNR and/or Governor may decline to process the Application by providing a written explanation to the Applicant.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Whether the project is designated in an appropriate location including:</text>
+          <para>
+            <num>i.</num>
+            <text>the nature of the surrounding area including the location of any nearby homes, buildings, and roads;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>the amount of available land for the Project;</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>the length and duration of any disruption to the land;</text>
+          </para>
+          <para>
+            <num>iv.</num>
+            <text>the availability of all utilities including water, sewer, electricity, gas, and other necessary services, or an explanation of how all basic needs will be met;</text>
+          </para>
+          <para>
+            <num>v.</num>
+            <text>the impact of the Project on any surrounding or nearby land assignments and homes;</text>
+          </para>
+          <para>
+            <num>vi.</num>
+            <text>the impact of the Project on the natural environment and whether the least disruptive alternatives have been considered;</text>
+          </para>
+          <para>
+            <num>vii.</num>
+            <text>whether the project will change or alter the current use of the land;</text>
+          </para>
+          <para>
+            <num>viii.</num>
+            <text>whether the project will have an impact on future development in the area;</text>
+          </para>
+          <para>
+            <num>ix.</num>
+            <text>the availability of reasonable ingress and egress to the homesite;</text>
+          </para>
+          <para>
+            <num>x.</num>
+            <text>the type and condition of the structure to which the utilities will be provided, and whether the Project will improve existing utility service or provide new access to utility services;</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Whether IHS has offered any comments or recommendations regarding the design, scope, and cost of the Project;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Whether the project will have any impact on any culturally significant site or have an impact on any religious practice;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Whether the Project will comply with the Pueblo's Tribal Historic Preservation Office requirements and laws including avoiding any disturbance to a culturally significant site;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Whether the Project complies with other applicable laws of the Pueblo.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><u>Preliminary Review of the Application</u>. DNR shall consider the Project Application and the factors listed above, and any other factors that the DNR may reasonably consider to protect the health and safety of the Pueblo and its citizens. DNR shall recommend approval of the Project unless significant factors listed above exist to deny the Project, which DNR shall identify in writing to the Applicant. DNR shall provide the Applicant with an opportunity to address the factors identified that may be cause to deny the Project.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><u>Public Notice and Comment</u>. Upon submission of a final Application for a Project, DNR shall provide General Public Notice of the Project for at least thirty (30) days, including Notice in at least one official monthly Pueblo bulletin or newsletter, in the Rio Grande Sun or similar newspaper of general circulation, and in at least two public locations on the Pueblo, and shall include DNR's preliminary recommendation regarding the Project. DNR shall provide Specific Notice of the Project to all known adjacent landowners or anyone with an adjacent property interest. DNR shall also provide the public and any adjacent interested party with at least thirty (30) days to provide comments and recommendations to DNR regarding the Project.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text><u>DNR Recommendation to the Governor</u>. After thorough consideration of the Application and public comments received regarding a Project, DNR shall make a final recommendation to the Governor regarding the approval or rejection of the Project and the reasons therefor. DNR shall provide a final recommendation on a Project within sixty (60) days of the close of the public comment period; provided that DNR may take up to an additional sixty (60) days as necessary by providing written notice of the need for additional time to the Applicant.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.080"/>
+      <num>1.8</num>
+      <heading>Decision by the Governor</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Governor shall make a written decision on all Applications for a Project in a timely manner. A decision made by the Governor pursuant to this Act shall take precedence over any initial decision by IHS regarding a Project. The Governor may take any of the following actions regarding a Project:</text>
+        <para>
+          <num>i.</num>
+          <text>if DNR recommends approval of the Project, the Governor may grant final approval of the Project;</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <text>if DNR recommends approval of the Project, the Governor may deny the recommendation from DNR, and make a final decision to reject the Project;</text>
+        </para>
+        <para>
+          <num>iii.</num>
+          <text>if DNR recommends denial of the Project, the Governor may make a final decision to reject the Project;</text>
+        </para>
+        <para>
+          <num>iv.</num>
+          <text>if DNR recommends denial of the Project, the Governor may deny the recommendation from DNR and grant final approval of the Project; or,</text>
+        </para>
+        <para>
+          <num>v.</num>
+          <text>remand the Application to DNR with instructions for further investigation and study, which may include DNR requesting additional information from the Applicant or suggesting modifications to the Application and Project; Provided, that if the Applicant modifies the proposed Project, then DNR shall treat the modified Project as a new Application and shall begin the process anew.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Upon approval of a Project by the Governor, the Governor shall be authorized to negotiate and execute agreements with the IHS as may be necessary to provide utility infrastructure services to homes and homesites.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No Utility Infrastructure Project shall be constructed without the prior approval of the Governor in writing.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.6.090"/>
+      <num>1.9</num>
+      <heading>Enforcement</heading>
+      <text>The Governor or his designee shall be authorized to enforce this Act including by filing suit in the Courts of the Pueblo against any party who fails or refuses to comply with the requirements of this Act. The Court may award the costs of the enforcement of this Act against any party who has been found to have violated this Act.</text>
+    </section>
+  </attachment>
+</document>

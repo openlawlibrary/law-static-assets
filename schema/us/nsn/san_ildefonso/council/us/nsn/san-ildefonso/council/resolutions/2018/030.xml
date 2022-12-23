@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1" id="Pueblo de San Ildefonso Council Res. No. SI-R18-030">
+  <num>SI-R18-030</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-030</heading>
+  <heading type="law">Confirming Delegation of Authority to the Northern Pueblos Housing Authority to Apply for 2018 ICDBG Funding for Rehabilitation of Existing Homes for Low-Income Pueblo Members</heading>
+  <meta>
+    <effective>2018-12-17</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R18-030</citation>
+    </citations>
+    <history>
+      <adopted>2018-12-14</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 14th day of December, 2018, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 12, 2000, the Tribal Council adopted Ordinance No. SI-R00-001, establishing the Northern Pueblos Housing Authority (NPHA); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Northern Pueblos Housing Authority ("NPHA") is the Tribally Designated Housing Authority ("TDHE") for the Pueblos of San Ildefonso, Picuris, and Tesuque, established by such Pueblos pursuant to § 4(18) and (21) of the Native American Housing and Self Determination Act of 1996, 25 U.S.C. §§ 4401 et seq. ("NAHASDA") for developing, operating, and managing housing units assisted by the United States Department of Housing and Urban Development (HUD);;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a community meeting was held on April 19, 2017 and Rehabilitation of Existing Homes for Low-Income Pueblo Members was identified as a project priority for the Indian Community Development Block Grant (ICDBG) Program application and Citizen (community) participation was adhered to.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby certifies that:</text>
+      <para>
+        <num>1.</num>
+        <text>All requirements of citizen participation found at 24 C.F.R. 1003.604 have been met;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Council has considered all comments and views made by residents of the Pueblo; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Council has had the application modified, as necessary;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Indian Community Development Block Grant (ICDBG) application has been made available to residents;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The methodology and information provided by NPHA for purposes of meeting ICDBG threshold and service standards, notably in respect to the certification of the income-eligibility of the intended beneficiaries of the project, were systematically collected, are statistically reliable, and to the greatest extent feasible, are independently verifiable, and are approved by the Council;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>For the purpose of ICDBG funding and program delivery, the Council hereby directs NPHA to comply with the applicable provisions contained in the in the Building and Construction Codes as codified in Title 14 of the New Mexico Administrative Code as may be amended from time to time, or the International Building Codes, whichever is more stringent.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that, for the purpose of ICDBG funding and program delivery, the Council hereby directs the NPHA to comply with these provisions which collectively enumerate all essential ethics in contracting and conflicts of interest requirements, in relation to the administration and management of ICDBG funds and the delivery of services there under:</text>
+      <para>
+        <num>1.</num>
+        <text>The NPHA Code of Conduct Policy Statement Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The applicable provisions contained in the Tenth Amended and Restated NPHA Procurement, Inventory, Disposition, and Housing Standards Policy, Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Seventh Amended and Restated NPHA Management Policy, Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Fifteenth Amended and Restated NPHA Personnel Policy, Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09;</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>That for the purpose of administering ICDBG funding, the Council hereby directs NPHA to comply with the Fifth Amended and Restated NPHA Financial Management and Internal Controls Policy, Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-99 in relation to administration of ICDBG funds;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>That for the purpose of provision of rehabilitation services, the Council hereby directs NPHA to comply with the Fourth Amended and Restated NPHA Housing Rehabilitation Standards and Policy adopted on January 19, 2011 by Board Resolution Number 11-1;</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>NOW BE IT FINALLY RESOLVED,</conjunction>
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>That the Council hereby enacts the attached law entitled "CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR 2018 ICDBG FUNDING FOR REHABILITATION OF EXISTING HOMES FOR LOW-INCOME PUEBLO MEMBERS;" and,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>That this Resolution becomes effective immediately and that the Council hereby authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent and purpose of this Resolution.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 14 , 2018, at a meeting with a vote of in favor, opposed, abstaining and absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):    Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Tim Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R18-030 was presented to the Governor of the Pueblo de San Ildefonso on the 14th  day of December, 2018, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{    } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this __________ day of _______________________, 2018.</text>
+    <text>Perry Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2018.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Tim Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.3</num>
+      <heading>Confirming Delegation of Authority to the Northern Pueblos Housing Authority to Apply for 2018 ICDBG Funding for Rehabilitation of Existing Homes for Low Income Pueblo Members</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="15.1.3"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR 2018 ICDBG FUNDING FOR REHABILITATION OF EXISTING HOMES FOR LOW- INCOME PUEBLO MEMBERS</heading>
+    <section>
+      <codify:insert num-value="15.1.3.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as "CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR 2018 ICDBG FUNDING FOR REHABILITATION OF EXISTING HOMES FOR LOW- INCOME PUEBLO MEMBERS," or in the abbreviated form, the "2018 ICDBG GRANT APPLICATION."</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.3.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this enactment is to provide the Northern Pueblos Housing Authority (NPHA) with the authority to apply for 2018 funding under the U.S. Department of Housing and Urban Development (HUD) Indian Community Development Block Grant (ICDBG) Program for rehabilitation of existing homes of low-income San Ildefonso Pueblo members.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.3.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>On April 12, 2000, the Tribal Council adopted Ordinance No. SI-R00-001, establishing the Northern Pueblos Housing Authority (NPHA); and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Northern Pueblos Housing Authority  is the Tribally Designated Housing Authority ("TDHE") for the Pueblos of San Ildefonso, Picuris, and Tesuque, established by such Pueblos pursuant to § 4(18) and (21) of the Native American Housing and Self Determination Act of 1996, 25 U.S.C. §§ 4401 <em>et seq.</em> ("NAHASDA") for developing, operating, and managing housing units assisted by the United States Department of Housing and Urban Development (HUD); and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A community meeting was held on April 19, 2017, and Rehabilitation of Existing Homes for Low-Income Pueblo Members was identified as a project priority for the ICDBG Program application and that Citizen (community) participation was adhered to.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.3.040"/>
+      <num>1.4</num>
+      <heading>Certifications</heading>
+      <text>The Council hereby certifies that:</text>
+      <para>
+        <num>(a)</num>
+        <text>All requirements of citizen participation found at 24 C.F.R. 1003.604 have been met; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council has considered all comments and views made by residents of the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council has had the application modified, as necessary; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The ICDBG application has been made available to residents; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The methodology and information provided by NPHA for purposes of meeting ICDBG threshold and service standards, notably in respect to the certification of the income-eligibility of the intended beneficiaries of the project, were systematically collected, are statistically reliable, and to the greatest extent feasible, are independently verifiable, and are approved by the Council; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>For the purpose of ICDBG funding and program delivery, the Council hereby directs NPHA to comply with the applicable provisions contained in the in the Building and Construction Codes as codified in Title 14 of the New Mexico Administrative Code as may be amended from time to time, or the International Building Codes, whichever is more stringent.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.3.050"/>
+      <num>1.5</num>
+      <heading>Compliance and Provisions</heading>
+      <text>For the purpose of ICDBG funding and program delivery, the Council hereby directs NPHA to comply with these provisions which collectively enumerate all essential ethics in contracting and conflicts of interest requirements, in relation to the administration and management of ICDBG funds and the delivery of services there under:</text>
+      <para>
+        <num>(a)</num>
+        <text>The NPHA Code of Conduct Policy Statement Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The applicable provisions contained in the Tenth Amended and Restated NPHA Procurement, Inventory, Disposition, and Housing Standards Policy, Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Seventh Amended and Restated NPHA Management Policy, Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Fifteenth Amended and Restated NPHA Personnel Policy Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>That for the purpose of administering ICDBG funding, the Council hereby directs NPHA to comply with the Fifth Amended and Restated NPHA Financial Management and Internal Controls Policy, Amended and Restated on October 24, 2016 by NPHA Board Resolution Number 2016-09 in relation to administration of ICDBG funds;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>That for the purpose of provision of rehabilitation services, the Council hereby directs NPHA to comply with the Fourth Amended and Restated NPHA Housing Rehabilitation Standards and Policy adopted on January 19, 2011 by Board Resolution Number 11-1;</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.3.060"/>
+      <num>1.6</num>
+      <heading>Grant Authorization</heading>
+      <text>The Governor or his designee is hereby authorized to take such actions as deemed necessary to carry out the intent and purpose of this Resolution.</text>
+    </section>
+  </attachment>
+</document>

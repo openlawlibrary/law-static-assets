@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/nsn/mohican/council/_schemas/library"
+    xmlns="https://open.law/us/nsn/mohican/council/_schemas/library"
+    xmlns:d="https://open.law/us/nsn/mohican/council/_schemas/docs/default"
+    xmlns:od="https://open.law/us/nsn/mohican/council/_schemas/docs/ordinance"
+    xmlns:codify="https://open.law/us/nsn/mohican/council/_schemas/codify"
+    xmlns:r="https://open.law/us/nsn/mohican/council/_schemas/docs/resolution">
+    <xs:import namespace="https://open.law/us/nsn/mohican/council/_schemas/codify"
+        schemaLocation="codify.xsd"/>
+    <xs:import namespace="https://open.law/us/nsn/mohican/council/_schemas/docs/default"
+        schemaLocation="docs/default.xsd"/>
+    <xs:import namespace="https://open.law/us/nsn/mohican/council/_schemas/docs/resolution"
+        schemaLocation="docs/resolution.xsd"/>
+    <xs:redefine schemaLocation="../../../../../ngo/oll/_schemas/partials/library.xsd">
+        <xs:group name="DocumentsGroup">
+            <xs:choice>
+                <xs:group ref="DocumentsGroup"/>
+                <xs:element ref="d:document"/>
+            </xs:choice>
+        </xs:group>
+    </xs:redefine>
+</xs:schema>

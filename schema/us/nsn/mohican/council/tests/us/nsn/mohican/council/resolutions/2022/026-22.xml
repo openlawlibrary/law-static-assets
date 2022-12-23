@@ -1,0 +1,52 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Tribal Council Res. No. 026-22" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>026-22</num>
+  <heading/>
+  <meta>
+    <ordinance>Change of Name</ordinance>
+    <effective>2022-02-16</effective>
+    <history>
+      <adopted>2022-02-16</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/026-22.pdf" proof="needed">Stockbridge-Munsee Tribal Council Res. No. 026-22</citation>
+      <citation type="BIA" url="./BIA/026-22.pdf" proof="needed">BIA Approval for Res. No. 026-22</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council adopted a Change of Name Ordinance in 1999 as Chapter 60;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>This Change of Name Ordinance was initially designated as TCT.06, but the new Healing to Wellness Court Ordinance was also designated and adopted as TCT.06;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to redesignate the Change of Name Ordinance to be TCT.07.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby approves the renumbering of the Change of Name Ordinance as TCT.07.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 16th day of February, 2022, that the foregoing resolution was duly adopted at such meeting by a vote of 6 for, 0 against, and 0 abstaining.</text>
+    <text>_______________________	________________________</text>
+    <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
+  </procedural-data>
+  <codify:find-replace path="TCT.[07]"> 
+    <find>TCT.[07]</find>
+    <replace>TCT.07</replace>
+  </codify:find-replace>
+  <codify:annotation path="TCT.07" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-22">Resolution No. 026-22</cite>, adopted February 16, 2022.</codify:annotation>
+</document>

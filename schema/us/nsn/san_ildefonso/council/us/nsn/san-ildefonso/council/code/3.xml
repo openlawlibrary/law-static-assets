@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>3</num>
+  <heading>COUNCIL</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3.1</num>
+    <heading>Notice Requirements</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-044, dated November 28, 2012.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>3.1.1</num>
+      <heading>Notice Requirements Act</heading>
+      <section>
+        <num>3.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Regular meetings of the Council shall be held at least twice per month with at least five days notice to the Pueblo public pursuant to Section 6(b) of the Agreement;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds that defining the minimum standards of notice for Regular meetings of the Council will ensure that Council Representatives and the Pueblo public will be well informed of all proposed actions and be afforded sufficient time to review the substance of all proposed Resolution(s) and offer comments.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>3.1.2</num>
+      <heading>Notice Requirements</heading>
+      <section>
+        <num>3.1.2.010</num>
+        <heading>Short Title</heading>
+        <para>
+          <num>(a)</num>
+          <text>This enactment shall be known as the Notice Requirements Act ("Act").</text>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.020</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Notice" includes written notice of the time, date, location, agenda, and proposed Resolutions for all Regular meetings of the Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.030</num>
+        <heading>Purpose</heading>
+        <para>
+          <num>(a)</num>
+          <text>The purpose of this Act is to further define minimum standards of notice as required pursuant to Section 6(b) of Agreement.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.040</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby finds and declares that:</text>
+          <para>
+            <num>(1)</num>
+            <text>Defining Notice requirements will promote governmental efficiency within the Tribe; and,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Defining minimum standards of Notice will ensure that Council Representatives and the Pueblo public will be well-informed of all proposed Council actions and be afforded sufficient time to review the substance of all proposed Resolution(s) and prepare any questions or concerns regarding a proposed Resolution.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.050</num>
+        <heading>General Policy</heading>
+        <para>
+          <num>(a)</num>
+          <text>This act establishes the minimum standards of Notice required as part of the Legislative Process pursuant to Section 6(b) of the Agreement.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.060</num>
+        <heading>Notice Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>Pursuant to Section 6(b) of the Agreement, Notice of all Regular meetings of the Council shall be provided at least five (5) days in advance; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pursuant to Section II(B) of the Council Procedures, Notice of all Regular Council meetings shall include the date, time, and location of the meeting and shall be posted, at a minimum, at the Pueblo Administration Offices; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In conjunction with the issuance of the five (5) day Notice, the Governor shall attach a copy of all proposed Resolutions to the Notice.  The Governor shall also provide a copy of the five (5) day Notice along with the attached proposed Resolutions to each Council Representative by placing such documents in the office mailbox of each Council Representative or shall provide such documents in the manner directed by a Council Representative (such as e-mail, fax, and U.S. mail).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Any Resolution originating from the Council or a Council Representative shall be delivered to the Governor who shall include such Resolution on the agenda of the next Regular meeting of the Council.  The Council reserves the right to place any matter including Resolutions on the agenda, or to set its own agenda, for Regular Meetings notwithstanding any other law, rule, regulation, or procedure to the contrary.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.070</num>
+        <heading>Amendment</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council may amend this Act at any time upon majority vote of the Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.080</num>
+        <heading>Sovereign Immunity</heading>
+        <para>
+          <num>(a)</num>
+          <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees except when necessary to bring an action in equity exclusively in the Pueblo's courts against an executive branch official to enforce this law.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.1.2.090</num>
+        <heading>Severability</heading>
+        <para>
+          <num>(a)</num>
+          <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3.2</num>
+    <heading>Law-Making</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>3.2.1</num>
+      <heading>Law-Making And The Production Of Documents And Testimony Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-021, dated September 21, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-021"/>
+      <section>
+        <num>3.2.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council has identified the need to clarify the process to request and obtain information, documentation, and testimony from Executive branch Departments, 	and personnel, which is necessary to assist with the development of new and amended laws and budgets, while at the same time protecting any confidential information that the Pueblo may maintain in the course of its governmental operations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby enacts the attached law 	entitled, "LAW-MAKING AND THE PRODUCTION OF DOCUMENTS AND TESTIMONY ACT".</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and 	adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.2.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as, the "LAW-MAKING AND THE PRODUCTION OF DOCUMENTS AND TESTIMONY ACT," or in the abbreviated form, the "LAW-MAKING ACT."</text>
+      </section>
+      <section>
+        <num>3.2.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Department" means a Department and its subdivisions within the executive branch of government under the authority of the Governor.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.2.1.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to ensure that the Council has all the necessary information and data to make laws and approve budgets that address the needs of the People and the Pueblo.</text>
+      </section>
+      <section>
+        <num>3.2.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Agreement establishes a separation of government powers between the Council, which is vested with law-making and budgeting powers, and the Governor and Departments, which are vested with executive powers to carry-out and administer the laws and approved budgets; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Executive branch of the government includes all the Departments and day-to-day functions of the government, and the Departments and Executive branch personnel maintain critical data and information on the Pueblo and the operations of government including expenditures; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In exercising its law-making and budgeting powers, it is important that the Council has the necessary information and data, including documents and testimony, to draft laws and approve budgets in a well-informed manner so that the laws address critical issues within the Pueblo and to protect government funds and resources; and,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council finds it in the best interests of the government of the Pueblo to promote the free-flow of information and ideas, including open communication between the branches of government; and,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council recognizes that requests for information, documentation, and testimony will require staff time from Executive branch personnel to address, however, the Council considers the task of keeping the elected officials of the Council properly informed of the operations of the government to be included in the scope of work of all employees of the Executive branch and a necessary component of drafting and approving laws and budgets in the best interests of the Pueblo; and,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council has identified the need to clarify the process to request and obtain information, documentation, and testimony from Executive branch Departments and personnel, which is necessary to assist with the development of new and amended laws and budgets, while at the same time protecting any confidential information that the Pueblo may maintain in the course of its governmental operations.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.2.1.060</num>
+        <heading>Council Requests for Information and Testimony</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council or a Council Committee may request any information, documentation, and testimony from executive branch personnel that it reasonably believes will advance the formulation and development of Resolutions, laws, and budgets in the best interests of the Pueblo.  Any decision by a Council Committee to request information, documentation, or testimony from executive branch personnel shall be made by majority vote of the members of the Committee.  Any request for information, documentation, or testimony shall be made in writing to the Governor.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor, or his designee on behalf of the Governor, shall respond to each request for information, documentation, and testimony in a timely manner.  If the Governor, or his designee, cannot meet a deadline set by the Council or Council Committee for the production of information or documents, or if the executive branch employee is not available to provide testimony on the date requested, then the Governor shall notify the Lt. Governor or the appropriate Council Committee, including when such information or documentation will be produced, or when the employee will be available to present testimony to the Council or Council Committee.  An executive branch employee shall not be subject to any disciplinary action for responding to a request from the Council or a Council Committee for documents or testimony.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.2.1.070</num>
+        <heading>Confidentiality of Documents and Testimony</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Documents</u>  If the Governor or an executive branch employee reasonably believes that the information or documentation requested by the Council or Council Committee contains confidential information, then the Governor or his designee shall: (1) inform the Council or Council Committee; (2) redact the alleged confidential information; and, (3) produce the remaining information to the Council or Council Committee.  If the Council or Council Committee continues to assert the need for all the information or documentation including the alleged confidential information, then the Governor or executive branch employee shall produce and deliver all of the requested information and documentation without redactions to the Council or Council Committee in a sealed envelope marked "CONFIDENTIAL INFORMATION", and any subsequent disclosure of the alleged confidential information received by the Council or Council Committee shall not be the responsibility of the Governor or executive branch employee.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Testimony</u>  If the Governor or an executive branch employee reasonably believes that the testimony requested by the Council or Council Committee contains confidential information, then the Governor or his designee shall inform the Council or Council Committee, and the Council or Council Committee shall receive such testimony in an executive session, and any subsequent disclosure of the alleged confidential information received by the Council or Council Committee from such testimony shall not be the responsibility of the Governor or executive branch employee.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.2.1.080</num>
+        <heading>Informal Discussions</heading>
+        <text>Nothing in this Law-Making Act shall prevent informal discussions between the Council or Council Representatives and Executive Branch employees.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>3.2.2</num>
+      <heading>Authorization of Council Attorney Contract Act of 2016</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-029, dated December 8, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-029"/>
+      <section>
+        <num>3.2.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign Indian tribe and has exercised inherent sovereign authority from time immemorial;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The sovereign authority of the Pueblo is vested in its Council, Governor, Courts, and the People; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council is authorized to make laws and appropriate funds for the Pueblo;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council has identified the need for legal counsel to assist with the development of laws for the Pueblo and the operations of the Council;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has utilized the services of experienced lawyers from the law firm of Robert J. Lyttle, PC, Attorneys at law ("Attorneys") for at least six (6) years to provide legal advice and assistance in a cost-effective manner, and the Council wishes to continue these services.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.2.2.020</num>
+        <text>The Council hereby approves the continuation of the Attorneys' legal representation of the Council including the authorization and approval of a sole-source contract with the Attorneys.</text>
+      </section>
+      <section>
+        <num>3.2.2.030</num>
+        <heading>Authorization of Council Attorney Contract Act of 2016</heading>
+        <text>This enactment shall be known as the "Authorization of Council Attorney Contract Act of 2016" ("Act").</text>
+      </section>
+      <section>
+        <num>3.2.2.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council has identified the need for legal counsel services to assist with the development of laws for the Pueblo and to provide advice on the operations of the Council;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council has utilized the services of experienced lawyers from the law firm of Robert J. Lyttle, PC, Attorneys at law ("Attorneys") for at least six (6) years to provide legal advice and assistance in a cost-effective manner, and the Council wishes to continue these services.</text>
+        </para>
+      </section>
+      <section>
+        <num>3.2.2.050</num>
+        <heading>Authorization of Contract</heading>
+        <text>The Council hereby approves the continuation of the Attorneys' legal representation of the Council including the authorization and approval of a sole-source contract with the Attorneys (Exhibit A).</text>
+      </section>
+    </container>
+  </container>
+</container>

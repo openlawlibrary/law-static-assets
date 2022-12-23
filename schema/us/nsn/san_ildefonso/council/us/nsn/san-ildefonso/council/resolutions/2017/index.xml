@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2017" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://open.law/schemas/library
+  ../../../../../../../../../ngo/oll/_schemas/v0.1/docs/ordinance.xsd">
+  <heading>2017 Council Resolutions</heading>
+  <xi:include href="./048.xml"/>
+  <xi:include href="./047.xml"/>
+  <xi:include href="./044.xml"/>
+  <xi:include href="./043.xml"/>
+  <xi:include href="./040.xml"/>
+  <xi:include href="./039.xml"/>
+  <xi:include href="./037.xml"/>
+  <xi:include href="./036.xml"/>
+  <xi:include href="./035.xml"/>
+  <xi:include href="./034.xml"/>
+  <xi:include href="./033.xml"/>
+  <xi:include href="./032.xml"/>
+  <xi:include href="./031.xml"/>
+  <xi:include href="./030.xml"/>
+  <xi:include href="./029.xml"/>
+  <xi:include href="./028.xml"/>
+  <xi:include href="./026.xml"/>
+  <xi:include href="./024.xml"/>
+  <xi:include href="./023.xml"/>
+  <xi:include href="./022.xml"/>
+  <xi:include href="./021.xml"/>
+  <xi:include href="./020.xml"/>
+  <xi:include href="./019.xml"/>
+  <xi:include href="./018.xml"/>
+  <xi:include href="./017.xml"/>
+  <xi:include href="./016.xml"/>
+  <xi:include href="./015.xml"/>
+  <xi:include href="./014.xml"/>
+  <xi:include href="./012.xml"/>
+  <xi:include href="./011.xml"/>
+  <xi:include href="./010.xml"/>
+  <xi:include href="./009.xml"/>
+  <xi:include href="./008.xml"/>
+  <xi:include href="./007.xml"/>
+  <xi:include href="./006.xml"/>
+  <xi:include href="./005.xml"/>
+  <xi:include href="./004.xml"/>
+  <xi:include href="./003.xml"/>
+  <xi:include href="./002.xml"/>
+  <xi:include href="./001.xml"/>
+  <subheading>Tabled Resolutions</subheading>
+  <xi:include href="./042.xml"/>
+  <xi:include href="./041.xml"/>
+  <xi:include href="./025.xml"/>
+</collection>

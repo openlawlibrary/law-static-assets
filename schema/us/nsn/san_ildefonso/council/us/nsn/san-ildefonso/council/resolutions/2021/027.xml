@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R21-027" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1">
+  <num>SI-R21-027</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-027</heading>
+  <heading type="law">Rural Community Assistance Corporation (RCAC) Loan Assumption Act</heading>
+  <meta>
+    <effective>2021-11-29</effective>
+    <citations>
+      <citation type="res" >Council Resolution No. SI-R21-027</citation>
+    </citations>
+    <history>
+      <adopted>2021-11-24</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 24th day of November, 2021, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is responsible for the health, safety, education and welfare of</text>
+      <text>all community members; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 17, 2000, the Pueblo entered into a Joint Venture Agreement with Picuris, Taos, and Tesuque Pueblos that designated the Northern Pueblos Housing Authority (NPHA) as the Tribally Designated Housing Entity (TDHE) for the four tribes; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the two remaining members of the NPHA, the Pueblos of Tesuque and San Ildefonso, have determined that it is in each Pueblo's best interest to dissolve NPHA in accordance with Section 18 of the NPHA Joint Venture Agreement and distribute the assets and liabilities of NPHA to the member tribes; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in fulfillment of these terms, the Pueblo wishes to assume responsibility for RCAC Loan No. 6164-NPHA-01 and execute an assumption agreement for the balance of the indebtedness; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>RCAC requires the Pueblo to legally accept the loan as a condition of transferring responsibility from NPHA to the Pueblo de San Ildefonso; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that the housing needs of the Pueblo can be best met through the San Ildefonso Housing Authority (SIHA) to serve as its Tribally Designated Housing Authority beginning on or about December 31, 2021.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "RURAL COMMUNITY ASSISTANCE CORPORATION (RCAC) LOAN ASSUMPTION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>November 24</u>, 2021, at a meeting with a vote of <u>7</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>3</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R21-027</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>24</u><sup><u>th</u></sup> day of <u>November</u>, 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>29</u><sup><u>th</u></sup> day of <u>November</u>, 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.9</num>
+      <heading>Rural Community Assistance Corporation (RCAC) Loan Assumption Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-027"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="15.1.9"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">RURAL COMMUNITY ASSISTANCE CORPORATION (RCAC) LOAN ASSUMPTION ACT</heading>
+    <section>
+      <codify:insert num-value="15.1.9.010" />
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "RURAL COMMUNITY ASSISTANCE CORPORATION (RCAC) LOAN ASSUMPTION ACT ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.9.020" />
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The Pueblo de San Ildefonso wishes to accept responsibility for RCAC Loan No. 6164-NPHA 01 due to the orderly dissolution of NPHA, the current borrower, by December 31, 2021. This Act authorizes the transfer of responsibility for the loan from NHPA to the San Ildefonso Housing Authority ("SIHA") subsequent to formation of SIHA and its designation as the Tribe's Tribally Designated Housing Entity.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.9.030" />
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Council is responsible for the health, safety, education and welfare of all community members; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>On August 17, 2000, the Pueblo entered into a Joint Venture Agreement with Picuris, Taos, and Tesuque Pueblos that designated the Northern Pueblos Housing Authority (NPHA) as the Tribally Designated Housing Entity (TDHE) for the four tribes; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The two remaining members of the NPHA, the Pueblos of Tesuque and San Ildefonso, have determined that it is in each Pueblo's best interest to dissolve NPHA in accordance with Section 18 of the NPHA Joint Venture Agreement and distribute the assets and liabilities of NPHA to the member tribes; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>in fulfillment of these terms, the Pueblo wishes to assume responsibility for RCAC Loan No. 6164-NPHA-01; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>RCAC requires the Pueblo to legally accept the loan as a condition of transferring responsibility from NPHA to the Pueblo de San Ildefonso; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>the Council has determined that the housing needs of the Pueblo can be best met through the of the San Ildefonso Housing Authority (SIHA) to serve as its Tribally Designated Housing Authority beginning on or about December 31, 2021.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.9.040" />
+      <num>1.4</num>
+      <heading>Assumption Responsibilities</heading>
+      <para>
+        <num>(a)</num>
+        <text>SIHA is a new organization expected to be operational and designated as the Tribally Designated Housing Entity for the Pueblo by law on or about December 31, 2021. TDHE designation will constitute the initiation of operations, including establishment of its power to assume the RCAC loan on behalf of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In Section 1.7 b (6) of the San Ildefonso Housing Authority Act, the Authority is delegated the power to borrow money for the purpose of providing housing for tribal members.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>This Act authorizes the SIHA to assume responsibility for RCAC Loan No. 6164-NPHA- 01, which was used by NPHA to finance construction of the Deer Tail 1 housing development, at the earliest possible time after TDHE designation.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo notes that on October 22, 2021, the Pueblo indicated its intention to assume the loan when it submitted a Governor-approved Indian Housing Plan (IHP) for FY 2022 to provide sufficient Indian Housing Block Grant (IHBG) funds to make full payment on this loan in 2022.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>By this Act, the Council directs the new SIHA Board of Commissioners to implement the program and budget of the 2022 IHP pertaining to the RCAC loan by executing a loan assumption agreement with RCAC and making full payment for the loan in 2022 using 2022 Indian Housing Block Grant funding programmed for this purpose.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>SIHA is hereby authorized to execute any and all documents required by RCAC relative to the assumption of RCAC Loan No. 6164-NPHA-01.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.9.050" />
+      <num>1.5</num>
+      <heading>Effective Date</heading>
+      <text>This Act and any amendments thereto shall take effect on the date enacted by the Council.</text>
+    </section>
+  </attachment>
+</document>

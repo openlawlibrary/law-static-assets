@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 069-19">
+  <num>069-19</num>
+  <heading/>
+  <meta>
+    <ordinance>Fish and Wildlife</ordinance>
+    <effective/>
+    <history>
+      <adopted>2019-09-03</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/069-19.pdf">Stockbridge-Munsee Tribal Council Res. No. 069-19</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Legislative History">Changes include substantive re-organization of provisions to make it more convenient for readers by grouping similar provisions into parts and re-numbering accordingly. Substantive changes to modify bag limits for deer, turkey, and trout as well as clarifications about roads where hunting is limited and assistance to other persons were made.</annotation>
+  </annotations>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 21, the Fish and Wildlife Ordinance, was adopted in 1978 and has since been amended a number of times, most recently in 2017;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Fish and Wildlife Board has recommended the re-organization content in the Ordinance to make it more convenient for readers by grouping similar provisions into parts and re-arranging and re-numbering accordingly; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Fish and Wildlife Board has also recommended substantive changes to modify bag limits for deer, turkey, and trout and to make clarifications about roads where hunting is limited and assistance to other persons were made.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 21, which include the following changes:</text>
+      <text>Moved:</text>
+      <text>
+        <ul>
+          <li>21.8 (B) to 21.9 (A)</li>
+          <li>21.8 (J) to 21.8 (C)</li>
+          <li>21.8 (K) to 21.8 (D)</li>
+          <li>21.8 (L) to 21.8 (E)</li>
+          <li>21.10 to 21.19</li>
+          <li>21.11 to 21.20</li>
+          <li>21.12 to 21.27</li>
+          <li>21.12.5 to 21.12</li>
+          <li>21.13 to 21.15</li>
+          <li>New 21.13 moved final sentence of (B) to be new (A)</li>
+          <li>21.15 (E) to 21.12 (D)</li>
+          <li>21.15 (A) and (B) to 21.10 with (A) separated into (A) and (B)</li>
+          <li>21.15.5 to 21.11</li>
+          <li>21.16 to 21.18</li>
+          <li>21.17 to 21.22</li>
+          <li>21.18 to 21.16 (portion on hunting) and 21.23 (portion on trapping)</li>
+          <li>21.19 to 21.25</li>
+          <li>21.20 to 21.17 (on hunting), 21.21 (on fishing), 21.24 (on trapping), 21.26 (on vehicles), and 21.28</li>
+          <li>Starting from previous 21.21 the sections were renumbered beginning at 21.29</li>
+          <li>Amended sections:  21.1 (G); 21.3 (C), (H); 21.6 (B); 21.8 (A), (F), (G); 21.9 (B), (B)(1-3); 21.10 (B); 21.14 (B)(1) and (C)(1); 21.15 (C); 21.18 (A)(4); 21.19 (C); 21.22 (C)(1), (E), (H)(4); 21.23 (A); and 21.25 (A), (A)(1-2).</li>
+          <li>Created new sections:  21.3 (T); 21.8 (A)(3); 21.9 (D) and (E); 21.17; 21.19 (A) – based on 21.9 (A); 21.21; 21.22 (A) and (B), (H)(2), (H)(5), (G); 21.24; 21.26; and 21.28 (F).</li>
+          <li>Deleted section (numbering from previous): 21.8 (D); 21.8 (I); 21.9 (A)(2); 21.13 (E); and 21.17 (F).</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+</document>

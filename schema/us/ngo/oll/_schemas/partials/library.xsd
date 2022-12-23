@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning"
+    xmlns:xi="http://www.w3.org/2001/XInclude" elementFormDefault="qualified">
+    <xs:import namespace="http://www.w3.org/2001/XInclude" schemaLocation="../libs/XInclude.xsd"/>
+    <xs:include schemaLocation="shared.xsd"/>
+    <xs:element name="library" type="LibraryType"/>
+    <xs:element name="meta" type="LibraryMetaType"/>
+    <xs:element name="collection" type="CollectionType"/>
+    <xs:element name="description" type="DescriptionType"/>
+    <xs:element name="contact" type="ContactType"/>
+    <xs:element name="canonical-urls" type="CanonicalUrlsType"/>
+    <xs:element name="email" type="EmailType"/>
+    <xs:element name="xml-bulk" type="SimpleUrlType"/>
+    <xs:element name="html-bulk" type="SimpleUrlType"/>
+    <xs:element name="html" type="SimpleUrlType"/>
+    <xs:group name="DocumentsGroup">
+        <xs:choice/>
+    </xs:group>
+    <xs:complexType name="LibraryType">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" ref="heading"/>
+            <xs:element ref="meta"/>
+            <xs:choice maxOccurs="unbounded">
+                <xs:element minOccurs="0" ref="xi:include"/>
+                <xs:element maxOccurs="unbounded" minOccurs="0" ref="collection"/>
+                <xs:any minOccurs="0" namespace="https://open.law/schemas/library"
+                    processContents="skip"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="LibraryMetaType">
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="description"/>
+            <xs:element minOccurs="0" ref="contact"/>
+            <xs:element minOccurs="0" ref="canonical-urls"/>
+            <xs:element minOccurs="0" name="history-start" type="xs:date"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="CollectionType">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" ref="heading"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" ref="text"/>
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+                <xs:element ref="xi:include"/>
+                <xs:element ref="collection"/>
+                <xs:group ref="DocumentsGroup"/>
+            </xs:choice>
+            <xs:sequence maxOccurs="unbounded" minOccurs="0">
+                <xs:element ref="subheading"/>
+                <xs:element maxOccurs="unbounded" minOccurs="0" ref="xi:include"/>
+                <xs:element maxOccurs="unbounded" minOccurs="0" ref="collection"/>
+                <xs:group maxOccurs="unbounded" minOccurs="0" ref="DocumentsGroup"/>
+            </xs:sequence>
+        </xs:sequence>
+        <xs:attribute name="name" type="xs:string"/>
+    </xs:complexType>
+    <xs:complexType name="ContactType">
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="email"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="CanonicalUrlsType">
+        <xs:choice maxOccurs="unbounded" minOccurs="1">
+            <xs:element minOccurs="0" ref="xml-bulk"/>
+            <xs:element minOccurs="0" ref="html-bulk"/>
+            <xs:element minOccurs="0" ref="html"/>
+            <xs:element minOccurs="0" name="static-assets" type="SimpleUrlType"/>
+        </xs:choice>
+    </xs:complexType>
+    <xs:simpleType name="DescriptionType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+    <xs:simpleType name="EmailType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+    <xs:simpleType name="SimpleUrlType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+</xs:schema>

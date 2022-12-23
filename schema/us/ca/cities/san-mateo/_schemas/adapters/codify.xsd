@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/ca/cities/san-mateo/_schemas/codify"
+    xmlns="https://open.law/us/ca/cities/san-mateo/_schemas/codify"
+    xmlns:p="https://open.law/us/ca/cities/san-mateo/_schemas/library"
+    xmlns:d="https://open.law/us/ca/cities/san-mateo/_schemas/docs/default"
+    xmlns:od="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance">
+    <xs:import namespace="https://open.law/us/ca/cities/san-mateo/_schemas/library"
+        schemaLocation="library.xsd"/>
+    <xs:import namespace="https://open.law/us/ca/cities/san-mateo/_schemas/docs/default"
+        schemaLocation="docs/default.xsd"/>
+    <xs:import namespace="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance"
+        schemaLocation="docs/ordinance.xsd"/>
+    <xs:redefine schemaLocation="../../../../../ngo/oll/_schemas/partials/codify/codify.xsd">
+        <xs:group name="InsertElGroup">
+            <xs:choice>
+                <xs:group ref="InsertElGroup"/>
+                <xs:group ref="DefaultInsertGroup"/>
+            </xs:choice>
+        </xs:group>
+        <xs:group name="FindReplaceElGroup">
+            <xs:choice>
+                <xs:group ref="FindReplaceElGroup"/>
+                <xs:group ref="DefaultFindReplaceElGroup"/>
+            </xs:choice>
+        </xs:group>
+        <xs:complexType name="InsertType">
+            <xs:complexContent>
+                <xs:extension base="InsertType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="ApplicabillityType">
+            <xs:complexContent>
+                <xs:extension base="ApplicabillityType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="ExpireType">
+            <xs:complexContent>
+                <xs:extension base="ExpireType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="CreateSubContainerType">
+            <xs:complexContent>
+                <xs:extension base="CreateSubContainerType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="EmergencyType">
+            <xs:complexContent>
+                <xs:extension base="EmergencyType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="FundedAnnoType">
+            <xs:complexContent>
+                <xs:extension base="FundedAnnoType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="IgnoreType">
+            <xs:complexContent>
+                <xs:extension base="IgnoreType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="NotFundedAnnoType">
+            <xs:complexContent>
+                <xs:extension base="NotFundedAnnoType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="OrganicType">
+            <xs:complexContent>
+                <xs:extension base="OrganicType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="RedesignateParaType">
+            <xs:complexContent>
+                <xs:extension base="RedesignateParaType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="RecodifySectionType">
+            <xs:complexContent>
+                <xs:extension base="RecodifySectionType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="RepealType">
+            <xs:complexContent>
+                <xs:extension base="RepealType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="TemporaryType">
+            <xs:complexContent>
+                <xs:extension base="TemporaryType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:complexType name="FindReplaceType">
+            <xs:complexContent>
+                <xs:extension base="FindReplaceType">
+                    <xs:attributeGroup ref="p:TargetAttributesAttrGroup"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:redefine>
+    <xs:group name="DefaultInsertGroup">
+        <xs:choice>
+            <xs:element ref="d:container"/>
+            <xs:element ref="d:section"/>
+            <xs:element ref="d:para"/>
+            <xs:element ref="d:text"/>
+            <xs:element ref="d:subsection"/>
+            <xs:element ref="d:toc"/>
+        </xs:choice>
+    </xs:group>
+    <xs:group name="DefaultFindReplaceElGroup">
+        <xs:sequence>
+            <xs:element ref="d:find"/>
+            <xs:element ref="d:replace"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:element name="annotation" type="AnnotationType"/>
+    <xs:complexType name="AnnotationType">
+        <xs:complexContent>
+            <xs:extension base="d:AnnotationType">
+                <xs:attributeGroup ref="SharedAttrGroup"/>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+</xs:schema>

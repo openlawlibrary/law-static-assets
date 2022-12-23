@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>15</num>
+  <heading>HOUSING</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>15.1</num>
+    <heading>Housing</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.1</num>
+      <heading>Housing Authority ICDBG Funding Act of 2016</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-007, dated May 25, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-007"/>
+      <section>
+        <num>15.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Northern Pueblos Housing Authority ("NPHA") is the Tribally Designated Housing Authority ("TDHE") for the Pueblos of San Ildefonso, Picuris, and Tesuque, established by such Pueblos pursuant to § 4(18) and (21) of the Native American Housing and Self Determination Act of 1996, 25 U.S.C. §§ 4401 <em>et seq.</em> ("NAHASDA") for developing, operating, and managing housing units assisted by the U.S. Department of Housing and Urban Development ("HUD");</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo has identified rehabilitation of low-income resident homes as an urgent, high priority housing need in its 2016 Indian Housing Plan;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council wishes to authorize NPHA to apply for 2016 Indian Community Development Block Grant (ICDBG) funds on behalf of the Pueblo to finance the rehabilitation of homes of low-income Pueblo residents.</text>
+        </para>
+      </section>
+      <section>
+        <num>15.1.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "Housing Authority ICDBG Funding Act of 2016."</text>
+      </section>
+      <section>
+        <num>15.1.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Act" means the Housing Authority ICDBG Funding Act of 2016.</text>
+        </para>
+      </section>
+      <section>
+        <num>15.1.1.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is authorize the Northern Pueblos Housing Authority to apply for and receive funds HUD ICDBG funds to rehabilitate fourteen low income residents' homes.</text>
+      </section>
+      <section>
+        <num>15.1.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>On April 12, 2000, the Council adopted Ordinance No. SI-R00-001, establishing the Northern Pueblos Housing Authority (NPHA);</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>NPHA is the Tribally Designated Housing Authority ("TDHE") for the Pueblos of San Ildefonso, Picuris, and Tesuque, established by such Pueblos pursuant to §4(18) and (21) of the Native American Housing and Self Determination Act of 1996, 25 U.S.C. §§ 4401 <em>et seq.</em> ("NAHASDA") for developing, operating, and managing housing units assisted by the U.S. Department of Housing and Urban Development (HUD);</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo has directed NPHA to maintain a waiting list of local residents requesting and eligible to receive home rehabilitation services;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Home inspections of residents requesting services have confirmed numerous serious health, safety, energy efficiency, and code compliance issues that could be resolved by an Indian Community Development Block Grant (ICDBG) funded rehabilitation project;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The number of local residents requesting and eligible to receive home rehabilitation services exceeds all funds the Pueblo is eligible to obtain to provide the needed services;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has identified rehabilitation of low-income resident homes as an urgent, high priority housing need in its 2016 Indian Housing Plan;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council wishes NPHA to apply for $605,000 in 2016 Indian Community Development Block Grant (ICDBG) on behalf of the Pueblo to finance the rehabilitation of fourteen homes of low-income Pueblo residents; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Pursuant to the Notice of Funding Availability for the ICDBG program, NPHA, acting on behalf of the tribe, must meet certain threshold requirements in order to be deemed eligible for funding; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Acting through NPHA, the Council intends to fully comply with the programmatic and project-related threshold requirements of the ICDBG program.</text>
+        </para>
+      </section>
+      <section>
+        <num>15.1.1.060</num>
+        <heading>Authorization</heading>
+        <text>The Council hereby certifies that:</text>
+        <para>
+          <num>(a)</num>
+          <text>A Community Development Statement pertaining to the authorized 2016 ICDBG application for housing rehabilitation, a record of the posting of the Statement, and public meeting record provided to the Council and to be included by NPHA in the ICDBG application documents that all requirements of citizen participation found at 24 C.F.R. 1003.604 have been met;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The 2016 ICDBG application for housing rehabilitation has been made available to residents;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No public comments affecting the content of the ICDBG proposal were received pursuant to the opportunity provided for citizen participation;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The methodology and information provided by NPHA for purposes of meeting ICDBG threshold and service standards, notably in respect to the certification of the income-eligibility of the intended beneficiaries of the project, were systematically collected, are reliable, and are independently verifiable, and are approved by the Council;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council accepts the ICDBG funding condition that rehabilitation not be provided to any Current Assisted Stock (CAS) homeowner that is not current in their payments;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>For the purpose of ICDBG funding and program delivery, the Council hereby directs NPHA to comply with the applicable provisions contained in the in the Building and Construction Codes as codified in Title 14 of the New Mexico Administrative Code as may be amended from time to time, or the International Building Codes, whichever is more stringent;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>For the purpose of ICDBG funding and program delivery, the Council hereby directs NPHA to comply with:</text>
+          <para>
+            <num>(1)</num>
+            <text>The NPHA Code of Conduct Policy Statement adopted on February 7, 2011 by NPHA Board Resolution Number 11-6;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The applicable provisions contained in the Ninth Amended and Restated NPHA Procurement, Inventory, Disposition, and Housing Standards Policy, adopted on February 7, 2011 by NPHA Board Resolution Number 11-6;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Fifth Amended and Restated NPHA Management Policy, adopted on March 19, 2014 by NPHA Board Resolution Number 2014-01;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Fourteenth Amended and Restated Personnel Policy adopted on November 21, 2012 by NPHA Board Resolution Number 2012-10;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Fourth Amended and Restated NPHA Financial Management and Internal Controls Policy, adopted on February 7, 2011 by NPHA Board Resolution Number 11-6 in relation to administration of ICDBG funds;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Fourth Amended and Restated NPHA Housing Rehabilitation Standards and Policy adopted on January 19, 2011 by Board Resolution Number 11-1;</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council affirms that $56,250 in funds set-aside for substantial housing rehabilitation in the Pueblo's 2016 Indian Housing Plan are intended for use as leverage funding in support of the authorized application;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council hereby specifically authorizes NPHA to apply 	for $605,000 in 2016 ICDBG funds on behalf of the Pueblo de San Ildefonso;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out 	the intent of this Resolution and law.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+</container>

@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-4" codify:doc="City of San Mateo, Cal., Code">
+  <num>2018-4</num>
+  <heading>Repeal Chapter 2.26, "Sustainability Commission" of the San Mateo Municipal Code and Amend Chapter 2.28 "Public Works Commission," to Establish the Sustainability and Infrastructure Commission</heading>
+  <meta>
+    <effective>2018-07-04</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2018-4.pdf">Ord. No. 2018-4</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-4</citation>
+    </citations>
+    <history>
+      <introduced>2018-05-21</introduced>
+      <adopted>2018-06-04</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Sustainability and Public Works Commissions have had a significant overlap in key topic areas including transportation, green infrastructure, solid waste management and water conservation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 7, 2018, the City Council directed staff to bring forward an ordinance to amend the Municipal Code to merge the Sustainability and Public Works Commission into a Sustainability and Infrastructure Commission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="2.26">San Mateo Municipal Code Chapter 2.26</cite> established a "Sustainability Commission;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="2.28">Chapter 2.28, Public Works Commission, of the San Mateo Municipal Code</cite> are intended to establish the Sustainability and Infrastructure Commission.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.26">Chapter 2.26, "Sustainability Commission," of the San Mateo Municipal Code</cite> is hereby repealed.</text>
+    <codify:remove path="2.26" warning="false" history="false"/>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.28">Chapter 2.28, "Public Works Commission," of the San Mateo Municipal Code</cite> is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>2.28</num>
+        <heading>SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
+        <codify:replace path="2.28|heading">
+          <heading>SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
+        </codify:replace>
+        <section>
+          <codify:replace path="2.28.010"/>
+          <num>2.28.010</num>
+          <heading>ORGANIZATION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The commission shall have five members appointed by the Council.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The members of the commission shall be appointed for four-year terms or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year one or more terms will expire.</text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="2.28.020"/>
+          <num>2.28.020</num>
+          <heading>MEETINGS.</heading>
+          <text>The commission shall meet within one month of its formation and establish itself by electing a chairman, vice-chairman and secretary to serve at the pleasure of the commission. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
+        </section>
+        <section>
+          <codify:replace path="2.28.030"/>
+          <num>2.28.030</num>
+          <heading>POWERS—DUTIES.</heading>
+          <text>It shall be the duty of the sustainability and infrastructure commission, as an advisory body to the City Council, to advise on policies and programs related to environmental sustainability, transportation and infrastructure.</text>
+          <text>The sustainability and infrastructure commission may make recommendations to any other board or commission of the City with respect to any action upon which it has been requested to advise.</text>
+          <text>The sustainability and infrastructure commission shall possess other such powers and duties as may be prescribed from time to time by resolution of the City Council.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text>The following Sections of the San Mateo Municipal Code are hereby amended to replace the term "Public Works Commission," wherever it appears, with the term "Sustainability and Infrastructure Commission":</text>
+    <text>
+      <ul style="list-style-type: none;">
+        <li><cite doc="City of San Mateo, Cal., Code" path="5.75.430">5.75.430</cite> Rates-Application-Hearing;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="7.38.410">7.38.410</cite> Appeals and Hearing Procedures;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="7.39.200">7.39.200</cite> Appeals and Hearing Procedures;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.16.050">11.16.050</cite> Stop Sign Installation or Removal;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.16.060">11.16.060</cite> Appeals of Stop Sign Installation or Removal Decisions;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.16.070">11.16.070</cite> Required Noticing for Stop Sign Installation or Removal;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.32.120">11.32.120</cite> Residential Parking Permit Policies and Procedures;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.44.110">11.44.110</cite> Temporary Permits for Exclusive Use of Metered Parking Spaces;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="13.25.080">13.25.080</cite> Encroachments;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.08.115">17.08.115</cite> Curb Address Painting;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.08.130">17.08.130</cite> Permit-Issuance-Modification-Denial-Revocation-Appeal-Hearing;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.24.080">17.24.080</cite> Appeals Process;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.30.070">17.30.070</cite> Appeal;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.30.080">17.30.080</cite> Revocation and Suspension of Permits; and</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="23.40.040">23.40.040</cite> Procedures.</li>
+      </ul>
+    </text>
+    <codify:find-replace path="5.75.430" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="7.38.410" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="7.39.200" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.16.050" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.16.060" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.16.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.32.120" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.44.110" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="13.25.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.08.115" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.08.130" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.24.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.30.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.30.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation and posted in the City Clerk's Office and on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with <cite doc="Cal. Pub. Res. Code" path="§21065">California Public Resources Code 21065</cite> adoption of this Ordinance is not a "project" subject to CEQA because it can be seen with certainty that it will not cause a change in the environment.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on May 21, 2018 and adopted on June 4, 2018 and will take effect thirty days after its date of adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

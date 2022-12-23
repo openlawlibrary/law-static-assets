@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 059-19">
+  <num>059-19</num>
+  <heading/>
+  <meta>
+    <ordinance>Truancy</ordinance>
+    <effective>2021-01-28</effective>
+    <history>
+      <adopted>2019-08-06</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 059-19</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 13, Truancy, establishes the Stockbridge-Munsee Tribal Law on Truancy;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to ensure required attendance by school aged children; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council also wishes to ensure that families of school aged children receive the support and encouragement they need to ensure the required attendance of the household's school aged children;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 13, which make the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>The following new sections were added:  <cite doc="Stockbridge-Munsee Tribal Code" path="13.5" proof="needed">13.5</cite> was modified and renumbered as <cite doc="Stockbridge-Munsee Tribal Code" path="13.5|(A)" proof="needed">13.5(A)</cite> with new subsections (1) and (2) added; <cite doc="Stockbridge-Munsee Tribal Code" path="13.6|(N)" proof="needed">13.6 (N)</cite> and (O); and <cite doc="Stockbridge-Munsee Tribal Code" path="13.13|(E)" proof="needed">13.13 (E)</cite>.</li>
+          <li>The following sections were amended:  <cite doc="Stockbridge-Munsee Tribal Code" path="13.1" proof="needed">13.1</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="13.4" proof="needed">13.4</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="13.6|(C)" proof="needed">13.6 (C)</cite>, (D), (E), (G), and (J); <cite doc="Stockbridge-Munsee Tribal Code" path="13.8" proof="needed">13.8</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="13.9|(B)" proof="needed">13.9(B)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="13.10|(C)" proof="needed">13.10 (C)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="13.11" proof="needed">13.11</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="13.13|(A-D)" proof="needed">13.13 (A-D)</cite>.</li>
+          <li>The following materials were deleted:  <cite doc="Stockbridge-Munsee Tribal Code" path="13.3" proof="needed">13.3</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="13.6|(M)" proof="needed">13.6 (M)</cite>.</li>
+          <li>The following materials were renumbered or had numbering added: <cite doc="Stockbridge-Munsee Tribal Code" path="13.6|(N)" proof="needed">13.6 (N)</cite> as (M); <cite doc="Stockbridge-Munsee Tribal Code" path="13.10" proof="needed">13.10</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="13.11" proof="needed">13.11</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="13.14" proof="needed">13.14</cite> was renumbered as <cite doc="Stockbridge-Munsee Tribal Code" path="13.14|(A)" proof="needed">13.14 (A)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="13.15" proof="needed">13.15</cite> was renumbered to be <cite doc="Stockbridge-Munsee Tribal Code" path="13.14|(B)" proof="needed">13.14 (B)</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+  <codify:replace path="EDU.02.01">
+    <section>
+      <num>EDU.02.01</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this code is to support the families of school-age children in their duty to require regular school attendance of the school-age children in their household when the family is domiciled on the Stockbridge-Munsee Community's trust lands.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.03">
+    <section>
+      <num>EDU.02.03</num>
+      <heading>Omitted</heading>
+      <text>This section is intentionally omitted.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.04">
+    <section>
+      <num>EDU.02.04</num>
+      <heading>Interpretation</heading>
+      <text>This Ordinance shall be liberally construed to effectuate the purpose stated in <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.02.01">Section EDU.02.01</cite>.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.05">
+    <section>
+      <num>EDU.02.05</num>
+      <heading>Applicability</heading>
+      <para>
+        <num>(a)</num>
+        <text>This code shall apply to all families domiciled on Stockbridge-Munsee Community trust lands when either:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Parent, Guardian or Custodian of the school-aged child is a Stockbridge-Munsee Community Member; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The school-age child is a Stockbridge-Munsee Community Member or eligible for membership.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.06">
+    <section>
+      <num>EDU.02.06</num>
+      <heading>Definitions</heading>
+      <text>For the purpose of this code the following terms shall have the meaning ascribed below:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Adult" means any person 18 years of age or older who is not enrolled in the Bowler or Shawano/Gresham School Districts.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Child" means any person who is less than 18 years of age.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Member" means a person enrolled with the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Trust Lands" means any lands held as proclaimed reservation or in trust for the benefit of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"School" means the Bowler Public School or the Shawano/Gresham Public School and includes any alternative sites on or near Trust Lands where instruction may occur.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"School Attendance" means physical presence of a child in school, and includes attending scheduled classes during such hours and on such days as determined by the school or, for students enrolled in alternative education programs, attendance at the place and during hours scheduled by the school for the student, unless excused from such attendance by school policy or state law.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"School Attendance Policy" means the current policy for school attendance duly adopted by the applicable school board.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Tribal Child" means a child who is either an enrolled member of the Tribe, or is eligible for enrollment in the Tribe.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Tribal Court" means the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his/her agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.02.07">Section EDU.02.07</cite>.)</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Habitual Truancy" means a pupil who is absent from school without an acceptable excuse under <cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec 118.15</cite> for all or part of 5 or more days on which school is held during a semester.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Student" means one who attends school.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"School-age child" means a child age 6 to 18.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Custodian" means an adult person, other than a parent or guardian, who has been given temporary physical care, custody or control of a child, including the duty to provide food, clothing, shelter, medical care, education and supervision of the child.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Guardian" means a person other than the child's parent who is by tribal law or custom responsible for that child.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.07">
+    <section>
+      <num>EDU.02.07</num>
+      <heading>School Enrollment Required</heading>
+      <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), any person having under their control a school age child shall enroll the child in school.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.08">
+    <section>
+      <num>EDU.02.08</num>
+      <heading>Requirement To Attend School</heading>
+      <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), or under a school policy governing school attendance, any person having under their control a school age child shall cause the child to attend the school in which the school age child is or should be enrolled.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.09">
+    <section>
+      <num>EDU.02.09</num>
+      <heading>Truancy Prohibited.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Truancy is prohibited.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be unlawful for any person to cause, assist, or enable a school age child to be truant.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.10">
+    <section>
+      <num>EDU.02.10</num>
+      <heading>Persons Responsible For Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Indian Child Welfare Worker, Tribal Social Worker, or Tribal Law Enforcement Officer may enforce the provisions of this code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person authorized to enforce the provisions of this code may stop and question any person upon reasonable belief that the person has violated this code.  Any child shall provide identification and give his or her name, addresses, age and parental information to any person authorized to enforce this code.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If, during school hours, a person authorized to enforce this code has probable cause to believe that a school age child is truant, that person may take the school age child into custody and transport the school age child to school and notify school authorities and parents/guardian/custodian of the school age child.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.11">
+    <section>
+      <num>EDU.02.11</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>The school must document the following steps before law enforcement is contacted to issue a citation for truancy.</text>
+        <para>
+          <num>(1)</num>
+          <text>Met with the school age child's parent, guardian or Custodian to discuss the school age child's truancy or have attempted to meet with the school age child's parent, guardian or Custodian and received no response or were refused.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide an opportunity for educational counseling to the school age child to determine whether a change in the school age child's curriculum would resolve the school age child's truancy and to consider curriculum modification under <cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15 (1) (d)</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Evaluate the school age child to determine whether learning problems may be a cause of the school age child's truancy and, if so, take appropriate steps to overcome the learning problems, except that the school age child need not be evaluated if tests administered to the school age child within the previous year indicate that the school age child is performing at his or her grade level.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Conduct a review to determine whether social problems may be the cause of the school age child's truancy and, if so, take appropriate action or make appropriate referrals.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Once a citation is issued, the school age child, the child's parent and/or the child's guardian, and/or the child's Custodian shall be summoned in accordance with Tribal Court procedure. If summoned to Tribal Court, appearance is mandatory by both the school age child and the parent and/or Guardian and/or Custodian.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.12">
+    <section>
+      <num>EDU.02.12</num>
+      <heading>Unit Of Prosecution</heading>
+      <text>Regardless of the number of incidents of truancy in a single day, a child may not be prosecuted for more than one truancy violation per school day.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.13">
+    <section>
+      <num>EDU.02.13</num>
+      <heading>Penalties</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any school age child convicted of truancy under this Code shall be subject to a minimum penalty of community services hours equal to the number of hours truant and a maximum civil monetary penalty of $25.00 per incident of truancy.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any child who is convicted of aiding another school age child's truancy shall be subject to a minimum penalty of community service hours equal to the number of hours the school age child was truant and a maximum civil monetary penalty of $50.00 per incident of truancy.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any adult who is convicted of aiding a school age child's truancy shall be subject to a penalty not less than $50.00, but not to exceed $500.00 per incident of truancy.  The presiding judge is authorized to order community service hours equal to the number of hours truant in his/her discretion.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In addition to the imposition of civil forfeitures and community service hours for violations of this <cite doc="Stockbridge-Munsee Tribal Code" path="EDU.02">Chapter EDU.02</cite>, the Tribal Court may impose other remedies including but not limited to: mental health counseling, alcohol assessment and counseling, limitations on the use of public facilities within the jurisdiction of the Tribe and loss of privileges that go with tribal membership.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Tribal Court may direct the Tribal Prosecutor to file the Tribal Court Order with the appropriate state court for full faith and credit to enable additional enforcement mechanisms.  In such cases, the Tribal Court shall order the appropriate remedy as found in <cite doc="Wis. Stat." path="§118.163">Wis. Stat. Sec. 118.163</cite>.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.14">
+    <section>
+      <num>EDU.02.14</num>
+      <heading>Referral For Review As Youth In Need Of Care</heading>
+      <para>
+        <num>(a)</num>
+        <text>If the Tribal Court determines a child is habitually truant, the court may order the appropriate tribal agency to initiate an in-depth investigation into the child's background to determine if a Youth-in-Need-of-Care petition should be filed under <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> of Stockbridge-Munsee Tribal Law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing herein shall prohibit the referral of a tribal child to the appropriate tribal agency for the filing of a Petition for Fact Finding under <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> of Stockbridge-Munsee Tribal Law.  A Petition for Fact Finding may be filed regarding any tribal child who has been truant for five (5) days or more in any ninety (90) day period.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.15">
+    <section>
+      <num>EDU.02.15</num>
+      <heading>Omitted</heading>
+      <text>This section is intentionally omitted.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="EDU.02.16">
+    <section>
+      <num>EDU.02.16</num>
+      <heading>Tribal Court Jurisdiction</heading>
+      <text>The Tribal Court shall have jurisdiction over cases brought to enforce this code.  Proceedings shall be conducted in accordance with applicable Stockbridge-Munsee Tribal laws.</text>
+    </section>
+  </codify:replace>
+  <codify:annotation path="EDU.02" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 059-19">Resolution No.059-19</cite>, adopted August 6, 2019.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+</document>

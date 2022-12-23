@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>GOV</num>
+  <heading>Government</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>GOV.01</num>
+    <heading>Stockbridge-Munsee Bill Of Rights</heading>
+    <section>
+      <num>GOV.01.01</num>
+      <heading>Rights</heading>
+      <text>The Stockbridge-Munsee Community, in exercising its powers of self-government, shall not:</text>
+      <para>
+        <num>(a)</num>
+        <text>Make or enforce any law prohibiting the free exercise of religion, or abridging the freedom of speech, or of the press, or of the right of the people to assemble and to petition for a redress of grievances;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Violate the right of people to be secure in their persons, houses, papers and effects against unreasonable search and seizures, nor issue warrants, but upon probable cause, support by oath or affirmation, and particularly describing the place to be searched and the person or thing to be seized;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Subject any person for the same offense to be twice put in jeopardy;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Compel any person in any criminal case to be a witness against himself or herself;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Take any private property for a public use without just compensation;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Deny to any person in a criminal proceeding the right to a speedy and public trial, to be informed of the nature and cause of the accusation, to be confronted with the witnesses against him or her, to have compulsory process for obtaining witnesses in his or her favor, and at his or her own expense to have the assistance of counsel for his or her defense and to have these rights explained at the time of arrest;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Require excessive bail, impose excessive fines, or inflict cruel and unusual punishment;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Deny to any persons within its jurisdiction the equal protection of its laws, provided that, this clause shall not be interpreted to grant those who are not members of the Stockbridge-Munsee Community those rights and benefits to which members of the Stockbridge-Munsee Community are entitled by virtue of their membership;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Deprive any person of liberty or property without due process of law;</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Pass any bill of attainder or ex post facto law; or</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>In the event the Tribe exercises criminal jurisdiction, deny to any person accused of an offense punishable by imprisonment the right, upon request, to a trial by jury of not less than six persons.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 2, §2.1</annotation>
+    </section>
+    <section>
+      <num>GOV.01.02</num>
+      <heading>Enforcement; Waiver</heading>
+      <para>
+        <num>(a)</num>
+        <text>In order to enforce the provisions of this Ordinance, the Tribe shall be subject to suit in law and equity for declaratory judgment and prospective injunctive relief in the Stockbridge-Munsee Tribal Court by persons subject to the jurisdiction of the Stockbridge-Munsee Tribal Court. No money damages shall be available in suits under this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Stockbridge-Munsee Community does not waive or limit any rights that it may have to be immune from suit in the courts of the United States or of any State.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 2, §2.2</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1551-95">Resolution No. 1551-95</cite>, adopted November 7, 1995, approved by BIA on July 18, 1996.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>GOV.02</num>
+    <heading>Sovereign Immunity Ordinance</heading>
+    <section>
+      <num>GOV.02.01</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>Recognizing that there is a need to protect and preserve the sovereign immunity of the Stockbridge-Munsee Community, the Stockbridge-Munsee Tribal Council finds:</text>
+        <para>
+          <num>(1)</num>
+          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create an ordinance regarding protection of the sovereign immunity of the Stockbridge-Munsee Community; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That the Stockbridge-Munsee Community has immunity from suit pursuant to the well settled doctrine of sovereign immunity and desires to preserve and protect this immunity; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the Stockbridge-Munsee Community desires to clarify the process by which it may waive the defense of sovereign immunity.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 29, §29.1</annotation>
+    </section>
+    <section>
+      <num>GOV.02.02</num>
+      <heading>Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text>This ordinance shall be interpreted and understood to accomplish the following tribal objectives:</text>
+        <para>
+          <num>(1)</num>
+          <text>To preserve and protect the inherent sovereign immunity of the Stockbridge-Munsee Community; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To define the entities and individuals entitled to the protection of sovereign immunity; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To establish the manner in which such immunity may be waived.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 29, §29.2</annotation>
+    </section>
+    <section>
+      <num>GOV.02.03</num>
+      <heading>Sovereign Immunity</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Community is immune from suit except to the extent that the Tribal Council expressly waives sovereign immunity by resolution or by enactment of an ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any official or employee of the Stockbridge-Munsee Community acting within the scope of their duties shall be immune from suit. Officials and employees who act beyond the scope of their duties and authority shall be subject to suit only for declaratory judgment or prospective injunctive relief in the Tribal Court System by persons subject to the jurisdiction of the Tribal Court System for purposes of enforcing rights and duties established by the Constitution or other applicable laws. No money damages shall be available in suits under this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Persons subject to the jurisdiction of the Stockbridge-Munsee Community shall exhaust all remedies available to them under the Constitution and the laws of the Stockbridge Munsee Community before seeking redress of grievance against the Stockbridge-Munsee Community in the courts of the United States under any law of the United States granting those persons such rights, unless specifically agreed to otherwise by the parties.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Stockbridge-Munsee Community may appear specially to assert the defense of sovereign immunity in the Tribal Court System, the courts of the United States, or the courts of an individual state, and such appearance shall not constitute a waiver of sovereign immunity or a consent to the jurisdiction of said courts.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 29, §29.3</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 047-15">Resolution No. 047-15</cite>, adopted June 2, 2015.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>GOV.03</num>
+    <heading>Election Ordinance</heading>
+    <section>
+      <num>GOV.03.01</num>
+      <heading>Introduction</heading>
+      <text>In pursuit of impartial and equitable elections, the Stockbridge Munsee Community, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV|6">Article IV, Section 6, of its Constitution</cite> and by-laws, hereby establishes the date and manner by which tribal elections shall be conducted.</text>
+      <annotation type="Prior Codifications">Formerly codified as an unnumbered introduction in Chapter 49</annotation>
+    </section>
+    <section>
+      <num>GOV.03.02</num>
+      <heading>Election Board</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Tribal Council shall appoint an Election Board on or before the first (1<sup>st</sup>) regularly scheduled Council meeting in August.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Election Board shall be made up of tribal members who are at least voting age.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No person who is a current tribal elected official, candidate for office, Council-supervised employee or is a Council-appointed position can serve on the Election Board.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Election Board shall serve for all elections in that annual election cycle, including the primary, general and runoff.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Election Board for a recall election under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|V|2">Article V, Section 2, of the Stockbridge-Munsee Constitution</cite> is not appointed by the Tribal Council, but rather is formed by the petitioners per the Constitution.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Election Board shall be composed of one (1) election judge, two (2) election clerks and two (2) election tellers.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In addition, the Stockbridge-Munsee Tribal Council shall appoint two (2) alternates to serve should the need arise.  Alternates can be present for Board meetings and at the polling place so that they are ready to serve if needed.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Election Board shall maintain minutes from the open session of meetings and proceedings conducted by the Election Board consistent with <cite path="ADM|ADM.01">Chapter ADM.01</cite>.  Copies of such minutes, correspondence, notices and/or any decisions issued by the Election Board shall be posted at the posting site in the Tribal Offices.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Election Board shall adopt additional written processes necessary to conduct an impartial election to the extent that such processes are consistent with this Ordinance.  Such processes shall be publicly posted at the Tribal Offices.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.1</annotation>
+    </section>
+    <section>
+      <num>GOV.03.03</num>
+      <heading>Duty Of Election Board</heading>
+      <text>It shall be the duty of the Election Board to conduct all required  elections during the annual election cycle and the caucus.  Disputes arising out of the election process, including the caucus, shall be resolved by the Election Board or Stockbridge-Munsee Tribal Court consistent with this Ordinance and the Tribe's goal of having impartial and equitable elections.  The Election Board has authority over all proceedings it administers and oversees, subject to the oversight of the Tribal Court consistent with this Ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.2</annotation>
+    </section>
+    <section>
+      <num>GOV.03.04</num>
+      <heading>Tribal Caucus</heading>
+      <text>On the third Saturday of August at 2:00 P.M., a caucus shall be held at one of the recognized and established meeting places for the community.  A notice of the caucus shall be posted by the council secretary at least ten (10) days prior to the caucus.  Copies of the notice shall be posted prominently within the community and the council secretary shall otherwise provide for its publication on the tribal website, in the tribal newspaper, and other newspapers as may be necessary.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.3</annotation>
+    </section>
+    <section>
+      <num>GOV.03.05</num>
+      <heading>Nomination At The Caucus</heading>
+      <text>The caucus shall be conducted by the Election Board as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>After calling the caucus to order, the Election Board judge shall identify each office that is up for election during that election cycle.  The Election Board will then identify each office and accept nominations from the floor for that office.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Individuals may be nominated for more than one (1) office, but may not run for more than one (1) office.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>After each nomination, the name of each individual shall be read aloud and each individual so named shall require that at least one (1) additional support affirmation be heard from the caucus.  At the completion of the nomination process, the Election Board judge shall declare the caucus closed.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Election Board shall contact via the U.S. Mail, certified, each candidate so nominated to determine whether that individual accepts or declines such nomination.  Acceptance/Declination letters must be received by the Tribal Secretary, in a sealed envelope identified as being for Election Acceptance/Declination on the outside, at least one week prior to the scheduled election.  The Tribal Secretary shall maintain the sealed envelopes in a secure fashion until they are delivered to the Election Board.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The names of all those so nominated shall then be recorded by the Election Board, which shall certify the results and post said results in conspicuous places within the community including the tribal website, tribal headquarters, the clinic, housing, the elderly center, the tribal newspaper and other newspapers as may be necessary.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Only tribal members eligible to vote are allowed to participate in the caucus.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.4</annotation>
+    </section>
+    <section>
+      <num>GOV.03.06</num>
+      <heading>Nomination Outside Of The Caucus And Close Of Nominations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any eligible tribal member shall have the privilege of running for tribal council if not nominated during the caucus provided that he/she presents to the Election Board a petition form bearing the name, enrollment number, date of birth and signature of at least fifteen (15) qualified tribal voters prior to the close of nominations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nominations shall be closed as of the end of the working day on the Friday before the first (1<sup>st</sup>) Saturday in September.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.5</annotation>
+    </section>
+    <section>
+      <num>GOV.03.07</num>
+      <heading>Certified Candidate List And Need For Primary Election</heading>
+      <para>
+        <num>(a)</num>
+        <text>Within five (5) days of the close of nominations, the Election Board shall meet to review and verify all acceptance/declination letters and petitions to prepare a certified list of all candidates for each office.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This certified candidate list shall list the candidates alphabetically by office and identify whether a primary election is needed for any office.</text>
+        <para>
+          <num>(1)</num>
+          <text>A primary shall be required for the offices of President, Vice-President or Treasurer when there are more than two (2) candidates running for the office.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A primary shall be required for the office of Council member when there are more than eight (8) candidates running for office.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The certified candidate list will be delivered to the Tribal Council secretary.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the certified candidate list identifies that a primary election is required, the Tribal Council secretary shall be responsible to ensure notice of the offices subject to the primary election is distributed to tribal members.  Such notice shall be posted at tribal posting places, as well as posted on the tribal website and in the tribal newspaper.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Preparation of Ballots and Electronic Voting Machine Card.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Council secretary will also have sample ballots prepared, which will be clearly marked as being sample ballots and which will be posted for public review.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Ballots will only include the names of candidates certified for that election, as well as a space for write-in candidates.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Council secretary shall have the official ballots and the computer card(s) for the electronic voting machine prepared for the applicable election.  The ballots and card(s) shall be delivered to the Election Board prior to election day.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Election Board shall not remove the ballots or card(s) from tribal headquarters.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If an Election Board member loses the card(s), that person is responsible for the cost to replace.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If an eligible candidate, as determined by the primary election, dies prior to the general election and before the ballots are printed, then the person(s) with the next highest vote counts shall have their name(s) added to the general election ballot.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.6</annotation>
+    </section>
+    <section>
+      <num>GOV.03.08</num>
+      <heading>Primary Election</heading>
+      <para>
+        <num>(a)</num>
+        <text>The purpose of a primary election is to reduce the number of candidates running for each office.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When required, the primary election will be held on the third (3<sup>rd</sup>) Saturday in September at the headquarters of the Stockbridge-Munsee Community.  The voting shall take place between the hours of 8:00 A.M. and 8:00 P.M., and voting shall be by secret ballot in booths provided for that purpose.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>After conducting the primary election and tallying the vote, the Election Board will certify the eligible candidates for the general election.  The Election Board shall prepare the certified candidate list, which lists the candidates alphabetically by office, and deliver such list to the Tribal Council secretary.</text>
+        <para>
+          <num>(1)</num>
+          <text>The two (2) candidates with the most votes for each individual office (President, Vice-President and Treasurer) in the primary shall be candidates on the ballot in the general election.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The eight (8) candidates with the most votes for a Council member seat in the primary shall be candidates on the ballot in the general election.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In the event the primary election results in a tie for a spot on the ballot for a general election, the tied candidates will be included on the general election ballot even when it results in more than 2 candidates running for individual office or 8 candidates for the office of Council member.  <em>For example, </em>in a race for an individual office, if candidate X has 125 votes, candidates Y and Z both have 100 votes, and candidate W has 50 votes, then there will be 3 candidates (X, Y and Z) on the general election ballot for that individual office.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.6.5</annotation>
+    </section>
+    <section>
+      <num>GOV.03.09</num>
+      <heading>General Election</heading>
+      <text>The annual general election shall take place on the second Saturday of October, and shall be held at the headquarters of the Stockbridge-Munsee Community.  The voting shall take place between the hours of 8:00 A.M. and 8:00 P.M., and voting shall be by secret ballot in booths provided for that purpose.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.7</annotation>
+    </section>
+    <section>
+      <num>GOV.03.10</num>
+      <heading>Procedures For Conducting Elections</heading>
+      <text>The Election Board having sole authority to conduct an election shall follow these procedures:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Election Board members are to report to the polling place at least one hour prior to the opening of the polls.  Election Board members shall not carry cellular telephones or other communication devices into the polling area to protect against allegations of improper communications during the voting process.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be the duty of the Election Board to ensure that all campaign material is removed from the polling area and that all persons in the polling area refrain from any activities intended to influence the vote on the day of the election.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It shall be the duty of the Election Board to ensure that no ballots nor other official election material is removed from the voting area until after the election process has been completed.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each Election Board member must verify that the ballot box is empty, the electronic voting machine is set at zero via the zero report, and then the ballot box is secured by means of a lock.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Each Election Board member will initial each ballot on the back in one corner prior to the opening of the polls.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Both Election Clerks shall independently verify the enrollment and date of birth of each voter and then record the same.  The Election Clerks can require that proper identification be presented by each voter.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Enrollment will be verified by the Election Clerk by consulting the certified tribal roll of tribal members who are voting age provided by the Stockbridge-Munsee enrollment office.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>An Election Clerk shall then assign a number and a place in line to each voter.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>One Election Clerk shall record the name of each person that casts a ballot.  Each person may only cast one (1) ballot per election, not including ballots destroyed per subsection <cite path="§GOV.03.10|(m)">(m)</cite> herein.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Election Teller(s) shall then give a ballot to the voter holding the number, just prior to the voter entering the voting booth.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>After the voter has voted in the voting booth, the Election Board Judge shall instruct the voter to place the ballot sheet into the vote counting machine.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>The Election Board Judge shall ensure that the ballot is received into the vote counting machine.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>If the vote counting machine rejects the ballot, the Election Board Judge shall instruct the voter to check the machine for notice of over-votes and the ballot for over-votes.</text>
+        <para>
+          <num>(1)</num>
+          <text>An over-vote occurs when the voter places more votes in a category than the ballot allows for.  For example, if the ballot states to vote for one candidate and the voter places two marks, for two different candidates, an over-vote has occurred.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the voter determines that there has been an over-vote, the voter may request a new ballot.</text>
+          <para>
+            <num>(A)</num>
+            <text>If a new ballot is requested, the Election Board Judge shall destroy the over-vote ballot, and the voter shall be issued a new ballot and the voter shall complete steps <cite path="§GOV.03.10|(k)">(k)</cite>, <cite path="§GOV.03.10|(l)">(l)</cite>, and <cite path="§GOV.03.10|(m)">(m)</cite>.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Election Clerks shall keep track of the number of destroyed ballots during the election.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the voter determines that there has not been an over-vote or there has been an over-vote and the voter still desires that the ballot be counted, the Election Board Judge shall override the vote counting machine, so the ballot can be accepted.</text>
+          <para>
+            <num>(A)</num>
+            <text>If the vote counting machine is instructed to override by the Election Board Judge, the vote counting machine will record and tally the portion(s) of the ballot that do not contain an over-vote(s).</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>The Election Board shall cause the doors to the polling place to be locked exactly at 8:00 P.M.; but, shall allow all those eligible voters inside the polling place to cast their ballots.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>In no instance shall a member of the Election Board leave the polling area until the final vote count is completed, unless an alternate arrives to take his/her place.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>An individual with a disability or needed assistance may request assistance from the Election Board or a specific accommodation, such as not entering a voting booth, from the Election Judge provided that it will facilitate his or her voting.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>Other than persons actively voting, only the Election Board, Election Board alternates, election observers and authorized law enforcement are permitted to remain in the polling place, in the polling place building or parking lot while the polls are open.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>Up to four (4) election observers, other than candidates, may remain in the polling place while the polls are open and during the vote tally.</text>
+        <para>
+          <num>(1)</num>
+          <text>Election observers shall not interact with voters or the Board about the election or any candidates or engage in actions that disrupt or interfere with the election process.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Election Board may determine a specific location within the polling area, which is in view of the Board and polls, for use by the elections observers.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tribal members who wish to serve as election observers shall submit their names to Tribal Council.  If more than 4 individuals submit their name, the Tribal Council will select the election observers by lot at the last regularly-scheduled Council meeting before the election.</text>
+          <para>
+            <num>(A)</num>
+            <text>Observers for the primary election shall submit their names prior to the 1<sup>st</sup> regularly scheduled Tribal Council meeting in September.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Observers for the general election shall submit their names prior to the 1<sup>st</sup> regularly scheduled Tribal Council meeting in October.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>No campaign materials or campaigning are permitted within 100 feet of building where the polling place is located on the day of the election.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>Absentee voting is not permitted.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>If an Election Board member has to leave building during an election and is replaced by an alternate, then the former Election Board member may not re-enter the building and resume service as an Election Board member.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.8</annotation>
+    </section>
+    <section>
+      <num>GOV.03.11</num>
+      <heading>Contested Ballots</heading>
+      <para>
+        <num>(a)</num>
+        <text>Should a voter's eligibility to vote be challenged, the voter will be permitted to vote except that the ballot shall not be counted.  Instead, the vote shall be recorded using the following process.</text>
+        <para>
+          <num>(1)</num>
+          <text>The ballot shall be folded by the voter and placed into an envelope, which will be given to the election judge.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The election judge shall identify the reason that the ballot is contested on the envelope.  The judge shall initial the envelope, seal it and then place it in the ballot box.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The judge will inform the voter that the Tribal Court will decide whether the contested ballot will be counted.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>After the closing of the polls, the Election Board will determine whether there are any contested ballots.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Election Board will tally the number of sealed envelopes containing contested ballots.  The envelopes will not be opened.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>After being tallied, the Election Board shall place the sealed envelopes for storage in the ballot box until it is determined whether the ballots need to be forwarded to the Tribal Court for assessment as to whether the ballot should be counted.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>After the vote tally is completed, the Election Board will determine whether the vote margin is such that the counting of the contested ballots could have impacted the election results.  <em>For example,</em> if there are 2 contested ballots, then are there any races where the margin of victory was by 2 votes or less.</text>
+        <para>
+          <num>(1)</num>
+          <text>When there are no races that could have been changed by the counting of the contested ballots, then the ballots will remain sealed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If there is a race where the counting of the contested ballot could have changed the result, then the Election Board will submit the sealed envelope containing the contested ballot to the Tribal Court for determination on whether the ballot should be counted.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Court shall schedule and hold an expedited review hearing within 5 working days of the election to determine whether or not the ballot should be counted.  The Tribal Court's decision shall be issued within 2 working days of the conclusion of the hearing.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>After the Tribal Court issues its decision, the sealed envelope containing the ballot shall be returned to the Election Board.</text>
+          <para>
+            <num>(A)</num>
+            <text>If the Tribal Court determines that the ballots should be counted, only then shall the Election Board open and count the ballot.  The vote shall then be added to the vote tally and the new results shall be certified.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If the Tribal Court decides that a vote is not valid, then the ballot shall remain in the sealed envelope.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The ballot or sealed envelope shall be kept in the ballot box with the other ballots by the Election Board.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.8.5</annotation>
+    </section>
+    <section>
+      <num>GOV.03.12</num>
+      <heading>Vote Tally</heading>
+      <para>
+        <num>(a)</num>
+        <text>Immediately after the closing of the polls and the counting of any contested ballots, the Election Board Judge shall insert the Ender Card into the vote counting machine, and retrieve the paper Election Zero Report and the Election Results Report in full view of the Election Board.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Election Board Judge shall then unlock the vote counting machine and retrieve the ballots.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If there are write-in votes, the Election Board Judge shall then read each write-in ballot, with the Tellers viewing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each Election Board Clerk will list the candidates and vote tallies by office.  All of the Clerks' results must tally.  If the results don't tally, they will be recounted until they agree.  In cases of mechanical and/or power failure, the Election Board may count the votes manually or electronically.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The ballot shall be counted as part of the vote tally if the Election Board determines a voter's intent is clear.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.9</annotation>
+    </section>
+    <section>
+      <num>GOV.03.13</num>
+      <heading>Spoiled And/Or Uncounted Ballots</heading>
+      <para>
+        <num>(a)</num>
+        <text>In cases where individual write-in ballots contain more votes than are required, or are marked in such a way as to make determination of how the vote was cast, then such ballots shall not be counted, but recorded as a spoiled ballot.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In any instance where the ballot has not been marked in the voting booth, other than individuals who physically are not able to enter the voting booth, or not properly placed in the electronic voting machine, then same shall not be counted.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.10</annotation>
+    </section>
+    <section>
+      <num>GOV.03.14</num>
+      <heading>Certification Of Election Results</heading>
+      <para>
+        <num>(a)</num>
+        <text>Upon the completion of the final vote count, the Election Board shall fill out the certification forms, showing the number of votes cast for each candidate, the total number of votes cast, the number of spoiled ballots, and the number of contested ballots.</text>
+        <para>
+          <num>(1)</num>
+          <text>All members of an Election Board shall sign the resulting form(s) as evidence of their certification of such results.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the number of contested ballots means that there is not a final result in a particular race, then the certification of results shall indicate that the seat remains open pending the resolution of the contested ballots.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The certification results shall then be posted at the polling place so that they may be viewed.  The Election Board shall also have the certification posted on the Tribal website.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>One additional certified form shall be placed, along with all ballots whether used, unused or spoiled and with the tribal roll and tally sheets into the electronic voting machine which shall then be locked and placed in a secure place within the headquarters building. The Election Board shall retain control over the locked ballot box until any and all disputes that may arise from the election are settled.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Once any and all disputes that may arise from the election are resolved, the Election Board shall meet and destroy all ballots, the tribal roll, the tally sheets and clear the memory card for the voting machine.  The certification form(s) with the election results will be saved as part of tribal archives.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.11</annotation>
+    </section>
+    <section>
+      <num>GOV.03.15</num>
+      <heading>Vote Recount</heading>
+      <para>
+        <num>(a)</num>
+        <text>Candidates may request a recount of the election results in relation to the office for which they had run, if a written request is submitted to the Election Board judge within three (3) working days of the election.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Election Board, following receipt of a request, will hold a recount when the margin of difference between the vote tally of the winner of the race and the candidate submitting the request is 10 votes or less.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When the margin of difference is greater than 10 votes, the request for a recount shall require approval by the majority of the Election Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Election Board shall hold the recount that is within five (5) working days of the recount request.  The Election Board will notify all affected candidates and publicly post the notice of the recount.  The Election Board shall conduct the recount in a clear and open manner.  The Election Board shall keep a record of the recount and process.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Election Board will recount the votes manually.  Only the contested race will be recounted.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Once each ballot is counted, the votes will be tallied and the results certified consistent with this Ordinance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The candidate for the affected office and his/her witness may observe the recount and may ask questions about ballots and the process, but shall not participate in the recount process or be disruptive to that process.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Tribal members and authorized law enforcement may be present in the room where the recount is occurring, so long as they are quiet, conduct themselves in an orderly fashion and do not disrupt the process.   The Election Board may designate where such observers can be seated.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.11.5</annotation>
+    </section>
+    <section>
+      <num>GOV.03.16</num>
+      <heading>Tied Vote In General Election And Run-Off Election</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Election Board shall hold a run-off election when there is a tied vote for a seat on Tribal Council after a general election.  The winner of the run-off election will be seated and the other candidate will not take office.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Run-off elections will be scheduled for a Saturday that is at least 4 weeks, but not more than 8 weeks, after the completion of any recount or properly filed dispute resolution process.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Election Board shall conduct the run-off election consistent with the standards for elections as outlined in this Ordinance.  No write-in candidates shall be permitted in run-off elections.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.11.7</annotation>
+    </section>
+    <section>
+      <num>GOV.03.17</num>
+      <heading>Election Board Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Election Board shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Have the authority to recount the ballots.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Have the authority to hold a run-off election in case of ties.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Have the authority to consider and hear procedural challenges as to whether the Election Board conducted the election consistent with this Ordinance.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Have the authority and shall destroy all election ballots only after all challenges, recounts, and run-off elections have been resolved.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Have the authority and shall clear the memory card only after all challenges, recounts, and run-off elections have been resolved.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Have the authority to obtain legal advice in relation to disputes before the Election Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Election Board shall have the limited authority to resolve procedural disputes arising out of its actions to conduct the election.  All other issues will be heard by Tribal Court in accordance with <cite path="§GOV.03.18">Section GOV.03.18</cite>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Notice to Contest Election.  A tribal member with a dispute arising out of the election must provide written notice that he/she is contesting the election to the Election Board judge within three (3) working days after the certification of the election results.</text>
+          <para>
+            <num>(A)</num>
+            <text>Such notice must identify the grounds for contesting the election, as well as supporting evidence, including a potential witness list.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Such notice shall be accompanied by a nonrefundable fee of $50.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Election Board shall provide written notice of the dispute to other affected candidates on the ballot.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Contest Hearing.  The Election Board shall promptly schedule a hearing to be held within five working (5) days on the grounds to contest the election.  A hearing that provides the affected person(s) an opportunity to state their case must be held.</text>
+          <para>
+            <num>(A)</num>
+            <text>Hearings conducted before the Election Board shall use a quasi-judicial format.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Election Board may appoint an individual to act as the hearing examiner for conducting the hearing.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>All affected persons, including candidates, shall have an opportunity to be present at the hearing and present their position on the dispute either on their own behalf or through a representative.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Affected persons will be allowed to present witnesses to support their position.  The witnesses may be cross-examined by the hearing examiner as well as other affected persons.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Hearings shall be recorded.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Election Board shall issue a written decision within five (5) working days.  The person who contested the election cannot withdraw their objection after a hearing is held.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Remedies.</heading>
+          <text>The Election Board shall narrowly tailor remedies ordered to minimize disruption of the election process.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Other than the claims meeting the requirements under <cite path="§GOV.03.18">Section GOV.03.18</cite>, all decisions of the Election Board are final.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.12</annotation>
+    </section>
+    <section>
+      <num>GOV.03.18</num>
+      <heading>Tribal Court Authority To Hear Appeals</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Tribal Court shall have the authority to directly hear any election challenges that exceed the Election Board's authority to hear procedural challenges under <cite path="§GOV.03.17">Section GOV.03.17</cite>.  Any direct action to the Tribal Court shall follow the procedure outlined under this Section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Stockbridge-Munsee Tribal Court shall also have the authority to function as an appellate court for Election Board decisions when the candidate has asserted the Election Board made an error of law or fact or has abused its discretion.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Direct actions and appeals to the Tribal Court must be filed within three (3) working days of the date that the affected candidates are notified of the Election Board decision or the certification of election results.  The tribal member filing the appeal shall also serve timely notice of the appeal on the Election Board judge and on all other affected candidates on the ballot in accordance with tribal rules of procedure.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Such notice must identify with specificity the basis for the direct action or appeal under this Ordinance or other violation of law committed during the election.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Within three (3) working days of the filing of an appeal or direct action, the Tribal Court shall hold a scheduling conference.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Court shall schedule a substantive hearing on the dispute within ten (10) working days.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Court shall issue a written decision within seven (7) working days of the conclusion of the substantive hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>For direct action claims heard by the Tribal Court under this section, decisions of the Tribal Court may be appealed to the Stockbridge-Munsee Court of Appeals.</text>
+        <para>
+          <num>(1)</num>
+          <text>The appellant shall have five (5) working days after the Tribal Court's decision to file the notice of appeal.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The appellant shall have ten (10) working days to file a brief in support.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The appellee shall have ten (10) working days to file a response brief.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Court of Appeals shall have five (5) working days to determine whether oral argument is required and issue notice of the determination.  If oral argument is required, then the Court of Appeals shall schedule the oral argument within ten (10) days of the notice.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Court of Appeals shall have ten (10) working days to issue a decision after the later of the notice of no oral argument or the oral argument.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Court proceedings under this ordinance shall be conducted consistent with tribal law, including <cite path="TCT|TCT.02">Chapter TCT.02</cite>, except as superseded by this Ordinance.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The administrative record for appeals of Election Board decisions shall be limited to the evidence considered by the Election Board in reaching the challenged decision and the decision itself.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.12.5</annotation>
+    </section>
+    <section>
+      <num>GOV.03.19</num>
+      <heading>Compensation For Election Board</heading>
+      <text>The Election Board shall have the right to receive proper compensation for the performance of its duties. The amount of which shall be determined by the Tribal Council which shall cause the same to be paid in a timely manner.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.13</annotation>
+    </section>
+    <section>
+      <num>GOV.03.20</num>
+      <heading>Tribal Council Obligation To Election Board</heading>
+      <text>The Stockbridge-Munsee Tribal Council shall provide to the Election Board all materials that it deems necessary to conduct such election and shall provide for adequate security to protect both the people and the premises where the election is held.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.14</annotation>
+    </section>
+    <section>
+      <num>GOV.03.21</num>
+      <heading>Effective Date And Previous Ordinances Superseded</heading>
+      <text>Amendments to this Election Ordinance shall be effective upon Bureau of Indian Affairs approval.  This Election Ordinance, as amended, shall supersede any and all previous election ordinances governing the conduct of holding elections.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.15</annotation>
+    </section>
+    <section>
+      <num>GOV.03.22</num>
+      <heading>Elected Office</heading>
+      <para>
+        <num>(a)</num>
+        <text>Persons newly-elected to office will be required to swear or affirm an oath of office.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>After four (4) working days from the certification of election results, undisputed office holders will be sworn into office.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>When an office is in dispute, that office will remain vacant until the dispute is fully resolved through all processes available under this Ordinance and the newly-elected candidate is sworn into office.  However, when such vacancies would prevent the Tribal Council from being able to meet due to there not being a quorum or neither the President nor Vice-President is sworn into office, then the incumbents shall continue to serve in their offices until the dispute is resolved and the newly elected candidate is sworn into office.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If a candidate is seated in error prior to the final resolution of a dispute, then the seating of that person may be nullified by action of the Tribal Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.16</annotation>
+    </section>
+    <section>
+      <num>GOV.03.23</num>
+      <heading>Prohibited Acts</heading>
+      <text>No person shall engage in acts or omissions in an attempt to impede or influence the voting or election.  Persons who disrupt the voting process or who are not authorized to be present at the polling place will be removed from the premises.  Violations of law may be forwarded for prosecution as appropriate.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.17</annotation>
+    </section>
+    <section>
+      <num>GOV.03.24</num>
+      <heading>Severability</heading>
+      <text>In the event that any provision of this Ordinance is ruled illegal by a court of competent jurisdiction, the remaining provisions of this Ordinance shall remain unaffected.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.18</annotation>
+    </section>
+    <section>
+      <num>GOV.03.25</num>
+      <heading>Recall Election</heading>
+      <para>
+        <num>(a)</num>
+        <text>Recall elections for the removal of a Tribal Council member are conducted in accordance with the procedures outlined under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|V|2">Article V, Section 2 of the Stockbridge-Munsee Constitution</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To the extent the Constitution does not address the specific process for voting the recall election, this Ordinance shall be used as guidance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 49, §49.19</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">9. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 025-18">Resolution No. 025-18</cite>, adopted March 6, 2018, approved by BIA on July 10, 2018.</annotation>
+      <annotation type="Legislative History">8. On October 14, 2017, the Tribe held an advisory referendum on whether to add a primary election to the annual election cycle. The majority of tribal members voting in the referendum supported adding the primary election.</annotation>
+      <annotation type="Legislative History">7. Ministerial corrections made in 2012 to correct citations and typos.</annotation>
+      <annotation type="Legislative History">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 049-12">Resolution No. 049-12</cite>, adopted August 21, 2012, approved by BIA September 5, 2012.</annotation>
+      <annotation type="Legislative History">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 00-056">Resolution No. 00-056</cite>, adopted September 12, 2000, approved by BIA September 21, 2000.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 054-99">Resolution No. 054-99</cite>, adopted August 17, 1999, approved by BIA November 1, 1999.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1526-95">Resolution No. 1526-95</cite>, adopted August 16, 1995.</annotation>
+      <annotation type="Legislative History">2. Section 2 was amended 1949 by deleting a provision to allow for a polling place in Red Springs.</annotation>
+      <annotation type="Legislative History">1. Ordinance No. 2 Elections was approved May 16, 1939.</annotation>
+    </annotations>
+  </container>
+</container>

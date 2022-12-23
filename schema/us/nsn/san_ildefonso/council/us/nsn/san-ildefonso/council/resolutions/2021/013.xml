@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5" id="Pueblo de San Ildefonso Council Res. No. SI-R21-013">
+  <num>SI-R21-013</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-013</heading>
+  <heading type="law">Submittal for 23 U.S.C. 202 Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) Funding</heading>
+  <meta>
+    <effective>2021-06-30</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-013</citation>
+    </citations>
+    <history>
+      <adopted>2021-06-29</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 29th day of June, 2021, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.29</num>
+      <heading>Submittal for 23 USC 202 Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) Funding</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-013"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="|6.5.29.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
+      <codify:insert path="|6.5.29">
+        <section>
+          <num>6.5.29.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under the authority granted by Chapter 2 of Title 23, United States Code, as amended by the Fixing America's Surface Transportation (FAST) Act, Pub. L. 114-94, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part §170.423 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>Under the authority granted by Chapter 2 of Title 23, United States Code, as amended by the Fixing America's Surface Transportation (FAST) Act, Pub. L. 114-94, and in accordance with the requirements of Public Law (Pub. L.) 93-638, as amended; 25 CFR Part 170 (TTP Regulations); the Southwest Regional Office, Department of Transportation (SWRO-DOT) hereby offers the Tribe the first right-of-refusal to contract available funds.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to contract the Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
+      <text>
+        <ul>
+          <li>TTP Tribal Transportation Improvement Plan (TTIP/Control Schedule)</li>
+          <li>Proposed Statement of Work for Planning, Design, Construction and/or Road Maintenance Supplemental</li>
+          <li>Budget</li>
+          <li>Tribal Resolution to Enter into a Pub. L. 93-638 contract</li>
+        </ul>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>To contract the Tribal Transportation Planning (66K) and the Tribal Transportation Program (TTP)(6K1) funds, the Tribe is required to submit to the SWRO-DOT the following documents:</text>
+          <para>
+            <num>(1)</num>
+            <text>TTP Tribal Transportation Improvement Plan (TTIP/Control Schedule)</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Proposed Statement of Work for Planning, Design, Construction and/or Road Maintenance Supplemental</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Budget</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Tribal Resolution to Enter into a Pub. L. 93-638 contract</text>
+          </para>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has prepared the required documents for the following projects:</text>
+      <ul>
+        <li>TTP Projects:</li>
+        <ul>
+          <li>Transportation Planning</li>
+          <li>Road Maintenance Supplemental</li>
+          <li>NP405 Than Povi Po</li>
+          <li>NP416 Ovin Po</li>
+        </ul>
+        <li>23 U.S.C 204(j):</li>
+        <ul>
+          <li>Planning</li>
+        </ul>
+      </ul>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo has prepared the required documents for the following projects:</text>
+          <para>
+            <num>(1)</num>
+            <text>TTP Projects:</text>
+            <para>
+              <num>(A)</num>
+              <text>Planning</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Road Maintenance Supplemental</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>NP405 Than Povi Po</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>NP416 Ovin Po</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>23 U.S.C 204(j):</text>
+            <para>
+              <num>(A)</num>
+              <text>Planning</text>
+            </para>
+          </para>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby</text>
+      <para>
+        <num>1.</num>
+        <text>Approves the FY2021-FY2025 Control Schedule, Statement of Work and Budgets (attached); and,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Requests to modify Pub. L. 93-638 contracts for Transportation Planning, Road Maintenance Supplemental with the funds; and,</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      </para>
+      <codify:insert path="|6.5.29">
+        <section>
+          <num>6.5.29.020</num>
+          <text>The Pueblo de San Ildefonso Council hereby</text>
+          <para>
+            <num codify:value="(a)">1.</num>
+            <text>Approves the FY2021-FY2025 Control Schedule, Statement of Work and Budgets (attached); and</text>
+          </para>
+          <para>
+            <num codify:value="(b)">2.</num>
+            <text>Requests to modify Pub. L. 93-638 contracts for Transportation Planning, Road Maintenance Supplemental with the funds; and</text>
+          </para>
+          <para>
+            <num codify:value="(c)">3.</num>
+            <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>June</u> , 2021, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R21-013</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u> 30</u><sup><u>th </u></sup> day of <u>June</u> , 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u> 30</u><sup><u>th </u></sup> day of <u> June</u> , 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading>SUBMITTAL FOR 23 USC 202 TRIBAL TRANSPORTATION PLANNING (66K) AND THE TRIBAL TRANSPORTATION PROGRAM (TTP)(6K1)</heading>
+    <text class="center">
+      <strong>
+        <u>Attachments</u>
+      </strong>
+    </text>
+    <para>
+      <num>1.</num>
+      <text class="center">
+        <strong>2021-2025 CONTROL SCHEDULES</strong>
+      </text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text class="center">
+        <strong>FY2021 Transportation Planning Program</strong>
+      </text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text class="center">
+        <strong>FY2021 Road Maintenance Supplemental</strong>
+      </text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text class="center">
+        <strong>FY2021 NP405 Than Povi Po</strong>
+      </text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text class="center">
+        <strong>FY2021 NP416 Ovin Po</strong>
+      </text>
+    </para>
+  </attachment>
+</document>

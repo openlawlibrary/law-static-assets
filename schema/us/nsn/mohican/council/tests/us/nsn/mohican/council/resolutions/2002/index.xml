@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2002" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://open.law/schemas/library
+  ../../../../../../../../../../ngo/oll/_schemas/v0.1/docs/ordinance.xsd">
+  <heading>2002 Council Resolutions</heading>
+  <xi:include href="./071-02.xml"/>
+  <xi:include href="./070-02.xml"/>
+  <xi:include href="./056-02.xml"/>
+  <xi:include href="./055-02.xml"/>
+  <xi:include href="./054-02.xml"/>
+  <xi:include href="./045-02.xml"/>
+  <xi:include href="./02-034.xml"/>
+  <xi:include href="./024-02.xml"/>
+  <xi:include href="./013-02.xml"/>
+  <xi:include href="./012-02.xml"/>
+  <xi:include href="./03-02.xml"/>
+  <xi:include href="./01-02.xml"/>
+</collection>

@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 026-21" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>026-21</num>
+  <heading/>
+  <meta>
+    <stub/>
+    <ordinance>Tribal Registry Office</ordinance>
+    <effective>2021-04-06</effective>
+    <history>
+      <adopted>2021-04-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/026-21.pdf">Stockbridge-Munsee Tribal Council Res. No. 026-21</citation>
+    </citations>
+  </meta>
+  <codify:replace path="PRP.03">
+    <container>
+      <num>PRP.03</num>
+      <prefix>Chapter</prefix>
+      <heading/>
+      <reason>Recodified</reason>
+      <text>Recodified as <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">ADM.03</cite>.</text>
+    </container>
+  </codify:replace>
+  <codify:insert path="ADM">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>ADM.03</num>
+      <heading>Tribal Registry Office</heading>
+      <section>
+        <num>ADM.03.01</num>
+        <heading>Purpose</heading>
+        <text>The purpose of establishing a tribal registry office is to provide an official filing system in order to record and maintain certain documents so as to provide evidence of actions and proceedings that involve tribal people and tribal lands, give notice of such activities, and to preserve a record of these documents.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.1</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.01</annotation>
+      </section>
+      <section>
+        <num>ADM.03.02</num>
+        <heading>Types Of Records</heading>
+        <text>The types of records to be recorded and filed shall include the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Grants of Standard Assignment</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Leases</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Records documenting land use, including variances, conditional use permits, other permits required under Land Use Code.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Land contracts</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Tribal Land Assignment Security Agreements</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Bills of sale for houses upon tribal lands</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Maps of lands within reservation boundaries</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Certified survey maps</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Cemetery plats</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Marital property agreements</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Court-ordered transactions affecting tribal lands</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Tribal enrollment records</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Name Changes</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Marriages</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Divorces</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Deaths</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.2</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.02</annotation>
+      </section>
+      <section>
+        <num>ADM.03.03</num>
+        <heading>Recordable Documents</heading>
+        <text>The original, a signed duplicate, or certified copy of the document listed above shall be submitted for recording and filing.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.3</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.03</annotation>
+      </section>
+      <section>
+        <num>ADM.03.04</num>
+        <heading>Accessibility</heading>
+        <text>It is the policy of the Stockbridge-Munsee Community to allow the Tribe and tribal members to have access to tribal land records, tribal enrollment records, and related documents unless such access would violate the Privacy Act (5 U.S.C. 552a).</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.4</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.04</annotation>
+      </section>
+      <section>
+        <num>ADM.03.05</num>
+        <heading>Uses</heading>
+        <text>Documents recorded are used to give notice of land uses, verify legal instruments, create land abstracts, locate property lines, draw plats, research historical data, assist courtroom testimony, do genealogical searches, provide proof of ownership, and other uses.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.5</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.05</annotation>
+      </section>
+      <section>
+        <num>ADM.03.06</num>
+        <heading>Person Responsible For Tribal Registry</heading>
+        <text>The person assigned to be responsible for maintenance and safe-keeping of records shall be the Tribal Land and Enrollment Manager.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.6</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.06</annotation>
+      </section>
+      <section>
+        <num>ADM.03.07</num>
+        <heading>Duties Of Responsible Person</heading>
+        <text>The Land and Enrollment Manager shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>accept for filing all records presented to his/her office as listed above.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>endorse each document</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>keep a record of all documents  presented in a suitably bound book.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>assure the safe-keeping of all records filed.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>provide accessibility to records in accordance with D. above, and shall issue copies as requested.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.7</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.07</annotation>
+      </section>
+      <section>
+        <num>ADM.03.08</num>
+        <heading>Receiving And Recording Of Documents</heading>
+        <text>Each document recorded shall be endorsed on its face with the date and time received, volume where document is recorded, and signature of registrar. Documents shall be recorded by the order in which they are received.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.8</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.08</annotation>
+      </section>
+      <section>
+        <num>ADM.03.09</num>
+        <heading>Files Maintenance</heading>
+        <text>A safe and fireproof  filing and retrieval system shall be established by the Land and Enrollment Manager for all documents recorded.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.9</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.09</annotation>
+      </section>
+      <section>
+        <num>ADM.03.10</num>
+        <heading>Electronic Records</heading>
+        <text>Electronic records shall be electronically secure and back up stored in remote location.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.10</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.10</annotation>
+      </section>
+      <section>
+        <num>ADM.03.11</num>
+        <heading>Effective Date</heading>
+        <text><cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">This Chapter</cite> shall become effective 30 days after approval by the Stockbridge-Munsee Community.</text>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.11</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.11</annotation>
+      </section>
+      <section>
+        <num>ADM.03.12</num>
+        <heading>Coverage, Severability, Amendments</heading>
+        <para>
+          <num>(a)</num>
+          <text><cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">This Chapter</cite> shall be binding on all entities, enterprises, and organizations operating under the Stockbridge-Munsee Community and all other tribal laws requiring recording shall abide by <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If any provision of <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">this Chapter</cite> is ruled illegal by a court of competent jurisdiction, the remaining provisions shall remain unaffected.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">This Chapter</cite> may be amended by resolution of the Tribal Council.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.12</annotation>
+        <annotation type="Prior Codifications">Formerly codified as §PRP.03.12</annotation>
+      </section>
+      <annotations>
+        <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 012-02">Resolution No. 012-02</cite>, adopted February 19, 2002, approved by BIA March 5, 2002.</annotation>
+      </annotations>
+    </container>
+  </codify:insert>
+</document>

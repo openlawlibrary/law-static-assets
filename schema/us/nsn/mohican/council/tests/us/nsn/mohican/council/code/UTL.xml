@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>UTL</num>
+  <heading>Utilities And Public Improvements</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>UTL.01</num>
+    <heading>Tribal Utility Ordinance</heading>
+    <section>
+      <num>UTL.01.01</num>
+      <heading>Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text>The objectives of this Ordinance are to establish the organization and identify the general rules for the operation, maintenance and management of tribal utilities that are currently in existence or anticipated for the future.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Ordinance regulates:</text>
+        <para>
+          <num>(1)</num>
+          <text>the use of the community water system by residential and commercial consumers, as well as other water uses.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the use of public and private sewers and drains, disposal of septage wastes into the public sewers and the discharge of wastewater into the tribal sanitary sewer systems.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It is the policy of the Tribe to operate, maintain and manage the utilities in a financially responsible and cost-effective manner.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.1</annotation>
+    </section>
+    <section>
+      <num>UTL.01.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Consumer" refers to a person connected to the Tribe's utility system or using the utility system with permission.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Community Water System" means a public system that provides piped water for human consumption to a non-transient population of at least 25 service connections, which are used by year-round residents, or regularly serves at least 25 year-round residents.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Curb Stop" means the shut-off for a unit of service from the lateral and mainline of the Tribe's community water system.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Person" means any and all persons or parties, including any individuals, corporations, partnerships, other organizations or governmental entities.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Sanitary Sewer" means a sewer that carries liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions, together with minor quantities of ground, storm and surface waters that are not admitted intentionally.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Septage" means sludge, liquid, scum or other waste from a septic tank, soil absorption field, holding tank, vault toilet or privy.  This does not include the waste from a grease trap.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Unit of Service" consists of any residential, commercial, industrial or public premises or areas that are occupied for a distinct purpose such as a residence, apartment, store, office, industrial plant, church or school.</text>
+        <para>
+          <num>(1)</num>
+          <text>Each unit of service shall be regarded as one consumer.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When a consumer's premises has several buildings, for which services are eligible and such buildings are used in the same business and connected by the consumer, the Tribe shall set a separate rate for such complex.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Utility" refers to the facilities and infrastructure for the production, transmission, delivery or furnishing of services, such as water, wastewater treatment or power, to the public.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Wastewater" means the spent water of a community.  Wastewater can be a combination of the liquid and water-carried wastes from residences, commercial buildings, industrial plants and institutions along with other water present, but not intentionally admitted, in the system.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Wastewater Treatment Works" refers to an arrangement of pipes, facilities, devices and structures for treating wastewater, septage, sludge and other permitted wastes.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.2</annotation>
+    </section>
+    <section>
+      <num>UTL.01.03</num>
+      <heading>Current Tribal Utilities</heading>
+      <text>Services that are provided by tribal utilities for a fee include:</text>
+      <para>
+        <num>(a)</num>
+        <text>the provision of domestic potable water through a community water system; and</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe's community water system shall be managed in such a way that the regulatory requirements and standards of the federal Safe Drinking Water Act, the Clean Water Act and all applicable tribal law are satisfied.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the collection and disposal of wastewater through a public sanitary sewer system and wastewater treatment works.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe provides sanitary disposal of wastewater for those facilities connected to the mainlines of the community sanitary sewer collection systems.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The tribal Utility Department does not provide pumping and disposal services for septage from private sewage systems, except by special agreement.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.3</annotation>
+    </section>
+    <section>
+      <num>UTL.01.04</num>
+      <heading>Application For Utility Service</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every person who wants to connect to the tribal utility system shall file a written application with the Utility Department.</text>
+        <para>
+          <num>(1)</num>
+          <text>The applicant shall identify the utility services being requested and list all uses for those services on the application for service.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the applicant is not the owner of the premises, the written consent of the owner must accompany the application.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The application may be for service to more than one building or more than one unit of service through one service connection.  In such cases, additional charges may be made accordingly.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the application is approved, the Utility Department shall provide the services listed on the application.</text>
+        <para>
+          <num>(1)</num>
+          <text>The applicant is responsible for providing infrastructure necessary to make the service connection from the curb stop or other such start of the service connection.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>There is a $<cite path="§40.00">40.00</cite> fee for connection to the tribal utility system, either as a new consumer or to be reconnected after services have been shut off.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If it appears that the service will not be adequate for the uses listed on the application, the Utility Department may reject the application.  The Utility Department may also reject the application, if the person has an outstanding unpaid balance owed to the Tribe for previous or other tribal utility services or owed to the Tribe for housing services.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.4</annotation>
+    </section>
+    <section>
+      <num>UTL.01.05</num>
+      <heading>Obtaining Service Without Authorization</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person may obtain services from a tribal utility without authorization from the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person, who obtains such unauthorized services by connecting to utility facilities without authorization or by tampering with or bypassing any meter, shall be liable to the Tribe for three times the value of the actual service obtained, in addition to the cost of correction.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.5</annotation>
+    </section>
+    <section>
+      <num>UTL.01.06</num>
+      <heading>Consumer Obligations To Receive Utility Service</heading>
+      <para>
+        <num>(a)</num>
+        <text>As a condition for receiving utility services, the consumer agrees to comply with all provisions of this Ordinance and any other applicable laws or requirements, including being current in the payment of all fees or other charges assessed by the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The consumer is responsible for maintaining water, sewer or other utility lines for the service connection from the curb stop or other such start of the service connection.</text>
+        <para>
+          <num>(1)</num>
+          <text>The consumer will notify the Utility Department in advance of major maintenance or other work planned for water, sewer or other utility lines on the consumer's premises.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The consumer will permit the Utility Department to inspect the work for compliance with applicable requirements.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The consumer will be liable for any damage to the Tribe's lines, equipment or other property caused by the consumer, his/her family, guests, tenants or other third-parties under the consumer's control or authority.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The consumer shall not unreasonably withhold permission and prevent the Utility Department from entering and inspecting fixtures, lines and equipment as necessary to ensure that they are operating in a manner that would not likely disrupt or interfere with utility services.</text>
+        <para>
+          <num>(1)</num>
+          <text>The consumer must at all times, frankly and without concealment, answer questions relative to the use of tribal utilities.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The consumer shall be liable for any costs or related expenses caused by unreasonable withholding of permission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The consumer shall not make or allow others to make any cross connections with the community water system or community sanitary sewer system on his/her premises, without prior permission from the Utility Department.</text>
+        <para>
+          <num>(1)</num>
+          <text>A cross connection is defined as any physical connection between the Tribe's community water system and another piping system, including public or private sanitary sewer systems or the domestic water systems of other persons.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any individual water source, such as a private well, must be totally disconnected from the household plumbing prior to connection to the tribal public water system.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Disconnections that are done solely by a valve shall not be allowed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Excessive use or waste of water is prohibited and repeated violations may be cause for suspension of water service.  Service will be resumed only after correction of the condition causing the water wastage and payment by the consumer any fees, penalties and other utility accounts in arrears to the Tribe.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The consumer shall only use the community sanitary sewer collection and disposal system for the disposal of normal household liquid waste, including waste from toilet facilities, bathing facilities and kitchen facilities.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.6</annotation>
+    </section>
+    <section>
+      <num>UTL.01.07</num>
+      <heading>Inspections And Right Of Entry</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Utility Department, or its authorized representative, is hereby authorized to make limited, reasonable inspections, at reasonable times, of any grounds, building or residence served by the Tribe to the extent necessary to ensure that consumer utility fixtures, lines and equipment are not being operated in a manner that would likely disrupt or interfere with utility services.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Except in cases of emergency where life, limb or property are threatened, or in cases of immediate water shortages, the Utility Department will give the consumer at least 24 hours notice prior to requesting permission to enter and inspect.</text>
+        <para>
+          <num>(1)</num>
+          <text>If permission to enter and inspect is denied or impeded in any way, the Tribe may obtain a court order authorizing such entry and inspection.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Where the permission to enter and inspect is unreasonably withheld, the Tribe may assess court costs and related expenses and add them to the affected consumer's bill.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.7</annotation>
+    </section>
+    <section>
+      <num>UTL.01.08</num>
+      <heading>Disruption Of Utility Service</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Utility Department may shut off utility service or disrupt traffic on the public right-of-way to perform repairs.  If possible, advance notice will be given to affected units of service, particularly to persons dependent on the services of the utility.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe shall not be liable for any damages or delay that are the result of any work for which it may be necessary to shut off utility service or that are caused by a lack of water.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>An emergency notification plan will be developed by the Utility Department and reviewed biennially.  The plan will notify residents and visitors of:</text>
+        <para>
+          <num>(1)</num>
+          <text>discontinued service for more than eight (8) hours;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>substandard conditions in water quality, including bacteriological, chemical or physical quality deficiencies; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>any other conditions which may adversely affect the community residents or visitors.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.8</annotation>
+    </section>
+    <section>
+      <num>UTL.01.09</num>
+      <heading>Maintenance Of Utility Service And Facilities</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe shall maintain utility service and the utility's facilities and other infrastructure.  The Tribe is responsible for maintenance on service lines up to the consumer's curb stop or other such start of the individual service connection.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe is not responsible for maintenance needed, if utility infrastructure or service lines are damaged as a result of negligence or carelessness on the part of the consumer.  In such a case, the damage will be repaired at the expense of the consumer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The consumer is responsible for maintenance of the service line on the premises from the curb stop to the building, as well as the household plumbing or other types of utility infrastructure.  The plumbing or other such infrastructure must be maintained free of defective conditions by the consumer.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.9</annotation>
+    </section>
+    <section>
+      <num>UTL.01.10</num>
+      <heading>Discontinuance Of Utility Service</heading>
+      <para>
+        <num>(a)</num>
+        <text>A consumer who is planning to vacate any grounds, building or residence served by the Tribe shall notify the Utility Department in writing prior to the date the consumer plans to either vacate the premises or discontinue service.  A consumer who fails to provide notice shall continue to be responsible for all charges accrued up to when service is terminated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The consumer shall be liable for any damages to utility property that are not the fault of the utility system, the tribal Utility Department or its representatives and are discovered when the utility service is terminated.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.10</annotation>
+    </section>
+    <section>
+      <num>UTL.01.11</num>
+      <heading>Limitations On Responsibility</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe will not be responsible for the maintenance or repair of any private or domestic water, sewer or other private utility system.  Any services provided by the Tribe shall be done by specific agreement, approved by the Tribe and which establishes a fair rate of compensation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe will not be liable for any loss or damage:</text>
+        <para>
+          <num>(1)</num>
+          <text>that is beyond its control and results from any defect in, or damage to, a consumer's water or wastewater lines or fixtures, or any other utility-related appurtenances owned or leased by the consumer; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>because of service pipes breaking, clogging, stoppage or freezing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe assumes the risk for treatment by accepting wastewater and septage into its wastewater utility system, but reserves the right to immediately discontinue acceptance of wastewater or septage for operational or environmental compliance reasons.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.11</annotation>
+    </section>
+    <section>
+      <num>UTL.01.12</num>
+      <heading>Utility Administration</heading>
+      <para>
+        <num>(a)</num>
+        <text>Stockbridge-Munsee Utility Department.</text>
+        <para>
+          <num>(1)</num>
+          <text>The management, operation and control of the utility system for the Tribe is vested in the Tribe's Utility Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Utility Department shall have the authority to enter upon any land in performance of their duties under this Ordinance, without liability therefore.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe's Division of Community Housing shall keep the financial records for the water and sewer utilities and payment for these utility services shall be submitted to the Division of Community Housing.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tribal Utility Board.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Utility Board shall review utility issues and make recommendations to the Tribal Council and the Utility Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Utility Board shall review applications for utility services and make service decisions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The tribal Housing Board shall function as the tribal Utility Board, unless a separate Utility Board is established.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.12</annotation>
+    </section>
+    <section>
+      <num>UTL.01.13</num>
+      <heading>Meters</heading>
+      <para>
+        <num>(a)</num>
+        <text>Meters for measurement of utility services provided by the Tribe shall be installed at a unit of service, in accordance with tribal requirements and in such locations as determined by the Utility Department.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All meters shall remain accessible to utility personnel and no person shall obstruct or tamper with any meter.</text>
+        <para>
+          <num>(1)</num>
+          <text>Such obstruction or tampering shall be a violation of this Ordinance and subject the violator to civil penalties and damages under this Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The consumer at the property on which the meter is located shall be responsible for all damage to or tampering with the turn-off/on water valve attached to such meter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All persons who have premises that are connected to the community water system are required to install a water meter in order to be considered a unit of service and receive water service.  Individual household water meters are owned by the Tribe and it is the responsibility of the Utility Department to maintain such meters.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.13</annotation>
+    </section>
+    <section>
+      <num>UTL.01.14</num>
+      <heading>Other Uses Of Water Services</heading>
+      <para>
+        <num>(a)</num>
+        <text>Water for Fire Protection.</text>
+        <para>
+          <num>(1)</num>
+          <text>There is no charge for the use of hydrants and such quantities of water used for public fire protection for the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount of water used for testing equipment and training personnel shall be metered or estimated by the Utility Department and subject to a volumetric charge.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Water for Construction.</text>
+        <para>
+          <num>(1)</num>
+          <text>Applications may be submitted to the Utility Department for the purchase of water to be used for construction purposes, the filling of tanks or other such uses.</text>
+          <para>
+            <num>(A)</num>
+            <text>Such applications shall be in writing and include an estimate of the amount of water requested and the work to be done or size of tank to be filled.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If the Utility Department approves the application, a permit shall be issued to the applicant for the water use.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Utility Department shall not provide water for such uses until an application is submitted and a permit has been issued.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount of water used for construction shall be metered or estimated by the Utility Department and subject to a volumetric charge.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Payment or a deposit for water used for construction may be required in advance.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>No connections may be made to the tribal water utility for such uses without the Utility Department's approval and permission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Bulk Water Purchases.</text>
+        <para>
+          <num>(1)</num>
+          <text>All bulk water supplied from the tribal water utility system shall be metered or the amount estimated by the Utility Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A service charge of $<cite path="§25.00">25.00</cite> will be charged for bulk water purchases, in addition to the volumetric charge.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Bulk water sales include water supplied for purposes other than extinguishing fires such as irrigation or the filling of swimming pools.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.14</annotation>
+    </section>
+    <section>
+      <num>UTL.01.15</num>
+      <heading>Connection To The Water And Wastewater Utilities</heading>
+      <para>
+        <num>(a)</num>
+        <text>The use of public water and wastewater treatment systems, instead of individual systems, helps to ensure the protection of human health and the environment. Therefore, the Tribe is interested in having buildings, which are located on tribal land adjacent to the Tribe's water and sanitary sewer system, connected to those systems as consumers.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe requires that the wastewater systems of buildings proximate to the tribal sanitary sewer system be connected to the Tribe's wastewater utility as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>All new buildings shall be constructed with wastewater systems that are connected to the tribal wastewater utility;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Those buildings with private sewage systems, which need replacement or repair, shall be required to hook-up to the tribal wastewater utility, instead of continuing to use a private sewage system.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Within ten (10) years of November 19, 1999 or the date that there is an operative sewer main in proximity to the building, whichever is later, all buildings with private sewage systems are required to connect to the Tribe's wastewater utility system.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe requires that buildings proximate to the Tribe's community water system connect to that system in accordance with the following.</text>
+        <para>
+          <num>(1)</num>
+          <text>All new buildings requiring a water supply shall connect to the community water system.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All existing buildings are required to connect to the community water system if the building is enlarged or the use is changed so that it will require an increased water supply.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Within ten (10) years of January 1, 2007 or the date that there is an operative water main in proximity of the building, whichever is later, all buildings requiring a water supply shall connect to the Tribe's community water system.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Once a building is connected to the tribal water and sewer systems, the private systems must no longer be used.  The internal piping shall be disconnected and sealed from the well and any tanks.  The well and any tanks must be abandoned in accordance with applicable law within 90 days of the date that the building is connected to the Tribe's systems.  If tribal law does not address abandonment, Wisconsin laws shall be followed.  The building owner shall submit evidence that the systems have been properly abandoned to the Utility Department when the work is complete.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If a consumer does not connect to the tribal water and sewer systems as required under this Ordinance, the Tribe shall have the consumer's building connected to the system.  The consumer shall be responsible for the costs associated with connecting to the tribal system, as well as a penalty for violating the Ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.15</annotation>
+    </section>
+    <section>
+      <num>UTL.01.16</num>
+      <heading>Environmental Monitoring</heading>
+      <para>
+        <num>(a)</num>
+        <text>All applicable federal environmental permits, which are necessary for the operation of any tribal utility, shall be applied for and obtained by the Tribe.  The Tribe shall also comply with any applicable permit conditions and standards.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>As groundwater is the sole source of drinking water on the Stockbridge-Munsee Indian Reservation, the Tribe has to protect groundwater quality.  Groundwater must meet applicable water quality standards set in the federal Safe Drinking Water Act and the federal Clean Water Act, as well as tribal law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Groundwater monitoring shall be done around utility facilities, as needed, to ensure that utilities do not have a detrimental effect on groundwater or other water resources.</text>
+        <para>
+          <num>(1)</num>
+          <text>Problem assessment monitoring will be done to detect substances in groundwater and to assess the significance of the concentrations of the detected substances.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Regulatory monitoring will be done to determine if water quality standards and any other applicable standards or limits are attained or exceeded.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribe shall install and maintain groundwater monitoring wells around tribal wastewater treatment works and other utility facilities that could negatively impact groundwater, as appropriate.</text>
+          <para>
+            <num>(A)</num>
+            <text>Wells shall be installed and maintained in accordance with Chapter NR 141, Wis. Admin. Code and any subsequent updates.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Wells shall be installed at locations indicated on the plans and specifications for the facility that have been approved by the tribal Environmental Department.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.16</annotation>
+    </section>
+    <section>
+      <num>UTL.01.17</num>
+      <heading>Waste Inspection And Analysis</heading>
+      <para>
+        <num>(a)</num>
+        <text>Wastewater and septage discharged into the sanitary sewers shall be subject to periodic inspection and a determination as to the character and concentration of said wastewater.  The determinations shall be done as often as deemed necessary by the Tribe and may be required at any point within the Tribe's utility system or the connection system of the consumer.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Samples shall be collected so that they are representative of the composition of the wastewater.  Sampling methods, locations and times are to be determined on an individual basis, subject to approval by the Tribe, or as required in applicable permit conditions or standards.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Testing shall be the responsibility of the person discharging the wastewater or septage and shall be subject to the approval of the Tribe.  Every care shall be exercised when collecting samples to ensure preservation in a state comparable to that at the time the sample was taken.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Measurements, tests and analyses of the characteristics of wastewater and septage that are referred to in this Ordinance shall be done in accordance with "Standard Methods for the Examination of Water and Wastewater," published by the American Public Health Association, and "Guidelines Establishing Test Procedures for Analysis of Pollutants" (40 CFR 136).</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If any wastewater or septage is discharged, or proposed to be discharged, to the public sewers or at the wastewater treatment facility that may have deleterious effects upon the wastewater treatment facility, processes, equipment or receiving waters, or which otherwise create a hazard to life, health, or constitute a public nuisance, the Tribe may:</text>
+        <para>
+          <num>(1)</num>
+          <text>reject the wastewater;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>require pretreatment to an acceptable condition for discharge to the public sewers;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>require a control over the quantities and rate of discharge; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>require payment to cover additional cost of handling and treating the wastewater.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.17</annotation>
+    </section>
+    <section>
+      <num>UTL.01.18</num>
+      <heading>Disposal Of Septic And Holding Tank Septage</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall transfer septic tank sludge or holding tank sewage into any disposal area or sewer manhole located within the Reservation boundaries unless permission to engage in such disposal activities has been first obtained from the Tribe under <cite path="§UTL.01.19">Section UTL.01.19</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Rates for disposal of septic tank sludge or holding tank sewage shall be determined by the Tribe.  These rates shall be reviewed annually or as necessary.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any person disposing of septic tank or holding tank sludge agrees to carry public liability insurance in an amount not less than one-hundred thousand dollars ($100,000) to protect any and all persons or property from injury and/or damage caused in any way or manner by any act, or failure to act, by any of his employees.  The person(s) shall furnish a certificate certifying such insurance to be in full force and effect to the Tribe.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any materials dumped into the wastewater treatment system shall be of domestic origin only and must comply with the provisions of this Ordinance and other applicable law.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The person disposing of the waste shall furnish a bond to Tribe in amount of $1,<cite path="§000.00">000.00</cite> to guarantee performance, unless this requirement is waived by the Tribal Council.  The performance bond shall be delivered to Tribal Council prior to the issuance of the permit under <cite path="§UTL.01.18">Section UTL.01.18</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.18</annotation>
+    </section>
+    <section>
+      <num>UTL.01.19</num>
+      <heading>Application For Septage Disposal</heading>
+      <para>
+        <num>(a)</num>
+        <text>Persons wishing to discharge septage to the Tribe's wastewater treatment works shall file a written application for permission and submit a nonrefundable filing fee with the Tribe.  The application must fully state the type, frequency, quantity, quality and location of generated septage to be disposed at the Tribe's wastewater treatment works.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council will evaluate the applications and make a determination as to the amount and conditions of septage disposal at the wastewater treatment facility.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Council shall grant or deny the permit application and may impose such conditions as it deems necessary.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any permit granted by the Tribal Council shall be for a one-year period, after which the person must re-apply for a new permit.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the Tribal Council cannot accept all applications, then consideration shall be given first to those generators of septage that are within the Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All permits for septage disposal shall have the condition that any time the wastewater treatment works has operational problems, maintenance problems or threat of environmental violations related to septage disposal, the Tribe may immediately restrict septage disposal until such time as corrective action or mitigative measures have been taken.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any person discharging to the wastewater treatment facility or to a public sewer, who is found to be violating a provision of this Ordinance or of any conditions of their permit for septage disposal, may have their permit immediately revoked.</text>
+        <para>
+          <num>(1)</num>
+          <text>This revocation shall be done in writing and state the reason for revoking the septage disposal permit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The person shall be liable for all costs incurred by the Tribe in connection with the permit revocation.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.19</annotation>
+    </section>
+    <section>
+      <num>UTL.01.20</num>
+      <heading>Septage Acceptance Location</heading>
+      <para>
+        <num>(a)</num>
+        <text>Septage shall only be discharged to the sanitary sewer system by tribally-permitted disposers and at locations, times and conditions specified by the Tribe.</text>
+        <para>
+          <num>(1)</num>
+          <text>Septage discharges to the wastewater treatment works are limited to the normal working hours of the Utility Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Under special circumstances, discharges to specified manholes may be allowed provided discharge rates are restricted to facilitate mixing, prevent a backup in the receiving sewer and prevent a slug load to the wastewater treatment works.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Written documentation of the discharge must be submitted to the Utility Department one working day prior to the discharge to the Tribe's sewers or wastewater treatment works.  Documentation of the discharge will include the following information:  the name, address and telephone number of the hauler; the type of septage; the quantity of septage; the estimated quality of septage; the location, date, time and feed rate of discharge to the sanitary sewer system; the source of septage; the name and address of septage generator; and other information as needed.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.20</annotation>
+    </section>
+    <section>
+      <num>UTL.01.21</num>
+      <heading>Fee Schedules</heading>
+      <para>
+        <num>(a)</num>
+        <text>The schedule of user fees for utility services shall be set annually by the Tribal Council.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Utility Board and Utility Department shall meet with the Tribal Treasurer and/or his/her designee(s) to discuss utility fees for units of service.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Following such discussions, the Utility Board shall recommend a schedule of fees for utility services to the Tribal Council at a regular Tribal Council meeting.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The schedule of fees shall be posted for a 14-day comment period in the Tribe's usual posting locations before the Tribal Council takes action.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The fee schedule will be based on the estimated average annual costs for operation of utility services and may be adjusted as needed.  The fee schedule may include: user fees, meter fees, construction permit fees and late payment charges.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A copy of the fee schedule will be provided to consumers at least 30 days prior to the date any fee changes take effect.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Fees for the water and sewer utilities shall be paid at the Division of Community Housing on a monthly basis.</text>
+        <para>
+          <num>(1)</num>
+          <text>All charges for sanitary sewer service shall be payable on the last day of the month.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A two percent (2%) penalty will be added to those bills not paid on or before the 20th day after the due date of the bill with a twenty-five cent ($<cite path="§0.25">0.25</cite>) minimum penalty charge.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A failure to receive a bill shall not excuse nonpayment.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.21</annotation>
+    </section>
+    <section>
+      <num>UTL.01.22</num>
+      <heading>Water And Sewer Fees</heading>
+      <para>
+        <num>(a)</num>
+        <text>In setting the rates of the fees for the community water and sanitary sewer utilities, it shall be the policy of the Tribe to obtain revenues to pay the cost of:</text>
+        <para>
+          <num>(1)</num>
+          <text>the annual debt retirement payment of any bond indebtedness;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>any required cash reserve account payment; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>operation and maintenance of the community water system and the wastewater treatment works, including a replacement fund, through a system of consumer charges, which assures that each consumer pays a proportionate share of the cost of such works.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Classification of Water and Sewer Consumers.</text>
+        <para>
+          <num>(1)</num>
+          <text>Water and sewer units of service shall be classified in one of the following categories:</text>
+          <para>
+            <num>(A)</num>
+            <text>Residential;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Commercial (domestic strength wastewater);</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Large-scale Commercial (domestic strength wastewater);</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Industrial;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Public or Government (domestic strength wastewater); or</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Other consumers.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Commercial facilities that are used daily by equivalent of more than 25 persons shall be considered to be large-scale commercial facilities.  Other commercial facilities are used daily by the equivalent of 25 or less people.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Water and sewer fees are charged to the unit of service based on the class of consumer and take into consideration the average volume of water used and the volume and quality of wastewater generated by that size of consumer.  When setting fees, the Tribe may choose to subsidize and support the tribal utilities.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.22</annotation>
+    </section>
+    <section>
+      <num>UTL.01.23</num>
+      <heading>Sanctions</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe may take the following actions if the consumer does not comply with any provisions of this Ordinance or other applicable law or policies:</text>
+        <para>
+          <num>(1)</num>
+          <text>termination of service;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>assessment of penalties;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>assessment of damages resulting from consumers noncompliance;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>forfeiture of all or part of a deposit;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>seek a judgment against the consumer in Stockbridge-Munsee Tribal Court for fees and other charges after the account is declared delinquent;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>filing suit for damages in Stockbridge-Munsee Tribal Court; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>referring violations that may involve criminal conduct to the proper authorities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Termination of Service.</text>
+        <para>
+          <num>(1)</num>
+          <text>Whenever tribal law or policies are violated, the Tribe has the option to shut off service to the violating unit of service.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Service shall not be re-established except by order of the Utility Board upon:</text>
+          <para>
+            <num>(A)</num>
+            <text>payment of all fees and other costs, including the expenses and established charges for terminating and re-establishing service;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>such other terms as the Utility Board may determine; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>a satisfactory understanding with the party that no further cause for complaint shall arise.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In case of such violation, the Utility Board may declare any payment for the service, made by the party or parties committing such violation, to be forfeited.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Penalties.</heading>
+        <text>Any person who violates any of the provisions of this Ordinance; or makes a service connection without first obtaining a permit; or who violates any provisions of any other materials, which are incorporated by reference, shall upon conviction thereof forfeit not less than $50 nor more than $500 plus the costs of prosecution.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Damages.</heading>
+        <text>In addition to any other penalty provided by this Ordinance or other law, the Tribe shall have the right of recovery from any responsible persons of any expense incurred by the Tribe for penalties due to the violation of this Ordinance or other law, correction of conditions impairing the proper operation of the sewer system and the repair or replacement of any sewer pipe or other property of the sewer system damaged in any manner by any negligent or intended act or emission by such person by others under their control.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Court proceedings shall be conducted in accordance with the normal court and debt collection procedures under tribal law.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.23</annotation>
+    </section>
+    <section>
+      <num>UTL.01.24</num>
+      <heading>Severability</heading>
+      <text>If any section, subsection or other part of this Ordinance is held to be invalid, such decision shall not affect the validity of the remaining portions of the Ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 39, §39.24</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 025-06">Resolution 025-06</cite>, adopted February 21, 2006, approved by BIA April 10, 2006.</annotation>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 074-99">Resolution 074-99</cite>, adopted November 2, 1999, approved by BIA November 19, 1999.</annotation>
+    </annotations>
+  </container>
+</container>

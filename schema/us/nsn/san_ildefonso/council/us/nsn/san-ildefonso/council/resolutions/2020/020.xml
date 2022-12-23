@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="24.4" id="Pueblo de San Ildefonso Council Res. No. SI-R20-020">
+  <num>SI-R20-020</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-020</heading>
+  <heading type="law">Quarantine and Safe House Property Purchase Authorization Act</heading>
+  <meta>
+    <effective>2020-10-28</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-020</citation>
+    </citations>
+    <history>
+      <adopted>2020-10-27</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 27th day of October, 2020, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Coronavirus Disease 2019 (COVID–19) has created a public health emergency that threatens the health and safety of the citizens of the Pueblo, and health experts recommend that individuals who contract or are exposed to COVID-19 quarantine away from others to reduce the possibility of community spread of the disease; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has received CARES Act funds from the federal government that can be utilized for the purchase of a quarantine house and/or safe house to be used by citizens of the Pueblo who are facing health and safety issues caused by the COVID-19 pandemic.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "QUARANTINE AND SAFE HOUSE PROPERTY PURCHASE AUTHORIZATION ACT".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on October 27, 2020, at a meeting with a vote of 7 in favor, 2 opposed, 0 abstaining and 1 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S): Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td>X</td>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td>X</td>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R20-020  was presented to the Governor of the Pueblo de San Ildefonso on the 28th day of October, 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 28th day of October, 2020.</text>
+    <text>Perry Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.4.6</num>
+      <heading>Quarantine and Safe House Property Purchase Authorization Act</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="24.4.6"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>QUARANTINE AND SAFE HOUSE PROPERTY PURCHASE AUTHORIZATION ACT</heading>
+    <section>
+      <codify:insert num-value="24.4.6.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "QUARANTINE AND SAFE HOUSE PROPERTY PURCHASE AUTHOROZATION ACT" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert num-value="24.4.6.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this act is to authorize the Governor to purchase a real property for a quarantine house and/or safe house in the El Rancho area to protect citizens of the Pueblo who are facing the public health emergency caused by the Coronavirus Disease 2019 ("COVID-19") pandemic and to authorize the use of the CARES Act funds and other available funds appropriated for such purposes.</text>
+    </section>
+    <section>
+      <codify:insert num-value="24.4.6.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Coronavirus Disease 2019 (COVID-19) has created a public health emergency that threatens the health and safety of the citizens of the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Health experts recommend that individuals who contact or are exposed to COVID-19, quarantine away from others for at least fourteen days or for a longer period of time as may be medically necessary to reduce the possibility of further transmission of the disease; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Many of the households at the Pueblo include multi-generational families so that an individual who has been exposed to COVID-19 or who has contracted COVID-19 will put other household members at risk due to the inability to adequately isolate and the use of shared facilities by all household members; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Due to the risks of community spread of the COVID-19, the Pueblo has been forced to issue stay-at-home orders and other similar protocols that may increase tensions among family and household members and may also increase domestic violence; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>On March 27, 2020, the federal government enacted the CARES Act to provide new funds to States, Indian tribes, and others to help pay for costs and expenses caused by COVID-19 including allowances for the costs of a quarantine house and/or safe house, and the Pueblo received its share of the CARES Act funds; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The current approved Annual Budget of the Pueblo does not include funds for the purchase of a quarantine house and/or safe house to address the critical health and safety issues caused by the COVID-19 pandemic; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The purchase of property in the El Rancho area, which is located within the Pueblo's Territory, will allow family members of individuals who are staying at the quarantine 	house and/or safe house to be nearby, which will help individuals who are experiencing health and safety issues and will ensure compliance with health protocols issued by the Pueblo for the safety of all citizens; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Due to the 2020 deadline for the Pueblo to expend CARES Act funds, it is not feasible for the Pueblo to design and construct a quarantine house or safe house, and the need for a move-in ready home for citizens in need of immediate care and health services is paramount; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Recently the owner of a home in the El Rancho area contacted the Pueblo about a proposed sale of her home (the "Stover Property") and the problems she has experienced obtaining clear title to her home due to an alleged encroachment of a portion of the home onto the Pueblo property; and</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Council has determined that it is in the best interest of the Pueblo to authorize the Governor to negotiate and execute an agreement for the purchase of the Stover Property and/or similar property at or near fair market value for the purpose of providing a quarantine house and/or safe house for the citizens of the Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="24.4.6.040"/>
+      <num>1.4</num>
+      <heading>Contract Authorization</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to negotiate and execute a contract or contracts for the purchase of real property in the El Rancho area, including but not limited to the Stover Property, to be utilized as a quarantine house and/or a safe house for citizens of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council hereby authorizes the Governor to utilize CARES Act funds and other available funds appropriated for the purchase of real property under this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

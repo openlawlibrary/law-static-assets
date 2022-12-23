@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Tribal Council Res. No. 024-22" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>024-22</num>
+  <heading/>
+  <meta>
+    <ordinance>Communicable Disease, Vaccination, and Quarantine</ordinance>
+    <effective>2022-01-18</effective>
+    <history>
+      <adopted>2022-01-18</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/024-22.pdf">Stockbridge-Munsee Tribal Council Res. No. 024-22</citation>
+      <citation type="res" url="./BIA/024-22.pdf">BIA Approval for Res. No. 024-22</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted the Communicable Disease, Vaccination, and Quarantine Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="SAF.04">Chapter SAF.04</cite> formerly numbered as Chapter 26A;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe's experience with the COVID-19 pandemic has identified areas where modifications are appropriate in order to best serve the public health needs of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The proposed amendments to intended to more clearly define the Tribe's public health authority, which includes replacing references to the Health Director with references to the public health authority, better describe how the Tribe responds to public health emergencies, and effectively address enforcement authority in relation to ordinance violations.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to <cite doc="Stockbridge-Munsee Tribal Code" path="SAF.04">Chapter SAF.04</cite>:</text>
+      <text>
+        <ul>
+          <li>Amending the following subsections in SAF.04: 01(a), 02(c), 03(a), 04(a-h), 04(g)(1)(C), 05(a), and 05(c).</li>
+          <li>Creating the following new subsections in SAF.04: 01(d), 02(d-e), and 03(b-c).</li>
+          <li>Modifying the section name for: <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.03">SAF.04.03 </cite>and <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.04">SAF.04.04</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the Tribal Council authorizes the amendments be submitted to the U.S. Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 6, constituting a quorum, were present at a meeting duly called, noticed, and held on the 18th day of January, 2022, that the foregoing resolution was duly adopted at such meeting by a vote of 5 for, 0 against, and 0 abstaining.</text>
+    <text>_______________________	   ________________________</text>
+    <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
+  </procedural-data>
+  <codify:replace path="SAF.04.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.01">
+    <section>
+      <num>SAF.04.01</num>
+      <heading>Council Findings And Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council finds that there is a need to protect the health, safety, and wellbeing of the tribal community, employees, and visitors as well as prepare for possible bioterrorism issues and other communicable disease issues.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council finds that if this area is left unaddressed, the political integrity, economic security, and the general health and welfare is threatened.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite>, and its inherent powers, as an exercise of its governmental powers to protect the political integrity, economy, and the general welfare of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Council reserves the right to act as an employer and have appropriate employee safety programs, including workplace surveillance for communicable disease and vaccination programs, as established by policy and procedure.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.04.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.02">
+    <section>
+      <num>SAF.04.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Communicable Disease – any disease transmitted from one person or animal to another person or animal directly by contact with excreta or other discharges from the body; or indirectly via substances or inanimate objects; may be bacteria, fungi, parasites, or viruses.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Public Health Emergency – the occurrence or imminent threat of an illness or health condition that meets all of the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is believed to be caused by bioterrorism or a novel or previously controlled or eradicated biological agent.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Poses a high probability of any of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>A large number of deaths or serious or long-term disability among humans.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A high probability of widespread exposure to a biological, chemical or radiological agent that creates a significant risk of substantial future harm to a large number of people.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Communicable diseases on the "Non-Quarantinable Diseases" list in <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.07">Section SAF.04.07 </cite>are not covered by this Ordinance unless there is a declared State of Emergency specifically identifying the disease.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Public Health Authority – the Stockbridge-Munsee Health and Wellness Center Director ("Health Center Director") and his/her designee(s) shall function as the Public Health Authority.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Public Health Authority provides communicable disease surveillance, tracking, and response services during a public health emergency. These services can include contact tracing, testing, and immunization programs.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Public Health Authority may communicate with health providers, disease experts, and other sources to obtain necessary information about public health including individually identifiable health information regarding communicable disease status. The Public Health Authority may use and disclose individually identifiable health information to the extent necessary to protect public health and respond to the public health emergency consistent with this ordinance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Public Health Authority may take such measures necessary for the prevention and suppression of communicable disease, as warranted by then current conditions, consistent with this ordinance. This may include the issuance of orders and enforcement referrals for violations of such orders.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Public Health Authority coordinates with the Stockbridge-Munsee Human Resources Department as part of tribal workplace surveillance program(s) for communicable disease. Such communications shall be consistent the parameters for such programs under applicable law including health privacy laws.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Public Health Authority coordinates with other organizations, including tribal, local, state, and federal public health authorities, in order to appropriately investigate, report, and address instances of communicable disease and public health emergencies. Such communications shall be consistent with requirements under applicable law including health privacy laws.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Public Health Authority responds to public health emergencies regardless of whether they are also declared as a State of Emergency.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>State of Emergency – during a widespread public health emergency the Stockbridge-Munsee Tribal Council may declare a State of Emergency by resolution at a Tribal Council meeting. The Tribal Council will consult with the Public Health Authority or other appropriate experts prior to declaring a State of Emergency. The Tribal President may issue an emergency order, not to exceed seven (7) days in length, in the event an immediate response is necessary prior to Tribal Council meeting being convened to declare a State of Emergency.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.04.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.03">
+    <section>
+      <num>SAF.04.03</num>
+      <heading>Public Health State Of Emergency Response</heading>
+      <para>
+        <num>(a)</num>
+        <text>Compulsory Vaccination. The Public Health Authority may do all of the following as necessary to address a public health emergency during a State of Emergency.  The Health Center Director shall notify the Tribal President if any of the following are implicated.</text>
+        <para>
+          <num>(1)</num>
+          <text>Order any individual to receive a vaccination unless the vaccination is reasonably likely to lead to serious harm to the individual or unless the individual for reasons of religion or conscience refuses to obtain the vaccination.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Isolate or quarantine any individual who is unable or unwilling for reasons of religion or conscience to receive the vaccination under <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.03|(1)" >subsection (1)</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Tribal Council Public Health Orders.  The Tribal Council may issue public health orders that limit gatherings or the use of tribal facilities, enact curfews, or take other actions to limits public interactions on tribal lands during a public health emergency during a State of Emergency.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Public Health Authority. The Public Health Authority may take any actions authorized under this ordinance during a State of Emergency.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.04.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.04">
+    <section>
+      <num>SAF.04.04</num>
+      <heading>Public Health Emergency Response</heading>
+      <para>
+        <num>(a)</num>
+        <text>Quarantine and/or Isolation.  The Public Health Authority may require isolation or quarantine of a patient or individual who is a carrier of a communicable disease, a patient or individual under <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.03|(a)|(2)">Section SAF.04.03 (a)(2)</cite>, quarantine of contacts, concurrent and terminal disinfection, or modified forms of these procedures as may be reasonably necessary to control the spread of a communicable disease during a public health emergency. Persons subject to quarantine or isolation orders may not go beyond the quarantine or isolation premises until released from the order except as necessary to receive medical treatment or respond to an emergency.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Investigation and Response.  If the Public Health Authority reasonably suspects or is informed of the existence of any communicable disease, the Public Health Authority shall at once investigate and make or cause such examinations to be made as are necessary. The diagnostic report of a physician, the notification or confirmatory report of a parent or caretaker of the patient, or a reasonable belief in the existence of a communicable disease shall require the Public Health Authority immediately to quarantine, isolate, require restrictions or take other communicable disease control measures in a manner, upon the persons. The Public Health Authority shall consult a physician as speedily as possible where there is reasonable doubt or disagreement in diagnosis and where advice is needed. The Public Health Authority shall act as reasonably necessary to protect the public.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Access to Persons under Quarantine or Isolation.  If deemed necessary by the Public Health Authority for a particular communicable disease, all persons except those on behalf of the Public Health Authority, attending physicians and nurses, members of the clergy, the members of the immediate family and any other persons having a special written permit from the Public Health Authority are forbidden to be in direct contact with the patient.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Access during a State of Emergency.  In a State of Emergency, no person other than a person authorized by the Public Health Authority may enter an isolation or quarantine premises.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Police Support.  The Public Health Authority shall designate the Tribal Police or other appropriate personnel to execute his or her orders and properly guard any place if quarantine or other restrictions on communicable disease are violated or intent to violate is manifested. The Tribal Police or other appropriate personnel shall use all necessary means to enforce the quarantine for the prevention and control of communicable diseases, or the orders of the Public Health Authority.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Alternate Quarantine Sites.  When the Public Health Authority deems it is necessary that a person be quarantined or otherwise restricted in a separate place, the Public Health Authority or designee shall remove the person, if it can be done without danger to the person's health, to such a designated place.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Expenses.  Expenses for necessary medical care, food and other articles needed for the care of the infected person shall be charged against the person or whoever is liable for the person's support.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Stockbridge-Munsee Community is responsible for the following costs accruing under <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.04">this section</cite> unless the costs are payable through 3rd party liability or through any benefit system:</text>
+          <para>
+            <num>(A)</num>
+            <text>The expense of employing guards under <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.04|(e)">subsection (e)</cite>.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The expense of maintaining quarantine and enforcing isolation of the quarantined area.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The expense of conducting examinations and tests for disease carriers made under the direction of the Public Health Authority.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The expense of care for dependent persons.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Notice to Tribal President.  The Health Center Director shall notify the Tribal President if the Public Health Authority institutes any of the options in <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.04|(a)">SAF.04.04 (a)</cite> to (g).</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.04.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.05">
+    <section>
+      <num>SAF.04.05</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who violates an order issued under this ordinance is subject to a fine not to exceed $500. Each day of a continuing violation may be considered a separate violation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person, whether authorized under <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.04|(c)">SAF.04.04 (c)</cite> or (d) or not, who enters an isolation or quarantine premises may be subject to isolation or quarantine under <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.04.05">this section</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tribal Police are authorized to issue citations for violations under this ordinance based on referrals by the Public Health Authority.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Prosecutor has authority to prosecute citations in Tribal Court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Tribal Court has exclusive jurisdiction to hear enforcement actions brought under this ordinance.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.04.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.06">
+    <section>
+      <num>SAF.04.06</num>
+      <heading>Severability</heading>
+      <text>In the event that any provision of this ordinance is ruled illegal by a court of competent jurisdiction, the remaining provisions of this ordinance shall remain unaffected.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.04.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.07">
+    <section>
+      <num>SAF.04.07</num>
+      <heading>Non-Quarantinable Diseases</heading>
+      <text>
+        <ul>
+          <li>Acquired Immunodeficiency Syndrome (AIDS) or Human Immunodeficiency Virus (HIV) Infection Amebiasis</li>
+          <li>Anthrax</li>
+          <li>Blastomycosis</li>
+          <li>Botulism</li>
+          <li>Botulism, Infant</li>
+          <li>Brucellosis</li>
+          <li>Campylobacteriosis</li>
+          <li>Chancroid</li>
+          <li>Chlamydia</li>
+          <li>Cholera</li>
+          <li>Cryptosporidiosis</li>
+          <li>Ehrlichiosis</li>
+          <li>Encephalitis, Arboviral</li>
+          <li>Encephalitis, Viral</li>
+          <li>Escherichia Coli 0157:H7</li>
+          <li>Foodborne Disease Outbreak</li>
+          <li>Genital Herpes</li>
+          <li>Giardiasis</li>
+          <li>Gonorrhea</li>
+          <li>Haemophilus Influenza</li>
+          <li>Hemolytic Uremic Syndrome (HUS) Hepatitis A</li>
+          <li>Hepatitis B</li>
+          <li>Hepatitis C/non-A, non-B</li>
+          <li>Hepatitis D (Delta)</li>
+          <li>Histoplasmosis</li>
+          <li>Kawasaki Syndrome</li>
+          <li>Legionellosis (Legionnaires Disease)</li>
+          <li>Leprosy (Hansen's Disease)</li>
+          <li>Leptospirosis 11</li>
+          <li>Listeriosis</li>
+          <li>Lyme Disease</li>
+          <li>Meningitis, Aseptic</li>
+          <li>Meningitis, Bacterial.</li>
+          <li>Meningococcal Disease</li>
+          <li>Nontuberculous Mycobacterial Disease</li>
+          <li>Pelvic Inflammatory Disease</li>
+          <li>Pertussis</li>
+          <li>Poliomyelitis</li>
+          <li>Psittacosis</li>
+          <li>Rabies (Animal)</li>
+          <li>Rabies (Human)</li>
+          <li>Reye Syndrome</li>
+          <li>Rheumatic Fever</li>
+          <li>Rocky Mountain Spotted Fever Rubella</li>
+          <li>Rubella, Congenital Syndrome Salmonellosis</li>
+          <li>Syphilis</li>
+          <li>Tetanus</li>
+          <li>Toxic-Shock Syndrome Toxoplasmosis</li>
+          <li>Trichinosis</li>
+          <li>Trichomoniasis</li>
+          <li>Tularemia</li>
+          <li>Typhoid Fever</li>
+          <li>Typhus Fever, Flea-Borne Waterborne Outbreak</li>
+          <li>Yellow Fever</li>
+          <li>Yersiniosis</li>
+        </ul>
+      </text>
+    </section>
+  </codify:replace>
+  <codify:annotation path="SAF.04" type="Legislative History" history="false" dest="container">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 024-22">Resolution No. 024-22</cite>, adopted January 18, 2022, approved by BIA January 25, 2022.</codify:annotation>
+</document>

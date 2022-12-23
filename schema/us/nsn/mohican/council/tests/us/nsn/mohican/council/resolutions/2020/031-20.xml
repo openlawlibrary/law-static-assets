@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 031-20">
+  <num>031-20</num>
+  <heading/>
+  <meta>
+    <ordinance>Employee Preference Policy</ordinance>
+    <effective>2021-01-28</effective>
+    <history>
+      <adopted>2020-01-21</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 031-20</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted an Employee Preference Policy Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="54">Chapter 54</cite>, to maximize employment opportunities and benefits to the tribal community;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>While federal law permits tribal member preference, federal law also requires the Tribe to provide preference to other Indians for federally funded positions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe wishes to amend <cite doc="Stockbridge-Munsee Tribal Code" path="54">Chapter 54</cite> in order to identify the order of preference that applies when there is federal funding and make other updates and clarifications to the ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee adopts the following amendments to <cite doc="Stockbridge-Munsee Tribal Code" path="54">Chapter 54</cite>:</text>
+      <text>
+        <ul proof="needed">
+          <li>Numbered the previously unnumbered Purpose section as <cite doc="Stockbridge-Munsee Tribal Code" path="§54.05" proof="needed">54.05</cite>.  Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§54.05" proof="needed">54.05</cite> to update purpose language in <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(A)">(A)</cite>, add footnote referencing federal law, and add new <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(B)">(B)</cite> on Authority.</li>
+          <li>Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(B)">54.1 (B)</cite> to delete reference to Mohican Housing Authority since it is now a division of the Tribe.</li>
+          <li>Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(C)">54.1 (C)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(D)">(D)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§54.2|(A)">54.2 (A)</cite> to clarify that preference applies when meet minimum qualifications.</li>
+          <li>Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(E)">54.1 (E)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(F)">(F)</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(G)">(G)</cite> to correct Tribe's name.</li>
+          <li>Added new <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(I)">54.1 (I)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(J)">(J)</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="§54.1|(K)">(K)</cite> to add definitions for Tribe, Other Indians, and Federal Funding.</li>
+          <li>Reorganized <cite doc="Stockbridge-Munsee Tribal Code" path="§54.2|(A)">54.2 (A)</cite> to have subsections.</li>
+          <li>Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§54.3" proof="needed">54.3</cite> to add new <cite doc="Stockbridge-Munsee Tribal Code" path="§54.3|(A)">(A)</cite>; renumber prior <cite doc="Stockbridge-Munsee Tribal Code" path="§54.3|(A)">(A)</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="§54.3|(B)">subsection (B)</cite> and create an exception for federally funded positions; and to add new <cite doc="Stockbridge-Munsee Tribal Code" path="§54.3|(C)">(C)</cite> for the order of preference for federally funded positions.</li>
+          <li>Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§54.5|(A)">54.5 (A)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§54.5|(B)">(B)</cite> to clarify intent and integrate the Comment, which was deleted.</li>
+          <li>Amended remedies under <cite doc="Stockbridge-Munsee Tribal Code" path="§54.8|(B)">54.8 (B)</cite> to be internally consistent that preference applies in relation to hiring and layoffs.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+  <codify:replace path="EMP.02.01">
+    <section>
+      <num>EMP.02.01</num>
+      <heading>Purpose And Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>Optimum employment in the Stockbridge-Munsee Community for Tribal members, as well as those who live in the Community as spouses or direct descendants, is a critical element to building self-sufficiency, sovereignty and an economy that combats poverty and social ills, and assures that the Stockbridge-Munsee Community receives the maximum benefits generated by its entities and enterprises. This ordinance is to serve the legitimate governmental purpose of providing maximum employment opportunity and preference in hiring and lay-offs to the people of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII">Article VII of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority, which grants the Tribal Council power over governmental and economic operations.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.05</annotation>
+    </section>
+  </codify:replace>
+  <codify:replace path="EMP.02.02">
+    <section>
+      <num>EMP.02.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Employee" means any person paid wages, salary, or stipend by the Stockbridge-Munsee Community or any of its entities and enterprises.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Employer" means the Stockbridge-Munsee Community, its subdivisions, entities and enterprises.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Preference" means people will be employed according to a priority listing as long as they meet minimum qualifications of the job description or job announcement.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Meet Minimum Qualifications" means that the applicant or employee possesses the skills, education, experience or other job-related minimum requirements in the job description or job announcement.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Enrolled Member" means a person who is officially enrolled as a member of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Direct Descendant" for purposes of this ordinance means any person whose biological father or biological mother is an Enrolled Member of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Spouse" means legally married spouse of an Enrolled Member of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Interview Panel" means the panel of individuals created to interview applicants for a position. It is assumed for the purposes of this Ordinance that the Interview Panel has the authority to recommend applicants for hire, but, does not have the authority to hire.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Tribe" refers to the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Other Indians" refers to persons who can provide evidence that they are members of other federally-recognized Indian tribes or, if required by federal law, members of either federally or state-recognized Indian tribes.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Federal Funding" refers to funds provided to the Tribe either directly or indirectly by the United States government.  Indirect funding includes, but is not limited to, contracts or grants through third parties such a State that require compliance with federal law.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.1</annotation>
+    </section>
+  </codify:replace>
+  <codify:replace path="EMP.02.03">
+    <section>
+      <num>EMP.02.03</num>
+      <heading>Establishing Preference</heading>
+      <para>
+        <num>(a)</num>
+        <text>Preference shall be given according to <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.02.04">Section EMP.02.04</cite> below when it is established that the employee or applicant meets minimum qualifications as stated in the job description or the job announcement.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the person has the minimum qualifications as stated, he or she is eligible for the position and shall not be denied if another person at a lower preference has higher qualifications than are necessary for the position.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If more than one person at the same preference level meets minimum qualifications the decision-makers shall have discretionary power.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Accordingly, when preparing job descriptions or job announcements care should be taken to establish minimum qualifications that fit the desired needs of the position.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be prohibited to use job qualifications or personnel requirements which are not necessary for the position and which act as barriers to employment preference.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.2</annotation>
+    </section>
+  </codify:replace>
+  <codify:replace path="EMP.02.04">
+    <section>
+      <num>EMP.02.04</num>
+      <heading>Order Of Preference</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe recognizes employment benefits the family, not just an individual. It therefore exercises the following orders of preference to maximize benefits in the tribal community.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The following order of preference shall be adhered to when hiring for employment positions or when involuntary layoffs occur, except that <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.02.04|(c)">subsection (c)</cite> shall apply for federally funded positions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Enrolled Member.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Direct Descendant.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Spouse.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The following order of preference shall apply for federally funded positions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Enrolled Member.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Other Indian.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Direct Descendant.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Spouse.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.3</annotation>
+    </section>
+  </codify:replace>
+  <codify:replace path="EMP.02.05">
+    <section>
+      <num>EMP.02.05</num>
+      <heading>Coverage</heading>
+      <text>This ordinance shall be binding on all entities, enterprises, and organizations operating under the Stockbridge-Munsee Community, and shall supersede all previous actions and policies regarding Indian preference in employment.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.4</annotation>
+    </section>
+  </codify:replace>
+  <codify:replace path="EMP.02.06">
+    <section>
+      <num>EMP.02.06</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe's Human Resources Departments shall have the responsibility and authority to assure that the provisions of this ordinance are implemented and enforced.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The employment preference compliance form must be completed and signed by the appropriate Human Resources Department.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>After the Interview Panel selects an applicant, if the Human Resources Department determines the selection violates this Ordinance, the Human Resources Department will convene the Interview Panel.  The Human Resources Department and Interview Panel will discuss the matter and the parties involved will make a good faith effort to reach agreement on an applicant whose selection complies with this Ordinance.  If an agreement cannot be reached, the Human Resources Department has the authority to dissolve the Interview Panel, create a new Interview Panel and conduct re-interviews of the candidates.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.5</annotation>
+    </section>
+  </codify:replace>
+  <codify:replace path="EMP.02.07">
+    <section>
+      <num>EMP.02.07</num>
+      <heading>Effect Of Stockbridge-Munsee Employee Rights Ordinance</heading>
+      <text>When interpreting any section of this ordinance, this ordinance and the employee rights ordinance shall be read as working together to give the employee or applicant the maximum benefits of both ordinances.  Furthermore, if there is any dispute or conflict between the language and provisions of this ordinance and the employee rights' ordinance, those disputes shall be resolved in favor of the employee or applicant.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.6</annotation>
+    </section>
+  </codify:replace>
+  <codify:replace path="EMP.02.08">
+    <section>
+      <num>EMP.02.08</num>
+      <heading>Effective Date And Amendments</heading>
+      <para>
+        <num>(a)</num>
+        <text>This ordinance shall be effective upon the approval of a resolution adopting same by the Stockbridge-Munsee Tribal Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This ordinance may be amended by resolution of the Stockbridge-Munsee Tribal Council.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.7</annotation>
+    </section>
+  </codify:replace>
+  <codify:insert path="EMP.02">
+    <section>
+      <num>EMP.02.09</num>
+      <heading>Remedies; Limited Waiver Of Sovereign Immunity For Purposes Of Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>In order to enforce the provisions of this ordinance, the Stockbridge-Munsee Community shall be subject to suit in the Stockbridge-Munsee Tribal Courts by employees or applicants in accordance with the limitations of this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Money damages shall not be available in any suit brought under this ordinance. The sole remedy available to the aggrieved party shall be the appointment to the job that was denied as a result of a violation of this ordinance. The complainant may also be awarded a similar unfilled position if one is available.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any complaint brought under this Ordinance must be filed in Tribal Court within 5 business days of receipt of notice that the complaining applicant did not receive the position.  Complaints brought more than 5 days after notification shall not be heard.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.8</annotation>
+    </section>
+  </codify:insert>
+  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 031-20">Resolution No.031-20</cite>, adopted January 21, 2020, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation>
+</document>

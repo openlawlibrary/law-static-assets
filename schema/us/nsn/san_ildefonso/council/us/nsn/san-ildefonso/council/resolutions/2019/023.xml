@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5.16" id="Pueblo de San Ildefonso Council Res. No. SI-R19-023">
+  <num>SI-R19-023</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-023</heading>
+  <heading type="law">Authorizing FY 2019-2021 Infant and Toddler Contract Amendment and Extension</heading>
+  <meta>
+    <effective>2019-11-15</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R19-023</citation>
+    </citations>
+    <history>
+      <adopted>2019-11-13</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 13th day of November, 2019, the following Resolution and law were adopted:</preamble>
+  <recitals codify:value="6.5.16.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Infant and Toddler program funding provides programs to assist in child find, screening, and other procedures for the early identification of children aged 0-5, parent training, and the provision of direct services; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo currently operates and administers the Infant and Toddler program under the Pueblo's Education Department, Early Childhood Program, in compliance with all components of the application for contract; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo wishes to amend and extend the contract for Infant and Toddler program funding for the 3-year period, FY 2019-2021, ending June 30, 2022 to assist in meeting the needs of our children.</text>
+      <codify:replace path="6.5.16.010">
+        <section>
+          <num>6.5.16.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act; and,</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>the Infant and Toddler program funding provides programs to assist in child find, screening, and other procedures for the early identification of children aged 0-5, parent training, and the provision of direct services; and,</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>the Pueblo currently operates and administers the Infant and Toddler program under the Pueblo's Education Department, Early Childhood Program, in compliance with all components of the application for contract; and,</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>the Pueblo wishes to amend and extend the contract for Infant and Toddler program funding for the 3-year period, FY 2019-2021, ending June 30, 2022 to assist in meeting the needs of our children.</text>
+          </para>
+        </section>
+      </codify:replace>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text/>
+      <para>
+        <num codify:value="6.5.16.020">1.</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves amendment and extension of the existing Contract for the Infant and Toddler program for a three-year term ending June 30, 2022; and,</text>
+        <codify:replace path="6.5.16.020">
+          <section>
+            <num>6.5.16.020</num>
+            <text>The Pueblo de San Ildefonso Council hereby approves amendment and extension of the existing Contract for the Infant and Toddler program for a three-year term ending June 30, 2022.</text>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num codify:value="6.5.16.030">2.</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        <codify:replace path="6.5.16.030">
+          <section>
+            <num>6.5.16.030</num>
+            <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+          </section>
+        </codify:replace>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on November 13, 2019, at a meeting with a vote of 8 in favor, 0 opposed, 1 abstaining and 1 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):     CR Glenda Fred-Weahkee</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td>X</td>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No.  SI-R19-023 was presented to the Governor of the Pueblo de San Ildefonso on the 13th day of November, 2019, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 	15th day of 	November, 2019.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2019.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy A. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+</document>

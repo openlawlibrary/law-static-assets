@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" id="Pueblo de San Ildefonso Council Res. No. SI-R20-010">
+  <num>SI-R20-010</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-010</heading>
+  <heading type="law">Budget Authorization for COVID-19 Grant from the United States Treasury</heading>
+  <meta>
+    <effective>2020-06-04</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-010</citation>
+    </citations>
+    <history>
+      <adopted>2020-06-03</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 3rd day of June, 2020, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.20</num>
+      <heading>Budget Authorization for COVID-19 Grant from the United States Treasury</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-010"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="|6.3.20.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and,</text>
+      <codify:insert path="|6.3.20">
+        <section>
+          <num>6.3.20.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement.</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 5(a)(ii)(A) of the Agreement allows the Tribal Council to enact a budget for all new grants.</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement allows the Tribal Council to enact a budget for all new grants.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has received a new grant from the US Treasury that allows the Pueblo access to 1.6 million for Covid-19 pandemic prevention and operational costs in dealing with Covid-19; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo has received a new grant from the US Treasury that allows the Pueblo access to 1.6 million for Covid-19 pandemic prevention and operational costs in dealing with Covid-19.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as the grant will require close fiscal monitoring of expenditures it is imperative that the Pueblo properly identify, record, and maximize use of this grant; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>As the grant will require close fiscal monitoring of expenditures it is imperative that the Pueblo properly identify, record, and maximize use of this grant.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Governor's Office, in coordination with the Council, developed the proposed budget attached to this Resolution ("Covid-19 Grant Budget") and recommends approval of the Budget.</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>The Governor's Office, in coordination with the Council, developed the proposed budget attached to this Resolution ("Covid-19 Grant Budget") and recommends approval of the Budget.</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <codify:insert path="|6.3.20" num-value="6.3.20.020" tag="section" display-template="New {{cite}}"/>
+      <num/>
+      <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text><span codify:value="The">that the</span> Council hereby:</text>
+      <para>
+        <num codify:value="(a)">1.</num>
+        <text>Approves and enacts the attached Covid-19 Grant Budget in the total amount of $1,698,542.69, effective May 1, 2020 to December 30, 2020; and</text>
+      </para>
+      <para>
+        <num codify:value="(b)">2.</num>
+        <text>Directs the Governor to provide the Council with a monthly report on the expenditure of budget funding; and</text>
+      </para>
+      <para>
+        <num codify:value="(c)">3.</num>
+        <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on June 3, 2020, at a meeting with a vote of 10 in favor, 0 opposed, 0 abstaining and 0 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):     Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No.  SI-R20-010 was presented to the Governor of the Pueblo de San Ildefonso on the 3rd day of June , 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X }   APPROVED</text>
+    <text>{   }   VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this day of, 2020.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   }   YES</text>
+    <text>{   }   NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="|6.3.20"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>BUDGET AUTHORIZATION FOR COVID-19 GRANT FROM THE UNITED STATES TREASURY</heading>
+    <text class="center">
+      <strong>(May 1, 2020 to December 30, 2020)</strong>
+    </text>
+    <section>
+      <codify:insert num-value="6.3.20.030"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "BUDGET AUTHORIZATION FOR COVID-19 GRANT FROM THE UNITED STATES TREASURY."</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.3.20.040"/>
+      <num>1.2</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Agreement" means the Pueblo de San Ildefonso Agreement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Governor" means the Pueblo de San Ildefonso Governor.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="6.3.20.050"/>
+      <num>1.3</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Resolution is to approve the Budget for the Covid-19 Grant (May 1, 2020 to December 30, 2020).</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.3.20.060"/>
+      <num>1.4</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text>Section 5(a)(ii)(A) of the Agreement allows Tribal Council to enact a budget for all new grants; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo has received a new grant from the United States Treasury that allows the Pueblo to access $1.6M for Covid-19 pandemic prevention and operational costs in dealing with the Covid-19 pandemic; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The grant will require close fiscal monitoring of expenditures and it is imperative that the Pueblo properly identify, record, and maximize use of this grant; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Governor's Office, in coordination with the Council, developed the proposed budget attached to this Resolution ("Covid-19 Grant Budget") and recommended approval of the Budget.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="6.3.20.070"/>
+      <num>1.5</num>
+      <heading>Authorizations</heading>
+      <text>The Council herby:</text>
+      <para>
+        <num>(a)</num>
+        <text>Approves and enacts the attached Covid-19 Grant Budget in the total amount of $1,698,542.69, effective May 1, 2020 to December 30, 2020.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Directs the Governor to provide the Council with a monthly report on the expenditure of budget funding.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="6.3.20.080"/>
+      <num>1.6</num>
+      <heading>Sovereign Immunity</heading>
+      <text>Nothing in this resolution waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+    </section>
+    <section>
+      <codify:insert num-value="6.3.20.090"/>
+      <num>1.7</num>
+      <heading>Severability</heading>
+      <text>If a court of competent jurisdiction finds any provision of this Budget to be invalid or illegal under applicable law, such provision shall be severed from this Budget and the remainder of this Budget shall remain in full force and effect.</text>
+    </section>
+  </attachment>
+</document>

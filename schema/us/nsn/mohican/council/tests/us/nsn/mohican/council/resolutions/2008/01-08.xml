@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 01-08">
+  <num>01-08</num>
+  <heading/>
+  <meta>
+    <ordinance>Guardianship</ordinance>
+    <effective/>
+    <history>
+      <adopted>2007-10-02</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 01-08</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937  Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The existing Guardianship Ordinance, Chapter 9 only involves youths; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Community needs an ordinance that addresses adults who may need a guardian.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 9 Youth Guardianship, by renaming Chapter 9, "Guardianship"; and by creating §<cite doc="Stockbridge-Munsee Tribal Code" path="9.2|(C)" proof="needed">9.2(C)</cite> in its entirety; §<cite doc="Stockbridge-Munsee Tribal Code" path="9.3|(C)" proof="needed">9.3(C)</cite>,(C)(1); §<cite doc="Stockbridge-Munsee Tribal Code" path="9.9" proof="needed">9.9</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="9.10" proof="needed">9.10</cite> amending §<cite doc="Stockbridge-Munsee Tribal Code" path="9.1|(A)" proof="needed">9.1(A)</cite>; §§<cite doc="Stockbridge-Munsee Tribal Code" path="9.1|(B)|(1)" proof="needed">9.1(B)(1)</cite>,(2),(3); §<cite doc="Stockbridge-Munsee Tribal Code" path="9.2|(A)" proof="needed">9.2(A)</cite>; §§<cite doc="Stockbridge-Munsee Tribal Code" path="9.2|(B)|(1)" proof="needed">9.2(B)(1)</cite>,(2),(3); §§<cite doc="Stockbridge-Munsee Tribal Code" path="9.2|(E)" proof="needed">9.2(E)</cite>,(F),(F)(1),(F)(2); §§<cite doc="Stockbridge-Munsee Tribal Code" path="9.3|(A)" proof="needed">9.3(A)</cite>,(B)(1),(B)(2); §§<cite doc="Stockbridge-Munsee Tribal Code" path="9.6|(A)" proof="needed">9.6(A)</cite>,(A)(1),(A)(3),(A)(4); §<cite doc="Stockbridge-Munsee Tribal Code" path="9.8" proof="needed">9.8</cite>; and deleting §<cite doc="Stockbridge-Munsee Tribal Code" path="9.2|(D)" proof="needed">9.2(D)</cite> and renumbering §<cite doc="Stockbridge-Munsee Tribal Code" path="9.2" proof="needed">9.2</cite>.</text>
+    </recital>
+  </recitals>
+  <annotations>
+    <annotation type="Legislative History">BIA approved the amended ordinance, except for <cite path="§9.10">Section 9.10</cite>, on April 16, 2012.  <cite path="§9.10">Section 9.10</cite>, regarding the need for BIA approval of future amendments, was deleted.</annotation>
+  </annotations>
+</document>

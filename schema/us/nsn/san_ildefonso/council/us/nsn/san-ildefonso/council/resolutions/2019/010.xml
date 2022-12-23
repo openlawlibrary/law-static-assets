@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="11.2" id="Pueblo de San Ildefonso Council Res. No. SI-R19-010">
+  <num>SI-R19-010</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-010</heading>
+  <heading type="law">Act Accepting the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System</heading>
+  <meta>
+    <effective>2019-05-20</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R19-010</citation>
+    </citations>
+    <history>
+      <adopted>2019-05-13</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 13th day of May, 2019, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, land and other resources; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo in 2010, signed the Aamodt Settlement Agreement and authorized the plan, design and construction of the Pojoaque Basin Regional Water System (PBRWS); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 22, 2017, the Bureau of Reclamation (BOR) awarded a four-year, $91.9 million contract, to CDM-Smith to design and build "Phase 1" of the PBRWS; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 15, 2017, BOR submitted to all stakeholders the 30% design for review of design-bid-build (DBB) portion for the PBRWS; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 27, 2017, the Pueblo submitted comments to the 30% design portion of the PBRWS which included questions on the design report, 30% Final Design progress drawings, specifications list and the 30% Design cost estimates, which the BOR and CDM-Smith addressed those questions accordingly on December 22, 2017; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 01, 2018, BOR submitted to all stakeholders the 60% Final Design-Bid Build for the PBRWS; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 02, 2018, the Pueblo submitted comments, via SI-GC18-092,  to the 60% Final Design-Bid Build portion of the PBRWS.  The Pueblo's comments focused on the collector wells, pre-engineered buildings, collector well roads, transmission lines, distribution lines, integration of existing tanks, the environment impact statement and additional items; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 20th, 2018, the Pueblo via, SI-GC18-107, provided additional comments after the BOR and CDM-Smith held the 60% design build workshop on April 10th, 2018. The Pueblo voiced concerns regarding the purpose, reasoning, and cost analysis for operating four (4) collector wells, "riprap" at collector wells, design of electrical building, size of "water treatment plant", brine line, and additional technical issues based on additional information provided by CDM-Smith during the 60% design workshop; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 4, 2018, BOR concurred and agreed to moving the electrical building, lowering access road elevations, and eliminating riprap scour protection for the design project and on June 6, 2018, the Pueblo concurred with the BOR's recommendation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 18, 2018, BOR submitted to all stakeholders, the Design-Bid Build 90% Final Design for the PBRWS and on July 18, 2018, the Pueblo via SI-GC18-185, rejected the 90% Final Design as presented and based on the impacts to the Pueblo's traditional cultural "Bosque" area outweighed the future benefits of the PBRWS to the Pueblo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 06, 2018, the Aamodt Settlement Parties concurred with the Pueblo's request to move the electrical building, lower the access road elevations, eliminate the riprap scour protection and not agree with the "acceptance of risk", as presented in the PBRWS 90% design; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 14, 2018, BOR requested the Pueblo to concur and accept the risk for moving the electrical building, lowering access road elevations, and eliminating riprap scour protection, for the PBRWS design project for the redesign and recognition to the cultural significance of the Bosque to the Pueblo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 13, 2018, the Pueblo, BOR, and CDM met and visited the site to discuss moving the electrical building, lowering access road elevations, and eliminating riprap scour protection for the PBRWS design project; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 10, 2019, BOR requested the Pueblo to review CDM-Smiths' intake mechanical/electrical building, lowering finished road grades, overall erosion control and collector well relocation recommendations for the PBWRS design project; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 25, 2019, BOR submitted to all stakeholders, the 90% Final Design for the PBRWS and on February 18, 2019, the Pueblo via SI-GC19-059, did not "formally acknowledge or support" the 90% design as "CDM Smith team was working on the intake redesign and was to submit via a separate package"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 25, 2019, BOR reached out to all stakeholders and requested comments to CDM-Smiths' PBRWS 90% Intake Re-design for the PBRWS design project; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 25, 2019, the Pueblo was presented with the PBRWS Design-Build Package (Phase 1) 90% Intake Design Resubmittal (Exhibit A) and finds the design addressed the Pueblo's issues and concerns; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed the design documents as presented and finds it is in the best interest of the Pueblo to accept the 90% Design-Build for Phase 1 of the PBRWS.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "ACT ACCEPTING THE 90% DESIGN FOR PHASE 1 OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM."</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED</conjunction>
+      <text>that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby accepts the 90% Design for Phase 1 of the Pojoaque Basing Regional Water System as presented on May 13, 2019. (Exhibit A.)</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on May 13, 2019, at a meeting with a vote of 9 in favor, 0 opposed, 0 abstaining and 1 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):    Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R19-010  was presented to the Governor of the Pueblo de San Ildefonso on the 13th day of May, 2019, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{    } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this _________ day of _____________________, 2019.</text>
+    <text>Perry Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2019.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Timothy Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.23</num>
+      <heading>Act Accepting the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="11.2.23"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>ACT ACCEPTING THE 90% DESIGN FOR PHASE 1 OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM</heading>
+    <section>
+      <codify:insert num-value="11.2.23.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT ACCEPTING THE 90% DESIGN FOR PHASE 1 OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.23.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to accept the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System.</text>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.23.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo de San Ildefonso in 2010, signed the Aamodt Settlement Agreement and authorized the plan, design and construction of the Pojoaque Basin Regional Water System (PBRWS); and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo in 2010, signed the Aamodt Settlement Agreement and authorized the plan, design and construction of the Pojoaque Basin Regional Water System (PBRWS); and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>On February 22, 2017, the Bureau of Reclamation (BOR) awarded a four-year, $91.9 million contract, to CDM-Smith to design and build "Phase 1" of the PBRWS; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>On August 15, 2017, BOR submitted to all stakeholders, the 30% design for review of design-bid-build (DBB) portion for the PBRWS; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>On September 27, 2017, the Pueblo submitted comments to the 30% design portion of the PBRWS which included questions on the design report, 30% Final Design progress drawings, specifications list and the 30% Design cost estimates, which the BOR and CDM-Smith addressed those questions accordingly on December 22, 2017; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>On March 01, 2018, BOR submitted to all stakeholders the 60% Final Design-Bid Build for the PBRWS; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>On April 02, 2018, the Pueblo submitted comments, via SI-GC18-092,  to the 60% Final Design-Bid Build portion of the PBRWS.  The Pueblo's comments focused on the collector wells, pre-engineered buildings, collector well roads, transmission lines, distribution lines, integration of existing tanks, the environment impact statement and additional items; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>On April 20<sup>th</sup>, 2018, the Pueblo via, SI-GC18-107, provided additional comments after the BOR and CDM-Smith held the 60% design build workshop on April 10<sup>th</sup>, 2018. The Pueblo voiced concerns regarding the purpose, reasoning, and cost analysis for operating four (4) collector wells, "riprap" at collector wells, design of electrical building, size of "water treatment plant", brine line, and additional technical issues based on additional information provided by CDM-Smith during the 60% design workshop; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>On June 4, 2018, BOR concurred and agreed to moving the electrical building, lowering access road elevations, and eliminating riprap scour protection for the design project and on June 6, 2018, the Pueblo concurred with the BOR's recommendation; and</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>On June 18, 2018, BOR submitted to all stakeholders, the Design-Bid Build 90% Final Design for the PBRWS and on July 18, 2018, the Pueblo via SI-GC18-185, rejected the 90% Final Design as presented and based on the impacts to the Pueblo's traditional cultural "Bosque" area outweighed the future benefits of the PBRWS to the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>On September 06, 2018, the Aamodt Settlement Parties concurred with the Pueblo's request to move the electrical building, lower the access road elevations, eliminate the riprap scour protection and not agree with the "acceptance of risk", as presented in the PBRWS 90% design; and</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>On September 14, 2018, BOR requested the Pueblo to concur and accept the risk for moving the electrical building, lowering access road elevations, and eliminating riprap scour protection, for the PBRWS design project for the redesign and recognition to the cultural significance of the Bosque to the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>On November 13, 2018, the Pueblo, BOR, and CDM met and visited the site to discuss moving the electrical building, lowering access road elevations, and eliminating riprap scour protection for the PBRWS design project; and</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>On January 10, 2019, BOR requested the Pueblo to review CDM-Smiths' intake mechanical/electrical building, lowering finished road grades, overall erosion control and collector well relocation recommendations for the PBWRS design project; and</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>On January 25, 2019, BOR submitted to all stakeholders, the 90% Final Design for the PBRWS and on February 18, 2019, the Pueblo via SI-GC19-059, did not "formally acknowledge or support" the 90% design as "CDM Smith team was working on the intake redesign and was to submit via a separate package"; and</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>On March 25, 2019, BOR reached out to all stakeholders and requested comments to CDM-Smiths' PBRWS 90% Intake Re-design for the PBRWS design project; and</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>On April 25, 2019, the Pueblo was presented with the PBRWS Design-Build Package (Phase 1) 90% Intake Design Resubmittal (Exhibit A) and finds the design addressed the Pueblo's issues and concerns; and</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>The Council has reviewed the design documents as presented and finds it is in the best interest of the Pueblo to accept the 90% Design-Build for Phase 1 of the PBRWS.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.23.040"/>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby accepts the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System as presented on May 13, 2019 (Exhibit A.)</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

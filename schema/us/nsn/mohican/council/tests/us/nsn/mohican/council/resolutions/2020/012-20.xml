@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 012-20">
+  <num>012-20</num>
+  <heading/>
+  <meta>
+    <ordinance>Appellate Procedure</ordinance>
+    <effective>2021-01-28</effective>
+    <history>
+      <adopted>2019-11-06</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 012-20</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally-recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to its 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend ordinances, including an Appellate Procedure Ordinance for the Stockbridge-Munsee Court of Appeals;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Court of Appeals has recommended that the Rules of Appellate Procedure that it adopted subject to its rulemaking authority under <cite doc="Stockbridge-Munsee Tribal Code" path="§1.12">Section 1.12</cite> of the Tribal Court Code be codified in an ordinance;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 5-A is a new Appellate Procedure Ordinance that codifies such Rules;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee  hereby adopts a new <cite doc="Stockbridge-Munsee Tribal Code" path="5A">Chapter 5-A</cite>, Appellate Procedure Ordinance, as part of Stockbridge-Munsee tribal law.</text>
+    </recital>
+  </recitals>
+  <codify:insert path="TCT" after="TCT.02">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>TCT.03</num>
+      <heading>Appellate Procedure Ordinance</heading>
+      <section>
+        <num>TCT.03.01</num>
+        <heading>Purpose, Citation To Rules, And Authority</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Purpose.</heading>
+          <text>This Ordinance sets out the rules for appealing decisions of the Stockbridge-Munsee Tribal Courts to the Stockbridge-Munsee Court of Appeals.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Citation.</heading>
+          <text>These rules may be cited as <strong>"S-M Rules App."</strong> with a citation to a specific rule number, which corresponds to the section of the Ordinance where it is found [<em><u>E.g.</u></em><em>,</em> S-M Rules App. 1(B) is found at <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.03.02|(b)">Section TCT.03.02(b)</cite> and is the name of the appellate division of the Stockbridge-Munsee Tribal Court].</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Authority.</heading>
+          <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances, including an ordinance establishing a system of appellate procedure under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Sections 1(f)</cite> and <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|3">3 of the Stockbridge-Munsee Constitution</cite>.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.05</annotation>
+      </section>
+      <section>
+        <num>TCT.03.02</num>
+        <heading>Name Of Courts</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Stockbridge-Munsee Tribal Court.</heading>
+          <text>The trial level of the Stockbridge-Munsee Tribal Court shall be referred to as the "Stockbridge-Munsee Tribal Court."  For the purposes of these rules, the Stockbridge-Munsee Tribal Court shall include all trial courts of the Stockbridge-Munsee Community to include, but not limited to, Tribal Courts, Peacemaker Courts, or any other points of origin for litigation within the Stockbridge-Munsee Community judicial system.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Stockbridge-Munsee Court of Appeals.</heading>
+          <text>The appellate level of the Stockbridge-Munsee Tribal Court shall be referred to as the "Stockbridge-Munsee Court of Appeals."  The Stockbridge-Munsee Court of Appeals is the court of final resort for the Stockbridge-Munsee Judicial System.  The Stockbridge-Munsee Court of Appeals is the supreme court of the Stockbridge-Munsee Community.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.1</annotation>
+      </section>
+      <section>
+        <num>TCT.03.03</num>
+        <heading>Appealable Decisions</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Final Decisions.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Final Decisions are decisions which resolve all issues pending before the Stockbridge-Munsee Tribal Court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any Final Decision of the Stockbridge-Munsee Tribal Court is appealable as of right to the Stockbridge-Munsee Court of Appeals subject to the limitations on tribal administrative appeals set forth in Rule 10(B).</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Interlocutory Appeals.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Interlocutory Appeals are appeals of dispositive issues requiring appellate review prior to a decision becoming a Final Decision.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Except in matters involving the application of the principles of sovereign immunity, Interlocutory Appeals are extraordinary appeals which are disfavored by the Stockbridge-Munsee Court of Appeals, but an Interlocutory Appeal may be considered by the Stockbridge-Munsee Court of Appeals via application or petition in the sole discretion of the Stockbridge-Munsee Court of Appeals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Declaratory Judgment.</heading>
+          <para>
+            <num>(1)</num>
+            <text>If, but only if, either the Stockbridge-Munsee Constitution or the Stockbridge-Munsee Tribal Ordinances specifically allow for Declaratory Judgments from the Stockbridge-Munsee Court of Appeals then a request for a Declaratory Judgment shall be considered an appealable decision for the purposes of these rules.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If specific authorization allowing for Declaratory Judgments does not appear in either the Stockbridge-Munsee Constitution or the Stockbridge-Munsee Tribal Ordinances, then the Stockbridge-Munsee Court of Appeals may only rule on actual controversies pending before said court.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For purposes of this Rule, the Stockbridge-Munsee Court of Appeals shall treat Fed. R. Civ. P. 57 and 28 U.S.C. § 2201 and their jurisprudence as persuasive but not binding authority.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Stockbridge-Munsee Court of Appeals Rulings Non-Appealable.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Stockbridge-Munsee Court of Appeals is the court of last resort for any tribal, administrative, civil or criminal decision originating in the Stockbridge-Munsee Tribal Court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Decisions of the Stockbridge-Munsee Court of Appeals are final and non-appealable except by application for writ of <em><u>certiorari</u></em> to the U.S. Supreme Court if a question of U.S. federal law exists in the pending case, by application for federal <em><u>habeas corpus</u></em> under 28 U.S.C. § 2255 where applicable, or where <em><u>en banc</u></em> review is requested subject to the provisions of Rules 4(C) and 4(D).</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.2</annotation>
+      </section>
+      <section>
+        <num>TCT.03.04</num>
+        <heading>Jurisdiction Of Stockbridge-Munsee Court Of Appeals</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Error Correction.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Stockbridge-Munsee Court of Appeals is an error correction court and not a policy making court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Stockbridge-Munsee Community may declare an ordinance of the Stockbridge-Munsee Community unconstitutional if said ordinance violates either the Stockbridge-Munsee Constitution or the Stockbridge-Munsee Bill or Rights, <cite doc="Stockbridge-Munsee Tribal Code" path="GOV|GOV.01">Chapter GOV.01</cite>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Stockbridge-Munsee Court of Appeals may interpret or apply tribal ordinances, but the writing of tribal ordinances via judicial fiat is not authorized.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Internal Rule Making Authority.</heading>
+          <text>The Stockbridge-Munsee Court of Appeals may modify the S-M Rules App. by application for an ordinance modification in accordance with the process in <cite doc="Stockbridge-Munsee Tribal Code" path="ADM|ADM.01">Chapter ADM.01</cite> – Procedures or as permitted under <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.12">Section TCT.01.12</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Precedent Making Authority.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Stockbridge-Munsee Court of Appeals decisions which are decided by a panel of at least three (3) justices may be used as binding judicial precedent for future cases in both the Stockbridge-Munsee Tribal Court and the Stockbridge-Munsee Court of Appeals.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Decisions by a single justice of the Stockbridge-Munsee Court of Appeals may be argued as persuasive authority for decisions pending in the Stockbridge-Munsee judicial system, but not as binding precedent for future cases in the Stockbridge-Munsee Judicial System.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Certified Questions of Law.</heading>
+          <text>The Stockbridge-Munsee Court of Appeals may address questions of tribal law certified to it by state or federal appellate courts.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.3</annotation>
+      </section>
+      <section>
+        <num>TCT.03.05</num>
+        <heading>Justices Of The Stockbridge-Munsee Court Of Appeals</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Panels of the Stockbridge-Munsee Court of Appeals.</heading>
+          <text>Any civil decision involving a requested judgment amount of over $25,000.00 or any decision stemming from a civil jury verdict, child custody/adoption, tribal membership standing, constitutional questions or tribal elections shall be considered by a panel of at least three (3) justices.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Single Justice Decisions.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Any decision originating from bench trial civil matter judgments with a potential liability amount below $25,000.00, may be heard by a single justice.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>While a decision by a single justice may be persuasive authority, said decision shall not be considered binding precedential authority in either the Stockbridge-Munsee Tribal Court or the Stockbridge-Munsee Court of Appeals.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A party dissatisfied with the decision of a single justice opinion may petition for <em><u>en banc</u></em> review pursuant to Rule 4(C) and 4(D) below within ten (10) days of a decision by a single justice being rendered.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>En Banc Review.</heading>
+          <para>
+            <num>(1)</num>
+            <text>At the discretion of the majority of all of the justices of the Stockbridge-Munsee Court of Appeals, any pending appeal may be considered by the entire membership of the Stockbridge-Munsee Court of Appeals.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>This procedure will be used to resolve important questions of law or resolve apparently conflicting opinions of differing panels of the Stockbridge-Munsee Court of Appeals.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any party dissatisfied with the decision of a single justice decision may petition the Stockbridge-Munsee Court of Appeals for <em><u>en banc</u></em> review.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text><em><u>En banc</u></em> review shall be decided by a majority vote of the Stockbridge-Munsee Court of Appeals and the grant or denial of <em><u>en banc</u></em> review is in the sole discretion of Stockbridge-Munsee Court of Appeals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Petitions to Rehear.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Petitions to rehear, other than <em><u>en banc</u></em> review, are discouraged, but shall be decided in the sole discretion of the justice of the Stockbridge-Munsee Court of Appeals that heard the original appeal.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Petitions to rehear must be filed within ten (10) days of a panel's decision being rendered.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Recusal/Pro Tem Justice.</heading>
+          <para>
+            <num>(1)</num>
+            <text>In the event that a justice of the Stockbridge-Munsee Court of Appeals must recuse themselves from a pending appeal, the Chief Justice, may in his/her discretion, order the appeal to be heard by only two (2) justices or the Chief Justice may appoint a licensed attorney to sit on a <em><u>pro tem</u></em> basis for a single case, on the same payment terms as a regularly sitting justice.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the recusal involves a single justice appeal, the recused justice shall not sit on the case if <em><u>en banc</u></em> review is granted and the presiding justice on the <em><u>en banc</u></em> review is authorized to proceed as discussed in this rule to fill the recused justice's position for said appeal.</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.4</annotation>
+      </section>
+      <section>
+        <num>TCT.03.06</num>
+        <heading>Manner Of Seeking Appeal</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Civil Appeals.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Unless superseded by a specific timeline identified for a particular type of claim under tribal law, civil appeals, including tribal administrative matters that may be heard before the Stockbridge-Munsee Tribal Court, shall be filed within thirty (30) calendar days of the judgment of the Stockbridge-Munsee Tribal Court becoming final.  A decision becomes final upon a monetary judgment or other ruling being entered in a civil/administrative matter or a motion for new trial, which was filed within thirty (30) days of the court's decision, being denied.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the thirty (30) days expire on a date the Stockbridge-Munsee Tribal Court is closed, the notice of appeal may be filed on the next date that the Stockbridge-Munsee Tribal Court is open.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Notice of Appeal.</heading>
+          <text>If a party seeks to appeal a decision of the Stockbridge-Munsee Tribal Court, a notice of appeal shall be filed with the Stockbridge-Munsee Tribal Court Clerk.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Dismissal of Appeals.</heading>
+          <text>If the Stockbridge-Munsee Court of Appeals finds that it lacks jurisdiction over a matter, or that an appellant did not properly comply with ordinances, rules or procedures, the Stockbridge-Munsee Court of Appeals may <em><u>sua sponte</u></em> dismiss a pending appeal or order the deficiency be corrected in the Court's discretion.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.5</annotation>
+      </section>
+      <section>
+        <num>TCT.03.07</num>
+        <heading>Record On Appeal</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Testimony.</heading>
+          <text>Testimony presented at the Stockbridge-Munsee Tribal Court may be preserved for appellate review by any manner approved by the Chief Judge of the Stockbridge-Munsee Tribal Court to include, but not limited to: formal transcript, audio recording, video recording or court-approved statement of the evidence.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Technical Record.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The technical record for an appeal coming before the Stockbridge-Munsee Court of Appeals shall include all pleadings of record, relevant motions and orders, judgments and any other part of the trial record which is necessary in the discretion of the Stockbridge-Munsee Tribal Court Clerk and/or Court Administrator, to convey a fair and accurate record of what occurred at trial.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any dispute as to the contents of the technical record shall be brought to the Tribal Court's attention by motion and the Tribal Court judge that heard the case shall be the final arbitrator of what items are included in the Technical Record absent blatant abuse of discretion.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If the appellate record is inadequate for a full and fair review of the Stockbridge-Munsee Tribal Court proceedings, the Stockbridge-Munsee Court of Appeals will presume the decision of the Stockbridge-Munsee Tribal Court was rendered correctly.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Other Items Includable in Appellate Record.</heading>
+          <text>Any party can request an item that was actually presented or filed with the Stockbridge-Munsee Tribal Court to be included in the record on appeal unless said item was stricken from the record by the Stockbridge-Munsee Tribal Court judge that presided over the trial in question.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Time to Complete Appellate Record.</heading>
+          <text>The appellate record shall be completed within thirty (30) days from the filing of the notice of appeal.  For good cause shown, this time period can be reduced or expanded at the discretion of the Stockbridge-Munsee Tribal Court.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.6</annotation>
+      </section>
+      <section>
+        <num>TCT.03.08</num>
+        <heading>Briefs</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Briefs Generally.</heading>
+          <para>
+            <num>(1)</num>
+            <text>All briefs to the Stockbridge-Munsee Court of Appeals shall be on 8½" by 11½" white paper, stapled at the top left-hand corner of said paper and including the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>the style of the case;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the type of brief (<em>e.g.</em> Appellant's brief);</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>relevant facts;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>issues;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>argument;</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>conclusion; and</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>a certificate of service to all parties in the appeal.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>While technical formalities are relaxed, all briefs shall confine themselves to pleadings and facts actually presented to the Stockbridge-Munsee Tribal Court.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>References to legal arguments shall give complete ordinance or case citations.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Briefs shall be typed in 12-point size and double spaced using standard fonts such as Times New Roman.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Block quotes of over 50 words may be single spaced and indented.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Appellant's Brief.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The appellant shall file the appellant's brief within thirty (30) days of the appellate record being completed and notice of said completion of the appellate record is sent to all parties of record in the appeal by the Tribal Court Clerk.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The appellant's brief shall <strong><em><u>specifically</u></em></strong> state how appellant believes the Stockbridge-Munsee Tribal Court erred and how said error, if found, would not be considered "harmless error."</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Appellant shall file an original and three (3) exact copies of the appellant's brief with the Stockbridge-Munsee Tribal Court Clerk.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Appellant's briefs shall not exceed twenty-five (25) pages in length absent leave of court.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>An exact copy of the appellant's brief shall be mailed, postage prepaid in the U.S. Mail, or e-mailed, to all other parties of record in the appeal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Appellee's Brief.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Appellee shall file the appellee's brief within thirty (30) days of appellant filing the appellant's brief.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Appellee shall file an original and three (3) copies to the appellee's brief with the Stockbridge-Munsee Tribal Court Clerk and/or Court Administrator.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Appellee's briefs shall not exceed twenty-five (25) pages in length absent leave of court.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An exact copy of the appellee's brief shall be mailed, postage prepaid in the U.S. Mail, or e-mailed to all other parties of record in the appeal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Appellant's Reply Brief.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Appellant may, but is not required to, present a reply brief to the arguments set out in the appellee's brief.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If a reply brief is to be filed, it shall be done within fourteen (14) days of the appellee's brief being filed.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>An original and three (3) copies of said reply brief shall be filed with the Stockbridge-Munsee Tribal Court Clerk.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An appellant's reply brief shall not exceed five (5) pages in length absent leave of court and shall only address points set out in the appellee's brief, not advance new arguments.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>An exact copy of the reply brief shall be mailed, postage prepaid in the U.S. Mail, or e-mailed to all parties of record in the appeal.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Absent leave of court, appellees will not be permitted to file reply arguments to the appellant's reply brief.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Amicus Briefs.</heading>
+          <para>
+            <num>(1)</num>
+            <text><em><u>Amicus</u></em> briefs (a/k/a "Friend of the Court briefs") may be allowed through motion by leave of the Court and shall be filed, at latest, within fourteen (14) days after the appellee files a brief.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><em><u>Amicus</u></em> briefs shall not exceed ten (10) pages in length absent specific permission from the Court.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>An exact copy of all <em><u>Amicus</u></em> briefs brief shall be mailed, postage prepaid in the U.S. Mail, or e-mailed to all other parties of record in the appeal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Brief Filing Time Cut-Off.</heading>
+          <para>
+            <num>(1)</num>
+            <text>In the event, for whatever reason, that the final date to file a brief with the Stockbridge-Munsee Court of Appeals falls on a date where the Stockbridge-Munsee Tribal Court is closed, the brief may be filed on the next date in which the Stockbridge-Munsee Tribal Court is open.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For filing purposes, any pleading that has a postal time/date stamp or the functional equivalent that indicates the brief was mailed prior to the filing time cut-off, the brief shall then be considered timely filed.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If an appellant fails to timely file a brief, the Stockbridge-Munsee Court of Appeals may, in the court's discretion, dismiss the appeal.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>If an appellee fails to timely file a brief, the Stockbridge-Munsee Court of Appeals shall review the matter solely on the technical record and the appellant's brief.</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.7</annotation>
+      </section>
+      <section>
+        <num>TCT.03.09</num>
+        <heading>Oral Arguments</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Requesting Oral Arguments.</heading>
+          <para>
+            <num>(1)</num>
+            <text>If any party to an appeal requests oral arguments, and said request is granted, each party is entitled to argue live before the Stockbridge-Munsee Court of Appeals for up to twenty (20) minutes per side.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To request oral arguments, a party shall state in the style of the initial brief "Oral Arguments Requested."</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Oral arguments may be conducted:</text>
+            <para>
+              <num>(A)</num>
+              <text>in person;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>via telephone;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>via Skype/Facetime or similar device; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>by any other means that the Stockbridge-Munsee Court of Appeals, in its discretion, dictates.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The time, manner and place where oral arguments may occur shall be set on a case-by-case basis by the Stockbridge-Munsee Court of Appeals in the Court's sole discretion.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Waiving Oral Arguments.</heading>
+          <text>If neither party specifically requests oral arguments in the style of their brief, oral arguments will be deemed waived and the appeal shall be decided on the briefs and record on appeal without further argument unless the Court <em><u>sua sponte</u></em> orders oral arguments.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Oral Arguments Are Not Jurisdictional.</heading>
+          <text>Oral arguments are not deemed jurisdictional, so the Court may decline oral arguments or hold oral arguments at a non-tribal location, such as a law school, if the Court deems fit in its sole discretion.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Time for Oral Arguments.</heading>
+          <text>Absent extraordinary circumstances, oral arguments will be set within thirty (30) days of the time for a reply brief to be filed expires.  Continuance requests for oral arguments are discourages and will not normally be granted.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.8</annotation>
+      </section>
+      <section>
+        <num>TCT.03.10</num>
+        <heading>Indigents</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Indigent Civil Appeals.</heading>
+          <text>Upon petition to either the Stockbridge-Munsee Tribal Court or the Stockbridge-Munsee Court of Appeals, an appealing party in a civil matter may request to proceed <em><u>in forma pauperis</u></em> without prepayment of costs.  After an appeal is completed, the party previously declared indigent may petition to waive costs and the Chief Justice, or single justice that decided said case, shall decide if costs shall be waived.</text>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.9</annotation>
+      </section>
+      <section>
+        <num>TCT.03.11</num>
+        <heading>Opinions Of The Stockbridge-Munsee Court Of Appeals</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Opinions of the Stockbridge-Munsee Court of Appeals.</heading>
+          <text>Opinions of the Stockbridge-Munsee Court of Appeals shall be in writing and normally handed down within sixty (60) days after an appeal presents oral arguments or the appeal that is not seeking oral arguments has been submitted to the justices of the Stockbridge-Munsee Court of Appeals for decision.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Opinions of the Stockbridge-Munsee Court of Appeals are Final Decisions.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Stockbridge-Munsee Court of Appeals is the court of last resort of any decision originating in the Stockbridge-Munsee Tribal Court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Opinions of the Stockbridge-Munsee Court of Appeals relating to tribal administrative matters originating in the Stockbridge-Munsee Tribal Court are final and non-appealable except by writ of <em><u>certiorari</u></em> to the U.S. Supreme Court if a question of U.S. federal law is involved in the case or via federal <em><u>habeas corpus</u></em> as discussed in 28 U.S.C. § 2255.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Publication of Opinions.</heading>
+          <para>
+            <num>(1)</num>
+            <text>All opinions of the Stockbridge-Munsee Court of Appeals shall be published by or made available through the Stockbridge-Munsee Tribal Court Clerk, subject to any guidelines/limitations explicitly set forth under Tribal law.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Said opinions shall have case numbers showing first the year (<em><u>e.g.</u></em><em>,</em> 2018) and then the decision number for that year (<em><u>e.g.</u></em><em>,</em> 2018-5 = the fifth decision of the Stockbridge-Munsee Court of Appeals for the year 2018).</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Decisions of a panel of the Stockbridge-Munsee Court of Appeals that have at least three (3) justices shall be considered controlling precedent for later cases coming before the Stockbridge-Munsee Court of Appeals or Stockbridge-Munsee Tribal Court absent said opinions being modified by ordinance or later decisions of the Stockbridge-Munsee Court of Appeals.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>All other opinions of the Stockbridge-Munsee Court of Appeals, (<em><u>e.g.</u></em> single justice opinions), shall be considered persuasive authority for future cases coming before the Stockbridge-Munsee Court of Appeals or Stockbridge-Munsee Tribal Court.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Published decisions of the Stockbridge-Munsee Court of Appeals shall be published on the Casemaker legal research service on a non-exclusive basis so long as said service continues to be offered to the Stockbridge-Munsee Court of Appeals free of charge.</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">Formerly codified as Chapter 5-A, §5-A.10</annotation>
+      </section>
+      <annotations>
+        <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 012-20">Resolution No.012-20</cite>, adopted November 6, 2019.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>on January 21, 2021. Approved by BIA January 28, 2021.</annotation>
+      </annotations>
+    </container>
+  </codify:insert>
+</document>

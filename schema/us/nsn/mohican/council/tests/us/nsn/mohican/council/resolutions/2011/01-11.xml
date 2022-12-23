@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 01-11">
+  <num>01-11</num>
+  <heading/>
+  <meta>
+    <ordinance>Elder/Youth License</ordinance>
+    <effective/>
+    <history>
+      <adopted>2010-10-26</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 01-11</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Legislative History">Requiring that Elder/Youth licensing requirements apply to persons consistent with requirements under the Wisconsin caregiver law adopted in 2009.  This resolution required that caregiver background checks for certified childcare providers, household members, employees, assistants and helpers shall be evaluated and addressed in accordance with the provisions of Chapters 48.685 and 50.065, Wis. Stats., and as enumerated in Chapter DHS 12 APPENDIX A, OFFENSES AFFECTING CAREGIVER ELIGIBILITY, SEPTEMBER 2000, in lieu of the Chapter 65 licensing requirements.  This resolution was made effective until Chapter 65 was amended or the resolution was revoked.</annotation>
+  </annotations>
+</document>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/ca/cities/san-mateo/_schemas/docs/charter"
+    xmlns="https://open.law/us/ca/cities/san-mateo/_schemas/docs/charter">
+    <xs:redefine schemaLocation="../../adapters/docs/charter.xsd"/>
+</xs:schema>
