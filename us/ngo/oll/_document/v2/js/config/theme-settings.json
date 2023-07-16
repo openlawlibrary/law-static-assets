@@ -1,17 +1,42 @@
 {
-	"clientVersion": "2.48.2",
-	"themeVersion": "v2",
-	"themeType": "default",
-	"themeName": "openlawlibrary",
-	"themeId": "/us/ngo/oll",
-	"style": {"namespaceSuffix":"oll-core"},
-	"logo": {
-		"libraryLogo": {"image":"","srcset":[]},
-		"header": {"image":"/images/logo/logo.png","srcset":["/images/logo/logo.png 1x","/images/logo/logo@2x.png 2x"]},
-		"footer": {"image":"","srcset":[]}
-	},
-	"fonts": ["/biticons/biticons.css","/fonts/ananda/ananda.css","/fonts/roboto-condensed/roboto-condensed.css"],
-	"contact": {"email":"help@openlawlib.org"},
-	"fetchCodeRecency": true,
-	"reader": {"rootUrl":"/"}
+  "clientVersion": "2.61.3",
+  "themeVersion": "v2",
+  "themeType": "default",
+  "themeName": "openlawlibrary",
+  "themeId": "/us/ngo/oll",
+  "style": {
+    "namespaceSuffix": "oll-core"
+  },
+  "logo": {
+    "libraryLogo": {
+      "image": "",
+      "srcset": []
+    },
+    "header": {
+      "image": "/images/logo/logo.png",
+      "srcset": [
+        "/images/logo/logo.png 1x",
+        "/images/logo/logo@2x.png 2x"
+      ]
+    },
+    "footer": {
+      "image": "",
+      "srcset": []
+    }
+  },
+  "fonts": [
+    "/biticons/biticons.css",
+    "/fonts/ananda/ananda.css",
+    "/fonts/roboto-condensed/roboto-condensed.css"
+  ],
+  "contact": {
+    "email": "help@openlawlib.org"
+  },
+  "reader": {
+    "rootUrl": "/",
+    "themeVariation": {
+      "header": "hv1",
+      "footer": "fv1"
+    }
+  }
 }
