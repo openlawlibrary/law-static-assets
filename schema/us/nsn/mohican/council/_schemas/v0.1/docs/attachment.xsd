@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/nsn/mohican/council/_schemas/docs/attachment"
+    xmlns="https://open.law/us/nsn/mohican/council/_schemas/docs/attachment">
+    <xs:redefine schemaLocation="../adapters/docs/attachment.xsd"/>
+    <xs:element name="attachment" type="DocumentType"/>
+</xs:schema>

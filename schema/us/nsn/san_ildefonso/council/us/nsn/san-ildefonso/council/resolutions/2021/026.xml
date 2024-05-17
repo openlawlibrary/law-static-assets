@@ -1,0 +1,1050 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R21-026" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1">
+  <num>SI-R21-026</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-026</heading>
+  <heading type="law">Housing Authority Act</heading>
+  <meta>
+    <effective>2021-11-29</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-026</citation>
+    </citations>
+    <history>
+      <adopted>2021-11-24</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 24th day of November, 2021, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there is a shortage of decent, safe and sanitary dwelling accommodations available at rents or prices that low income citizens can afford, and that such shortage forces people to occupy unsanitary, unsafe and overcrowded dwelling accommodations or leave the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the establishment of a housing authority will aid in the provision of decent, safe and sanitary housing, will contribute to the overall economic welfare of the Pueblo, will provide employment opportunities for Pueblo members, and will establish desirable housing, neighborhoods, and communities on Pueblo Lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has the authority to undertake the formation of a housing authority for the benefit of the People.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "THE HOUSING AUTHORITY ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>November 24</u> , 2021, at a meeting with a vote of <u>7</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>3</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R21-026</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>24</u><sup><u>th</u></sup> day of <u>November</u>, 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>29</u><sup><u>th</u></sup> day of <u>November</u>, 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.8</num>
+      <heading>Housing Authority Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-026"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="15.1.8"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">HOUSING AUTHORITY ACT</heading>
+    <section>
+      <codify:insert num-value="15.1.8.010" />
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "HOUSING AUTHORITY ACT ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.020" />
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The Purpose of this Act is to establish a Housing Authority to address the Pueblo's housing needs including the planning, development, administration and maintenance of housing projects.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.030" />
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>There is a shortage of decent, safe and sanitary dwelling accommodations available at rents or prices that low-income citizens can afford; and that such shortage forces people to occupy unsanitary, unsafe and overcrowded dwelling accommodations or leave the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The establishment of a housing authority will aid in the provision of decent, safe and sanitary housing, will contribute to the overall economic welfare of the Pueblo, will provide employment opportunities for Pueblo members, and will establish desirable housing, neighborhoods, and communities on Pueblo Lands; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo has the authority to undertake the formation of a housing authority.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.040" />
+      <num>1.4</num>
+      <heading>Definitions</heading>
+      <text>For purposes of this Act, the term:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Act" means the Housing Authority Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Authority" or "Housing Authority" means the San Ildefonso Housing Authority.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Board" means the Board of Commissioners of the Authority.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Council" means the Council of San Ildefonso.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Court" means the Courts of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Homebuyer" means any person who has qualified for any of the Authority's homeownership programs and has executed a lease purchase agreement with OOHA for lease purchase of home.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Housing" means "affordable housing" as defined by section 4(2) of NAHASDA and other decent, safe and sanitary housing primarily for Tribal Members, including rental housing, residential housing, condominiums, buildings, land, leaseholds, equipment, facilities, and other real or personal property for necessary, convenient, or desirable appurtenances, for streets, sewers, water service, utilities, parks, site preparation or landscaping, and for administrative, community, health, recreational, welfare, or other purposes. The term "Housing" includes the planning and design of the housing, infrastructure, and improvements, the acquisition of real property or any interest therein, the demolition of existing structures, the construction, reconstruction, rehabilitation, alteration or repair of the housing, infrastructure, and improvements or other real property and all other work in connection therewith, and all other real and personal property and all tangible or intangible assets held or use in connection with Housing.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"HUD" means the United States Department of Housing and Urban Development.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Low Income Family" means a family whose income does not exceed 80 percent of the median income for the area, as determined by the funding source providing assistance, and including exceptions provided by the funding source.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"NAHASDA" means the Native American Housing Assistance and Self-Determination Act of 1996 and its implementing regulations.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Obligation" means any note, bond, debenture, or other form of financial obligation issued by the Authority pursuant to this Act.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Obligee" means any holder of an obligation, a lessor demising property to the Authority to be used in connection with a Housing project, or HUD when it is a party to any contract with the Authority with respect to a Housing project.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Pueblo" means the Pueblo de San Ildefonso, a federally-recognized Indian tribe.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Secretary" means the Secretary of the Interior or her designee.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Pueblo Lands" means the Pueblo's land grant and all other lands subject to the jurisdiction of the Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.050" />
+      <num>1.5</num>
+      <heading>San Ildefonso Housing Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>Establishment. The Pueblo hereby establishes a public body to be known as the Housing Authority to carry out the purposes stated in section 1.5.b., below. The Authority is hereby designated to receive, on behalf of the Pueblo and on its own behalf, federal, state, or private financial assistance, including grants, for Housing.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Purposes. The Authority shall be organized and operated for the following purposes:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>To act as a recipient and receive block grant funds authorized under PL 104-330 and administer such funds in accordance with provisions of the Act, as authorized by the Council;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>To remedy unsafe and unsanitary housing conditions that are injurious to the public health, safety and morals;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>To Alleviate the acute shortage of decent, safe and sanitary dwellings for persons of low income;</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>To Provide employment opportunities through the construction, reconstruction, improvement, extension, alterations or repair and operation of low-income dwellings;</text>
+        </para>
+        <para>
+          <num codify:value="(5)">5.</num>
+          <text>To Improve the quality of life in all areas serviced by the jurisdiction of the Pueblo;</text>
+        </para>
+        <para>
+          <num codify:value="(6)">6.</num>
+          <text>To Engage in activities that are directly or indirectly related to housing, including, but not limited to mortgage origination and servicing, housing development and management, and development and management of other housing-related services;</text>
+        </para>
+        <para>
+          <num codify:value="(7)">7.</num>
+          <text>To Participate in entities formed to accomplish any of the above-described purposes including acting as a general partner of a limited partnership.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Management of the Authority. The day-to-day affairs of the Authority shall be managed by an Executive Director subject to oversight by the Board, which shall serve as the governing body of the Authority.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Agency. The Authority shall be an agency and instrumentality of the Pueblo and enjoy the same status and immunities of the Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.060" />
+      <num>1.6</num>
+      <heading>Board of Commissioners</heading>
+      <para>
+        <num>(a)</num>
+        <text>Membership. The Board shall be composed of five (5) commissioners.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Member Selection.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Appointments. The Governor shall nominate commissioners to serve on the Board subject to confirmation by the Council. Commissioners shall serve three-year staggered terms of office.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Qualifications of Commissioners.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Board members may be tribal members or non-tribal members; provided, that tribal members shall always constitute a majority of members of the Board.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>No person may be prohibited from serving as a member of the Board because that person is also a tenant or Homebuyer of Housing; provided, that <strong><em>anyone who is delinquent on housing payments due to the Authority shall be ineligible to serve on the Board.</em></strong></text>
+          <text>A Board member may participate in all meetings concerning matters that affect all of the tenants or Homebuyers even though those matters may indirectly affect the Board member as well; however, no Board member, in their capacity as a member of the Board, may participate in or be present at any Board meeting concerning any matter involving the Board member's individual rights, obligations, or status as a tenant or Homebuyer, except that the Board member may participate in or be present at such meeting only in their capacity as a tenant or Homebuyer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Term of office. Except as otherwise provided, the term of office of the members of the Board shall be three (3) years staggered. A vacancy on the Board shall be filled by a qualified person upon nomination of the Governor, subject to confirmation by the Council. A person selected to fill a vacancy shall serve for the length of the unexpired term. Unless a member of the Board has been removed as provided in section 1.6 (f), the Board member may continue to serve after the expiration of the term of office until his successor has been appointed by the Tribal Council or Governor.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Officers. The Board shall select, by majority vote, from among its members, a Chair, a Vice Chair, a Secretary, and a Treasurer. A member of the Board may only hold one position. The Board shall prescribe the duties of the officers in the bylaws established by the Board.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Removal of members. The Governor may at any time remove any member of the Board with or without cause.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Compensation. The members of the Board may each receive from the Authority a stipend for their services except that the amount of the stipend may not to exceed $100.00 per meeting per month.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Quorum. Three (3) members of the Board, at least one (1) of which must be either the Chair or the Vice Chair, shall constitute a quorum for the transaction of business.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Meetings. The Board shall meet at regular intervals and other times as provided in the by- laws established by the Board.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.070" />
+      <num>1.7</num>
+      <heading>Powers</heading>
+      <para>
+        <num>(a)</num>
+        <text>Perpetual duration. The period of the Authority's duration shall be perpetual or until this Act is repealed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Powers. The Authority shall have the following powers:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>The Authority is hereby designated to receive, on behalf of the Pueblo and on its own behalf, federal, state, or private financial assistance, including grants, for Housing.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>Subject to the provisions of section 1.12, to sue and be sued in its name upon any contract, claim, or Obligation arising out of its activities under this Act.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>To adopt and use a seal.</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>To enter into agreements, contracts, or other understandings with any person, organization, partnership, corporation, governmental agency, or other entity.</text>
+        </para>
+        <para>
+          <num codify:value="(5)">5.</num>
+          <text>To agree to any terms and conditions attached to the receipt of federal financial assistance for Housing.</text>
+        </para>
+        <para>
+          <num codify:value="(6)">6.</num>
+          <text>To lease real property from the Pueblo and others for periods as are authorized by federal or tribal law, and to hold and manage or to sublease the same.</text>
+        </para>
+        <para>
+          <num codify:value="(7)">7.</num>
+          <text>To borrow or lend money, to issue temporary or long-term evidence of indebtedness and to repay the same. The Obligation shall be issued and repaid in accordance with the provisions of section 1.8.</text>
+        </para>
+        <para>
+          <num codify:value="(8)">8.</num>
+          <text>To pledge the assets and receipts of the Authority as security for any Obligations; and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein.</text>
+        </para>
+        <para>
+          <num codify:value="(9)">9.</num>
+          <text>To purchase real property or any interests in real property or take the same by gift and to lease real property or any interests in real property to the extent provided by law.</text>
+        </para>
+        <para>
+          <num codify:value="(10)">10.</num>
+          <text>To undertake and carry out studies and analysis of Housing needs, to prepare Housing plans, to execute the same, to operate Housing projects or programs, and to provide for the construction, reconstruction, improvements, extension, alteration or repair of any Housing.</text>
+        </para>
+        <para>
+          <num codify:value="(11)">11.</num>
+          <text>With respect to any dwellings, accommodations, lands, buildings or facilities embraced within any Housing project (including individual cooperative or condominium units), to lease or rent, sell, enter into lease- purchase agreements or leases providing options to purchase; to establish and revise rents or monthly payments; to make rules and regulations as the Board may deem necessary and desirable to effectuate any power granted by this Act.</text>
+        </para>
+        <para>
+          <num codify:value="(12)">12.</num>
+          <text>To finance the purchase of Housing by a qualified Tribal Member.</text>
+        </para>
+        <para>
+          <num codify:value="(13)">13.</num>
+          <text>To terminate any agreement when any tenant or Homebuyer has violated the terms of the agreement or has failed to meet any of its obligation thereunder, or when termination is otherwise authorized under the provisions of such agreement; and to bring legal action against the tenant or Homebuyer, including an action for eviction.</text>
+        </para>
+        <para>
+          <num codify:value="(14)">14.</num>
+          <text>To establish eligibility requirements and policies to ensure that Housing will be made available in accordance with funding requirements and this Act.</text>
+        </para>
+        <para>
+          <num codify:value="(15)">15.</num>
+          <text>To purchase insurance from any insurance company to insure any real or personal property or against any risk or hazards.</text>
+        </para>
+        <para>
+          <num codify:value="(16)">16.</num>
+          <text>To invest any funds that are not required for immediate disbursement.</text>
+        </para>
+        <para>
+          <num codify:value="(17)">17.</num>
+          <text>To establish and maintain bank accounts in the name of the Authority as may be necessary and convenient.</text>
+        </para>
+        <para>
+          <num codify:value="(18)">18.</num>
+          <text>To employ and terminate an executive director (subject to approval of the Council), and employ and terminate housing managers, and other officers and employees, permanent or temporary, as the Authority may require and to delegate to the executive director, housing managers, and other officers and employees any powers or duties as the Board shall deem proper.</text>
+        </para>
+        <para>
+          <num codify:value="(19)">19.</num>
+          <text>To take any further actions that are commonly engaged in by public bodies of this character as the Board may deem necessary and desirable to effectuate the purposes of the Authority.</text>
+        </para>
+        <para>
+          <num codify:value="(20)">20.</num>
+          <text>To join or cooperate with any other public housing agency operating under the laws of the state or another Indian tribe in the exercise, either jointly or otherwise, of any or all of the powers of the Authority and other public housing agency for the purpose of financing (including but not limited to the issuance of an Obligation and giving security therefore), planning, undertaking, owning, constructing, operating, or contracting with respect to Housing of the Authority or other public housing agency. For such purpose, the Authority may by resolution prescribe and authorize any other public housing agency to join or cooperate with the Authority to act on the Authority's behalf with respect to any or all powers, as the Authority's agent or otherwise, in the name of the Authority or the other public housing agency.</text>
+        </para>
+        <para>
+          <num codify:value="(21)">21.</num>
+          <text>To adopt bylaws consistent with this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Financial Assistance. The Authority shall do any and all things necessary or desirable to secure federal, state, and private financial aid or cooperation in the undertaking, construction, maintenance, or operation of Housing.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.080" />
+      <num>1.8</num>
+      <heading>Obligations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Issuance. The Authority may issue an Obligation for any of its purposes and may also issue refunding an Obligation for the purpose of paying or retiring an Obligation previously issued by it. The Authority may issue any type of Obligation, including an Obligation on which the principal and interest are payable:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Exclusively from the income and revenues of the Housing project financed with the proceeds of an Obligation, or with such income or revenues together with a grant from HUD or other federal agency in aid of the Housing project;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>Exclusively from the income and revenues of certain designated Housing projects whether or not they were financed in whole or in part with the proceeds of an Obligation;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>From its revenues generally. Any Obligation may be additionally secured by a pledge of any revenues of any Housing project or other property of the Authority.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No Personal liability. The members of the Board or any person executing the Obligation on behalf of the Authority shall not be liable personally on the Obligation by reason of issuance thereof.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Separate obligations. The obligations of the Authority shall not be a debt of the Pueblo and the Obligation shall so state on its face.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Manner of issuance. The Obligation of the Authority shall be issued and sold only in the following manner:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>The Board shall by resolution authorize any Obligation by the vote of a majority of the full Board and the Obligation may be issued in one or more series.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>The Obligation shall bear such dates, mature at such times, bear interest at such rates, be in such denominations, be in such form, either coupon or registered, carry such conversion or registration privileges, have such rank or priority, be executed in such manner, be payable in such medium of payment and at such places, and be subject to such terms of redemption, with or without premium, as the resolution of the Board may provide.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>The Obligation may be sold at a public or private sale at not less than par value.</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>If any Board member or other official, agent or employee of the Authority whose signature appears on any Obligation ceases to be a Board member or other official, agent or employee of the Authority before the delivery of the Obligation, then the signature shall nevertheless be valid and sufficient for all purposes, the same as if they had remained in office or employment until delivery.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Negotiable obligations. Any Obligation of the Authority shall be fully negotiable.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Terms and conditions of obligations. In connection with the issuance of an Obligation or incurring of an Obligation under leases and to secure the payment of the Obligation, the Authority, subject to the limitations in this Act, may:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Pledge all or any part of its revenues to which its right then exists or may thereafter come into existence.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>Provide for the powers and duties of any Obligee and limit their liabilities, and provide the terms and condition on which the Obligee may enforce any covenants or rights securing or relating to the Obligation.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>Covenant against pledging all or any part of its revenues, or against mortgaging any or all of its real or personal property to which its title or right then exists or may thereafter come into existence, or permitting or suffering any lien on such revenues or property.</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>Covenant with respect to limitations on its right to sell, lease or otherwise dispose of any Housing project.</text>
+        </para>
+        <para>
+          <num codify:value="(5)">5.</num>
+          <text>Covenant as to what other or additional debts or Obligation may be incurred by it.</text>
+        </para>
+        <para>
+          <num codify:value="(6)">6.</num>
+          <text>Covenant as to the Obligation to be issued and as to the issuance of the Obligations in escrow or otherwise, and as to the use and disposition of the proceeds thereof.</text>
+        </para>
+        <para>
+          <num codify:value="(7)">7.</num>
+          <text>Provide for the replacement of any lost, destroyed or mutilated document evidencing an Obligation.</text>
+        </para>
+        <para>
+          <num codify:value="(8)">8.</num>
+          <text>Covenant against extending the time for the payment of its Obligation or interest thereon.</text>
+        </para>
+        <para>
+          <num codify:value="(9)">9.</num>
+          <text>Redeem any Obligation and covenant for their redemption and provide the terms and conditions thereof.</text>
+        </para>
+        <para>
+          <num codify:value="(10)">10.</num>
+          <text>Covenant concerning the rents and fees to be charged in the Operation of a Housing project, the amount to be raised each year or other period of time by rents, fees and other revenues, and as to the use and disposition to be made thereof.</text>
+        </para>
+        <para>
+          <num codify:value="(11)">11.</num>
+          <text>Create or authorize the creation of special funds for moneys held for construction or operating costs, debt service, reserves or other purposes, and covenant as to the use and disposition of the moneys held in such funds.</text>
+        </para>
+        <para>
+          <num codify:value="(12)">12.</num>
+          <text>Prescribe the procedure, if any, by which the terms of any contract with holders of an Obligation may be amended or abrogated, the proportion of outstanding Obligation the holders of which must consent thereto, and the manner in which such consent may be given.</text>
+        </para>
+        <para>
+          <num codify:value="(13)">13.</num>
+          <text>Covenant as to the use, maintenance and replacement of its real or personal property, the insurance to be carried thereon and the use and disposition of insurance moneys.</text>
+        </para>
+        <para>
+          <num codify:value="(14)">14.</num>
+          <text>Covenant as to the rights, liabilities, powers and duties arising upon the breach by it of any covenant, condition or Obligation.</text>
+        </para>
+        <para>
+          <num codify:value="(15)">15.</num>
+          <text>Covenant and prescribe as to events of default and terms and conditions upon which any or all of its Obligation become or may be declared due before maturity, and as to the terms and conditions upon which such declaration and its consequences may be waived.</text>
+        </para>
+        <para>
+          <num codify:value="(16)">16.</num>
+          <text>Vest in any Obligation or any proportion of them the right to enforce the payment of the Obligation or any covenants securing or relating to the Obligation.</text>
+        </para>
+        <para>
+          <num codify:value="(17)">17.</num>
+          <text>Exercise all or any part or combination of the powers granted in this section.</text>
+        </para>
+        <para>
+          <num codify:value="(18)">18.</num>
+          <text>Make covenants other than and in addition to the covenants expressly authorized in this section of like or different character.</text>
+        </para>
+        <para>
+          <num codify:value="(19)">19.</num>
+          <text>Make any covenants and do any acts and things necessary or convenient or desirable in order to secure its Obligation, or in the absolute discretion of the Authority, tending to make the Obligation more marketable although the covenants, acts or things are not enumerated in this section.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.090" />
+      <num>1.9</num>
+      <heading>Audits, Fiscal Accountability, and Reports</heading>
+      <para>
+        <num>(a)</num>
+        <text>Accounting System. The Authority shall establish and maintain a functioning accounting system that is operated in accordance with generally accepted accounting principles.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Annual Audit. If required by law, the Authority shall have its financial statements audited annually by an independent auditor. The Authority shall provide to the Council a copy of its audited financial statements within ten days of its completion.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Housing Proposals and Programs. Before undertaking any Housing project or program whose projected cost is expected to exceed $250,000, the Authority shall submit a proposal to the Council for approval and appear before the Council to explain the advantages and disadvantages to the Pueblo of the proposal. The proposal must contain the following information:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>nature, scope, and projected cost of the project or program;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>amount, type, and sources of financial assistance, including any financial contributions required from the Authority;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>evidence of financial condition (e.g., audited financial statements) of any third party providing financial assistance to the project or program;</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>evidence of experience of any third party in any state, federal, or tribal housing projects or programs, including any suspensions, debarments, or penalties imposed by any state, federal, or tribal agency;</text>
+        </para>
+        <para>
+          <num codify:value="(5)">5.</num>
+          <text>cost-benefit analysis of the proposed project or program;</text>
+        </para>
+        <para>
+          <num codify:value="(6)">6.</num>
+          <text>schedule or timeline and budget for the project or program;</text>
+        </para>
+        <para>
+          <num codify:value="(7)">7.</num>
+          <text>collateral or other security to be provided by the Authority;</text>
+        </para>
+        <para>
+          <num codify:value="(8)">8.</num>
+          <text>terms and conditions of any proposed contractual obligations of the Authority in connection with the project or program, including any potential legal consequences flowing from a breach of material terms and conditions by the Authority, and any potential for any third party to assume control or ownership of the project or program as a result of a breach by the Authority; and</text>
+        </para>
+        <para>
+          <num codify:value="(9)">9.</num>
+          <text>financial benefits and other benefits of the project or program to the Authority, Pueblo community, and Tribal Members.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Debt Obligations. Thirty (30) days before issuing any Obligation, the Authority shall provide to the Council a description of the Obligation's purpose, amount, repayment schedule, required collateral, and anticipated source of repayment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Financial Reports. Each month, the Executive Director shall submit to the Council a summary report of the Authority's finances. Each quarter, the Executive Director shall submit to the Council the following quarterly financial reports concerning the Authority:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>budget variance;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>statement of cash flows;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>income statement; and</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>balance sheet.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Fidelity bonds. The Board shall obtain adequate fidelity bond insurance for its officers, agents or employees who handle cash or who are authorized to sign checks or certify vouchers on behalf of the Authority.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Reports.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>For each fiscal year, the Board shall submit an annual performance report and other reports to HUD as required by federal law. The Authority shall submit to the Governor and the Council a copy of any report submitted to HUD.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>For each fiscal year, the Authority shall submit a written report to the Council showing:</text>
+          <para>
+            <num codify:value="(A)">i.</num>
+            <text>a summary of the Authority's activities;</text>
+          </para>
+          <para>
+            <num codify:value="(B)">ii.</num>
+            <text>the financial condition of the Authority;</text>
+          </para>
+          <para>
+            <num codify:value="(C)">iii.</num>
+            <text>the condition of all Housing under the Authority's management;</text>
+          </para>
+          <para>
+            <num codify:value="(D)">iv.</num>
+            <text>the number of units and vacancies in any Housing project;</text>
+          </para>
+          <para>
+            <num codify:value="(E)">v.</num>
+            <text>any significant problems and accomplishments of the Authority;</text>
+          </para>
+          <para>
+            <num codify:value="(F)">vi.</num>
+            <text>any plans for future Housing;</text>
+          </para>
+          <para>
+            <num codify:value="(G)">vii.</num>
+            <text>the number of Tribal Members and non-tribal members living in any Housing project or program; and</text>
+          </para>
+          <para>
+            <num codify:value="(H)">viii.</num>
+            <text>any other information that the Board or the Council shall deem pertinent.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Indian Housing Plans. The Board shall, on behalf of the Pueblo, prepare and submit to HUD an Indian housing plan as required by federal law without the prior review of the housing plan by the Council; however, the Board shall submit a copy of the housing plan to the Council.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.100" />
+      <num>1.10</num>
+      <heading>Miscellaneous</heading>
+      <para>
+        <num>(a)</num>
+        <text>Local government cooperation agreements. The Authority may enter into an agreement, which shall provide for local government cooperation, with the governing body of any locality within which a Housing project will be situated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Housing policies. The Authority shall prepare policies required by federal law or as needed to effectively and efficiently administer Housing. These policies shall be available for review by HUD, the Council, Tribal Administration and tribal members.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Conflicts of Interest.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>All federal laws governing conflict of interests within housing programs receiving federal financial assistance apply to the Authority and its Board members, officers, employees, and agents. The Board shall establish a conflict of interest policy that complies with federal law.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>In addition to the conflict of interest provisions under applicable federal law as stated in section 1.10 (c) (1), a Board member, officer, employee, and agent shall not, during their tenure and for one year thereafter:</text>
+          <para>
+            <num codify:value="(A)">i.</num>
+            <text>participate in any activity that competes with the Authority or deprives the Authority of business;</text>
+          </para>
+          <para>
+            <num codify:value="(B)">ii.</num>
+            <text>allow business dealings on behalf of the Authority to be influenced (or appear to be influenced) by personal or family interests;</text>
+          </para>
+          <para>
+            <num codify:value="(C)">iii.</num>
+            <text>accept or solicit gifts, loans, favors or other valuables from any person or entity for the privilege of doing business or proposing to do business with the Authority;</text>
+          </para>
+          <para>
+            <num codify:value="(D)">iv.</num>
+            <text>accept or solicit bribes, payments, personal loans, kickbacks, special privileges or services from any person or entity, or give or offer any of these to any person or entity;</text>
+          </para>
+          <para>
+            <num codify:value="(E)">v.</num>
+            <text>engage in outside activities that interfere with their responsibilities to the Authority;</text>
+          </para>
+          <para>
+            <num codify:value="(F)">vi.</num>
+            <text>use the Authority's name to perform any outside activities;</text>
+          </para>
+          <para>
+            <num codify:value="(G)">vii.</num>
+            <text>solicit or distribute while at work any literature, pamphlets, or other materials that are not contrary to the views or purposes of the Authority;</text>
+          </para>
+          <para>
+            <num codify:value="(H)">viii.</num>
+            <text>obtain a personal or financial interest or benefit from the Authority's activities. This prohibition shall apply to persons with whom a Board member, officer, employee, or agent has a business or immediate family relationship; or</text>
+          </para>
+          <para>
+            <num codify:value="(I)">ix.</num>
+            <text>engage in any other activity, including, but not limited to, discussions, meetings, and decision-making, in which Board member, officer, employee, or agent has a personal or private interest that interferes with or appears to interfere with their ability to perform their responsibilities fairly, ethically, and consistent with the Authority's best interests.</text>
+          </para>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>Every Board member, officer, employee, and agent shall disclose all actual and potential conflicts of interest to the Board, and unless allowed under federal or tribal law, remove themselves from participation in any discussion or action regarding the matter in which the Board member, officer, employee, or agent has an actual or potential conflict of interest.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any violation of section 1.10 c. constitutes misconduct for purposes of section 1.6(f).</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Section 1.10 (c)(3). does not apply to the following circumstances:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>the acquisition of any interest in an Obligation issued in connection with any Housing;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>the execution of agreements by banking institutions for the deposit or handling of funds in connection with Housing or to act as trustee under any trust indenture;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>utility services rates that are fixed or controlled by a governmental agency; or</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>members of the Board or employees of the Authority who acquire an interest in Housing as a tenant or homebuyer on the same basis as other tenants and homebuyers, so long as there is no conflict of interest under tribal law, the Board member or employee has made a public disclosure of the nature of the assistance to be provided and the specific basis for the selection of the Board member or employee, and a copy of the disclosure is provided to HUD before the assistance is provided.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Compliance with federal law. Each Housing project developed or operated under a contract providing for federal financial assistance, including block grants, shall comply with all requirements of the contract and applicable federal law and regulations.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Operation of Housing. The Authority shall construct, operate, and use funds generated by its Housing activities to further the purpose of providing decent, safe, and sanitary Housing for Tribal Members.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Taxes.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>All other persons and entities doing business with the Authority, including construction contractors, are subject to applicable Pueblo taxes.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Exemption from execution or other judicial process. All personal and real property of the Authority shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the property nor shall any judgment against the Authority be a charge or lien upon the property. However, the provisions of this subsection (i) shall not limit the right of any Obligee to pursue any remedies for the enforcement of any pledge or the right of HUD or a funding source to pursue any remedies conferred upon it pursuant to the provisions of this Act, or the rights of the Authority or other party to bring eviction or foreclosure actions in accordance with section 1.7 b (13).</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Exception to low-income requirement. For purposes of this Act, the Authority may provide Housing assistance or activities to individuals or families who are not low-income to the extent that such assistance or activities are not prohibited by applicable law or a funding source.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.110" />
+      <num>1.11</num>
+      <heading>Pueblo Corporation</heading>
+      <para>
+        <num>(a)</num>
+        <text>Pueblo agreements. For the purpose of aiding and cooperating in the planning, construction, or operation of any Housing, the Pueblo agrees that:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>It shall not levy or impose any real or personal property taxes upon the Authority or any Housing assisted with federal funds.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>It shall provide tribal governmental services, including police and fire protection, roads, water, and sewage, to the Authority and Housing on the same basis that it provides those services to other residents of Pueblo Lands.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>Insofar as it may lawfully do so, it shall grant deviations from any present or future tribal building code that are reasonable and necessary to promote economy and efficiency in the development and operation of Housing and at the same time safeguard health and safety of the Pueblo and its members.</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>It shall do any and all things, within its lawful powers, necessary or convenient to aid and cooperate in the planning, undertaking, constructing, or operating of any Housing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Pueblo Courts.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>The Authority shall utilize the Courts to enforce the provisions of any contract between the Authority and any Tenant or Homebuyer.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>The Courts shall have jurisdiction to hear and determine any action for eviction of a Tenant or Homebuyer, or for breach of contract, or any foreclosure action against a borrower, or for any other matters arising out of this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Effectiveness of provisions. The provisions of section 1.11(a) shall remain in effect with respect to any Housing for the following period, whichever is the longest:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>the Housing is owned by a public body or government agency;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>any contract between the Authority and any third party, for loans, guarantees, grants, or any financial contributions in connection with the Housing, remains in force and effect; and</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>any Obligation issued in connection with any Housing or any moneys due to a third party in connection with the Housing, remain unpaid. If, at any time, title to, or possession of, any Housing held by any public body or governmental agency, including HUD, transfers to a body or entity authorized by law to engage in the development or operation of Housing, the provisions of this section shall inure to the benefit of and be enforced by that body or governmental agency.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.120" />
+      <num>1.12</num>
+      <heading>Sovereign Immunity</heading>
+      <para>
+        <num>(a)</num>
+        <text>Immunities. The Authority, as an agency and instrumentality of the Pueblo, is entitled to all of the privileges and immunities of the Pueblo. The Authority, its Board, officers, employees, and agents while acting in their official capacities are immune from suit, and the assets and other property of the Authority are exempt from levy or execution, except as provided in this section 1.12.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Waiver of immunity. Notwithstanding any other provision of law, the Authority is authorized to waive its sovereign immunity from suit for any particular contract, agreement, matter, or transaction that it may enter into to further the purposes of the Authority.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Procedure. Any waiver of immunity authorized by section 1.12(b) shall be in the form of a resolution duly adopted by the Board, which resolution shall not require the approval of the Council or the Secretary. The resolution shall</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>identify the party for whose benefit the waiver is granted,</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>the transaction and the claims for which the waiver is granted,</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>the property of the Authority that may be subject to execution to satisfy any judgment entered in the claim, and</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>the court in which suit against the Authority may be brought.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Authority assets. Any waiver of sovereign immunity by the Authority shall be limited to the assets and/or income of the Authority and the acts or omissions of the Authority, its Board, officers, employees or agents shall not create any liability, Obligation or indebtedness either of the Pueblo, or payable out of the assets, revenue or income of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No Pueblo waiver. Any waiver of sovereign immunity of the Authority shall not be construed to waive any sovereign immunity of the Pueblo or any other agency or</text>
+        <text>instrumentality of the Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.130" />
+      <num>1.13</num>
+      <heading>Amendments</heading>
+      <text>This Act may be amended from time to time by the Council.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.140" />
+      <num>1.14</num>
+      <heading>Interpretation</heading>
+      <text>The Council shall be the final decision-maker regarding the interpretation of this Act. Any questions relating to the interpretation of any provision of this Act shall be submitted to the Council for interpretation.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.150" />
+      <num>1.15</num>
+      <heading>Severability</heading>
+      <text>If any provision of this Act is held invalid or application thereof to any person or circumstance is held invalid, then the invalidity does not affect other provisions or applications of the Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.8.160" />
+      <num>1.16</num>
+      <heading>Effective Date</heading>
+      <text>This Act and any amendments thereto shall take effect on the date enacted by the Council.</text>
+    </section>
+  </attachment>
+</document>

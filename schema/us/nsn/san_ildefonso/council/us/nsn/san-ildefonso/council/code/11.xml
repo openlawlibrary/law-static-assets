@@ -1,0 +1,2570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>11</num>
+  <heading>NATURAL RESOURCES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.1</num>
+    <heading>Enabling Act</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.1.1</num>
+      <heading>Department of Natural Resources Enabling Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-025, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-025"/>
+      <section>
+        <num>11.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council finds that reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds that establishing a Department of Natural Resources will assist the Pueblo in developing, planning, and coordinating activities associated with natural resources management of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.020</num>
+        <text>The Department of Natural Resources is hereby established to develop, plan and coordinate activities associated with natural resources management of the Pueblo.</text>
+      </section>
+      <section>
+        <num>11.1.1.030</num>
+        <text>The Governor shall see that the following attached provisions shall be funded as detailed in the Annual Budget.</text>
+      </section>
+      <section>
+        <num>11.1.1.040</num>
+        <heading>Short Title</heading>
+        <para>
+          <num>(a)</num>
+          <text>This enactment shall be known as the Department of Natural Resources Enabling Act ("Act").</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.050</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.060</num>
+        <heading>Purpose</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Purpose of the Act is to establish the Department of Natural Resources.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.070</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby finds and declares that:</text>
+          <para>
+            <num>(1)</num>
+            <text>reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>establishing a Department of Natural Resources will assist the Tribe in developing, planning, and coordinating activities associated with natural resources management of the Pueblo.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.080</num>
+        <heading>General Policy</heading>
+        <para>
+          <num>(a)</num>
+          <text>Department of Natural Resources.  This act shall establish a Department of Natural Resources to develop, plan, and coordinate activities associated with natural resources management of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.090</num>
+        <heading>Organization of the Department of Natural Resources</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be a Director of the Department of Natural Resources who shall oversee and provide general supervision of the department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In order to promote efficiency within the Department of Natural Resources, program offices will be established as necessary.  A program director shall oversee the general supervision of each program office and shall report to the Director of the Department of Natural Resources.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Department of Natural Resources includes the following program offices:</text>
+          <para>
+            <num>(1)</num>
+            <text>Parks &amp; Wildlife</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Realty</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Transportation.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.100</num>
+        <heading>Department of Natural Resources Goals and Objectives</heading>
+        <para>
+          <num>(a)</num>
+          <text>Natural Resources.  The overall goals of the Natural Resources Department ("Department") are to develop, plan and coordinate activities associated with natural resources management of the Pueblo.  The Department shall assist in protection and improvement of the condition of natural resources including vegetation management, soil and stream bank erosion, wildlife management and wildfire management.   The Department shall assist in short-term and long-term natural resources management planning.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Parks &amp; Wildlife.  The Parks &amp; Wildlife program office is responsible for the overall management and operation of the Parks &amp; Wildlife program for the Pueblo, including the fishing lake operation, recreational areas, and wildlife areas.  The Parks &amp; Wildlife program office shall help to ensure safety of the public at such areas.   The Parks &amp; Wildlife program office shall patrol all Parks &amp; Wildlife areas, report incidences of trespass, and assist in ensuring hazard awareness.  The Parks &amp; Wildlife program office shall assist in animal control.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Realty.  The Realty program office shall provide direction, management, and leadership in programs related to land, water, and other natural resources issues affecting the Pueblo's trust lands. The Realty program office shall provide research and technical assistance in the areas of trespass, land acquisitions and assignments, boundaries, utility lines and systems, real estate, leases, rights-of-way and other permits.  The Realty program office shall assist in negotiation efforts to protect the Pueblo's interests and increase the Pueblo's annual revenues.  The Realty program office shall interact with other governments (tribal, federal, state, county, etc.), as well as entities such as the Los Alamos National Laboratory, utility companies and private individuals.  The Realty program office shall assist in strategic planning.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Transportation.  The Transportation program office shall manage the transportation systems for the Pueblo including coordination of transportation planning and research, roads project management, oversight of transit programs, public outreach on transportation issues, and provision of technical assistance to the Governor and others.  The Transportation program office shall maintain a road inventory system.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.110</num>
+        <heading>Amendment</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council may amend this enabling act or reorganize the Department of Natural Resources at any time upon majority vote of the Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.120</num>
+        <heading>Sovereign Immunity</heading>
+        <para>
+          <num>(a)</num>
+          <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.1.1.130</num>
+        <heading>Severability</heading>
+        <para>
+          <num>(a)</num>
+          <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.2</num>
+    <heading>Water</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.1</num>
+      <heading>Approving the United States Bureau of Reclamation to Perform River Maintenance within the Rio Grande River</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-032, dated August 20, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-032"/>
+      <section>
+        <num>11.2.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The United States Bureau of Reclamation ("BOR") under the River Maintenance Program has authority to maintain the Rio Grande under the Good Control Acts of 1948 and 1950.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The goals of BOR are Support Channel Sustainability, Protect Riverside Infrastructure and Resources, Be Ecosystem Compatible and Provide Effective Water Delivery.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In about year 2006 the Pueblo identified an area of concern north of the fishing pond by which the Rio Grande River flow was migrating east causing an abrupt bend and erosion.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In spring 2007 as erosion progressed, BOR installed eight rock vanes to reduce forces and redirect flows away from the bank.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Spring 2009 runoff eroded the vegetated area upstream of the rock vanes which resulted in up to 80 feet of lost bankline.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Due to time constraints associated with designing and securing permits for an extensive bank protection method, a temporary fix was implemented in 2010 by installing riprap in a trench reventment parallel to the east bankline and a windrow above the ground along the diagonal vane to prevent flanking of the buried vanes.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The temporary fix was to protect the fishing pond and the east bankline for at least 1-2 spring runoff flow events until the design, selection, and construction of a more extensive bank stabilization project is completed.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The erosion of bankline and bend of river continues and is now a threat to the integrity of the fishing pond.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The BOR and the Pueblo have been working collaboratively to develop alternatives and methods to protect tribal land and property.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The BOR and the Pueblo have come to a consensus on selecting an alternative which will be in two phases; Phase I will be on the east side of river, north of fishing pond and Phase II will be on the west side of river, northwest of fishing pond.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The BOR requests approval from the Pueblo de San Ildefonso to proceed with the project design, environmental and lands compliances, and construction and maintenance of project.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.1.020</num>
+        <text>The Pueblo de San Ildefonso approves the United States Bureau of Reclamation to proceed with the maintenance project to help protect the fishing pond and lands that are affected by erosion.</text>
+      </section>
+      <section>
+        <num>11.2.1.030</num>
+        <text>The Pueblo authorizes and directs our Pueblo's Governor and Natural Resource Director to take all necessary steps to implement this project in a workmanlike manner and to protect the Pueblo's resources.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.2</num>
+      <heading>Act Approving the Revised Settlement Agreement Dated April 19, 2012, the Cost-Sharing and System Integration Agreement, and Waivers and Releases of Some Claims in the Water Rights Adjudication, State v. Aamodt.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-035, dated September 5, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-035"/>
+      <section>
+        <num>11.2.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No. 66CV6639.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo is independently represented by its attorney Peter C. Chestnut and the law firm of Chestnut Law Offices, P.A. in the <em>Aamodt </em>water settlement negotiations and lawsuit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In 2006, after thirty-five years of litigation, and five years of negotiations, the Pueblo, the other three Pueblos, and other parties involved in the <em>Aamodt</em> case executed the <em>Settlement Agreement </em>(Jan. 19, 2006) to settle this water rights adjudication.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Settlement Act approved the Settlement Agreement with certain changes, required the Pueblos to execute revised waivers and releases regarding their water rights defenses in the Pojoaque River Basin and any claims for more water rights in that Basin beyond what the Settlement Agreement provides ("Waivers"), and approved the Cost Sharing and System Integration Agreement ("CSSIA") previously prepared by the settlement parties.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The parties have now revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act and completed the CSSIA as required by the Act.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The revised Agreement, the Waivers and the CSSIA are consistent with the terms of the Act and provide for the present and future water needs of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The completion and approval of the Revised Agreement, the Waivers and the CSSIA are important milestones in completing the water adjudication involving the four Pueblos.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council recognizes that additional work will be needed for years ahead to complete the process described in the Settlement Act and the Revised Agreement.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Council after due consideration determine approval of the Revised Agreement, the Waivers and the CSSIA by the Pueblo to be in the best interest of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.2.020</num>
+        <text>The Pueblo de San Ildefonso Council approves the Revised Agreement, the Waivers and the CSSIA, and authorizes and directs the Governor of the Pueblo to sign the signature pages for our Pueblo which are part of the Revised Agreement and CSSIA, and to execute on behalf of the Pueblo the Waivers and Releases of Claims by the Pueblo do San Ildefonso and the United States.</text>
+      </section>
+      <section>
+        <num>11.2.2.030</num>
+        <text>The Pueblo authorizes and directs our Pueblo's Governor, water representatives, and attorneys to take all steps needed or useful to implement terms of the Revised Agreement, CSSIA and Settlement Act.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.3</num>
+      <heading>Act Authorizing Evaluation and Negotiation of Subsequent Agreements and Documents in State v. Aamodt.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-036, dated September 5, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-036"/>
+      <section>
+        <num>11.2.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication case of <em>State v. Aamodt</em>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2006, after thirty-give years of litigation, and five years of negotiations, the Pueblo, the three Pueblos of Nambe, Pojoaque and Tesuque, and other parties in the <em>Aamodt </em>case signed the <em>Settlement Agreement</em> (Jan. 19, 2006) to settle the water rights adjudication.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In 2010, the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Settlement Act approved the initial Settlement Agreement with certain changes, and required the Pueblos to execute revised waivers and releases of their water rights defenses in the Pojoaque River Basin and any claims for more water rights in that Basin beyond what the Settlement Agreeent provides ("Waivers), and approved the Cost Sharing and System Integration Agreement ("Cost Sharing Agreement").</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act and completed the Cost Sharing Agreement as required by the Act.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo recognizes that the terms of the Revised Agreement, the Waivers and the Cost Sharing Agreement are controlled by the Settlement Act and failure to sign these documents would jeopardize the settlement and result in the case going back to court to litigate the Pueblo's water rights.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>After careful consideration, the Council approved and authorized the Governor to sign the Revised Agreement, the Waivers and the Cost Sharing Agreement as a sign of the Pueblo's good faith to continue with the<em> Aamodt</em> Settlement process.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council recognized that subsequent documents and agreements must still be prepared and executed in order to complete the process described in the Settlement Act and the Revised Agreement.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council is concerned about further protecting the Pueblo's interest and ensuring that the Pueblo and its members receive a fair and just share of benefits from the <em>Aamodt</em> Settlement and related projects since the Pueblo bears the burden of having the project infrastructure, designed to benefit not just the Pueblo, but Indian and non-Indians outside of the Pueblo, located on and running through the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Council has determined it is of great importance that the Pueblo evaluate and negotiate the terms of all subsequent documents and agreements as best possible within the parameters of the Act and Settlement.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Council is particularly concerned about the terms of the proposed Joint Powers Agreement and supports negotiation for a reasonable rate of 2.68% assessed on the gross operational revenue of the water project in perpetuity, and the relocation of the project infrastructure to a more southern location.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.3.020</num>
+        <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to evaluate and negotiate the best terms as possible for the Pueblo de San Ildefonso in all subsequent documents and agreements relating to the <em>Aamodt</em> Settlement.</text>
+      </section>
+      <section>
+        <num>11.2.3.030</num>
+        <text>The Governor shall work with the Council Water Committee, the Pueblo's Aamodt Advisory Team, and others as deemed necessary to carry out the intent and directive of this Resolution.</text>
+      </section>
+      <section>
+        <num>11.2.3.040</num>
+        <text>The Governor is directed to regularly inform the Council on the status of all evaluation and negotiation efforts and the Governor shall bring any proposed documents and agreements before the Council for review and final approval.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.4</num>
+      <heading>Granting the Bureau of Reclamation and Its Contactors Permission to Survey Within the Exterior Boundaries of the Land Owned by the Pueblo de San Ildefonso In Order to Plan and Design the Pojoaque Basin Regional Water System as Authorized by the Aamodt Litigation Settlement Act – Public Law 111-291 Title VI, Enacted December 8, 2010.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-042, dated October 9, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-042"/>
+      <section>
+        <num>11.2.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Bureau of Reclamation and its contractors are requesting permission to enter upon Pueblo de San Ildefonso lands to conduct the necessary surveys to complete environmental compliance, engineering design date collection, and identify right of way easement needed for the Regional Water System.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The survey requested by the Bureau of Reclamation will not exceed seven (7) years, beginning October 1, 2012 through December 31, 2018.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Bureau of Reclamation, its representatives, Agents, contractors request permission to enter upon Pueblo land to survey, stake out, appraise, make borings and conduct tests and other exploratory work necessary for the plan and design of the Regional Water System in order to implement the Aamodt Litigation Settlement Act.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.4.020</num>
+        <text>The Pueblo de San Ildefonso Tribal Council grants permission to the Bureau of Reclamation and its representatives, agents, and contractors to enter onto the Pueblo de San Ildefonso Tribal Lands to conduct all surveys within the exterior boundaries of the Pueblo de San Ildefonso necessary to complete the plan and design of the Pojoaque Basin Regional Water System as authorized by the Aamodt Litigation Settlement Act – Public Law 111-291, Title VI.</text>
+      </section>
+      <section>
+        <num>11.2.4.030</num>
+        <text>The Federal staff and contracts contact and coordinate with the Pueblo person designated by the Governor which is Natural Resources Director Stephen Martinez initially.</text>
+      </section>
+      <section>
+        <num>11.2.4.040</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby authorizes and directs the Governor and the Natural Resources Director to take all actions as may be necessary and appropriate to carry out the purposes and intent of the foregoing authorization and this resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.5</num>
+      <heading>Selection of Preferred Option 9 for River Diversion and Treatment Plant Location For Regional Water System as Part of the Settlement of the Water Rights Adjudication State v. Aamodt.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-005, dated March 13, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-005"/>
+      <section>
+        <num>11.2.5.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No. 66CV6639.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement, Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act, and completed the Cost Sharing and System Integration Agreement ("CSSIA") as required by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council after due consideration approved the Revised Agreement, the Waivers and the CSSIA on behalf of the Pueblo in Resolution No. SI-R12-035.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Section 3.4 of the CSSIA, "Pueblo de San Ildefonso Considerations" in subsection (b) states "the diversion and connected facilities shall be located as specified by the Pueblo de San Ildefonso, consistent with the Engineering Report, or other suitable alternatives.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Engineering Report location for the Water Treatment Plant did not adequately consider cultural and safety concerns of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Bureau of Reclamation has issued a draft river diversion and water treatment plant location options binder for the Pojoaque Basin Regional Water System project.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council received a presentation from the Bureau of Reclamation and its water committee concerning the ten options for diversion and water treatment.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Option 9 calls for a diversion through "Radial Galleries," sometimes called Ranney Wells or Horizontal Collector Wells, on the east side of the Rio Grande and a water treatment plant to be located adjacent to Highway 101D, North of Highway 502, near the Pueblo's eastern boundary.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Option 9 minimizes injury or risk to cultural resources at the Pueblo resulting from construction of water treatment plant for the Regional Water System, and reduces expected operating cost by use of "radial galleries" which minimize conveyance of sediment-laden water to the treatment plant.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.5.020</num>
+        <text>The Pueblo de San Ildefonso designates Option 9 "East Radial Gallery and WTP near Highway 101D" as its selected option for the location of the surface water diversion and water treatment plant for the Pojoaque Basin Regional Water System Project.</text>
+      </section>
+      <section>
+        <num>11.2.5.030</num>
+        <text>The Pueblo Council authorizes and directs the Pueblo Governor, water representatives, and attorney to take all steps needed or useful to implement this designation of Pueblo's selected option for location of the diversion and water treatment plant for the Pojoaque Basin Regional Water System.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.6</num>
+      <heading>Support for Indian Health Services to Conduct an Environmental Assessment and Geotechnical Investigation for the Water Main to Pajarito; and Planning and Design of the New Black Mesa Pumphouse Near the Newly Drilled Black Mesa Well #2, Water Main Extension from Black Mesa Well #1 to the New Pumphouse, Water Main Extension From the Pumphouse to Water System, New Solenoid Valve, Water System Controls, Booster Station, and Water Main Extension from Booster Station to Pajarito Existing Water System, Which will Include Boring Under the Rio Grande.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-009, dated April 9, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-009"/>
+      <section>
+        <num>11.2.6.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>On January 26, 2006, an amendment to the Environmental Protection Agency (EPA) Safe Drinking Water Act (SDWA) reduced the maximum contaminant level (MCL) for arsenic from 50 to 10 parts per billion (ppb).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pajaritio water system, consisting of two wells, has an arsenic concentration range between 15 and 22 ppb and subsequently does not comply with the amended MCL.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo requested and has been granted and exemption that gives the Pueblo until January 2015 to bring the Pajaritio water system into compliance with the SDWA.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In 2007, the Pueblo received and will administer a direct grant under the EPA in the amount of $783,000, which will be allocated towards drilling a 1,200 ft deep well in Pajarito ($650,000) and renovating existing Main Village Wells #1 and #2 ($133,000).</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On April 6, 2010, Indian Health Services (IHS) presented to the Tribal Council and recommended reducing MCL levels by developing of a new well on the East side of the Rio Grande and pumping water to Pajarito via boring locations under the Rio Grande.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In September 2010, the Pueblo requested assistance from IHS to engineer and oversee construction of video inspection, pump testing, and water quality testing of Main Village Wells #1 and #2.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo and IHS entered into a Memorandum of Agreement under IHS Project, AL 10-110 for this scope of work.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>In March 2011, IHS helped the Pueblo secure an additional $800,000 from EPA SWDA funding to construct a new well, pumphouse, booster station, and water main extension to Pajarito under the Rio Grande through IHS project AL 11-115.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Based on video inspection, pump testing, and water quality testing of Main Village Wells #1 and #2 (Old and New Community Wells), completed in March 2011, it was determined that these wells should not be used and a new community well should be drilled.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>In October 2011, IHS utilized their government contract with Bohannan Huston, Inc. to have a hydrogeological study performed to site the best location for a new community well.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The hydrogeological study recommended drilling a new exploratory well and production well approximately 850 feet north of the existing Black Mesa Well, which will increase water system reliability and provide sufficient water supply for both the Main Village and Pajarito communities.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Well construction began in July 2012 and is now nearly complete, IHS is sizing the new well pump, and the hydrogeologist has completed a 95% draft report on the well.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The EPA has indicated that the direct grant ($783,000) funds will expire on October 31, 2013 and that if they are not spent, EPA will have to cancel the grant and the remaining funds will be used for a different project.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>IHS is working with the Pueblo and the EPA to try to spend as much of the grant direct funds as possible before they expire.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>IHS is currently designing a new pumphouse near the newly drilled Black Mesa Well #2, a new raw water main from the Black Mesa Well #1 to the new pumphouse, a water main extension from the new pumphouse to connect to the existing water system, a new solenoid valve, a new booster station, a water main estension from the new booster station to Pajarito existing water system which will include boring under the Rio Grande, and water system controls.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>To accomplish this scope of work, IHS will also be working on an environmental assessment for the water main extension to Pajarito with the boring under the Rio Grande and performing a geotechnical investigation along the water main alignment to Pajarito, especially at the boring location under the Rio Grande.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>The Tribal Council finds that it is in the best interest of the Pueblo to support IHS completing this scope of work.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.6.020</num>
+        <text>The Council of the Pueblo de San Ildefonso:</text>
+        <para>
+          <num>(a)</num>
+          <text>Hereby grants support for IHS to begin working on the Environmental Assessment for the water main extension, from the proposed booster station, across the Rio Grande, to the Pajarito community; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Supports IHS to conduct a geotechnical investigation along the water main alignment to Pajarito and the boring station under the Rio Grande; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Grants support for IHS to draft a scope of work for the Environmental Assessment and geotechnical investigation, to accomplish this work through the IHS federal contractor (Bohannan Huston, Inc.), and to bill the Pueblo for reimbursement from the EPA grant; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Grants support for HIS to plan and design the new Black Mesa pumphouse near the newly drilled Black Mesa Well #2; water main extension from Black Mesa Well #1 to the new pumphouse; water main extension from the pumphouse to water system; new solenoid valve; water system controls; booster station; and water main extension from booster station to Pajarito, including the boring under the Rio Grande.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.7</num>
+      <heading>An Act Approving Memorandum of Agreement (MOA) Between the Bureau of Reclamation and the Pueblo de San Ildefonso to Facilitate Pueblo de San Ildefonso Involvement in the Planning, Design and Construction of the Pojoaque Basin Regional Water System as Part of the Water Rights Settlement in the Aamodt Case.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-015, dated May 28, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-015"/>
+      <section>
+        <num>11.2.7.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No. 66CV6639.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement, Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act, and completed the Cost Sharing and System Integration Agreement ("CSSIA") as required by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council after due consideration approved the Revised Agreement, the Waivers and the CSSIA on behalf of the Pueblo in Resolution No. SI-R12-035.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The four Pueblos signed the Settlement Agreement conformed to the Act on March 14, 2013, together with the other four governments affected by the Act.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The United States Bureau of Reclamation (Reclamation) is required by the Act to construct a Regional Water System that will use Pueblo lands for diversion and treatment of water from the Rio Grande, as well as construction of pump stations, tanks, and a distribution system to all Pueblo water users, and other places designated by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo and Reclamation have negotiated the MOA to describe the relationship involved between both parties in the planning, design and construction of the Pojoaque Basin Regional Water System.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Negotiation of the MOA included negotiation of protocols for access to Pueblo lands, protection of Pueblo information, and inadvertent discovery Native American human remains and cultural patrimony.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The MOA provides a process for revising and strengthening those protocols, as needed.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The MOA contains remedies that recognize the Pueblo's right to exclude individuals who violate the terms of the MOA or any permit issued by the Pueblo to implement it.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Those remedies include exclusion by the Pueblo, and possible federal prosecution under the Archeological Resources Protection Act (ARPA) if archeological sites are injured.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Reclamation and the Pueblo wish to put the MOA in place so that data collection and environmental work can proceed on Pueblo lands starting in June 2013.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The MOA has been reviewed and recommended to the Council for approval by the Pueblo Governor, water representatives, and legal counsel in the <em>Aamodt</em> Case.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Approval of the attached MOA is in the best interest of this Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.7.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves the MOA between the Pueblo and the United States Bureau of Reclamation attached to this resolution.  (<em>See,</em> Resolution SI-R13-015 for attachment).</text>
+      </section>
+      <section>
+        <num>11.2.7.030</num>
+        <text>The Pueblo Governor is authorized and directed to sign the attached MOA and to work with the Bureau of Reclamation as needed to implement the MOA.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.8</num>
+      <heading>An Act Approving Economic Development Water Agreement As Part of Water Rights Settlement in Aamodt Case.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-016, dated May 7, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-016"/>
+      <section>
+        <num>11.2.8.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No 66CV6639;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act, and completed the Cost Sharing and System Integration Agreement ("CSSIA") as required by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council after due consideration approved the Revised Agreement, the Waivers and the CSSIA on behalf of the Pueblo in Resolution No. SI-R12-035.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The four Pueblos signed the Settlement Agreement conformed to the Act on March 14, 2013, together with the other four governments affected by the Act.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Act at Section 671(c)(1)(A) appropriated "$15 million, as adjusted according to the CPI-Urban Indexed beginning on October 1, 2006, which will be allocated to the Pueblos, in accordance with Section 2.7.1 of the Settlement Agreement for the rehabilitation, improvement, operation, maintenance, and replacement of the agriculture delivery facilities, wastewater systems, and other water related infrastructure of the applicable Pueblo" (the "Fund").</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The four Pueblos have agreed on terms to divide the so-called "economic development water" described in Section 2.7.1 of the Settlement Agreement, and the $15 million Fund plus indexing increases appropriated by Congress.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The attached Pueblo Economic Development Water Agreement describes the allocation of economic development water, the Fund, and indexing increases through January 2013 as negotiated by representatives of the four Pueblos meeting together as the Northern Pueblos Tributary Water Rights Association (NPTWRA).</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>In return for the Pueblo de San Ildefonso agreeing to release 131.25 acre feet yearly (afy) of so-called Economic Development Water, as required by the Settlement Agreement, the Pueblo of San Ildefonso will receive $5,576,250 of the Fund plus an increase due to indexing through January 2013 in the amount of $1,012,074, plus future indexing increases on the unspent amount of the Pueblo's share of the Fund.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Pueblo Economic Development Water Agreement calls for the Forbearance Agreement between the Pueblo and the Pueblo of Pojoaque to be amended so that, in return for Pojoaque's assigning its share of $506,038 due to indexing increase through January 2013 to the Pueblo de San Ildefonso, this Pueblo agrees to waive all future payments owing from the Pueblo of Pojoaque under the Forbearance Agreement, beginning the month after all four Pueblos have signed the Pueblo Economic Development Agreement.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Each Pueblo's water representatives agreed to recommend to the respective Tribal Councils approval of the attached Pueblo Economic Development water Agreement as documented by NPTWRA Resolution No. 2013-004.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Action by the individual Tribal Councils of the Pueblos of Nambe, Pojoaque, San Ildefonso, and Tesuque, is needed in order to submit the Pueblo Economic Development Water Agreement to the United States Bureau of Indian Affairs (BIA) for approval and allocation of funds appropriated in the Act for access by the Pueblo through the Office of Special Trustee (OST).</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Each Pueblo's share of the Fund, plus indexing increases, may be used in coordination with work by the Bureau of Reclamation on the Pojoaque Basin Regional Water System once the Secretary of the Interior or designee determines that "any activity...is more cost effective when implemented in conjunction with the construction of the Regional Water System" (Section 615(c)(7)(ii)).</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The Pueblo wishes to access those funds as soon as possible in order to have water infrastructure improvements made in conjunction with the design, environmental review, and construction of the Pojoaque Basin Regional Water System.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Approval of the attached Pueblo Economic Development Water Agreement is in the best interest of this Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.8.020</num>
+        <text>The Tribal Council for the Pueblo de San Ildefonso hereby approves the Pueblo Economic Development Water Agreement attached to this resolution.  (<em>See,</em> Resolution SI-R13-016 for attachment).</text>
+      </section>
+      <section>
+        <num>11.2.8.030</num>
+        <text>The Pueblo Governor is authorized and directed to sign the attached Pueblo Economic Development Water Agreement and to work with other tribal councils, the Bureau of Indian Affairs, and the Office of Special Trustee as needed to gain access to the Pueblo's share of the Fund as soon as possible.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.9</num>
+      <heading>Act Approving Amending Pueblo Economic Development Water Agreement As Part of Water Rights Settlement in Aamodt Case.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-028, dated July 10, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-028"/>
+      <section>
+        <num>11.2.9.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No 66CV6639;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act, and completed the Cost Sharing and System Integration Agreement ("CSSIA") as required by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council after due consideration approved the Revised Agreement, the Waivers and the CSSIA on behalf of the Pueblo in Resolution No. SI-R12-035.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The four Pueblos signed the Settlement Agreement conformed to the Act on March 14, 2013, together with the other four governments affected by the Act.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Act at Section 671(c)(1)(A) appropriated "$15 million, as adjusted according to the CPI-Urban Indexed beginning on October 1, 2006, which will be allocated to the Pueblos, in accordance with Section 2.7.1 of the Settlement Agreement for the rehabilitation, improvement, operation, maintenance, and replacement of the agriculture delivery facilities, wastewater systems, and other water related infrastructure of the applicable Pueblo" (the "Fund").</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The four Pueblos have agreed on terms to divide the so-called "economic development water" described in Section 2.7.1 of the Settlement Agreement, and the $15 million Fund plus indexing increases appropriated by Congress.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The attached Pueblo Economic Development Water Agreement describes the allocation of economic development water, the Fund, and indexing increases through January 2013 as negotiated by representatives of the four Pueblos meeting together as the Northern Pueblos Tributary Water Rights Association (NPTWRA).</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>In return for the Pueblo de San Ildefonso agreeing to release 131.25 acre feet yearly (afy) of so-called Economic Development Water, as required by the Settlement Agreement, the Pueblo of San Ildefonso will receive $5,576,250 of the Fund plus an increase due to indexing through January 2013 in the amount of $1,012,074, plus future indexing increases on the unspent amount of the Pueblo's share of the Fund.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Pueblo Economic Development Water Agreement calls for the Forbearance Agreement between the Pueblo and the Pueblo of Pojoaque to be amended so that, in return for Pojoaque's assigning its share of $506,038 due to indexing increase through January 2013 to the Pueblo de San Ildefonso, this Pueblo agrees to waive all future payments owing from the Pueblo of Pojoaque under the Forbearance Agreement, beginning the month after all four Pueblos have signed the Pueblo Economic Development Agreement.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Each Pueblo's water representatives agreed to recommend to the respective Tribal Councils approval of the attached Pueblo Economic Development water Agreement as documented by NPTWRA Resolution No. 2013-004.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Action by the individual Tribal Councils of the Pueblos of Nambe, Pojoaque, San Ildefonso, and Tesuque, is needed in order to submit the Pueblo Economic Development Water Agreement to the United States Bureau of Indian Affairs (BIA) for approval and allocation of funds appropriated in the Act for access by the Pueblo through the Office of Special Trustee (OST).</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Each Pueblo's share of the Fund, plus indexing increases, may be used in coordination with work by the Bureau of Reclamation on the Pojoaque Basin Regional Water System once the Secretary of the Interior or designee determines that "any activity...is more cost effective when implemented in conjunction with the construction of the Regional Water System" (Section 615(c)(7)(ii)).</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The Pueblo wishes to access those funds as soon as possible in order to have water infrastructure improvements made in conjunction with the design, environmental review, and construction of the Pojoaque Basin Regional Water System.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>The Pueblo by Council Resolution No. SI-R13-016 on May 7, 2013 approved a version of the Pueblo Economic Development Water Agreement.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>The United States Office of Special Trustee (OST) requested revisions to the Agreement approved by the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>The version of the Pueblo Economic Development Water Agreement attached to this resolution contains the OST revisions.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>The OST changes do not affect the allocation of money previously approved by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Approval of the attached Pueblo Economic Development Water Agreement is in the best interest of this Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.9.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Council for the Pueblo de San Ildefonso hereby approves the Pueblo Economic Development Water Agreement attached to this resolution.</text>
+        </para>
+        <aftertext>
+          <strong>[Need Attached Agreement]</strong>
+        </aftertext>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo Governor is authorized and directed to sign the attached Pueblo Economic Development Water Agreement or a substantially similar version, if necessary, and to work with other tribal councils, the Bureau of Indian Affairs, and OST as needed to gain access to the Pueblo's share of the Fund as soon as possible.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.10</num>
+      <heading>Approval for Bureau of Reclamation and Its Contractors to (1) Perform the Pilot Water Treatment Plant Study and Horizontal Collector Well Study for the Regional Water System, and (2) Establish Priority for Surveying Lands within Pueblo boundaries As Part of the Settlement of the Water Rights Adjudication, State v. Aamodt</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-040, dated October 4, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-040"/>
+      <section>
+        <num>11.2.10.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No 66CV6639;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act, and completed the Cost Sharing and System Integration Agreement ("CSSIA") as required by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council after due consideration approved the Revised Agreement, the Waivers and the CSSIA on behalf of the Pueblo in Resolution No. SI-R12-035.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Revised Agreement and CSSIA were signed by the United States, the Pueblo and six other governments on March 14, 2013.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council designated Option 9 "East Radial Gallery and WTP near Highway 101(D)" as it selected option for the location of the surface water diversion and water treatment plant for the Regional Water System on behalf of the Pueblo in Resolution No. SI-R13-005.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council authorized the Governor to sign the "Memorandum of Agreement between the Bureau of Reclamation and the Pueblo de San Ildefonso to Facilitate Pueblo de San Ildefonso Involvement in the Planning, Design and Construction of the Pojoaque Basin Regional Water System" on behalf of the Pueblo in Resolution No. SI-R13-015.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Bureau of Reclamation has provided information about the proposed Pilot Water Treatment Plant Study and Horizontal Collector Well Study.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council received a presentation from the Bureau of Reclamation and its contractor on August 22, 2013, concerning the proposed Pilot Water Treatment Plant Study and Horizontal Collector Well Study.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The proposed Pilot Water Treatment Plant Study is necessary to determine the most cost effective means to treat water to meet Clean Drinking Water Standards for the Pueblo and the proposed Horizontal Collector Well Study is necessary to determine the feasibility of the Pueblo's selected option for surface water diversion.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Bureau of Reclamation needs to obtain land surveys in connection with design work for the Regional Water System.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>The CSSIA provides in section 2.1.2 that "facilities at San Ildefonso Pueblo" shall be given "the highest priority for construction."</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Land surveys of Pueblo lands required by the Bureau of Reclamation will facilitate the required priority of design and construction of the Regional Water System and also be of additional value to the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.10.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Council authorizes and directs the Pueblo Governor, water representatives, and attorney to take all steps needed or useful to approve and facilitate the Bureau of Reclamation and its Contractors to perform the proposed Pilot Water Treatment Plant Study and Horizontal Collector Well Study.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo de San Ildefonso Council authorizes and directs the Pueblo Governor, water representatives and attorney to take all steps needed to have land surveys required by the Bureau of Reclamation start with lands within the exterior boundaries of the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.10.030</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.11</num>
+      <heading>Act Authorizing the Withdraw of Aamodt Water Settlement Trust Funds From the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Request by Pueblo in Coordination with  Regional Water System Work</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-015, dated April 30, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-015"/>
+      <section>
+        <num>11.2.11.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No. 66CV6639.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2006, after thirty-five years of litigation, and five years of negotiations, the Pueblo, the other three Pueblos, and other parties involved in the <em>Aamodt</em> case executed the <em>Settlement Agreement </em>(Jan. 19, 2006) to settle this water rights adjudication.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo, the United States and six other governments approved the Settlement Agreement (April 19, 2012), signed March 13, 2013 ("Revised Agreement") which includes terms required by the Settlement Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>As part of the Aamodt Litigation Settlement, the United States appropriated $15 million to the Pueblos Conservation Fund, to be allocated as directed by the four Pueblos.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Terms contained in the Pueblo Economic Development Water Agreement signed by the four Pueblos were based on the Pueblo de San Ildefonso receiving Pojoaque Pueblo's share of the increased value of the Pueblo's Conservation Fund in exchange for waiving annual payments by the Pueblo of Pojoaque required by the Forbearance Agreement between the two Pueblos, which is one of the requirements of the Aamodt Litigation Settlement.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Act at Section 617(c), and 615(c)(7) allows the Pueblo to use these funds for any water related infrastructure activity "that is more cost-effective when implemented in conjunction with the construction of the Regional Water System, as determined by the Secretary [of the Interior]."</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Scope of Work and Budget of $1,200,000.00 (one million two hundred thousand dollars) which is Attachment A to this resolution will benefit the Pueblo by investing in the transition to the Regional Water System, in ways which include plans and designs for a new wastewater system, and environmental work, and overall planning and management for coordination of utilities, including water and wastewater, and cultural resources protection and human heath within the Pueblo.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Certain items in the Scope of Work which is Attachment A to this resolution will be recurring annually until the Aamodt Litigation Settlement has been completely implemented, estimated to be 2024. These items include water project manager, staff time, legal support, and work to be performed by the Bureau of Reclamation ("Reclamation").</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo has requested Reclamation to do environmental analysis in conjunction with its designing for the Regional Water System, so that the Pueblo can install new wastewater infrastructure as the Regional Water System is being designed and built for use within the Pueblo.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Pueblo is negotiating with Santa Fe County to resolve long standing road trespass issues. To assist that effort, funds will be used to pay half the cost estimate for a right-of-way survey to use in negotiating roads rights-of-way with the County, which will be used by Reclamation as part of its design process for the Regional Water System.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>A Contributed Funds Agreement between the Pueblo and the Bureau of Reclamation for "Reclamation work" requires that the Pueblo make quarterly payments to the Bureau of Reclamation for services to be provided in the following quarter which were requested by the Pueblo that go beyond the environmental and design work needed for the Regional Water System.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>The Federal process for approving this request involved sending it to the Regional Director of the Bureau of Indian Affairs, for his approval; after that approval, it would be sent to the Northern Pueblos agency for approval by the Superintendent to withdraw the amount specified in this Resolution; after that approval, the request goes to the Office of Special Trustee, which will transfer the money to the account designated by the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.11.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to take all steps necessary to implement this resolution, including signing all document needed for withdrawal of funds in the amount of $1,200,000.00 from the Pueblo's share of the Pueblo Conservation Fund held by the federal Office of Special Trustee, and hiring and contracting for the purposes described in the attached Scope of Work and Budget.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo de San Ildefonso Council requests the United States to act quickly to implement the purposes of this resolution, and make funds available in the amount of $1,200,000.00 to implement the cope of work and budget attached as soon as possible.</text>
+        </para>
+        <aftertext>
+          <strong>[Need Attached Scope of Work and Budget]</strong>
+        </aftertext>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.12</num>
+      <heading>Approving Water Uses by U.S. Bureau of Reclamation Connected with Work Developing Regional Water System as Part of the Settlement of the Water Rights Adjudication, State v. Aamodt.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-020, dated May 23, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-020"/>
+      <section>
+        <num>11.2.12.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No 66CV6639;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act, and completed the Cost Sharing and System Integration Agreement ("CSSIA") as required by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council after due consideration approved the Revised Agreement, the Waivers and the CSSIA on behalf of the Pueblo in Resolution No. SI-R12-035.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Section 3.4 of the CSSIA, "Pueblo de San Ildefonso Consideration" in subsection (b) states "the diversion and connected facilities shall be located as specified by the Pueblo de San Ildefonso, consistent with the Engineering Report, or other suitable alternatives.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Bureau of Reclamation has issued a draft river diversion and water treatment plant location options binder for the Pojoaque Basin Regional Water System project.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Tribal Council and its water committee received a presentation on April 20, 2014, (PowerPoint attached) from the Bureau of Reclamation concerning the options for diversion and water treatment.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Option 9 calls for a diversion through "Radial Galleries," sometimes called Ranney Wells or Horizontal Collector Wells, on the east side of the Rio Grande and a water treatment plant to be located adjacent to Highway 101D, North of Highway 502, near the Pueblo's eastern boundary.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo de San Ildefonso Tribal Council, by Resolution No. SI-R13-040 in 2013, designated Option 9 "East Radial Gallery and WTP (Water Treatment Plant) near Highway 101(D)" as its selected option for the locations of the surface water diversion and water treatment plant for the Pojoaque Basin Regional Water System Project.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Reclamation has developed another option for collecting water from the Rio Grande using an infiltration type of water collection system in the space approved by the Pueblo involving large perforated pipes running parallel with the Rio Grande.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Reclamation needs Pueblo approval for disposal of water coming from both (a) the pilot water treatment plant and (b) up to ten test holes connected with determining the best locations for a possible infiltration system.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Water from the pilot water treatment plant, in an amount of up to 72,000 gallons (0.2 acre-feet) per day, will be treated to drinking water standards, and Reclamation requests to deliver this water for Pueblo irrigation purposes during some of the summer months of the current irrigation season.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The water produced will be delivered by water truck to locations (acequias) specified by the Pueblo for irrigation.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The testing will generate up to 100 gallons of water per minute for at least 2 hours per hold or approximately 12,000 gallons per hole.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>The water generated will be discharged on the ground near each test hole.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>The amount of water to be produced from initial tests of the holes is similar to a rainfall and will percolate into the soil.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Reclamation requests to purchase some water from the Pueblo to assist in drilling the test holes described above, the amount of water needed is estimated at 1,000 gallons a day for approximately 5 to 10 days.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Reclamation requests to obtain water from an existing old steel-cased well located to the northeast of the pilot Ramney well and should this location be unacceptable, another option would be to obtain water from a Pueblo storage tank or fire hydrant and truck it to the site, the payment for water is yet to be determined.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>These water uses will strengthen the ability of Pueblo people to irrigate during the current drought condition, and support wildlife in the bosque, which makes these uses in the best interest of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.12.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves the proposed water uses described in this resolution.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves to deliver water (via water truck) from WTP pilot study into the Pueblo's irrigation system until the NPDES permit is issued.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves to dispose of water produced by the short-term pumping tests for the horizontal collector well study into the bosque.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves Reclamation to conduct additional geotechnical investigations for the Infiltration System option.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.12.030</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.13</num>
+      <heading>Act Authorizing the Withdraw of $976,000 of Aamodt Water Settlement Trust Funds From the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Request by Pueblo in Coordination with Regional Water System Work.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-025, dated July 7, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-025"/>
+      <section>
+        <num>11.2.13.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No. 66CV6639.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2006, after thirty-five years of litigation, and five years of negotiations, the Pueblo, the other three Pueblos, and other parties involved in the <em>Aamodt</em> case executed the <em>Settlement Agreement </em>(Jan. 19, 2006) to settle this water rights adjudication.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo, the United States and six other governments approved the Settlement Agreement (April 19, 2012), signed March 13, 2013 ("Revised Agreement") which includes terms required by the Settlement Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>As part of the Aamodt Litigation Settlement, the United States appropriated $15 million to the Pueblos Conservation Fund, to be allocated as directed by the four Pueblos.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Terms contained in the Pueblo Economic Development Water Agreement signed by the four Pueblos were based on the Pueblo de San Ildefonso receiving Pojoaque Pueblo's share of the increased value of the Pueblo's Conservation Fund in exchange for waiving annual payments by the Pueblo of Pojoaque required by the Forbearance Agreement between the two Pueblos, which is one of the requirements of the Aamodt Litigation Settlement.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Act and the Pueblo Economic Development Water Agreement signed July 18, 2013 by the Pueblo Governor, and Governors of the thee other Pueblos in the Aamodt Litigation, provides over $6 million for use by the Pueblo, within the limits specified in the Act.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Act at section 617(c), and 615(c)(7) allows the Pueblo to use these funds for any water related infrastructure activity "that is more cost-effective when implemented in conjunction with the construction of the Regional Water System, as determined by the Secretary [of the Interior].</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Scope of Work and Budget of $1,200,000 which is attachment A to this resolution has been approved in the amount of $976,000 by the Southwest Regional Director of the BIA in compliance with the Act. BIA approval letter is attachment B. It authorizes release of $976,000 to the Pueblo from its Aamodt settlement account. $976,000 will benefit the Pueblo be investing in the transition to the Regional Water System, in ways which include plans and designs for a new wastewater system, and environmental work, and overall planning and management for coordination of utilities, including water and wastewater, and cultural resources protection and human health within the Pueblo.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Certain items in the Scope of Work which is attachment A as approved in Attachment B to this resolution will be recurring annually until the Aamodt Litigation Settlement has been completely implemented, estimated to be 2024. These items include water project manager, staff time, legal support, and work to be performed by the Bureau of Reclamation.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Pueblo has requested Reclamation to do environmental analysis in conjunction with its designing for the Regional Water System, so that the Pueblo can install new wastewater infrastructure as the Regional Water System is being designed and built for use within the Pueblo.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Pueblo is negotiating with Santa Fe County to resolve long standing road trespass issues. To assist that effort, funds will be used to pay half the cost estimate for a right-of-way survey to use in negotiating roads right-of-way with the County, which can be used by Reclamation as part of its design process for the Regional Water System.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>A Contributed Funds Agreement between the Pueblo and the Bureau of Reclamation for "Reclamation work" requires that the Pueblo make quarterly payments to the Bureau of Reclamation for services to be provided in the following quarter which were requested by the Pueblo that go beyond the environmental and design work needed for the Regional Water System.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The federal process for approving this request involves sending it to the Regional Director of the Bureau of Indian Affairs, for his approval; after that approval, it would be sent to the Northern Pueblos Agency (NPA) for approval by the Superintendent to withdraw the amount specified in this Resolution; after that approval, the request goes to the Office of Special Trustee (OST), which will transfer the money to the account designated by the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.13.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to take all steps necessary to implement this resolution, including signing all documents needed for withdrawal of funds in the amount of $976,000 from the Pueblo's share of the Pueblo Conservation Fund held by the federal Office of Special Trustee, and hiring and contracting for the purposes described in the attached Scope of Work and Budget.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo de San Ildefonso Council requests the United States through the NPA Superintendent and OST to act quickly to implement the purposes of this resolution, and make funds available in the amount of $976,000 to implement the scope of work and budget attached as soon as possible.  (<em>See,</em> Resolution No. SI-R14-025 for attachment).</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.14</num>
+      <heading>Act Authorizing Third Withdrawal Of Aamodt Water Settlement Trust Funds From The Office Of Special Trustee To Fund Aamodt Settlement Implementation Activities Requested By Pueblo In Coordination With Regional Water System Work.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-020, dated September 21, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-020"/>
+      <section>
+        <num>11.2.14.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No. 66CV6639;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In 2006, after thirty-five years of litigation, and five years of negotiations, the Pueblo, the other three Pueblos, and other parties involved in the <em>Aamodt</em> case executed a <em>Settlement Agreement</em> (Jan. 19, 2006) to settle this water rights adjudication;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo, the United States and six other governments approved the Settlement Agreement (April 19, 2012) signed March 13, 2013 ("Revised Agreement") which includes terms required by the Settlement Act;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>As part of the Aamodt Litigation Settlement, the United States appropriated $15 million to the Pueblos Conservation Fund which the Office of Special Trustee, to be allocated as directed by the four Pueblos;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Terms contained in the Pueblo Economic Development Water Agreement signed by the four Pueblos was based on the Pueblo de San Ildefonso receiving Pojoaque Pueblo's share of the increased value of the Pueblo's Conservation Fund in exchange for waiving annual payments by the Pueblo of Pojoaque required by the Forbearance Agreement between the two Pueblos, which is one of the requirements of the Aamodt Litigation Settlement;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Act and the Pueblo Economic Development Water Agreement signed July 18, 2013 by the Pueblo Governor, and Governors of the three other Pueblos in the Aamodt Litigation, provides over $6 million for use by the Pueblo, within the limits specified in the Act;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Act at section 617(c), and 615(c)(7) allows the Pueblo to use these funds for any water related infrastructure activity "that is more cost-effective when implemented in conjunction with the construction of the Regional Water System, as determined by the Secretary [of the Interior];"</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>The Tribal Council, pursuant to Resolution No. SI-R14-025 requested its first withdrawal from the Pueblo's Conservation Fund established by the Act in the amount of $1,200,000 and that request was partially approved by the Regional Director of the Bureau of Indian Affairs in the amount of $976,000, and disbursed by Office of Special Trustee (OST) to the Pueblo;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The Tribal Council pursuant to Resolution No. SI-R14-035 requested its second withdrawal from the Pueblo's Conservation Fund established by the Act in the amount of $195,000 which was approved by the Regional Director of the Bureau of Indian Affairs in the amount of $195,000, and disbursed by OST to the Pueblo;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Additional work is needed to improve the Pueblo's ability to assist the environmental and design work needed for implementation of the Regional Water System;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>The Scope of Work and Budget of $1,200,000 which is Exhibit A to this resolution will benefit the Pueblo by the attached scope of work and budget for the "Third Withdrawal of Aamodt Water Settlement Trust Funds from the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Requested by Pueblo Coordination with Regional Water System Work,"</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>The federal process for approving this request involves sending it to the Regional Director of the Bureau of Indian Affairs, for his approval; after that approval, it must be sent to the Northern Pueblos Agency for approval by the Superintendent to withdraw the amount specified in this Resolution; after that approval, the request goes to the Office of Special Trustee, which will transfer the money to the account designated by the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.14.020</num>
+        <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to take all steps necessary to implement this resolution, including signing all documents needed for withdrawal of funds in the amount of $1,200,000 from the Pueblo's share of the Pueblo Conservation Fund held by the federal Office of Special Trustee, and hiring and contracting for the purposes described in the attached Scope of Work and Budget.</text>
+      </section>
+      <section>
+        <num>11.2.14.030</num>
+        <text>The Pueblo de San Ildefonso Council has adopted special conditions for the purpose of administering these funds.</text>
+      </section>
+      <section>
+        <num>11.2.14.040</num>
+        <text>The Pueblo de San Ildefonso Council requests the United States to act quickly to implement the purposes of this resolution, and make funds available in the amount of $1,200,000 to implement the scope of work and budget attached as soon as possible.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.15</num>
+      <heading>Acceptance Of Preliminary Engineering Report For Wastewater System Improvements For The Pueblo De San Ildefonso</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-024, dated November 6, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-024"/>
+      <section>
+        <num>11.2.15.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso owns and operates three wastewater systems within their boundaries and provides service to residents, along with a small day school facility, community center, health center, learning center, senior citizens center, two tribal administrative buildings, and other buildings from which services are provided;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo is concerned about contamination of the groundwater due to septic tank effluent from homes within the confines of the Pueblo's lands. Septic tanks discharge an effluent which is rich in nitrogen-based compounds and other contaminants into the ground which could eventually reach the water supply aquifer.  In addition, as population increases in the Pueblo in the future, increased contamination is highly likely unless actions are taken now;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo was awarded funding through the New Mexico Tribal Infrastructure Fund (TIF) to complete a Preliminary Engineering Report (PER) and a final design for wastewater infrastructure within the exterior boundaries of the Pueblo de San Ildefonso;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The firm of Souder, Miller &amp; Associates (SMA) was contracted to complete the PER and final design for wastewater infrastructure for the Pueblo with a completion date of December 1, 2016;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In September 2016, SMA prepared a "draft" PER that evaluated the need for developing additional wastewater infrastructure, any necessary wastewater system improvements, and alternatives to address wastewater utility needs for the Pueblo de San Ildefonso and submitted the PER to Council for review and comment;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The PER provided four (4) Alternatives and is based on meeting the needs of the Pueblo over a 20-year planning period spanning from 2016 to 2036.  The Alternatives are as follows:</text>
+          <text>
+            <strong>Alternative #1 – "No Action"</strong>
+          </text>
+          <text>
+            <strong>Alternative #2 – "Four Separate Systems"</strong>
+          </text>
+          <text>North West, North East, Pueblo Central South and El Rancho;</text>
+          <text>
+            <strong>Alternative #3 – "Two Systems"</strong>
+          </text>
+          <text>North West and Combined North East, Pueblo Central South and El Rancho;</text>
+          <text>
+            <strong>Alternative #4 – "Three Systems"</strong>
+          </text>
+          <text>North West, North East, and Combined Pueblo Central South and El Rancho;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The selection of an Alternative and acceptance of the PER allows SMA to complete the final design based on a desired "Alternative;"</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The PER recommends acceptance of "Alternative 4" and a phased approach for the final design of the wastewater infrastructure for the Pueblo as follows:</text>
+          <text>
+            <ul>
+              <li><strong>Phase 1.</strong>  Build a new MBR Treatment Plant, El Rancho trunk lines, renovate and extend Pueblo central and south collection system.</li>
+              <li><strong>Phase 2.</strong>  Extend collection system and expand treatment at Pueblo Northwest.</li>
+              <li><strong>Phase 3.</strong>  Construct and connect Pueblo Northeast to combined collection and treatment system;</li>
+            </ul>
+          </text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council, Earth and Steel Design, and Pueblo staff have reviewed the PER and agree with the PER's recommendation of Alternative #4 and the completion of Phase 1 final design with TIF funding;</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.15.020</num>
+        <text>The Pueblo hereby accepts the "Preliminary Engineering Report for Wastewater System Improvements within the Pueblo de San Ildefonso."</text>
+      </section>
+      <section>
+        <num>11.2.15.030</num>
+        <text>The Pueblo hereby approves "Alternative #4" as the alternative for the final design and directs that Phase 1 be completed initially utilizing Tribal Infrastructure Funds and that the final design of Phase 2 and 3 be completed when funds become available.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.16</num>
+      <heading>Act To Withdraw Challenges Filed In 1983 To Non-Indian Water Rights, And Waiving The Right To File Any Additional Challenges To Non-Indian Water Rights In The Aamodt Case</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-028, dated December 2, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-028"/>
+      <section>
+        <num>11.2.16.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication <em>State v. Aamodt</em>, U.S. District Court of New Mexico No. 66CV6639;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2006, after thirty-five years of litigation, and five years of negotiations, the Pueblo, the other three Pueblos, and other parties involved in the <em>Aamodt</em> case executed a <em>Settlement Agreement</em> signed March 14, 2013 to settle this water rights adjudication;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo de San Ildefonso's water rights in the Pojoaque River Basin have been adjudicated in the<em> Aamodt</em> case, a Partial Final Decree quantifying those rights has been entered, with the Court decree stating;</text>
+          <para>
+            <num>(1)</num>
+            <text>"the Pueblo de San Ildefonso has the Pueblo first priority right to consumptively use the surface and groundwater of the Pojoaque Basin in an amount not to exceed 1,246 acre feet per year (AFY) for agriculture, community, domestic, livestock, commercial or industrial purposes on this Pueblo's lands.  The priority of this right is time immemorial.  Pursuant to the settlement agreement, 288 AFY of this right are designated as Existing Basin Use Rights and 958 AFY are designated as Future Basin Use Rights</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the Pueblo de San Ildefonso has the Reserved Right under federal law for the San Ildefonso Eastern Reservation to consumptively use the waters of the Pojoaque Basin for grazing purposes on the Reservation in an amount not exceed 4.82 AFY.  The priority of this right is 1939."</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo's first priority water rights shall be administered consistent with the terms of the Settlement Agreement entered into by the Pueblo along with seven other governments on March 14, 2013;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The federal court order dated April 13, 1984 stated the Pueblos "…will be allowed to challenge priorities [for non-Indians] equal to or senior to the Pueblos' priorities at a later date after the Pueblos' priorities are determined.";</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The court order dated August 17, 1992 stated "…the Pueblos will have standing in the <u>inter se</u> proceeding any time their water right is affected, which is to say, any time they risk a diminution in their water right or a change in priority.";</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The court order entered September 9, 2016 stated "In addition to the extent consistent with the prior orders of the court and the Settlement Agreement, the Pueblos and the United States may file objections to non-Pueblo surface water priorities….  No later than the date for filing <em>inter se</em> objections, the Pueblos and the United States shall identify which, if any, of the <em>inter se</em> objections previously filed by the Pueblos in 1983 they intend to pursue" p. 6, section B.7;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>A general stream adjudication in New Mexico, such as the Aamodt case, requires an opportunity for challenges by one water right holder against another water right holder ("inter se challenge") in certain circumstances where the objector can show how its water rights "will be injured or harmed by the determination of the water right(s) objected to in a legally cognizable way." 2016 Order at page 6, paragraph C.1.;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Prior orders of the court indicate, the Pueblo lacks a legally cognizable basis for objecting to all non-Indian water rights, since they have junior priority to the Pueblos; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>In 1983 the Pueblos filed Inter-Se challenges to over 600 sub-file judgments entered on non-Pueblo water rights served by surface water irrigation.  The court halted consideration of those challenges, stating that the Pueblos could not challenge rights with priority junior to the Pueblos;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The court has determined in the Decree of Pueblo Water Rights that the Pueblo water rights in the Pojoaque Basin are senior to all non-Indian water rights; "prior orders of the court" show the Pueblo water rights may be enforced against junior non-Indian water rights by means of a priority call, rather than through inter se challenges;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Aamodt Litigation Settlement Act of 2010 requires entry of a Final Decree of all water rights in the Aamodt case no later than September, 2017;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Inter Se challenges filed at this time could jeopardize the ability of the court to enter a final decree in the Aamodt case within the time limit imposed by Congress;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The Pueblo's water rights team has considered this issue and recommends that the Tribal Council enact this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.16.020</num>
+        <text>The Pueblo de San Ildefonso hereby directs the Governor and its attorneys to inform the court that it does not want to pursue any of the inter se objections to non-Pueblo water rights previously filed by the Pueblos in 1983;</text>
+      </section>
+      <section>
+        <num>11.2.16.030</num>
+        <text>This decision to withdraw inter se objections applies solely to water rights;</text>
+      </section>
+      <section>
+        <num>11.2.16.040</num>
+        <text>The Pueblo de San Ildefonso will not make any inter se objections to non-Indian water rights in the Aamodt case, instead relying on its decreed rights and administration enforcing the terms of the Settlement Agreement to assure adequate water to meet its present and future needs of the Pueblo;</text>
+      </section>
+      <section>
+        <num>11.2.16.050</num>
+        <text>The Pueblo expressly reserves its right to pursue against any non-Indian individual or entity trespass claims to Pueblo lands.</text>
+      </section>
+      <section>
+        <num>11.2.16.060</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.17</num>
+      <heading>Act Authorizing Signature Of Joint Powers Agreement As Part Of Aamodt Water Rights Settlement</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-004, dated March 21, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-004"/>
+      <section>
+        <num>11.2.17.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The  Council finds that it is in the best interest of the Pueblo to authorize signature of the Joint Powers Agreement (JPA) as part of the <em>Aamodt</em> water rights case, including authorization of the limited waiver of sovereign immunity as provided in Article 19(h) of the JPA;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>This Act shall supersede any previous resolutions pertaining to Council approval of a prior form of the Joint Powers Agreement.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.17.020</num>
+        <text>The Council hereby enacts the attached law entitled the, "ACT AUTHORIZING SIGNATURE OF JOINT POWERS AGREEMENT AS PART OF <em>AAMODT</em> WATER RIGHTS SETTLEMENT."</text>
+      </section>
+      <section>
+        <num>11.2.17.030</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF JOINT POWERS AGREEMENT AS PART OF AAMODT WATER RIGHTS SETTLEMENT ("Act")."</text>
+      </section>
+      <section>
+        <num>11.2.17.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Governor to sign the Joint Powers Agreement ("JPA") which is a part of the implementation of the water rights settlement agreement in the federal water adjudication case of <em>State v. Aamodt</em>, U.S. District Court of New Mexico, No. 66CV6639 ("Aamodt case").</text>
+      </section>
+      <section>
+        <num>11.2.17.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso is a party in the federal water adjudication case of <em>State v. Aamodt</em>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The parties revised the Settlement Agreement (April 19, 2012) ("Revised Agreement") to reflect the terms of the Settlement Act, prepared Waivers consistent with the Act and completed the Cost Sharing and System Integration Agreement ("CSSIA") as required by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council after due consideration approved the Revised Agreement, the Waivers and the CSSIA on behalf of the Pueblo in Resolution NO. SI-R12-035.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The four Pueblos of Nambé, Pojoaque, San Ildefonso and Tesuque that are parties to the Aamodt case signed the Settlement Agreement conformed to the Act on March 14, 2013, together with the other four governments affected by the Act.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Section 9.5 of the Settlement Agreement requires the four Pueblos and Santa Fe County ("County") to create the Pojoaque Basin Regional Water Authority ("Regional Water Authority") prior to Entry of the Final Decree in accordance with the provisions of the Settlement Agreement and the August 27, 2009 Cost-Sharing and System Integration Agreement (Cost-Sharing Agreement) signed by the United States, the State, the four Pueblos, the County, and the City.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Since 2013, the four Pueblos negotiated with the County to develop terms for a JPA to establish a Regional Water Authority to operate the Pojoaque Basin Regional Water System which the United States is building as required by the Settlement Act.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo had previously approved a form of the JPA which was later revised as a result of on-going negotiations between the parties.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo de San Ildefonso, as one of the four NPTWRA Pueblos, negotiated in good faith certain terms with Santa Fe County representatives in April 2016, but the County later disagreed with the negotiated terms, and after several meetings with the four Pueblos, including several public meetings, proposed terms different than those previously negotiated with the NPTWRA Pueblos.  Despite the Pueblos' opposition, Santa Fe County adopted its proposed terms at a meeting on December 13, 2016.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>On December 13, 2016, Santa Fe County by Resolution No. 2016-146 approved the form of the JPA.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Article 19(H) of the proposed JPA requires the respective Pueblo and County governing bodies to adopt resolutions approving the JPA, "including the limited waiver of sovereign immunity provided therein."</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Action on the JPA by the individual Tribal Councils of the Pueblos of Nambé, Pojoaque, San Ildefonso, and Tesuque on the JPA is needed in order to create the Regional Water Authority.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The Council, having reviewed a form of the Joint Powers Agreement, and despite the concern about the changed terms by Santa Fe County, finds approval of the Joint Powers Agreement, which includes a limited waiver of the Pueblo's sovereign immunity, is in the best interest of this Pueblo and in the interest of moving the Aamodt Settlement forward.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.17.060</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is hereby authorized to sign a form of the Joint Powers Agreement, that also includes the limited waiver of sovereign immunity provided in Article 19(H), in coordination with the other three Pueblos and Santa Fe County.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is authorized to make any minor technical non-substantive amendments to the Joint Powers Agreement document as may be necessary, provided that the Council is informed of such amendments.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>This Act supersedes any previous resolutions pertaining to Council approval of a prior form of the Joint Powers Agreement.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.18</num>
+      <heading>Act Authorizing Location Of Water Treatment Plant As Part Of Aamodt Water Rights Settlement</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-005, dated March 21, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-005"/>
+      <section>
+        <num>11.2.18.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council finds that it is in the best interest of the Pueblo to authorize the location of the Water Treatment Plant within the Pueblo's lands for the Pojoaque Basin Regional Water System;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>This Act shall supersede SI-R13-005 pertaining to Council's approval of a prior location for the Water Treatment Plant.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.18.020</num>
+        <text>The Council hereby enacts the attached law entitled the "ACT AUTHORIZING LOCATION OF WATER TREATMENT PLANT AS PART OF AAMODT WATER RIGHTS SETTLEMENT."</text>
+      </section>
+      <section>
+        <num>11.2.18.030</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING LOCATION OF WATER TREATMENT PLANT AS PART OF AAMODT WATER RIGHTS SETTLEMENT("Act")."</text>
+      </section>
+      <section>
+        <num>11.2.18.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the location of the water treatment plant within the Pueblo de San Ildefonso's ("Pueblo")  lands as part of the implementation of the water rights settlement agreement in the federal water adjudication case of <em>State v. Aamodt</em>, U.S. District Court of New Mexico, No. 66CV6639 ("Aamodt case").</text>
+      </section>
+      <section>
+        <num>11.2.18.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo is a party in the federal water adjudication case of <em>State v. Aamodt</em>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>As part of the implementation of the Aamodt Settlement, a regional water system will be constructed by the U.S. Bureau of Reclamation ("BOR"), with the primary intake and treatment facilities for the system being located on Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On December 22, 2016, BOR requested that the Pueblo approve a location for the water treatment plant and identified three (3) potential locations as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>101D East – located on the east side of 101D south of electric substation (Location A);</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>101 West – located on the west side of 101D across from the electric substation (Location B);</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Highway 502 – located at the northwest side of intersection of Highway 502 and 101D (Location C).</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council had previously authorized a site, identified herein as Location A, as the preferred site pursuant to Council Resolution SI-R13-005.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In its December 22, 2016 letter, the BOR identified issues with the locations as summarized follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Location A lies within a flood zone, is restrictive in size, will require relocation of power poles and substantial fill material to level the site.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Location B will require relocation of some power poles and will require excavation of the hill at the site.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Location C is the preferred location of BOR because it requires no excavation or relocation of power poles.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Traditional leaders of the Pueblo have been informed of BOR's recommendation and have toured the potential locations, along with several Council Representatives.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>In consultation with the Traditional leaders, the Council has evaluated all of the locations and determined that:</text>
+          <para>
+            <num>(1)</num>
+            <text>Location C is not acceptable for the treatment plant site because it will limit the Pueblo's future economic development at that location, but may be used as a temporary construction staging area for the regional water system; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Location A is not acceptable because it lies within a flood zone and due to other restrictions; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Location B is the most favorable location because of the limitations of the other proposed sites, and that excavated material from Location B can be sold for use in the construction of the regional water system.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council has determined that it is in the best interest of the Pueblo to rescind SI-R13-005 relating to the previous preferred location, and to now approve Location B as the site for the location for the water treatment facility for the Pojoaque Basin Regional Water System.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.2.18.060</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>SI-R13-005 is hereby rescinded.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby authorizes the Governor to notify the BOR that the Council has authorized the Governor to select Location B as the site for the location for the water treatment facility for the Pojoaque Basin Regional Water System.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.3</num>
+    <heading>Los Alamos National Laboratory Natural Resources Trustee Council</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.3.1</num>
+      <heading>Approving the National Resource Damage Assessment (NRDA) Plan Prepared by the Los Alamos National Laboratory Natural Resources Trustee Council</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-017, dated April 30, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-017"/>
+      <section>
+        <num>11.3.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso is the only tribe to share a boundary with a Department of Energy facility, specifically the Los Alamos National Laboratory.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Indian Claims Commission determined that the Pueblo de San Ildefonso's ancestral area includes the property currently operated by the DOE at its Los Alamos site.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo is a natural resources trustee as defined in federal law, i.e. CERCLA, the Comprehensive Environmental Response Compensation and Liability Act (CERCLA).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo in cooperation with the State of New Mexico and federal agencies initiated the Natural Resource Trustee Council ("Trustee Council") effort for DOE's Los Alamos National Laboratory (LANL) site.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo entered into a Memorandum of Agreement ("initial MOA") in 2007 to establish the LANL Natural Resource Trustee Council ("Trustee Council").</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Trustee Council members from tribal, state, and federal governments are trustees for natural resources that may have suffered injuries resulting from releases or threatened releases of hazardous substances (including radionuclides) and discharges or threatened discharges of oil, in and from the area of LANL.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Trustee Council members currently include the Pueblos de San Ildefonso, Jemez and Santa Clara, State through its Office of Natural Resources Trustee, and federal departments of Energy and Agriculture.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The natural resource damage assessment and restoration ("NRDAR") process will take several years for technical studies to implement the NRDA plan and determine what injury to natural resources occurred, quantify the injuries and lost "services", determine the "pathways' for each hazardous substance, and quantify damages.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>NRDAR work is separate from DOE's clean up responsibilities; DOE Policy encourages cooperation between the two activities.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Trustee Council has overseen a technical team to perform a pre-assessment screen which confirmed LANL damaged natural resources, and have completed work on the final Natural Resource Damage assessment plan for Los Alamos National Laboratory ("NRDA Plan").</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Trustee Council NRDA Plan has prioritized studies of "Pueblo narratives" and "Resource characterization for assessment and restoration of Pueblo services" which require input from the Pueblo and other Pueblo trustees concerning natural resource damage and loss of cultural services suffered by Pueblo members.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>The Pueblo staff had input into development of the final NRDA Plan.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>All natural resource trustees except this Pueblo have approved the NRDA Plan.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The NRDA process will provide a basis for estimating the monetary damages needed to restore, replace or acquire resources equivalent to the injured natural resources, plus the los of use and enjoyment of the injured resources.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>The NRD process does not require giving up any possible claims and Pueblo retains the right to make natural resource damage claims independent of the Trustee Council.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Copies of the final DRDA Plan for LANL have been provided to the Tribal Council and been reviewed by the Council's Natural Resources committee.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Approval of the natural resource damage assessment plan by the Pueblo as a natural resource trustee is in the best interests of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.3.1.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Final Natural Resource Damage Assessment Plan for LANL prepared by the Natural Resource Trustee Council for the Los Alamos National Laboratory, Los Alamos, New Mexico dated February 2014 is hereby approved.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council authorizes and directs the Governor on behalf of the Pueblo to convey the Pueblo's approval of the NRDA Plan to the Natural Resources Trustee Council for Los Alamos National Laboratory.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council authorizes and directs the Governor or his designee to take necessary steps to implement the NRDA Plan.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.3.2</num>
+      <heading>Approving the Second Memorandum of Agreement for Creation of a Natural Resource Trustee Council for the Los Alamos National Laboratory</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-016, dated April 30, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-016"/>
+      <section>
+        <num>11.3.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso is the only tribe to share a boundary with a Department of Energy facility, specifically the Los Alamos National Laboratory.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Indian Claims Commission determined that the Pueblo de San Ildefonso's ancestral area includes the property currently operated by the DOE at its Los Alamos site.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo is a natural resources trustee as defined in federal law, i.e. CERCLA, the Comprehensive Environmental Response Compensation and Liability Act (CERCLA).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo in cooperation with the State of New Mexico and federal agencies initiated the Natural Resource Trustee Council ("Trustee Council") effort for DOE's Los Alamos National Laboratory (LANL) site.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo entered into a Memorandum of Agreement ("initial MOA") in 2007 to establish the LANL Natural Resource Trustee Council ("Trustee Council").</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Only tribal, state, and federal governments are authorized to be natural resources trustees for their respective jurisdictions.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Trustee Council members from tribal, state, and federal governments are trustees for natural resources that may have suffered injuries resulting from releases or threatened releases of hazardous substances (including radionuclides) and discharges or threatened discharges of oil, in and from the area of LANL.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The purpose of the LANL natural resource damage assessment (NRDA) and restoration (NRDAR) is to identify and restore the service losses caused by LANL which affect the environment in the jurisdictions of each Trustee.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The initial MOA expired in 2012, and a second MOA (attached to this Resolution) has been negotiated to continue the Trustee Council work on natural resource damage assessment (NRDA) for another five years with an ability to withdraw by written notice to the co-trustees.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Second MOA provides for a five year term, and allows any party to terminate its participation in the MOA by giving thirty (30) days prior written notice to the other co-trustees.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Trustee Council members currently include the Pueblos de San Ildefonso, Jemez and Santa Clara, State through its Office of Natural Resources Trustee, and federal departments of Energy and Agriculture.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>The Trustee Council has overseen a technical team to perform a pre-assessment screen which confirmed LANL damaged natural resources, and are no completing work on an assessment plan.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The natural resource damage assessment and restoration ("NRDAR") process will take several years for technical studies to implement the NRDA plan and determine what injury to natural resources occurred, quantify the injuries and lost "services", determine the "pathways' for each hazardous substance, and quantify damages.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The Pueblo's location in relation to LANL means numerous pathways for hazardous material from LANL may affect the Pueblo people and resources.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>The DOE provides financial support for the NRDAR process, including studies required by the Trustee Council's NRDA plan.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>NRDAR work is separate from DOE's clean up responsibilities; DOE Policy encourages cooperation between the two activities.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>The Trustee Council has completed work on a natural resource damage assessment (NRDA) plan.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>The Trustee Council has prioritized studies of "Pueblo narratives" and "Resource characterization for assessment and restoration of Pueblo services" which require input form the Pueblo and other Pueblo trustees concerning natural resource damage and loss of cultural services suffered by Pueblo members.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>The NRDA process will provide a basis for estimating the monetary value of damages needed to restore, replace or acquire resources equivalent to the injured natural resources, plus the loss of use and enjoyment of the injured resources.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>The NRDAR process will also seek to identify projects that will restore cultural services to Pueblo members which have been lost as a result of natural resources damages caused by DOE's LANL facility.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>After the assessment work, the Trustee Council will develop a plan for restoration, replacement, or acquisition of equivalent resources using money actually available.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>The Pueblo expects DOE and the Trustee Council to respect the Pueblo's decisions regarding appropriate steps to restore damage and service losses determined in the NRDA studies to be specific to the Pueblo's land and people.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>The NRDA process does not require giving up any possible claims and Pueblo retains the right to make natural resources damage claims independent of the Trustee Council.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>Participation in the natural resource damage assessment process as a natural resources trustee, on terms specified in the attached Second Memorandum of Agreement, is in the best interests of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.3.2.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The attached "Second Memorandum of Agreement for Creation of a Natural Resource Trustee Council for the Los Alamos National Laboratory, Los Alamos, New Mexico" is hereby approved.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council authorizes and directs the Governor to sign on behalf of the Pueblo, the Second Memorandum of Agreement for the Natural Resource Trustee Council for Los Alamos National Laboratory in a form substantially similar to the one attached to this Resolution.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council authorizes and directs the Governor of his designee to take necessary steps to implement the Second Memorandum of Agreement, including signing the second MOA for the Pueblo, and approving NRDA Plan.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.4</num>
+    <heading>Livestock</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.4.1</num>
+      <heading>Land and Livestock Commission</heading>
+      <section>
+        <num>11.4.1.010</num>
+        <heading>Appointment to be Made by Tribal Council.</heading>
+        <text>There is hereby created a Land Livestock Commission of three (3) members appointed by the Governor with the concurrence of the Tribal Council and shall hold office until removed.</text>
+      </section>
+      <section>
+        <num>11.4.1.020</num>
+        <heading>Authority.</heading>
+        <text>This Commission shall have authority to enforce the provisions of this Title and to issue appropriate rules and regulations, subject to approval to the Tribal Council, for the conservation and protection of the land of the Pueblo of San Ildefonso and for the control and management of livestock on the Pueblo of San Ildefonso.  The Land and Livestock Commission shall work in cooperation with the Livestock Inspector appointed by the State of New Mexico Livestock Board, who shall be commissioned also by the Pueblo of San Ildefonso.  The Commission shall refer all disputes relating land or livestock to the Tribal Court; however, any party or any dispute shall have a right of appeal of any decision of the Officer to the Pueblo of San Ildefonso Tribal Court in a civil action, or appeal any decision of the Tribal Court to the Tribal Council.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.4.2</num>
+      <heading>Permit Required – Trespassing</heading>
+      <section>
+        <num>11.4.2.010</num>
+        <heading>Tribal Permit Required.</heading>
+        <text>Any person grazing livestock of any species on lands of the pueblo of San Ildefonso, whether assigned or unassigned, must have a permit from the Land and Livestock Commission.  Failure to obtain such permit on order of the Commission shall constitute a violation and, upon conviction thereof, any person may be assess a penalty, damages, or any other order of the Commission or the Tribal Court.</text>
+      </section>
+      <section>
+        <num>11.4.2.020</num>
+        <heading>Livestock Trespass.</heading>
+        <text>Any person who allows their livestock of any species to trespass or stray on agricultural or residential lands of the pueblo of San Ildefonso shall be guilty of a violation and upon conviction thereof shall be assessed a penalty and any damages to property, and upon subsequent conviction of subsequent violations, shall be assessed a penalty plus costs, and may be ordered to pay damages to property and be subject to such other orders as the Tribal Court may direct.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.4.3</num>
+      <heading>Branding Requirements.</heading>
+      <section>
+        <num>11.4.3.010</num>
+        <heading>Necessity of Brand.</heading>
+        <text>Every tribal member owning livestock shall have and use brand on each animal; such brand shall be recorded in the office of the New Mexico Livestock Board.  Cattle shall be branded with a hot iron brand, sheep shall be branded with a paint brand.  Any unbranded cattle, excepting calves with a branded mother, shall be subject to seizure by any tribal officer, or any livestock inspector and shall be handled and disposed of as an estray.  Any person who violates provisions of this section shall be, upon conviction, subject to a penalty assessment or any other orders of the Tribal Court.</text>
+      </section>
+      <section>
+        <num>11.4.3.020</num>
+        <heading>Brands – Recording, -Evidence of Ownership.</heading>
+        <text>No brands except such as are recorded under the provision of this ordinance shall be recognized in law as evidence of ownership of the livestock upon which such brand may be used.  It shall be the duty of all persons to brand newly acquired cattle with his duly registered brand as soon as practicable, notwithstanding the possession of a bill of sale.  Nothing herein, however, shall be construed as relieving the owner of his duty to retain possession of any bill of sale.</text>
+      </section>
+      <section>
+        <num>11.4.3.030</num>
+        <heading>Brands – Property Subject to Sale, Assignment and Descent.</heading>
+        <text>Any duly registered brand shall be considered to be the personal property of the person and shall be subject to sale, assignment, transfer, devise and descent.</text>
+      </section>
+      <section>
+        <num>11.4.3.040</num>
+        <heading>More Than One Brand Unlawful – Exception – Penalty.</heading>
+        <text>It shall be unlawful for any owner of livestock to use more than one brand, except that lawfully acquired livestock carrying the previous owner's registered brand need not be rebranded if a valid bill of sale accompanies such livestock.</text>
+        <text>The increase of such livestock shall be branded with the owner's registered brand, except if prohibited by a mortgage or other lien, Any person who violated provisions of this Section shall be, upon conviction, subject to a penalty assessment of not to exceed $300.00.</text>
+      </section>
+      <section>
+        <num>11.4.3.050</num>
+        <heading>Brands of Minors – Responsibility of Parents or Guardians.</heading>
+        <text>Minors under twenty-one (21) years of age, owning livestock separate from that of the parent or guardian may have a separate recorded brand, but the parent or guardian shall be responsible for the proper use of such brand by any such minor.</text>
+      </section>
+      <section>
+        <num>11.4.3.060</num>
+        <heading>Bills of Sale – Necessity and Presumption-Definitions of Livestock.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No person shall buy, receive, sell, dispose of or have in his possession any livestock unless the person selling or disposing of such livestock shall give, and the person buying or receiving such livestock shall take, a written bill of sale giving the number, kind, marks, and brand of each animal sold which meet the requirements set out in this Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The possession of livestock, without having a written bill of sale meeting the requirements set out in this Code shall be prima facie evidence of illegal possession against any person charged with theft, unlawful possession, handling, driving or killing any livestock.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For the purpose of this ordinance, livestock is defined as cattle, horses, asses, sheep, goats, swine or the carcasses thereof.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.3.070</num>
+        <heading>Bills of Sale – Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>A duly executed bill of sale is instrument in writing by with the owner of his authorized agent transfers to the buyer the title to livestock described therein and guarantees to defend said title against all lawful claims.  It shall fully describe in detail the livestock, and such description shall include marks, brands and all other identification.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The seller shall sign his name to and write in the bill of sale his social security or driver's license number and post office address in the presence of two (2) witnesses who are legal resident of the Pueblo of San Ildefonso, or, in the event the transfer occurs off the Pueblo, residents of the county where the transfer of the described animals takes place.  The witnesses shall sign their names and indicate their post office addresses on the bill of sale.  The bill of sale shall be executed the day of the transaction.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In lieu of the signatures of two (2) witnesses, the bill of sale any be acknowledged by a notary public or other officers authorized to take acknowledgement, or may be witnessed and certified by any livestock inspector.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Identifying the animal and properly acknowledged by the Secretary of the Association may be used as proof of ownership.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>An inspection certificate executed as a bill of sale and certified by a livestock inspector any be used as proof of ownership.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.3.080</num>
+        <heading>Bill of Sale of Livestock – Duty of Exhibit – Violation-Penalty.</heading>
+        <text>Any person who has purchased or received, or has in his possession any livestock either for himself or another shall exhibit the bill of sale for the livestock at the reasonable request of any livestock inspector or other peace officer.  Any person who fails to produce a bill of sale as required in this Act or is unable to exhibit other written evidence of ownership or legal possession shall, upon conviction, be subject to a penalty assessment not to exceed $300.00 and such other orders of the Tribal Court.</text>
+      </section>
+      <section>
+        <num>11.4.3.090</num>
+        <heading>Importation of Animals – Permit Required – Penalty.</heading>
+        <text>It shall be unlawful to bring any livestock into the jurisdiction of the Pueblo of San Ildefonso without having first obtained in writing a permit to do so from a livestock inspector.  The permit shall state the requirements to be complied with.  Any person who violates provisions of this Section shall be, upon conviction, subject to a penalty assessment of not more than $300.00 and may be required to remove the livestock from lands of the Pueblo.</text>
+      </section>
+      <section>
+        <num>11.4.3.100</num>
+        <heading>Inspector of Brands and Earmarks of Exported Cattle.</heading>
+        <text>It shall be the duty of the livestock inspectors to cause to be inspected the brands and earmarks upon the cattle shipped or driven out of the Pueblo of San Ildefonso, and to cause to be kept and preserved a true and correct record of the result of such inspections, which record may be preserved in the State Sanitary Board, which record shall set forth the date of the inspection, the place where, and the person by whom made, the name and post office address of the owner, shopped claimant of the cattle so inspector and names and post office addresses of all persons in charge of such cattle at the time of the inspection, the destination of such as well as la list of all brands and earmarks upon the cattle so inspected, and the number and classification of such cattle.</text>
+      </section>
+      <section>
+        <num>11.4.3.110</num>
+        <heading>Duty to Hold Export Cattle for inspection.</heading>
+        <text>It shall be the duty of every person shipping or driving any cattle out of the Pueblo of San Ildefonso to hold the same for inspection, as provided in this ordinance, and it shall be a violation for any person to ship, drive or in any manner remove beyond the boundaries of the Pueblo of San Ildefonso any herd or band of cattle until the same shall have been so inspected.  Any person who violates the provisions of this Section shall be, upon conviction, subject to a penalty assessment of not to exceed $300.00.</text>
+      </section>
+      <section>
+        <num>11.4.3.120</num>
+        <heading>Inspection Required for Home Slaughter.</heading>
+        <text>It shall be a violation to slaughter for home use any cattle without first obtaining a proper brand inspection form any authorized Pueblo or State brand inspector.  Any person who violates the provisions of this Section shall be, upon conviction, subject to a penalty assessment of not to exceed $300.00.</text>
+      </section>
+      <section>
+        <num>11.4.3.130</num>
+        <heading>Offenses by Inspectors – Penalty.</heading>
+        <text>Any livestock inspector, knowingly making any false certificate, or who shall knowingly swear falsely as to the truth of any report made by him, or who shall accept any bribe or compensation other than the recognized amount provided by law, or failure to perform any of the duties prescribed by law, shall be, upon conviction, subject to a penalty assessment of not to exceed $300.00, and any other order of the Tribal Court, or both, with costs.</text>
+      </section>
+      <section>
+        <num>11.4.3.140</num>
+        <heading>Unbranded Cattle – Estrays.</heading>
+        <text>In any case of dispute over ownership of branded or unbranded cattle and the brand inspector or the Land Livestock Commission is unable to determine ownership positively, such animal will be handled as an estray.  It shall be sold and the proceeds turned over to the Pueblo.</text>
+      </section>
+      <section>
+        <num>11.4.3.150</num>
+        <heading>Ownership – Possession.</heading>
+        <text>If any duly authorized inspector shall find any livestock or carcasses in the possession of any person, branded or unbranded, and said person in charge or in possession of such livestock does not have a bill of sale or cannot furnish satisfactory proof of ownership or said inspector has good reason to believe said livestock or carcass was stolen, the inspector shall seize and take possession of same and retain possession until satisfactory evidence of ownership is produced or until such livestock or carcasses are disposed of as provided by this Code.</text>
+      </section>
+      <section>
+        <num>11.4.3.160</num>
+        <heading>Officers May Stop Vehicle – Failure to Have Certificate – Arrest and Seizure.</heading>
+        <text>Any livestock inspector or Pueblo law enforcement officer or Ranger Inspector shall be authorized to stop any vehicle transporting livestock or the carcasses thereof, and demand form the person or persons operating said vehicle to show the certificate of brand inspection or other proof of ownership; and should any person or persons transporting said livestock or the carcasses thereof be unable to exhibit to such inspector or officer said certificate, said inspector or officer is authorized and empowered to arrest, without warrant, any person or persons operating said vehicle and take possessions of same any of the livestock or carcasses therein, and shall retain such possession until the person or persons operating such vehicle can produce satisfactory evidence that he or they, or the person or persons, firm or corporation for whom the same is being transported, is the lawful owner thereof, or until such livestock or carcasses are disposed of as hereinafter provided.</text>
+      </section>
+      <section>
+        <num>11.4.3.170</num>
+        <heading>Sale of Carcasses to Prevent loss by Spoiling.</heading>
+        <text>If said inspector or other officer shall deem it necessary to take, the prevent the loss of same by spoilage, they are empowered and authorized to do so, retaining the sale price thereof in their possession to be disposed of as hereinafter provided.</text>
+      </section>
+      <section>
+        <num>11.4.3.180</num>
+        <heading>Return to Owner – Sale of Livestock of Carcasses – Dispositions of Proceeds.</heading>
+        <text>If, within a period of ten (10) days, the ownership or said livestock or said carcasses is shown and established, said livestock or carcasses, or the proceeds from the sale thereof shall be delivered to said owner.  If, however, within said period the ownership of said livestock or carcasses is not shown or established, then in the event the monies derived from the sale of said livestock or carcasses shall be paid to the pueblo.</text>
+      </section>
+      <section>
+        <num>11.4.3.190</num>
+        <heading>Definition of Carcasses.</heading>
+        <text>Whenever the work "carcass" is used, it means one or more carcasses or parts thereof, not less than one-quarter of a carcass.</text>
+      </section>
+      <section>
+        <num>11.4.3.200</num>
+        <heading>Failure to Close Gate – Penalty.</heading>
+        <text>Any person breaking, cutting, or damaging any range land fence shall be, upon conviction, subject to a penalty assessment of not to exceed $50.00.  Additionally, the person who shall violate this section shall be obliged to indemnify the owner of any fence, valued according to the gravity of the violation, or to replace the fence.</text>
+      </section>
+      <section>
+        <num>11.4.3.210</num>
+        <heading>Earmarks – Recording.</heading>
+        <text>Any stock grower any adopt and use an earmark and such mark will be sued in evidence along with evidence in connection with the owner's recorded brand.  In no case shall the person so marking the animal cut off more than one-half of the ear so marked; neither shall anyone mark by cutting both sides of a point.</text>
+      </section>
+      <section>
+        <num>11.4.3.220</num>
+        <heading>Unlawful Branding.</heading>
+        <text>Unlawful branding consists of either:</text>
+        <para>
+          <num>(a)</num>
+          <text>Branding or marking any animal which is the property of another with any brand or mark not the brand or mark the owner of the animal;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Altering any brand or mark upon any animal which is the property of another;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Using the brand unless same brand shall be duly recorded in the office of the New Mexico Livestock Board, and the person holds a certificate form the board certifying to the fact of such record.  Any person who violates the provisions of this section shall be, upon conviction, subject to a penalty assessment of not more than $500.00, or such other orders of the Tribal Court, or both with costs, and may be required to make restitutions.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.3.230</num>
+        <heading>Violations in Disposition of Animals.</heading>
+        <text>Violations in disposition of animals consist of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Skinning or removing without permission of the owner any part of the hide of any cattle found dead;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Taking any livestock for use of work without the consent of the owner;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Removing any animal, the property of another form its usual range without the consent of the owner;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Contracting, selling, or otherwise disposing of any animal without the consent of the owner;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Knowingly buying, taking, or receiving any animal without the consent of the owner.  Any person who violates the provisions of the section shall be, upon conviction, subject to a penalty assessment of not to exceed $300.00, or such other orders of the Tribal Court, with costs, and may be required to make restitution.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.3.240</num>
+        <heading>Illegal Confinement of Animals.</heading>
+        <text>Illegal confinement of animals consists of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Taking and retaining any bull for the purpose of improving livestock without the consent of the owner;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Intentionally separating offspring of livestock form the mother without the consent of the owner.  Provided, that when milk cows, which are actually used to furnish milk for household or dairy purposes, have calves that are unbranded, such young animals may be separated from their mother and enclosed; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Confining, or in any manner interfering with the freedom of, or selling or offering to sell, any freshly branded animal, unless such brand for which the person has a legally executed bill of sale from the owner of such brand or unless such animals are with their mother, or unless such animals are the calves of milk cows when such cows are actually used to furnish mild for household purposes or for carrying on a dairy, but in every such case the person, firm, or corporation, separating calves form their mother for either of these purposes shall, upon the demand of any Ranger or law Enforcement Officer produce, in a reasonable time, the mother of each of such calves so that interested parties may ascertain if the cow does or does not claim and suckle such calf.  Any person who violated the provision of this section shall be, upon conviction, subject to penalty assessment of not to exceed $500.00, or such orders of the Tribal Court, or both, with costs and may be required to make restitution.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.3.250</num>
+        <heading>Definition.</heading>
+        <text>As used herein, the following definition shall apply:</text>
+        <para>
+          <num>(a)</num>
+          <text>Estray.  Any bovine animal, horse, mule or ass, found running at large upon public or private land, either fenced or unfenced, in the Pueblo of San Ildefonso, whose owner is unknown in the range section where found, or which shall be fifty (50) miles or more from the limits of its usual range or pasture, as that is branded with a brand which is not on record in the office of the Cattle Sanitary Board of New Mexico, shall be known as an "estray".</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.4.4</num>
+      <heading>The Livestock Confinement Act of 2012</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-033, dated November 5, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-033"/>
+      <section>
+        <num>11.4.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Open grazing has placed a burden on all members of the Pueblo to exclude free ranging livestock from residential and agricultural lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Free ranging livestock has damaged gardens and other individual and tribal property.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined it to be in the best interests of the Pueblo to prohibit open grazing and free roaming of livestock on Pueblo lands and that all livestock within the Pueblo boundaries must be confined by the owner(s).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council has determined it is in the best interest of the Pueblo to authorize the enforcement actions to seize and impound free roaming livestock and establish civil penalties for violation of the open grazing prohibition</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.4.020</num>
+        <heading>Enactment</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Council hereby enacts the attached law entitled "The Livestock Confinement Act of 2012."</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"The Livestock Confinement Act of 2012" shall repeal and supersede certain specific provisions of Title XV – Land and Livestock Management within the Pueblo's Civil and Criminal Code and all other provisions of Title XV remain valid until amended by the Council, consistent with requirements of the Agreement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the "Agreement", according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions, including such technical amendments or other non-substantive changes, as deemed necessary to carry out the intent of this Resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.4.030</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Livestock Confinement Act ("Act").</text>
+      </section>
+      <section>
+        <num>11.4.4.040</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Assignment" or "Land Assignment" means the land assigned by the Pueblo to a Pueblo member as shown on record with the Pueblo Realty Department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Estray" means livestock found running at large upon Pueblo lands, either fenced or unfenced, whose owner is unknown, or that is branded with a brand that is not on record in the office of the New Mexico Livestock Board or is a freshly branded or marked offspring not with its branded or marked mother, unless other proof of ownership is produced.</text>
+          <text>(c )	"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Livestock" or "Animals" means all domestic or domesticated animals that are used or raised on a farm or ranch, and exotic animals in captivity and includes cattle, horses, asses, mules, sheep, goats, swine, bison, llama, poultry, ostriches, and emus upon any land in the Pueblo; provided that for the purposes of this law, "livestock" or "animals" does not include cats or dogs.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Pueblo lands" or "lands of the Pueblo" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo.  Also includes land assignments, community property areas, and public right-of-ways.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.4.050</num>
+        <heading>Purpose</heading>
+        <text>The purpose of the Act is to address the problems created by free roaming livestock on Pueblo lands and provide enforcement mechanisms for violations of this Act.</text>
+      </section>
+      <section>
+        <num>11.4.4.060</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>open grazing has placed a burden on all members of the Pueblo to exclude free ranging livestock from residential and agricultural lands;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>free ranging livestock have damaged gardens and other individual and tribal property;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>it is in the best interests of the Pueblo to prohibit open grazing and free roaming of livestock on Pueblo lands;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>it is in the best interests of the Pueblo that all livestock within the Pueblo boundaries must be enclosed by the owner(s);</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>it is in the best interest of the Pueblo to authorize the seizure and impoundment of livestock of free roaming livestock and to establish civil penalties for owner(s) in violation of the open grazing prohibition;</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.4.070</num>
+        <heading>Open Grazing and Free Roaming of Livestock Prohibited</heading>
+        <text>Open grazing and free roaming of livestock across all Pueblo lands is prohibited, except as provided herein.</text>
+      </section>
+      <section>
+        <num>11.4.4.080</num>
+        <heading>Livestock Must be Confined</heading>
+        <para>
+          <num>(a)</num>
+          <text>All livestock within Pueblo lands must be confined by the owner(s) of said livestock within the confines of their individual land assignment, or grazing allotment designated by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Nothing in this section shall prevent livestock owner(s) from entering into an arrangement with the owners of assigned lands to lease the property for grazing purposes, subject to Section 1.10 herein, provided the livestock is properly confined on said lands.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.4.090</num>
+        <heading>Investigation and Seizure of Free Roaming Livestock</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor shall investigate complaints of free roaming livestock in violation Section 1.5 herein, and seize and impound any and all livestock found on Pueblo lands in violation of Section 1.5.  Such impoundment by the Governor is not considered illegal confinement of animals.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If any animal is seized, by an agent of the Pueblo under the provisions of this section, notice of this seizure shall be issued no later than two (2) working days of seizure of the animal(s), provided the owner can be identified.  Notice of the seizure shall also be publically posted.  Livestock seized pursuant to this resolution shall be boarded at an appropriate location to be determined by the Governor.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No later than five (5) working days of providing notice to the owner or public posting, the owner of impounded livestock shall appear at the Governor's Office to claim said livestock by providing proof of ownership and paying any expenses incurred, including but not limited to, all costs for seizure, impoundment, and care of the livestock and any previously assessed civil fines.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If no owner appears and claims livestock within five (5) working days after notice to the owner or public posting, or if the animal is deemed estray, or if the owner is unable to pay costs, or previously assessed civil fines, the impounded animal(s) shall be deemed forfeited to the Pueblo.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo may sell the forfeited animal to recover expenses as described in subsection (c).</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.4.100</num>
+        <heading>Damages Resulting from Free Roaming Livestock</heading>
+        <text>Owner(s) of free roaming livestock, in violation of this Act, shall be responsible for any damages to property of the Pueblo or others resulting from said free roaming livestock.</text>
+      </section>
+      <section>
+        <num>11.4.4.110</num>
+        <heading>Livestock Trespass</heading>
+        <text>Any person who allows their livestock to openly roam, stray or trespass on Pueblo lands or land assignments of other Pueblo members without permission or authority of the Pueblo or owner shall have violated this Act and upon conviction, shall be assessed a penalty or civil fine, costs and damages to property.</text>
+      </section>
+      <section>
+        <num>11.4.4.120</num>
+        <heading>Leasing or Rental of Assigned Land for Grazing Purposes</heading>
+        <para>
+          <num>(a)</num>
+          <text>Tribal members may lease or rent to another tribal member all or part of the land assigned to him or her, as recorded by the Pueblo Realty Department, for the purpose of allowing another tribal member for grazing purposes. A copy of such lease or rental agreement must be provided to and approved by the Pueblo Realty Department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person who leases or rents to another person all or part of the land assigned to him or her without notice and approval of the Pueblo Realty Department shall have violated this Act and upon conviction shall be assessed a penalty or civil fine and costs.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No Pueblo lands shall be used by, or leased or rented to, non-members for grazing purposes.  Livestock owned by non-members found grazing on Pueblo lands shall be subject to the seizure provisions of Section 1.7 of this Act.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.4.4.130</num>
+        <heading>Notice and Effective Date of Free Roaming Prohibition</heading>
+        <text>Notice of this Act and its requirements shall be provided to all livestock owners and the Pueblo community at large.  Public posting shall be sufficient notice to the Pueblo community at large.  Livestock owners shall be given thirty (30) calendar days from the date of the enactment of this Act to confine their livestock in accordance with this Act.</text>
+      </section>
+      <section>
+        <num>11.4.4.140</num>
+        <heading>Repeal of Inconsistent Code Provisions</heading>
+        <text>The Livestock Confinement Act of 2012 repeals and supersedes only certain sections of Title XV, Land and Livestock Management, specifically Section 44.2, Livestock Trespass, and Section 46.17 Unauthorized Leasing of Assigned Land, as well as any law or portion of the Pueblo's laws that are inconsistent with this Act. All other provisions of Title XV shall remain valid until amended by the Council.</text>
+      </section>
+      <section>
+        <num>11.4.4.150</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this Act upon majority vote of the Council.</text>
+      </section>
+      <section>
+        <num>11.4.4.160</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.5</num>
+    <heading>Fishing</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.5.1</num>
+      <heading>Pueblo de San Ildefonso Fishing Lake Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-011, dated May 7, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
+      <section>
+        <num>11.5.1.010</num>
+        <heading>The Pueblo de San Ildefonso hereby enacts the attached law entitled "The Pueblo de San Ildefonso Fishing Lake Act."</heading>
+      </section>
+      <section>
+        <num>11.5.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Pueblo Fishing Lake Act ("Act").</text>
+      </section>
+      <section>
+        <num>11.5.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Angler" means any person who is fishing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Angling" means attempting to take game fish by hook and line, with the line held in the hand or attached to a pole or rod or other device that is held in the hand or closely attended.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Attend" means that an Angler is physically next to their line, pole, rod, or other device with line attached.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Bag limit" means the maximum number of game fish that may be caught and kept by an Angler in any one day.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Closed Season" means the time during which game fish may not be taken.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council, the duly constituted legislative body acting for the Pueblo.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Department" means the Pueblo de San Ildefonso Natural Resources Department.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Director" means the Director of the Pueblo de San Ildefonso Natural Resources Department.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Fishing" means taking game fish by any means.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Fishing Permit" means the Pueblo de San Ildefonso Fishing Permit.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Game fish" means bass, bluegills, catfish, crappie, perch, pike, salmon, sunfish, tiger muskie, trout and walleye.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Member" means a person enrolled in the Pueblo de San Ildefonso pursuant to the Governing Agreement and laws of the tribe governing enrollment.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Open season" means the time during which game fish may be taken pursuant to provisions of this Act.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Other waters" means all ponds, rivers, streams, and creeks, wholly or partially within or bordering the Pueblo's exterior boundaries, other than the Pueblo Fishing Lake.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>"Tribal Ranger" means a ranger in the Pueblo de San Ildefonso Parks and Wildlife Department.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>"Permitted Baits" means non-fish and non-amphibian baits such as corn, or other vegetable matter, worms, insects, commercially processed salmon eggs and other non-Prohibited Baits.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>"Person" an individual, individual association, partnership or corporation, or any agent of the foregoing.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>"Possession" means on the Angler's person or in his/her immediate control.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo. Also includes land assignments, community property areas, and public rights-of-way.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>"Pueblo Fishing Lake" means the Pueblo de San Ildefonso Fishing Lake.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>"Snagging" means the intentional taking of fish with hooks where the fish is caught in a part of the body other than the mouth.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>"Tribal Courts" means the Pueblo de San Ildefonso Tribal Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.5.1.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of the Act is to regulate the harvesting of game fish in the Pueblo de San Ildefonso Fishing Lake and to ensure that fishing is conducted in a manner that is safe to anglers and recreational users and that game fish are managed at sustainable levels.</text>
+      </section>
+      <section>
+        <num>11.5.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Tribal Council has regulatory authority over the management of aquatic resources.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unregulated fishing is detrimental to the aquatic life and ecology of the Pueblo. Civil Procedures for the enforcement of this Act are established herein, and enforcement shall be invoked and applied on an equal basis for all reported violations.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council recognizes the importance of managing aquatic resources located within the Pueblo's exterior boundaries.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Regulation of aquatic wildlife harvesting ensures that fishing is conducted in a way that is safe for fishers and protects the ecology and wildlife of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has determined it to be in the best interest of the Pueblo to prohibit activities that are detrimental to the safety of fishers and natural resources through the Pueblo de San Ildefonso Fishing Lake Act ("Act") and to establish civil penalties for violations therein.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.5.1.060</num>
+        <heading>Fishing Permit Required</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any angler who fishes at the Fishing Lake must have in his or her possession a Fishing Permit at all times.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor, by proclamation, shall set a non-refundable fee for Fishing Permits.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.5.1.070</num>
+        <heading>Traditional Fishing</heading>
+        <text>Nothing in this Act shall prohibit the Governor from authorizing, upon request, fishing for traditional purposes.</text>
+      </section>
+      <section>
+        <num>11.5.1.080</num>
+        <heading>Open Season for Fishing</heading>
+        <text>The Governor shall, by proclamation, establish open and closed seasons for fishing and change open seasons from year to year.</text>
+      </section>
+      <section>
+        <num>11.5.1.090</num>
+        <heading>Bag Limits</heading>
+        <text>The Governor shall, by proclamation, establish bag limits covering all species of game fish caught or kept by any one person during any one day. The Governor may also, by proclamation, authorize or prohibit the taking or possession of game fish of any species or kind.</text>
+      </section>
+      <section>
+        <num>11.5.1.100</num>
+        <heading>Prohibited Activities</heading>
+        <text>The following activities are declared unlawful, thereby subjecting violators to a civil fine or assessment, and are prohibited on Pueblo lands:</text>
+        <para>
+          <num>(a)</num>
+          <text>Fishing without a Fishing Permit: Any person who takes or attempts to take game fish from the Fishing Lake without having possession of a valid Fishing Permit in accordance with Section 1.5 for the date(s) in question shall have violated this Act and upon conviction, shall be assessed a civil fine of $200.00.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Using Fish or Amphibians as Bait: Any person who takes or attempts to take game fish using any live, dead, or cut part of fish or amphibians as bait shall have violated this Act and upon conviction, shall be assessed a civil fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Fishing By Any Means Other Than Angling:  Any person who takes or attempts to take a game fish by any means other than angling shall have violated this Act and upon conviction, shall be assessed a civil fine of $150.00.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Snagging:  Any person who takes or attempts to take a game fish by snagging with a lure, treble-hook, snagging hook, or any other device shall have violated this Act and upon conviction, shall be assessed a civil fine of $150.00.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Selling of Fishing Permit:  Any person who purchases a Fishing Permit from anyone other than the Pueblo or sells a Fishing Permit shall have violated this Act and upon conviction, shall be assessed a civil fine of $150.00.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Transfer of Fishing Permit: Any person who uses or allows another person to make use of a Fishing Permit issued to another shall have violated this Act and upon conviction, shall be assessed a civil fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Taking Game Fish with More Than One Fishing Pole or Line: Any person who takes a game fish or attempts to take a game fish with more than one fishing pole, rod, device, or line at a time shall have violated this Act and upon conviction, shall be assessed a civil fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Using An Unlawful Quantity of Lures or Baited Hooks: Any person who takes a game fish or attempts to take a game fish with more than one (1) line and two (2) baited hooks or one (1) line and two (2) artificial lures, shall have violated this Act and upon conviction, shall be assessed a civil fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Leaving Fishing Pole Unattended: Any person who fails to attend their fishing pole at all times shall have violated this Act and upon conviction, shall be assessed a civil fine of $50.00.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Bag Limits: Any person who exceeds or attempts to exceed bag limits established in accordance with Section 1.9 of this Act shall have violated this Act and upon conviction, shall be assessed a fine of $150.00.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Fishing Out of Season: Any person, except as authorized by the Governor, who takes or attempts to take a game fish when the season has not been declared open in accordance with Section 1.8 shall have violated this Act and upon conviction, shall be assessed a fine of $200.00.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Fishing During Hours of Closure: Any person who takes or attempts to take a game fish during the hours the Pueblo Fishing Lake is closed shall have violated this Act and upon conviction, shall be assessed a fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Discarding Fish Parts:  Any person who discards game fish entrails or other game fish parts into the Pueblo Fishing Lake shall have violated this Act and upon conviction, shall be assessed a fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Chumming Bait:  Any person who places or spreads bait in the Fishing Lake for the purpose of attracting game fish shall have violated this Act and upon conviction, shall be assessed a fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Interference with Tribal Ranger:  Any person who disobeys or disregards a direct order of, or interferes with a Tribal Ranger, his designee, the Director, or police officer while performing his or her duties under this Act shall have violated this Act and upon conviction, shall be assessed a fine of $300.00.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.5.1.110</num>
+        <heading>Unclaimed or Abandoned Fishing Equipment</heading>
+        <text>Any fishing pole, rod, lines, tackle, bait, or lure found unattended at the Pueblo Fishing Lake after the close of daily operating hours, shall be deemed unclaimed or abandoned. All fishing equipment deemed to be unclaimed or abandoned may be seized by the Tribal Ranger and upon seizure shall become the property of the Pueblo de San Ildefonso.  The Director shall sell the unclaimed or abandoned equipment through public or private sale and the proceeds there from shall go to the Pueblo. A written receipt must be executed for all equipment disposed of in accordance with this section.</text>
+      </section>
+      <section>
+        <num>11.5.1.120</num>
+        <heading>Additional Penalties</heading>
+        <para>
+          <num>(a)</num>
+          <text>In addition to the civil penalties authorized by this Act, any permits by this Act may be suspended or revoked by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In addition to any penalty imposed by the Pueblo de San Ildefonso Tribal Court, the Court upon conviction may order restitution to the Pueblo community for damage done to Pueblo resources.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In addition to any civil penalties, the Pueblo de San Ildefonso Tribal Court may order payment of court fees and costs in the amount determined by the Tribal Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>11.5.1.130</num>
+        <heading>Subject Matter Jurisdiction Conferred to Tribal Court</heading>
+        <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Pueblo pursuant to this Act.</text>
+      </section>
+      <section>
+        <num>11.5.1.140</num>
+        <heading>Effective Date</heading>
+        <text>This Act shall take effect immediately upon its enactment by resolution of the Pueblo de San Ildefonso Council.</text>
+      </section>
+      <section>
+        <num>11.5.1.150</num>
+        <heading>Repeal of Inconsistent Code Provisions</heading>
+        <text>Any and all Council resolutions or provisions in the Pueblo de San Ildefonso Law and Order code which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
+      </section>
+      <section>
+        <num>11.5.1.160</num>
+        <heading>Severability</heading>
+        <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
+      </section>
+      <section>
+        <num>11.5.1.170</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this Act upon majority vote of the Council.</text>
+      </section>
+    </container>
+  </container>
+</container>

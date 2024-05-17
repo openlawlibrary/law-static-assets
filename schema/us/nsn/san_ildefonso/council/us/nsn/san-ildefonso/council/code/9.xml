@@ -1,0 +1,697 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>9</num>
+  <heading>CHILDRENS CODE</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9.1</num>
+    <heading>Children's Code</heading>
+    <annotation type="History">1984 Code</annotation>
+    <container>
+      <prefix>Part</prefix>
+      <num>9.1.1</num>
+      <heading>Jurisdiction</heading>
+      <section>
+        <num>9.1.1.010</num>
+        <heading>Establishment of Children's Court</heading>
+        <text>The San Ildefonso Children's Court shall consist of the Chief Judge and such Associate Judge as the Chief Judge may appoint to act as Children's Court Judge.  The Children's Court shall operate within the provisions of the Indian Child Welfare Act of 1978, Nov. 8, 1978 (PL 95-608) (92 Stat. 3069) and rules and regulations issued pursuant thereto, and the law and rules and regulations shall take precedence over any provisions of this Title.</text>
+      </section>
+      <section>
+        <num>9.1.1.020</num>
+        <heading>Jurisdiction of Children's Court</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo of San Ildefonso Children's Court shall have jurisdiction over all matters relating to:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any child who is neglected or dependent.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any child whose behavior is injurious to his own welfare or to the welfare of others.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any child who has violated any federal, state or local or Pueblo ordinance except traffic rules and regulations regardless of where the violation occurred.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any child who is beyond the control of his parent, custodian, or school authorities.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The custody of any child or the guardianship of any child who comes within the purview of the Court's jurisdiction under the other provisions of this Title.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Termination of legal parent-child relationship, including termination of residual parental rights and duties.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Judicial consent to the marriage, employment or enlistment of a child in the armed forces and to emergency medical or surgical treatment of a child.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>The treatment or commitment of a mentally defective, mentally ill child or any child who exhibits a deviant behavior pattern who comes within the purview of the Court's jurisdiction under other provisions of the Title.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Any child who is under the age of eighteen (18) years.  Exercise of jurisdiction over a child may be transferred by the Children's Court to any court of competent jurisdiction which consents to exercise jurisdiction as provided in this Code.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.1.030</num>
+        <heading>Youth or Probation Officer</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Children's court may have trained workers assigned to it to serve as social workers, counselors and youth probation officers.  These worker would be responsible to the Judge.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Court may appoint any such social worker, counselors, or youth probation officer to any case before the Court and such officer's responsibilities would be to make investigations prior to Court hearings, make written or oral reports to the Court as requested and make recommendations for disposition to the Court, to provide on-going supervision or provide for other supervision as requested by the Court</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Such officers will be familiar with and abide by any applicable Pueblo of San Ildefonso customs, ways and traditions.</text>
+        </para>
+      </section>
+      <section>
+        <num>9.1.1.040</num>
+        <heading>Cooperation, with other Agencies</heading>
+        <text>The Children's Court may utilized such social services as may be furnished by any federal, state, Pueblo, public or private non-profit agency.  The Children's Court may contract for services with any federal, state, Tribal, public or private non-profit agency for the care, placement or education of children subject to its jurisdiction, provided that any expenditure of Pueblo funds shall be approved by the Governor and Tribal Council.</text>
+      </section>
+      <section>
+        <num>9.1.1.050</num>
+        <heading>Non-Indian and Welfare Agencies</heading>
+        <text>Any Pueblo based private non-Indian child welfare agency which provides services of any nature to Indian children under the jurisdiction of the Children's Court shall meet licensing requirements as shall be provided in the Pueblo of San Ildefonso Code.  Penalty for violation of this Section shall be immediate loss of right to provide services.</text>
+      </section>
+      <section>
+        <num>9.1.1.060</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>As used in this Code, the terms defined in this Section shall be given the following meanings:</text>
+          <para>
+            <num>(1)</num>
+            <text>"Child" means any Indian individual under eighteen (18) years of age.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>"Child Placing Agency" means any Pueblo, federal or state social service agencies or any agency licensed under the laws of the state where located and pursuant to this Section.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>"Court" means Pueblo of San Ildefonso Children's Court unless otherwise specified in this Section.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>"Delinquent Child' means a child:</text>
+            <para>
+              <num>(A)</num>
+              <text>who has violated any Pueblo custom, tradition, law, or ordinance; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>who has violated a federal law or a law of the state, and whose case has been referred to the Children's Court; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>who is truant from school; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>who is uncontrolled by his parent, guardian, extended family or other custodian by reason of being wayward or habitually disobedient; or</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>who deports himself in a manner that is injurious or dangerous to himself or others, or their property.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Dependent Child means a child:</text>
+            <para>
+              <num>(A)</num>
+              <text>who is without a parent, guardian, extended family or other custodian; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>who is in need of special care and treatment required by his physical, mental or social condition; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>whose parent, guardian, extended family or other custodian for good cause desires to be relieved of his care and custody.</text>
+            </para>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>"Legal Custody" means the right to mental and physical care, custody and control of a child who has been taken by the Court in accordance with the provisions of this Code.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>"Neglected Child" means a child:</text>
+            <para>
+              <num>(A)</num>
+              <text>who is abandoned by his parent, guardian extended family or other custodian; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>who is without proper parental care because of the conduct of his parent, guardian, extended family or other custodian; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>who is without proper parental care because of the emotional, mental or physical disability or immaturity of his parent, guardian, extended family or other custodian; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>who is without necessary subsistence, education or other care necessary for his physical or mental health because his parent, guardian, extended family or other custodian neglects or refuses to provide it; or</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>who is without the special care made necessary by his physical or mental condition because his parent, guardian, extended family or custodian neglects or refuses to provide it; or</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>whose occupation, behavior, condition, environment or association are such as to be injurious or dangerous to himself or other; or</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>whose parent, guardian, extended family or custodian has made arrangements for his placement in a manner detrimental to the welfare of the child or in violation of law; or</text>
+            </para>
+            <para>
+              <num>(H)</num>
+              <text>who comes within the provisions of delinquency, but whose conduct results in whole or in part from parental neglect.</text>
+            </para>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>"Parent" means the natural, adoptive or foster parent, legal guardian, or member of extended family.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>"Custodian" means any person who is under a legal obligation or obligation under Pueblo law or customs to provide care and support for a child or who is in fact providing care and support for a child.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>"Extended Family" means any person who provides parenting to a child in the traditional Pueblo way.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>9.1.2</num>
+      <heading>Proceedings of the Children's Court</heading>
+      <section>
+        <num>9.1.2.010</num>
+        <heading>Institution of Proceedings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Proceedings under this Code may be instituted as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any person or agency having knowledge of a child in the Pueblo who appears to be delinquent, dependent, abandoned or neglected may petition the Children's Court so that a hearing can be held in the matter.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The petitioner shall request that eh Clerk of the Court draw up a petition which shall be signed by the petitioner having knowledge of the facts.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The petition must state the facts which constitute the allegations of the dependency, neglect or the pre-delinquency; it must include the name and address of the parents, the name and age of the child involved and those of the child's spouse, if there be one.  If any of the facts required by the petition are not known or cannot be ascertained by the petitioner, the petition shall so state.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.2.020</num>
+        <heading>Summons</heading>
+        <para>
+          <num>(a)</num>
+          <text>A summons shall be issued under the following conditions:</text>
+          <para>
+            <num>(1)</num>
+            <text>After a petition has been filed, unless the parties hereinafter named voluntarily appear, the Court shall set a time and place for the hearing, and shall issue a summons to the parents, guardian, spouse, other interested parties, or other persons having custody or control of said child, stating that they are to appear with the child before the Court at the time and place as set forth in the summons.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>When a petition alleging neglect or dependence or a petition to terminate parental rights is initiated by a person, the Clerk of the Court shall notify the Northern Pueblos Agency or its agent of the pendency of the case and of the time and place of the hearing.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Court may issue a subpoena requiring the appearance of any persons whose presence, in the opinion of the Court, is necessary.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>If it appears form the petition of by separate affidavit of a person having knowledge of the facts that the child is in a situation that his welfare requires that his custody be immediately assumed by the Court, the Court may order, by endorsement upon the summons, that the officer serving the summons shall take the child into custody at once.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.2.030</num>
+        <heading>Service of Summons</heading>
+        <para>
+          <num>(a)</num>
+          <text>The summons shall be served:</text>
+          <para>
+            <num>(1)</num>
+            <text>In the manner in which personal service of summons under the Rules of Civil Procedure under this Code is made, at least twenty-four (24) hours prior to the time of the hearing.  If personal services of the summons cannot be made, the service of the summons shall be made by certified mail, return receipt requested, addressed to the last known residence of such person.  A copy of the summons and attached petition shall be sent by certified mail at least five (5) days before the time of the hearing.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If any person personally served with a summon or subpoena fails, without reasonable cause, to appear or bring the child, he may be proceeded against for Contempt of Court of the Court may issue a warrant for his arrest, or both.  In any case when it appears to the Court that the service will be ineffectual or that the welfare of the child requires that he be brought forthwith into the custody of the Court, the Court may issue a summons for the child.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.2.040</num>
+        <heading>Investigation; Physical and Mental Examination</heading>
+        <text>Upon request of the Court, the Bureau of Indian Affairs, Northern Pueblos Agency or any other Agency or person so designated may investigate the personal and family history and environment of any child coming within the jurisdiction of the Court and file a report of its finding with the Court.  The Court may order any child coming within its jurisdiction to be examined by a duly qualified physical, psychiatrist or psychologist appointed by the Court, in order that the physical and mental condition of the child be given due consideration in the disposition of the case.  If for any reason, the child, parent, custodian or guardian of the child is against test provided for under this Section, citing certain religious beliefs for example, a bearing shall be conducted to arrive at the validity of the objection and the Court shall readjust its order accordingly.</text>
+      </section>
+      <section>
+        <num>9.1.2.050</num>
+        <heading>Hearings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Hearings shall be as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Hearings shall be conducted without a jury and may be conducted in an informal manner.  Hearings may be continued or recessed from time to time and, in interim, the Court may take such action and issue such orders as it deems in the best interests of the child.  The Court shall exclude the general public from these hearings and shall admit only those persons, who, in the discretion of the Court, have direct interest in the case or in the work of the Court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The child, parent, guardian or custodian have the right to be represented by lay counsel or by a professional attorney at their own expense.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Court shall appoint a guardian ad litem to protect the interests of the child when it appears at any stage of the proceedings that such action is necessary and the Court feels that such an appointment is desirable.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Except in delinquent proceedings, the Court may waive the presence of the child in Court at any state of the proceedings when it is in the best interest of the child to do so.  In a delinquency proceeding, after the child is found to be delinquent, the Court may excuse the presence of the child from the hearing when it is in the best interest of the child to do so.  In any proceeding, the Court may temporarily excuse the presence of the parent or guardian of the child when it is in the best interest of the child to do so.  The lay counsel, professional attorney or guardian ad litem, if any, has the right to continue to participate in any proceeding during the absence of the child, parent or guardian.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The child and his parent, guardian, custodian or professional attorney are entitled to be heard, to present evidence material to the case and to confront and cross-examine witnesses appearing at the hearing, and the child shall not be deprived of his right of privilege against self-incrimination.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.2.060</num>
+        <heading>Records</heading>
+        <para>
+          <num>(a)</num>
+          <text>Records of proceedings shall be kept as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Children's Court Judge shall keep a record of the proceedings in any manner as he deems necessary and proper.  The Children's Court records shall be deposited in the files and shall include the petition, summons, notice, finding, orders, decrees, judgments and motions, and such other documents as the Court deems necessary and proper.  The records maintained in this file shall be open at all reasonable times to the inspection of any child, to whom the records relate, and to his parent or guardian with the permission of the Court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Except as provided in the above Section, none of the records of the Children's Court shall be open to Public inspection or their contents disclosed except by order of the Court.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The San Ildefonso Police records pertaining to juveniles shall be kept separate from other records and shall not be open to the public or disclosed to the public except by order of the Children's Court.  The police shall not photograph or fingerprint any child taken into custody, without the consent of the Children's Court.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>9.1.3</num>
+      <heading>Detention</heading>
+      <section>
+        <num>9.1.3.010</num>
+        <heading>Taking a Child into Custody</heading>
+        <para>
+          <num>(a)</num>
+          <text>No child may be taken into immediate custody except:</text>
+          <para>
+            <num>(1)</num>
+            <text>With an order issued by the Court in accordance with the provisions of or by a warrant issued in accordance with the provisions of this Section.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In accordance with the laws relating to arrest; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>By a Law Enforcement Officer when a child has run away from his parent, guardian or custodian or when the Officer reasonably believes such child has run away from his parent, guardian or custodian or when a child is found in surroundings or conditions which endanger the child's health or welfare or which the Officer reasonable believes will endanger such child's health or welfare; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>By any authorized Youth or Probation Officer when it is reasonable believed that the child has violated the terms of his probation, parole or other order of supervision.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The taken of a child into custody under the provisions of this Section shall not be considered an arrest.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.3.020</num>
+        <heading>Release or Detention</heading>
+        <para>
+          <num>(a)</num>
+          <text>A child taken into custody may be released or detained as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>When a child is taken into custody, the parent, guardian or custodian of the child and the authorized Youth or Probation Officer shall be notified as soon as possible.  Except where the immediate welfare of the child or the protection of the community requires that the child be detained, the child shall be released by the authorized Youth or Probation Officer to the custody of his parent, guardian or other person on the promise of the person either orally or in writing to bring the child to the Court at any time as the Court may direct.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the child is not released, the Officer taking the child into custody shall notify the Court as soon as possible of the detention of the child and the reasons for detention.  The child may detained in a place of detention for not longer than twenty-four (24) hours, after being taken into custody unless an order for detention, specifying the reason for detention, is signed by the Children's Court Judge but no child may be held longer than forty-eight (48) hours, unless a petition has been filed.  The parent, guardian or custodian of the child shall be notified of the place of detention as soon as possible, and any detention facility for a child must have twenty-four (24) hours coverage.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If continued detention is not ordered, the Court or designated officer shall release the child to the parent, guardian or custodian of other persons approved by the Court.  The Court may release the child on his own recognizance or in certain cases may require a bail or bond to be posted.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.3.030</num>
+        <heading>Place of Detention</heading>
+        <para>
+          <num>(a)</num>
+          <text>A child may be detained in one of the following places:</text>
+          <para>
+            <num>(1)</num>
+            <text>A place designated by the Court suitable for care of the child, or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A room entirely separate from adults in a detention facility which must provide a 24-hour coverage.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>When a child is detained as provided in this Section, any federal, state, tribal, public or private non-profit agency may be requested to assist in arranging for the care of the child in a home or suitable facility, if necessary, which has been approved by the Court.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>9.1.4</num>
+      <heading>Disposition</heading>
+      <section>
+        <num>9.1.4.010</num>
+        <heading>Findings and Dispositions</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Children's Court may make the following findings and dispositions:</text>
+          <para>
+            <num>(1)</num>
+            <text>Dismiss the petition if the Court finds that the child is not within the jurisdiction of the Court, or the Court may terminate its jurisdiction on its own motion or the motion or petition of any interested person or party at any time when it feels it is in the best interests of the child to do so, or when the child reaches eighteen (18) years of age, or the Court finds that the facts alleged in the petition have not been proved.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The court may consider any report or recommendation made by the Bureau of Indian Affairs, Northern Pueblos Agency, other agency or individual or any other information material deemed necessary by the Court before making dispositions of a case.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Court may transfer to the Tribal Court any case involving a child who is found to be dependent, is found to be eighteen (18) years of age or older, or is found to be charged with an offense which the Court finds warrants that the child be transferred to Tribal Court for adjudication of the offense.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>If the Court finds that the child is delinquent or dependent on the basis of evidence and proof of each allegation beyond a reasonable doubt, it shall enter an order making any of the following dispositions of the ease which are deemed necessary for the rehabilitation of the child:</text>
+            <para>
+              <num>(A)</num>
+              <text>Counsel the child or his parents, guardian or custodian.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Place the child under the supervision of a Youth or Probation Officer or other person in his own home under conditions prescribed by the Court, including reasonable rules for his conduct and the conduct of his parents, guardian or custodian.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Subject to the continued supervision of the Court, transfer legal custody of the child to one of the following:</text>
+              <para>
+                <num>(i)</num>
+                <text>An individual of good character and place the child in a suitable home within the Pueblo; or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>An individual of good character and place the child in a suitable home outside the reservation, provided prior written consent of the child's parents or guardian and approval of the Council or its representative or committee is obtained.</text>
+              </para>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>If the child is found to have violated a local Pueblo law or ordinance which has resulted in damage to the property of another, the Court, if practical, may order the child, parent, guardian or custodian to make reasonable restitution for such damage.</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>If the child is in need of special treatment and care for his physical or mental health, the Court may request it be provided by the Bureau of Indian Affairs, Northern Pueblos Agency, Indian Health Service, other agency or person.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>If the Court believes that it is in best interest of the child and of public safety, that the driver's license of the child be suspended or revoked until his eighteen (18th) birthday, the Court may order this action and report it to the issuing agency for any period up to the child's eighteen (18th) birthday.  At any time, the Court may, for good cause, may restore the license or recommend to the issuing agency that the license be restored to the child.</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>The Court may expunge the adjudication of delinquency at any time that it deems advisable.</text>
+            </para>
+            <para>
+              <num>(H)</num>
+              <text>When it is in the best interests of the child to do so, the Court may continue the case for a period not to exceed ninety (90) days for the purpose of completing any consideration of any investigation or examination ordered by the Court.  During this continuance, the Court may order the child released or detained as the Court may determine.</text>
+            </para>
+            <para>
+              <num>(I)</num>
+              <text>All orders for supervision shall be for an indeterminate period unless otherwise specified by the Court, and shall be reviewed by the Court at least annually.  Upon the Court's own motion or that of any interested party, the Court has continuing jurisdiction to renew the order Or after notice to the parties and a hearing, make some other disposition of the case.  Any person to whom legal custody of a child is transferred shall report to the Court, as the Court may direct.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>If the Court finds that the Child is neglected or dependent, it shall enter an order making any of the following dispositions in the case:</text>
+            <para>
+              <num>(A)</num>
+              <text>Place the child under the protective supervision of the authorized Youth or Probation Officer in his own home or in a suitable home under conditions prescribed by the Court.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>If the child is in need of special treatment and care for his physical or mental health, the Court may order the child's parent, guardian or custodian to provide it or the Court may request it be provided by the Bureau of Indian Affairs, North-ern Pueblos Agency, Indian Health Services or other agency or person,</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Subject to the continual supervision of the Court, transfer legal custody of the child to one of the following:</text>
+              <para>
+                <num>(i)</num>
+                <text>An individual of good character and place the child in a suitable home within the Reservation.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>An individual of good character and place the child in a suitable home outside the Reservation, provided prior written consent of the child's parents or guardian and approval of the Tribal Council is obtained.</text>
+              </para>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>All orders under this sub-section shall be for an indeterminate length of time unless otherwise specified by the Court and upon its own motion or that of any interested party, the court has continuing jurisdiction to renew the order or, after notice to the parties and hearing, make some other disposition of the case. Any person to whom legal custody of a child is transferred shall report to the Court, as the court may direct.</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>The Children's Court shall establish criteria for foster homes and institutions, which shall be approved by the Tribal Council for the placement of minor children as ordered by the Court.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.4.020</num>
+        <heading>Child Traffic Offenders; Procedures: Dispositions</heading>
+        <para>
+          <num>(a)</num>
+          <text>Violations of the Traffic Code shall be handled in the following manner:</text>
+          <para>
+            <num>(1)</num>
+            <text>A child who violates the Traffic Rules and Regulations shall be adjudicated a "Child Traffic Offender."</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>When a child is alleged to have violated the Traffic Rules and Regulations, the Officer making the charge shall file a signed copy of the notice to appear with the Children's Court, and the notice to appear has the effect of a petition and gives the Children's Court jurisdiction.  Any person having knowledge of a child who violates the Traffic rule or regulations may petition the Children's Court.  Whenever a notice to appear or petition is filed alleging that a child is a traffic violator, the Court shall summon and notify the persons required to be notified or to be summoned.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Before making a disposition of any child found to be a highway offender, the Court may obtain from the Department of Motor Vehicles of the State of New Mexico or other state issuing the driver's license or other agency information of any previous highway violation by this child.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>If,, after a hearing, the Court finds that the welfare of a child highway traffic offender or the public safety would be better served under the laws controlling adult traffic offenders, the Children's Court may transfer the case to the San Ildefonso Tribal Court which shall proceed with the case as if the jurisdiction of the Children's Court had never attached.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>If the Children's Court finds that the child is a child highway offender, it may make any one or more of the following dispositions of the case:</text>
+            <para>
+              <num>(A)</num>
+              <text>Reprimand the child and counsel with the child and his parents; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Continue the case for a reasonable period under such conditions governing the child's use and operation of any motor propelled vehicles as the Court may set; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Require the child to attend an available driver improvement school or course on safety; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Suspend the child's drivers license and recommend to the issuing agency suspension or revocation of the child's drivers license; or</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>If the child is found to have committed three (3) moving highway traffic violations or to have contributed to a highway accident involving death, injury or physical damage in excess of $100.00, the Court may suspend the child's drivers license and recommend to the issuing agency or to the licensing authority of the state, the suspension or revocation or cancellation of the child's drivers license until he reaches the age of eighteen (18) years.  The Court may, for good cause, restore the child's drivers license or recommend to the issuing agency or to the licensing authority of the state that the child's driver's license be restored to him; or</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Place the child under the supervision of the authorized Youth or Probation Officer in his own home under conditions prescribed by the Court including reasonable rules relating to his operation and use of motor propelled vehicles.</text>
+            </para>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Children's Court records of Child Traffic Offenders shall be kept separate from other records of the Court.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.4.030</num>
+        <heading>Effect of Children's Court Proceedings</heading>
+        <para>
+          <num>(a)</num>
+          <text>No adjudication upon the status of any child in the jurisdiction of the Children's Court shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Operate to impose any of the civil disabilities imposed for conviction of a crime.  The disposition of the child or nay evidence given by the child in the Children's Court shall not be admissible as evidence against him in any case or proceeding in any other Court, nor shall the disposition or evidence in the Children's Court disqualify him for employment or enlistment in the Armed Services.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Nothing contained in this Section shall be construed to relate to subsequent proceedings in the Children's Court, nor shall preclude the Children's Court from disclosing information to qualified persons if the Court considers such disclosure to be in the best interests of the child.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A violation of the Pueblo of San Ildefonso Code by a child before becoming eighteen (18) years of age is not a crime unless the Children's Court refers the matter to the San Ildefonso Tribal Court of Federal Court and conviction results.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.4.040</num>
+        <heading>Grounds for Termination of Parental Rights</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Children's Court may, upon petition, terminate all rights of parents to a child in the following cases:</text>
+          <para>
+            <num>(1)</num>
+            <text>With the written consent of parents who for good cause desire to terminate their parental rights; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If it finds that one or more of the following conditions exist:</text>
+            <para>
+              <num>(A)</num>
+              <text>That the parents have abandoned the child permanently, or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>That the parents have subsequently and continuously or repeatedly refused to give the child care and protection; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>That although the parents are financially able they have substantially and continuously neglected to provide the child with necessary subsistence, education or other care or have neglected to pay for such subsistence, education or other care when legal custody is lodged with other; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>That the parents are unfit by conduct found by the Court to be detrimental to the welfare of the child; or</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>That following upon a determination of neglect or dependency, reasonable efforts by the parents under the directions for the Court have failed to improve or correct the conditions leading to the determination.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>9.1.4.050</num>
+        <heading>Procedures in Terminating Parental Rights</heading>
+        <para>
+          <num>(a)</num>
+          <text>Parental rights may be terminated as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any person having knowledge of circumstances which indicate that the rights of a parent to his child should be terminated, may petition the Children's Court as provided in this Title.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The termination of parental rights shall be made only after a hearing before the Court in the manner provided in this Title.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Court shall have notice of the time, place, and purpose ofteh hearing served on the parents and personal service shall be made at least ten (10) working days before the day of the hearing; and notice sent by certified mail, return receipt requested, shall be mailed and court date shall be set ten (10) working days from return receipt was signed.  If the Court determines that no return receipt is available after twenty (20) days from the date of mailing, and all other reasonable efforts to locate the parents have failed, the Court may adjudicate the child as abandoned for the purposes of this section.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>No parental rights of an incompetent parent may be terminated on consent of the parents unless the guardian ad litem, in writing, joins in the written consent of the parent or termination of his parental rights.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Minority of parents shall not be a bare to the right of consent nor shall it invalidate consent.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>If, after a hearing at which the parents may be represented by lay counsel, or professional attorney, the court does not terminate parental rights, but determines that conditions of neglect or dependence exist, the Court may find the child neglected or dependent and may enter an order in accordance with the provisions of this Title.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>If, after a hearing at which the parents may be represented by lay counsel, or professional attorney, the Court terminates parental rights, of both parents, or of the mother if the child is illegitimate or of the only living parent, the Court shall order guardianship and legal custody of the child transferred to:</text>
+            <para>
+              <num>(A)</num>
+              <text>A reputable individual of good character and the Court may place the child in a suitable home within the Pueblo, pro-viding the consent of the Tribal Council is obtained.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>A reputable individual of good character and the Court may place the child in a suitable home outside the Pueblo, providing the consent of the Tribal Council is obtained.</text>
+            </para>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>The guardian appointed by a Children's Court under the provisions of this Section has charge of the person of the child.  This guardian has the right to make all parental decisions affecting the person of the child and has legal custody of the child.  A children's Court guardianship does not include the guardianship of any estate of the child unless a legal guardian is appointed for that purpose.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>A certified copy of the finding and the order terminating parental rights and a summary of the Court's information concerning the child shall be furnished by the Court to the Bureau of Indian Affairs, Northern Pueblos Agency.  The orders shall be on a document separate from the findings.  The Court shall furnish the individual or individuals to whom guardianship is transferred a copy of the order terminating parental rights.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Upon its own motion or upon petition or an interested party, the Children's Court having jurisdiction of the child may, after notice to the parties and a hearing, removed the guardian appointed by the Children's Court and appoint a new guardian in accordance with the provisions of this Code.  Any child fourteen (14) years of age or older who is not adopted but who is placed in a suitable home, may, with the consent of the foster parents, join with the guardian appointed by the Children's Court in a petition to the Court having jurisdiction of the child to discharge the existing guardian and appoint the foster parents as guardians of the child.  The authority of any guardian appointed by the Children's Court terminates when the individual under guardianship attains eighteen (18) years of age.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>9.1.5</num>
+      <heading>Rehearing and Appeals</heading>
+      <section>
+        <num>9.1.5.010</num>
+        <heading>New Evidence</heading>
+        <para>
+          <num>(a)</num>
+          <text>New evidence may be presented to obtain a rehearing or an appeal from the order of the Children's Court.</text>
+          <para>
+            <num>(1)</num>
+            <text>A child whose status has been adjudicated by a Children's Court of his parent, guardian, custodian or spouse may, at any time ninety (90) days of the filing of the Court's order, petition the Court for a rehearing on the ground that new evidence has been discovered affecting the advisability of the Court's original adjudication or disposition.  Upon a showing that such evidence does exist, the Court shall order a new hearing and make such disposition of the case as the facts and the best interests of the child warrant.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An appeal may be taken by the aggrieved person from a final order affecting the aggrieved person, including but not limited to an order adjudging a child to be dependent, neglected, delinquent of a child traffic offender.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The appeal shall be taken to the Court of Appeals within thirty (30) days of the filing of the order of the Court.  The Clerk of the Court shall notify the person having custody of the child of the appeal.  Failure to notify the person having custody of the child does not affect the jurisdiction of the Court of Appeals.  The order of the Children's Court shall stand, pending the determination of the appeal, but the Court of Appeals may, in its discretion and upon application, stay the order.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The appeal from the Children's Court is taken to the Court of Appeals of the pueblo of San Ildefonso Judiciary which shall try the case over.  The procedure on the appeal shall be as prescribed in the Rules of the Court.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+  </container>
+</container>

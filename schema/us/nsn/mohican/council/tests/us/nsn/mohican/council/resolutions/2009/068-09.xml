@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 068-09">
+  <num>068-09</num>
+  <heading/>
+  <meta>
+    <ordinance>Commercial-Security Interests</ordinance>
+    <effective/>
+    <history>
+      <adopted>2009-06-29</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/068-09.pdf">Stockbridge-Munsee Tribal Council Res. No. 068-09</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe adopted the New York Uniform Commercial Code ("UCC") as tribal law in relation to commercial security interests in Chapter 59 as a component of an agreement for the developing a casino in New York State;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe now intends to obtain funding from a lender in relation to the completion of work on a hotel for the North Star Mohican Casino facility and the payment of outstanding amounts on previously completed work on the facility and such lender has requested that the Tribe amend Chapter 59 to address certain issues, including the applicability of the NY UCC in relation to activities in Wisconsin; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe wishes to amend Chapter 59 to address these issues.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 59, which include the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Amending Sections <cite doc="Stockbridge-Munsee Tribal Code" path="59.1" proof="needed">59.1</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="59.2" proof="needed">59.2</cite>;</li>
+        <li>Creating new Sections <cite doc="Stockbridge-Munsee Tribal Code" path="59.1|(A)|(1)" proof="needed">59.1(A)(1)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="59.1|(B)" proof="needed">59.1(B)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="59.1|(C)" proof="needed">59.1(C)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="59.1|(D)" proof="needed">59.1(D)</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="59.1|(E)" proof="needed">59.1(E)</cite>; and</li>
+        <li>Renumbering <cite doc="Stockbridge-Munsee Tribal Code" path="59.1" proof="needed">Section 59.1</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="59.1|(A)" proof="needed">59.1(A)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="27.4" proof="needed">Section 27.4</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="59.4" proof="needed">59.4</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="27.5" proof="needed">Section 27.5</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="59.5" proof="needed">59.5</cite>.</li>
+      </ul>
+    </text>
+  </recitals>
+  <annotations>
+    <annotation type="Legislative History">Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01">Section BUS.05.01</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.02">Section BUS.05.02</cite>; Created new <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01|(a)|(1)">Section BUS.05.01(a)(1)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01|(b)">Section BUS.05.01(b)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01|(c)">Section BUS.05.01(c)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01|(d)">Section BUS.05.01(d)</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01|(e)">Section BUS.05.01(e)</cite>; and renumbered <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01">Section BUS.05.01</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.01|(a)">Section BUS.05.01(a)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§GMG.02.04">Section GMG.02.04</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.04">Section BUS.05.04</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="§GMG.02.05">Section GMG.02.05</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="§BUS.05.05">Section BUS.05.05</cite>.</annotation>
+  </annotations>
+</document>

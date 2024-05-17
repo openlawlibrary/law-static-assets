@@ -1,0 +1,937 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>2</num>
+  <heading>GOVERNOR</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.1</num>
+    <heading>Signatory Authority.</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-018, dated April 18, 2012.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.1.1</num>
+      <heading>Signatory Authority</heading>
+      <section>
+        <num>2.1.1.010</num>
+        <heading>General Findings</heading>
+      </section>
+      <section>
+        <num>2.1.1.020</num>
+        <text>The Pueblo government affects accountability every day in the day-to-day operations of the Pueblo and its departments, authorities, and programs;</text>
+      </section>
+      <section>
+        <num>2.1.1.030</num>
+        <text>Various signatures of Pueblo officials and employees are required on a daily basis in order to process paperwork and implement various programs;</text>
+      </section>
+      <section>
+        <num>2.1.1.040</num>
+        <text>The Pueblo does not explain the reasons for including each signature, which undermines accountability of each Department, Authority, and Program to the People;</text>
+      </section>
+      <section>
+        <num>2.1.1.050</num>
+        <text>Each signature may affect accountability to the Pueblo People and legal liabilities of the Pueblo or the signing official or employee.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.1.2</num>
+      <heading>Signatory Authority Act</heading>
+      <section>
+        <num>2.1.2.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Signatory Authority Act ("Act").</text>
+      </section>
+      <section>
+        <num>2.1.2.020</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Governor" means the Pueblo de San Ildefonso Governor.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.1.2.030</num>
+        <heading>Purpose</heading>
+        <text>This Act sets forth uniform standards and procedures for signatory authority for all government operations and activities.  All Officers and employees of the Pueblo shall comply with the provisions of this Act.</text>
+      </section>
+      <section>
+        <num>2.1.2.040</num>
+        <heading>Jurisdiction</heading>
+        <text>The Pueblo is a sovereign and self-governing Nation, with the authority to govern its people, lands, and resources.  The Council is a duly recognized governmental entity acting primarily with the legislative authority for the Pueblo and shares the responsibility for the Pueblo's exercise of its sovereign governmental powers.</text>
+      </section>
+      <section>
+        <num>2.1.2.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo government affects accountability every day in the day-to-day operations of the Pueblo and its departments, authorities, and programs;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Various signatures of Pueblo officials and employees are required on a daily basis in order to process paperwork and implement our various programs;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo does not explain the reason for including each signature, which undermines accountability of each Department, Authority, and Program to the Pueblo People;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Each signature may affect accountability to the Pueblo de San Ildefonso People and legal liabilities of the Pueblo or the signing official or employee;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo finds and declares that pursuant to the Agreement, the Council has an obligation to the Pueblo to oversee the Pueblo's operations; and,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>As part of this oversight authority, the Council has identified, for the good of the Pueblo, that there is an urgent need to clarify, outline, and further delineate the authority, goals, duties, and responsibilities of the Executive officials and employees and their signatory authority.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.1.2.060</num>
+        <heading>General Policy</heading>
+        <text><em>Requests for Expenditures of Funds</em>.  Any request for expenditures of funds shall be by Purchase Order.  Each Purchase Order shall, unless otherwise provided herein, include signatures obtained in the following order:</text>
+        <para>
+          <num>(a)</num>
+          <heading>Signature of Department Employee.</heading>
+          <text>The signature of a classified employee within any Department or Authority on any purchase order shall mean that the requisitioning Department needs the item being requisitioned.  Because the head of a Department or Authority may directly requisition goods or services, the Department Employee signature line may, in those instances, remain blank.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Signature of Department Head.</heading>
+          <text>The signature of a Department Director or Manager shall mean that the requisitioning Department or Authority is legally authorized to make the expenditure and that the signatory believes the funding is budgeted.  Legal authorization for expenditures may be found in:</text>
+          <para>
+            <num>(1)</num>
+            <text>a law or resolution as enacted by the Council; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a contract between the Pueblo and the U.S. federal or state government; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>by the terms of the grant from which the funding shall be spent.</text>
+          </para>
+        </para>
+        <aftertext>Authorization can not come from the Annual Budget by itself, but must come from the authorizing laws, contracts, or grants.  The Department Head signature line may remain blank only if the Purchase Order is submitted directly by the Office of the Governor for a purchase directly for one of those Offices.</aftertext>
+        <para>
+          <num>(c)</num>
+          <heading>Signature of Comptroller/Assistant Controller.</heading>
+          <text>The signature of the Comptroller shall mean that actual money is available to complete the purchase and in compliance with the Annual Budget.  Additionally, the signature of the Controller shall mean that the Purchase Order complies with all applicable procurement requirements, such as any requirements for sealed bids, a competitive price checks, or Indian preference.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Signature of Governor.</heading>
+          <text>The signature of the Governor on a Purchase Order originating from any Department shall mean that all other required signatures have been obtained and the Purchase Order is ready for processing.  The signature of the Governor on a Purchase Order is required if the Purchase Order is over $500.00.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.1.2.070</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+      </section>
+      <section>
+        <num>2.1.2.080</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.2</num>
+    <heading>Authorizations.</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-003, dated January 3, 2012.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.2.1</num>
+      <heading>Authorizing Emergency Powers to Governor</heading>
+      <section>
+        <num>2.2.1.010</num>
+        <heading>Findings</heading>
+      </section>
+      <section>
+        <num>2.2.1.020</num>
+        <text>There are emergency situations that arise that require quick and immediate response by the Pueblo to protect the safety, health and well-being of the Pueblo community members or its property;</text>
+      </section>
+      <section>
+        <num>2.2.1.030</num>
+        <text>There are unforeseen traditional and cultural matters that require quick or immediate response by the Governor's Office to either limit or close access to the Pueblo.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.2.2</num>
+      <heading>Authorization</heading>
+      <section>
+        <num>2.2.2.010</num>
+        <text>The Tribal Council authorizes the Governor or their designee, to immediately respond and take any and all appropriate actions as may be deemed necessary in such emergency or urgent situations and for unforeseen traditional and cultural matters.</text>
+      </section>
+      <section>
+        <num>2.2.2.020</num>
+        <text>The Governor keep the Tribal Council informed of any such emergency or urgent and unforeseen situations and the actions taken at the earliest possible time.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.2.3</num>
+      <heading>Law Enforcement Commission Act of 2015</heading>
+      <section>
+        <num>2.2.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo's jurisdiction extends to all lands, persons, and activities within the Pueblo;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The safety, health and well-being of the Pueblo's community members and protection of property are matters of great importance;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo relies on the Bureau of Indian Affairs Office of Justice Services ("BIA Law Enforcement") to provide the primary law enforcement services for the Pueblo;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>BIA Law Enforcement does not have a sufficient number of police officers to provide the necessary law enforcement coverage at the Pueblo for Feast Day;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Pursuant to Section 5.1(5) of the Pueblo's Civil and Criminal Code, the Council may issue commissions to law enforcement officers from other jurisdictions in accordance with the traditions and customs of the Pueblo;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council has determined it to be in the best interests of the Pueblo to authorize the Governor to issue law enforcement commissions to law enforcement officers from other jurisdictions as necessary to ensure proper law enforcement coverage during the annual Feast Day time period.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.2.3.020</num>
+        <heading>Law Enforcement Commission Act</heading>
+      </section>
+      <section>
+        <num>2.2.3.030</num>
+        <heading>[RESERVED]</heading>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.3</num>
+    <heading>Intergovernmental Agreements.</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.1</num>
+      <heading>Delegating to the Governor Certain Governmental Authority of The Pueblo Over Joint Trust Lands in Albuquerque</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-012, dated April 9, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
+      <section>
+        <num>2.3.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>A tract of land situated in the East Half of Section 7 and the West Half of Section 8, T. 10 N., R. 3 E., of New Mexico Principal Meridian, in Bernalillo County, State of New Mexico, consisting of approximately 44.201 acres of land held by the United States in trust for the 19 Pueblos of New Mexico pursuant to a Trust Deed dated February 15, 1993;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A tract of land situated in Section 7, T.10 N., R. 3 E., New Mexico Principal Meridian, in Bernalillo County, State of New Mexico, consisting of approximately 11.2857 acres, held by the United States in trust for the 19 Pueblos of New Mexico pursuant to Public Law 95-232;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Two tracts of land situated in Section 7 and Section 8 of T. 10 N., R. 3 E., of New Mexico Principal Meridian, in Bernalillo County, State of New Mexico, consisting of approximately 8.4759 acres in total, held by the United States in trust for the 19 Pueblos of New Mexico pursuant to Public Law 110-453, collectively, the "Albuquerque Trust Land";</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Albuquerque Trust Land is part of Indian Country and is not subject to state, county and city laws;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The 19 Pueblos have the responsibility to govern the Albuquerque Trust Land by adopting and enforcing Pueblo Law on that land;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>It is in the best interests of all 19 Pueblos to ensure that Pueblo Law is applied on the Albuquerque Trust Land so that there is no valid basis for any other government to seek to impose its laws on that land;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The sovereign authority to govern the Albuquerque Trust Land is shared by all 19 Pueblos;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Exercising the sovereign authority of the Pueblos over the Albuquerque Trust Land required the cooperation of all of the Pueblos who choose to join in governing that land;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The most effective way to ensure that Pueblo Law applies on the Albuquerque Trust Land is for each Pueblo, by resolution of its Tribal Council, to delegate to its Governor certain sovereign powers of the Pueblo over the Albuquerque Trust Land, so that the Governors acting together will have the authority necessary to impose Pueblo Law on the Albuquerque Trust Land.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.1.020</num>
+        <text>The Tribal Council of the Pueblo de San Ildefonso hereby authorizes the Governor of the Pueblo de San Ildefonso to exercise the following governmental powers of the Pueblo on behalf of the Tribal Council, but only to the extent those powers are applied to the Albuquerque Trust Land:</text>
+        <para>
+          <num>(a)</num>
+          <text>The power to enact ordinances to impose, administer, and collect a property tax, a lodgers tax, a gross receipts, a sales tax, a cigarette excise tax, and/or a gasoline excise tax;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The power to enact, implement and enforce criminal and civil laws to promote the peace, safety, property, health and general welfare of people present within the Albuquerque Trust Land;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The power to authorize, license, and regulate liquor transactions within the Albuquerque Trust Land;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The power to regulate land uses and protect the environment and natural resources of the Albuquerque Trust Land;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The power to establish and prescribe the powers, rules and procedures of a court system having territorial jurisdiction over the Albuquerque Trust Land, provided that the court system shall not assert jurisdiction over a member of the Pueblo de San Ildefonso unless the Governor determines that asserting that jurisdiction does not violate the laws, traditions and customs of the Pueblo de San Ildefonso concerning its members;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The power to enter into agreements with the United States, one or more tribes, and/or one or more states for the cooperative enforcement of any ordinance in effect on the Albuquerque Trust Land.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.1.030</num>
+        <text>The Governor's exercise of any power delegated by this Ordinance shall not apply on any land subject to the jurisdiction of the Pueblo de San Ildefonso other than the Albuquerque Trust Land.</text>
+      </section>
+      <section>
+        <num>2.3.1.040</num>
+        <text>The decision whether to exercise any of the powers delegated by this Ordinance is left to the sound discretion of the Governor.</text>
+      </section>
+      <section>
+        <num>2.3.1.050</num>
+        <text>The Governor shall not exercise the powers delegated by this Ordinance  unilaterally, but shall work with the Governors of other Pueblos to accomplish the objective of applying one set of Pueblo Laws on the Albuquerque Trust Land.</text>
+      </section>
+      <section>
+        <num>2.3.1.060</num>
+        <text>The Governor is authorized to join with the Governors of other Pueblos to create a joint political subdivision of the Pueblos that will provide a governance structure for the Albuquerque Trust Land under the sovereign authority of the Pueblos and for the benefit of the Pueblos.</text>
+      </section>
+      <section>
+        <num>2.3.1.070</num>
+        <text>The Governor is authorized to delegate to such a joint political subdivision the authority to exercise some or all of the powers of this Resolution delegates to the Governor; provided that the Governor shall retain the authority to rescind any delegation of authority to the joint political subdivision if he believes it is in the best interests of the Pueblo.</text>
+      </section>
+      <section>
+        <num>2.3.1.080</num>
+        <text>The Governor is authorized to grant such a joint political subdivision the authority to waive the political subdivision's sovereign immunity from suit; provided that the joint political subdivision shall not have the authority to waive the sovereign immunity of the Pueblo.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.2</num>
+      <heading>Approving Amendment No. 2 to Perpetual Ground Lease of Former Albuquerque Indian School Property</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-014, dated April 22, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-014"/>
+      <section>
+        <num>2.3.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The 19 Pueblos of New Mexico are joint owners of Indian Pueblos Federal Development Corporation ("IPFDC"), a corporation organized under 25 U.S.C. §477;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>IPFDC and the 19 Pueblos of New Mexico are parties to the "Perpetual Ground Lease between the 19 Indian Pueblos of New Mexico and the Indian Pueblos Federal Development Corporation" approved by the Secretary of the Interior on June 18, 1997 and amended by Amendment No. 1 approved by the Secretary of the Interior on March 27, 2003 (the "Lease");</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Lease grants IPFDC a leasehold interest in a tract of land that was formerly used for the Albuquerque Indian School and is situated in the East Half of Section 7 and the West Half of Section 8, T. 10 N., R. 3 E., New Mexico Principal Meridian, in Bernalillo County, State of New Mexico, as described in Exhibit A of the Lease, consisting of approximately 44.201 acres of land held by the United States in trust for the 19 Pueblos of New Mexico pursuant to a 1993 Trust Deed (the "Leased Land");</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Board of Directors of IPFDC has concluded that development and management of the Leased Land for the benefit of the 19 Pueblos can be achieved most efficiently by assigning IPFDC's interests in the Lease to Indian Pueblo Marketing, Inc. ("IPMI"), a corporation organized under 25 U.S.C. §477 and owned by the 19 Pueblos of New Mexico;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Section 4.5 of the Lease provides that IPFDC as Lessee shall not assign any of its rights under the Lease or any interest in the leasehold estate created by the Lease, or any right, title or interest in any portion thereof;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Board of Directors of IPFDC has recommended that Section 4.5 of the Lease should be amended to authorize assignment of the Lease to IPMI;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Public Law 110-453 directed the Secretary of the Interior to take into trust for the benefit of the 19 Pueblos of New Mexico certain additional lands in Section 7 and Section 8, T. 10 N., R. 3 R., New Mexico Principal Meridian, in Bernalillo County, State of New Mexico, as described in §103(b) of said Public Law (the "P.L. 110-453 Lands");</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Board of Directors of IPFDC has concluded that IPFDC does not have the financial or management capacity to develop the P.L. 110-453 Lands for the benefit of the 19 Pueblos, and therefore has recommended that the 19 Pueblos should not assign any development or management responsibility over the P.L. 110-453 Lands to IPFDC;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Board of Directors of IPMI has agreed to accept the assignment of the Lease and has agreed to manage the P.L. 110-453 Lands for the 19 Pueblos;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The attached "Amendment No. 2 to Perpetual Ground Lease" will authorize IPFDC to assign the Lease to IPMI, and will add the P.L. 110-453 Land to the Lease after it is assigned to IPMI.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.2.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and authorizes the Governor to execute the attached "Amendment No. 2 to Perpetual Ground Lease" on behalf of the Pueblo.</text>
+        <text>
+          <strong>[NO ATTACHMENT]</strong>
+        </text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.3</num>
+      <heading>Granting Limited Governance Authority to Santa Fe Indian School, Inc. for Specific Emergency Response and Land Management Purposes [MISSING]</heading>
+      <section>
+        <num>2.3.3.010</num>
+        <heading>Findings</heading>
+      </section>
+      <section>
+        <num>2.3.3.020</num>
+        <heading>[RESERVED]</heading>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.4</num>
+      <heading>Authorizing a Cooperative Agreement Between the State of New Mexico Taxation and Revenue Department and the Pueblo de San Ildefonso</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-038, dated September 23, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-038"/>
+      <section>
+        <num>2.3.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council has enacted comprehensive taxation laws for the administration and enforcement of all taxes imposed by the Pueblo de San Ildefonso;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The New Mexico Taxation and Revenue Department ("Taxation and Revenue Department") is authorized by NMSA 1978, §9-11-12.1 to enter into an agreement with the Pueblo to allow the State and Pueblo to exercise joint administration, enforcement, collection and auditing of gross receipts tax revenues for transactions occurring within the Pueblo's lands that are subject to taxation by both the State and Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Under the Cooperative Agreement, if the Pueblo grants the State a 25% credit against its gross receipts tax, the State will grant a 75% credit against State and local gross receipts tax and each entity will share the tax proceeds from a taxpayer who is subject to both taxes, thereby generating tax revenue for the Pueblo;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Taxation and Revenue Department has the resources for efficient and effective tax collection for gross receipts tax revenues paid by non-tribal taxpayers doing business within the Pueblo's lands;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has reviewed the proposed Cooperative Agreement draft attached hereto and finds it in the best interest of the Pueblo to enter into a Cooperative Agreement with the Taxation and Revenue Department for the administration and enforcement of gross receipts taxes for transactions and activities by non-tribal taxpayers with the Pueblo's lands.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.4.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby authorizes the Governor to enter into a Cooperative Agreement between the Pueblo and New Mexico Tax and Revenue Department for exercise of joint administration, enforcement, collection and auditing of gross receipts tax revenues for transactions occurring with the Pueblo's lands that are subject to taxation by both the State and Tribe.</text>
+      </section>
+      <section>
+        <num>2.3.4.030</num>
+        <text>The Pueblo de San Ildefonso Council authorizes the Governor enter into a form of Cooperative Agreement substantially similar to the draft Cooperative Agreement reviewed by the Council and attached hereto and authorizes such technical revisions to the Cooperative Agreement as may be necessary.</text>
+        <text>[Attachment]</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.5</num>
+      <heading>Accepting the Memorandum of Agreement Between The U.S. Department of Energy/National Nuclear Security Administration and the Pueblo De San Ildefonso</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-023, dated June 5, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-023"/>
+      <section>
+        <num>2.3.5.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo desires to establish procedures for request to access Pueblo land by the Department of Energy ("DOE") and for the Pueblo to access sites within DOE property and data sharing between the parties;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Memorandum of Agreement between the U.S. Department of Energy/National Nuclear Security Administration and the Pueblo ("MOA") establishes and documents specific procedures for access to Pueblo lands and information, data sharing, and responding to inadvertent discoveries consistent with the government to government relationship generally recognized in the ACCORD signed by the parties on October 20, 2005;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined it to be in the best interest of the Pueblo to accept the MOA for such purpose.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.5.020</num>
+        <heading>The Pueblo de San Ildefonso hereby accepts the entry into the MOA attached hereto.</heading>
+        <text>[ATTACH?]</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.6</num>
+      <heading>Approving The North Central Regional Transit District Amended Intergovernmental Contract</heading>
+      <section>
+        <num>2.3.6.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>New Mexico governmental units are authorized to establish regional transit districts;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The initial signatories ("Initial Members") began working together to form such a district in 2003;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Initial Members of the North Central Regional District (the "District") voted and approved the addition of new members whose governmental units are within the boundaries of the District;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The District is requesting that all members execute a new Intergovernmental Contract to add the new members and confirm the voting rights of each member;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has been fully briefed and has reviewed the attached Intergovernmental Contract and has determined that it is in the best interest of the Pueblo to approve the Agreement, provided, however the Council confirms that it is not waiving, limiting or modifying its sovereign immunity from suit by approving the Agreement.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.6.020</num>
+        <heading>The Pueblo de San Ildefonso Tribal Council hereby approves the attached Intergovernmental Contract.</heading>
+        <text>[ATTACH?]</text>
+      </section>
+      <section>
+        <num>2.3.6.030</num>
+        <heading>By such approval, the Council is not waiving, limiting or modifying its sovereign immunity from suit.</heading>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.7</num>
+      <heading>Delegating To The Governor Certain Governmental Authority Of the Pueblo de San Ildefonso Over the Santa Fe Indian School Trust Lands</heading>
+      <section>
+        <num>2.3.7.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign Indian tribe and has exercised inherent sovereign authority from time immemorial; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The sovereign authority of the Pueblo is vested in its Council and Governor; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pursuant to the Santa Fe Indian School Act, 114 Stat. 2868, (2000), approximately 115 acres of land, which includes the Santa Fe Indian School ("SFIS") and the Indian Health Service Unit properties, were taken into trust by the U.S. for the benefit of the 19 Pueblos in New Mexico ("the SFIS Trust Lands"); and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Santa Fe Indian School Trust Land is part of Indian County and is not subject to state, county or city laws; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In 2004, each of the 19 Pueblos, including the Pueblo de San Ildefonso, delegated its authority on all matters related to the governance, operation and  administration of the SFIS Trust Lands to the Santa Fe Indian School, Inc. ("SFIS, Inc.") and its Board of Trustees, the entity also responsible for educational functions of the Santa Fe Indian School; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In 2010, the Pueblo passed Resolution No. SI-R10-041 to rescind its Tribal Council Resolution No. SI-R04-005 that had granted broad governance authority to the SFIS Board of Trustees, and to limit the Council's authorization for SFIS, 	Inc. to such things as necessary and appropriate to the operation and administration of the Indian School; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo passed Resolution No. SI-R15-015 that later granted limited governance authority to the SFIS, Inc. to enter into agreements for emergency response situations and to address specific land management issues; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>In 2012, in response to concerns of the Governors that economic development and governance of the SFIS Trust Lands was taking precedence over education activities, the SFIS Inc. Board of Trustees adopted Resolution No. 20120511 committing to the separation of the educational functions of the School and the economic development projects on the SFIS Trust Lands, and further committing to work to consensus with the 19 Pueblo Governors and their Tribal Councils 	before proceeding with the establishment of any type of governance activity; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>At a Special Governors meeting in July 2015, the Governors adopted Resolution No. 20150720 reaffirming their support for the separation of governance functions for the SFIS Trust Lands from the SFIS educational functions, and establishing a Governance Subcommittee consisting of Governors and other designated tribal representatives to analyze the options for a separate governance structure; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The 19 Pueblos established the Albuquerque Indian School District (AISD) as the 	governmental entity responsible for the Albuquerque Indian School trust lands and the governing authority is exercised by the AISD Governing Council, comprised of the 19 Pueblo Governors; and</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Pursuant to SFIS, Inc. Member Resolution No. 20151105, the Governors adopted the Governance Subcommittee's recommendation that the governance structure in place at the Albuquerque Indian School District be used for governance of the SFIS Trust Lands and directed a transition of governance responsibilities for the SFIS Trust Lands to AISD; and</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Pursuant to AISD Governing Council Resolution No. GC 2015-12, the AISD Governing Council adopted the AISD Oversight Commission's recommendation that the existing AISD governance structure be used for governance of the SFIS Trust Lands.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.7.020</num>
+        <text>The Council hereby rescinds Resolution No. SI-R10-040 and Resolution No. SI-R15-015 in their entirety and enacts the attached law entitled, "DELEGATING TO THE GOVERNOR CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO DE SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS."</text>
+      </section>
+      <section>
+        <num>2.3.7.030</num>
+        <heading>Title</heading>
+        <text>This enactment shall be known as: "DELEGATING TO THE GOVERNOR CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO de SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS."</text>
+      </section>
+      <section>
+        <num>2.3.7.040</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"AISD" shall mean the Albuquerque Indian School District.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Governor" shall mean the Governor of the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" shall mean the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"SFIS" shall mean the Santa Fe Indian School.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"SFIS, Inc." shall mean the Santa Fe Indian School, Inc.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.3.7.050</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this law is to authorize the Governor to actions that are necessary to transfer the governance structure over the Santa Fe Indian School Trust Lands from the SFIS to the AISD, and to authorize the Governor to take actions as a member of the AISD Governing Council related to the governance of the SFIS Trust Lands.</text>
+      </section>
+      <section>
+        <num>2.3.7.060</num>
+        <heading>Authorization to Act on SFIS Governance and Trust Land Issues</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby enacts the following as the law of the Pueblo:</text>
+          <para>
+            <num>(1)</num>
+            <text>Pueblo de San Ildefonso Tribal Council Resolution No. SI-R10-041, adopted on December 7, 2010, and Pueblo de San Ildefonso Council Resolution No. SI-R15-015, adopted on June 22, 2015, are hereby rescinded so that neither resolution has any force or effect; provided that the Council authorizes the SFIS, Inc. Board of Trustees to exercise such governance authority as necessary and appropriate over the SFIS Trust Lands in the interim period until the AISD Governing Council properly assumes governance jurisdiction over the SFIS Trust Lands.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The AISD Governing Council is authorized to be responsible for all governance matters on the SFIS Trust Lands, with the AISD Oversight Commission providing oversight of the SFIS Trust Lands operations and AISD staff be responsible for administration of the governance functions on the SFIS Trust Lands.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Governor, when sitting as a member of the AISD Governing Council, is authorized to exercise governmental powers of the Pueblo on behalf of the Tribal Council, over all matters related to governance of the SFIS Trust Lands.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Governor's exercise of any power delegated by this Resolution shall not apply on any land subject to the jurisdiction of the Pueblo de San Ildefonso other than the SFIS Trust Land, and the AISD Trust Land over which the AISD Governing Council already exercises governance authority.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The decision whether to exercise any of the powers delegated by this Resolution is left to the sound discretion of the Governor.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The AISD Governing Council shall make certain that all revenues derived from the Santa Fe Indian School Trust Lands shall be used for the benefit of the Santa Fe Indian School and Pueblo education.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>The AISD shall provide operational budgets, comprehensive quarterly reports and financial statements relating to the SFIS Trust Lands governance operations.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>The SFIS, Inc. Board of Trustees is authorized to continue to be responsible for all educational functions of the Santa Fe Indian School until such time as there is a change in the educational structure, if at all, to establish a separate school board to handle the educational mission of the Santa Fe Indian School.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is hereby authorized to act on behalf of the Pueblo to take such actions as necessary to carry out the intent of this law regarding governance matters related to the SFIS Trust Lands.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.4</num>
+    <heading>Governor's Code of Ethics and Conduct</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.4.1</num>
+      <heading>Governor's Code of Ethics and Conduct</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-018, dated September 2, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-018"/>
+      <section>
+        <num>2.4.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council finds the need to define a standard of conduct for ethical behavior the Governor is expected to meet throughout the duration of his/her elected term;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council also finds the need to, establish a formal procedure for Council Removal of the Governor who is charged with being in violation of this Governor's Code of Ethics.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council hereby enacts the attached law entitled, "Governor's Code of Ethics and Conduct."</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Pueblo de San Ildefonso Governor's Code of Ethics and Conduct ("Governor's Code of Ethics").</text>
+      </section>
+      <section>
+        <num>2.4.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso Governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Code of Ethics" means the Governor's Code of Ethics.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Governor" means Governor of the Pueblo de San Ildefonso</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"People" means enrolled members of the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Representative(s)" means an elected Representative on the Pueblo de San Ildefonso Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to define the standard of conduct for ethical behavior that the Governor is expected to meet throughout the duration of his/her elected term and to provide a formal procedure for Council to remove a Governor who is found to have violated this Code of Ethics.</text>
+        <text>This Code of Ethics will not ensure ethical behavior but will set standards that will lead to greater ethical awareness of expectations for the Governor, offer guidance on handling ethical problems that might arise in the course of doing business, and provide consistency in the application of removal procedures.</text>
+        <text>This Code of Ethics will help guide Council discussion of any personal acts by the Governor that violate ethical behavior, which may result in a decision by the Council to prepare formal written charges seeking the removal of the Governor for alleged violations of the Code of Ethics.</text>
+      </section>
+      <section>
+        <num>2.4.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor represents the Pueblo at all times throughout the duration of his/her term.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor shall act in the best interest of the People in order to respect, perpetuate, and advance the culture, values, customs, and traditions of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Components of ethical behavior for the Governor include honesty, integrity, transparency, accountability, confidentiality, objectivity, respectfulness, obedience to the law, and loyalty. The Governor has an ethical duty to promote the well-being, happiness, and flourishing of the Pueblo and People.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Governor is responsible to exhibit social responsibility, fiduciary responsibility, and ethical business practices.  The Governor shall avoid conflicts of interest, bribery/kickbacks, appearance of impropriety, and unethical and illegal actions.  It is the responsibility of the Governor, in accordance with the laws enacted by the Council, to balance the interaction of profit-maximizing business with non-economic concerns.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Agreement establishes a separation of functions between the law-making and budget powers vested in the Council, and the executive functions vested in the Governor, and under the Agreement, the Council may remove a Governor from office by a vote of four-fifths vote of the entire Council after providing due process.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Acts that violate a law or regulation and are punishable by law shall be adjudicated by the Courts; provided, that any adjudication in the Courts shall not prevent the Council from exercising its authority to remove a Governor as authorized by the People in the Agreement.  The Governor is expected to govern himself/herself in accordance with the laws as contained in applicable written statutes, codes, and resolutions, including, without limitation, the laws of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Failure of the Governor to comply with this Code of Ethics may result in a decision by the Council to remove the Governor from office.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.060</num>
+        <heading>Governor's Code of Ethics</heading>
+        <text>The Governor shall at all times abide by and conform to the following Code of Ethics in his/her capacity as Governor. If the Governor violates any provisions of the Code of Ethics, his/her representation of the Pueblo as Governor will be subject to review by the Council, where the nature and severity of the offense will be a factor in any decision on removal of the Governor by the Council.</text>
+      </section>
+      <section>
+        <num>2.4.1.070</num>
+        <heading>Standards of Conduct</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Discharge the duties of Governor with great moral turpitude and in accordance with the tradition and customs of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><strong>AT ALL TIMES, </strong>use his/her best efforts to represent the interests and protect the integrity of the Pueblo through professional decorum; the Governor shall conduct himself/herself so as not to bring disgrace or embarrassment upon the Pueblo.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Provide collective leadership and direction in accordance with the Agreement.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Attend Council meetings as often as possible, however, in recognition of the numerous demands and obligations of the Office of Governor, mandatory attendance at all Council meetings is not expected or required.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Maintain confidentiality of issues designated as confidential by law, which may include such matters as pending litigation, care of minors, or culturally sensitive issues.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Demonstrate the highest standards of personal integrity, truthfulness, honesty, and fortitude in all Pueblo and personal activities, in order to inspire public confidence, respect, and trust in government.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Abide by the spirit and letter of the laws of the Pueblo and all other applicable laws and regulations.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Treat all people in a courteous, respectful, and lawful manner so as not to create an unsafe or hostile working environment.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Use, request, permit, or direct the use of, Pueblo vehicles, equipment, material, or other government-owned property only for official business purposes of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Be permitted to accept food and refreshments in the ordinary course of an official luncheon or business dinner or other official meeting; The Governor may accept unsolicited gifts or promotional materials of nominal value less than $100; however, any gift valued at $100 or more may be accepted but shall become the property of the Pueblo; Gifts of moderate value may be accepted by the elected official for traditional gift-giving holidays or events from friends and relatives where the relationship existed prior to the giver's establishment of a contractual, financial, or regulatory relationship with the Pueblo.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.080</num>
+        <heading>Conduct to Avoid</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor shall NOT:</text>
+          <para>
+            <num>(1)</num>
+            <text>Use the status or position as an elected official to secure special privileges or exemptions for personal gain including for a spouse, child, parent, or other person.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Disclose or use for his/her personal benefit business proprietary information of the Pueblo acquired in his/her official capacity as Governor.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Make or authorize any expenditure that exceeds an appropriation of funds approved in an Annual Budget or Budget Modification.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.090</num>
+        <heading>Executive and Fiduciary Responsibilities of the Governor</heading>
+        <text>The People, through the Agreement, provide the Governor the authority "to maintain a limited government, to enforce and administer the laws and budgets enacted by the Council, to provide general supervision of the government and its subdivisions, to enforce court orders, and to respect, perpetuate, and advance the culture, values, customs, and traditions of the Pueblo." The Governing Agreement, Governor, Section 4. Authority states:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor shall see that the laws are carried into effect and the budget is lawfully administered.  The Governor shall have general supervision of the government, departments, and programs.  The Governor shall enforce court orders.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor or his designee shall serve as the official spokesperson for the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Every action of the Council before it becomes law shall be presented to the Governor for signature, or veto with written objections.  The Governor shall have the right to veto a proposed law passed by the Council within seven days of presentation.  The Council shall have the power to override a veto by seven Council Representatives voting in favor of the override within twenty days of the Governor's presentation of the veto to the Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Governor shall serve as the officer with the highest fiduciary responsibility for the Pueblo.  The Governor shall serve as the signatory on all expenditures.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Governor shall call and hold a general public informational meeting of the People four times per year in each quarter of the year.  The Office of the Governor shall prepare and publish a monthly bulletin.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.100</num>
+        <heading>Obligations of the Governor</heading>
+        <para>
+          <num>(a)</num>
+          <text>In fulfillment of Executive and fiduciary responsibilities, and to the best of his/her knowledge and ability, the Governor shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Execute the laws and administer the budgets of the Pueblo, including completing and maintaining Pueblo documents, in a truthful and accurate manner.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Require all employees under his/her direction to agree to execute the laws and administer the budgets of the Pueblo, including completing and maintaining Pueblo documents, in a truthful and accurate manner.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Take reasonable steps to supervise and manage the financial operations and activities of the Pueblo including a system of internal controls and independent auditing, in accordance with the laws of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Respond in a timely manner to all requests from the Council or a Council Committee for information, documents, and testimony from Executive branch personnel, including providing available information and documents without delay.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Provide complete and accurate financial information maintained by the Pueblo to the Council or a Council Committee in a timely manner upon written request.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Publish for the People all documents, notices, and other official announcements upon written request by the Council.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Call and hold general public informational meetings, and publish a monthly bulletin, as required by the Agreement.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.110</num>
+        <heading>Violations of the Code of Ethics</heading>
+        <text>A Governor who, during his/her term, is convicted of any felony or of a misdemeanor involving moral turpitude, gross neglect of duty, malfeasance in office, or misconduct reflecting on the dignity and integrity of the government, may be removed from office.</text>
+        <text>If the Governor is formally charged with a crime in any court, other than a traffic ticket or other minor infraction, he/she shall be immediately suspended from receiving any monetary compensation from the Pueblo including all official travel and expenses; provided, that monetary compensation and travel expenses shall resume if the criminal charges against the Governor are dropped or dismissed, or upon the final outcome of the court proceeding.</text>
+        <text>If the Governor is formally notified by the Council that the Council has formally initiated the process to remove the Governor from office, he/she shall be immediately suspended from receiving any monetary compensation from the Pueblo including all official travel and expenses; provided, that monetary compensation and travel expenses shall resume if the Council fails to remove the Governor from office or upon the expiration of thirty days, whichever is sooner.</text>
+      </section>
+      <section>
+        <num>2.4.1.120</num>
+        <heading>Process for Removal of the Governor by the Council</heading>
+        <text>The Governing Agreement, Elections and Voting, Section 4. Removal and Recall states:</text>
+        <text>The People give the Council power to remove a fellow Council Member or the Governor by at least a four-fifths vote of the entire Council, excluding the Member or Members of the Council subject to removal, after providing due process, including a written list of charges, adequate notice to provide a defense, and an opportunity to provide a defense. No more than two Members of the Council can be subjected to a Removal Process at one time, and any resulting vacancy shall be filled before any subsequent Removal can be conducted.</text>
+        <text>The Court shall have the limited jurisdiction to reverse a removal based on a denial of due process but shall not have the jurisdiction to review the substance of the removal charges.</text>
+        <text>The following procedure may be implemented by the Council when a violation of this Code of Ethics and Conduct occurs:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council may conduct a preliminary review of the alleged violation of the Code of Ethics by the Governor.  The Council may direct the Lieutenant Governor or another Council Representative to informally discuss the alleged violation of the Code of Ethics matter with the Governor and/or present a verbal request to the Governor to resign from office prior to proceeding with the formal removal process.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the Council determines that adequate reasons exist to bring formal charges against the Governor, the Council may, by a majority vote, initiate the formal removal process.  The Lt. Governor shall notify the Governor of any decision by the Council to initiate the formal removal process.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor shall be provided due process prior to any Council vote to remove, including being provided with a written list of charges, an opportunity to be heard and to present evidence and testimony, and at least five days prior notice of the date, time, and location of a scheduled Public Hearing.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Public Hearing shall provide a Governor accused of a violation of the Code of Ethics with the opportunity to provide a defense to any and all charges.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A decision to remove the Governor from office due to a violation of the Code of Ethics shall be made by at least a four-fifths vote of the entire Council at a regularly scheduled Council meeting. The decision of the Council shall be public with the names and vote of each Council Representative published. The decision of the Council shall be made by Legislative Order and shall be published.</text>
+        </para>
+      </section>
+      <section>
+        <num>2.4.1.130</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this Code of Ethics at any time upon majority vote of the Council, and in accordance with the requirements of the Agreement.</text>
+      </section>
+      <section>
+        <num>2.4.1.140</num>
+        <heading>Severability</heading>
+        <text>If any provision of this Code of Ethics is held to be invalid or unconstitutional, then the remaining provisions of this Code of Ethics shall remain in full force and effect.</text>
+      </section>
+    </container>
+  </container>
+</container>

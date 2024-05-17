@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>MEM</num>
+  <heading>Tribal Membership</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>MEM.01</num>
+    <heading>Membership</heading>
+    <section>
+      <num>MEM.01.01</num>
+      <heading/>
+      <text>The original membership of the Stockbridge Munsee Community shall consist of all persons eligible under the definition of membership contained in <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|III|1">Article III, Section 1</cite>, <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|III|2">2</cite>, and <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|III|3">3 of the Constitution of the Stockbridge Munsee Community</cite>.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.1</annotation>
+    </section>
+    <section>
+      <num>MEM.01.02</num>
+      <heading/>
+      <text>A Membership Committee consisting of seven persons effective March 20, 2001 is hereby established which shall accept all applications for adoption, shall conduct investigations of tribal status, degree of Indian blood and other characteristics of the applicants as it shall deem necessary in determining whether the applicants should be adopted as members of the Community, and shall thereupon submit such information to the Council together with recommendations indicating the Committee's approval or disapproval in each case.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.2</annotation>
+    </section>
+    <section>
+      <num>MEM.01.03</num>
+      <heading/>
+      <para>
+        <num>(a)</num>
+        <text>The Membership Committee shall be appointed by the Tribal Council for a period of two years. The Committee shall have only advisory powers and no member shall be at the same time a member of the Council. The recommendations of the Committee shall be made in writing and signed by at least four members of the Committee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Four terms of the Membership Committee shall run concurrently with the term of the Tribal President. The other three terms of the Membership Committee shall run for two years, but shall expire on the eve of the October election in years that the Tribal President is not up for Election.</text>
+        <para>
+          <num>(1)</num>
+          <text><cite path="§MEM.01.03|(b)">Section MEM.01.03(b)</cite> is intended to implement staggered terms for the Membership Committee.  Upon the adoption of the 2001 amendment and effective March 2001, the three incumbent Committee Members' terms shall expire on the eve of the October 2001 election, and on the eve of every other October election thereafter. As of March 20, 2001, the four other Committee Members' terms shall expire on the eve of the October 2002 election, and on the eve of every other October election thereafter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Stockbridge-Munsee Community recognizes that elders can provide valuable input to the Membership Committee.  Therefore, at least two of the Committee Members shall be elders (at least 55 years old), provided that at least two elders seek appointment to the Membership Committee.  If elders do not seek appointment, the Membership Committee shall be appointed in accordance with <cite path="§MEM.01.03|(b)">Section MEM.01.03(b)</cite>, and without regard to elder status.</text>
+        <para>
+          <num>(1)</num>
+          <text>The elder terms shall coincide with <cite path="§MEM.01.03|(b)">Section MEM.01.03(b)</cite>. One elder appointment shall expire on the eve of the October 2001 election, and on the eve of every other October election thereafter.  The other elder appointment shall expire on the eve of the October 2002 election, and on the eve of every other October election thereafter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Tribal Council, by motion at a regularly scheduled Council meeting, reserves the right to remove a Membership Committee member for cause.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.3</annotation>
+    </section>
+    <section>
+      <num>MEM.01.04</num>
+      <heading/>
+      <text>All persons of Stockbridge Munsee Indian blood whose name appears on the roll of 1871 and any subsequent roll including the roll of 1910, are hereby adopted into membership of the Stockbridge Munsee Indian Community. Provided, that any person whose name appears on the 1871 Stockbridge Munsee roll or any subsequent roll up to and including the roll of 1910 of the Stockbridge Munsee Indians of Wisconsin, who has relinquished their membership, or their entitlement to membership, or have been disenrolled for any reason shall not be members of the Stockbridge Munsee Community.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.4</annotation>
+    </section>
+    <section>
+      <num>MEM.01.05</num>
+      <heading/>
+      <text>Descendants of persons who are enrollees under the definition of <cite path="§MEM.01.04">Section MEM.01.04</cite> of this Ordinance shall be eligible for adoption into the Community, provided such descendants present acceptable evidence of being of one quarter (1/4) or more degree Stockbridge Munsee Indian blood.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.5</annotation>
+    </section>
+    <section>
+      <num>MEM.01.06</num>
+      <heading/>
+      <para>
+        <num>(a)</num>
+        <text>Descendants of members of the Stockbridge Munsee Community may be enrolled as members of the Community upon approval by the Tribal Council of a certified or photostatic copy of the descendant's birth certificate; Provided such descendants are of one-quarter (1/4) or more Stockbridge-Munsee Indian blood, and, Provided further that such descendants are not members of any other Indian tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to meeting the requirements of <cite path="§MEM.01.03|(a)">Section MEM.01.03(a)</cite>, examples of other relevant documents that may be considered in determining blood degree include:</text>
+        <para>
+          <num>(1)</num>
+          <text>Treaties,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Corn list 1838,</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Census 1842,</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Land Assignments of 1843,</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>1850 Calumet Co. Census,</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>1893 Testimony,</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>1901 Appl. For Buffalo, N.Y. Claim &amp; other Census and Allotment Rolls,</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>1905 Testimony,</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Family Bibles,</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Missionary Journals,</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Heirship Roll, or</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>1906 Allotment Roll.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the Membership Committee recommends to Tribal Council to deny enrollment to an applicant, the following procedure shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>At least two regular Tribal Council meetings are required in order to deny membership.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>At a regular Tribal Council meeting, the Tribal Council shall announce, by motion, its intent to deny membership to the named applicant.  For the purpose of <cite path="MEM.01">this Chapter</cite>, regular Tribal Council meeting has the same meaning as in <cite path="ADM.01">Chapter ADM.01</cite> of the Stockbridge-Munsee Community ordinances.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Council Secretary shall than notify the applicant that the Tribal Council is considering denying the membership application.</text>
+          <para>
+            <num>(A)</num>
+            <text>Such notification shall be in writing and shall be served via certified, restricted, return receipt requested.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The notification shall state the following:</text>
+            <include>
+              <text>
+                <table class="layout-table">
+                  <tbody>
+                    <tr>
+                      <td>"At the ___________(date) regular Tribal Council meeting, Tribal</td>
+                    </tr>
+                    <tr>
+                      <td>Council made a motion of its intent to deny membership to</td>
+                    </tr>
+                    <tr>
+                      <td>___________ (applicant's name).  Tribal Council based its decision on</td>
+                    </tr>
+                    <tr>
+                      <td>____________________________________________________________</td>
+                    </tr>
+                    <tr>
+                      <td>___________________________________________________________.</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <strong>You have thirty calendar days to respond if you wish to challenge</strong>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><strong>Tribal Council's intent to deny membership.</strong> If you do not respond</td>
+                    </tr>
+                    <tr>
+                      <td>within thirty calendar days, Tribal Council may deny membership to the</td>
+                    </tr>
+                    <tr>
+                      <td>applicant at its next Regular Tribal Council meeting.</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <br/>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>If you chose to contest Tribal Council's intent to deny membership,</td>
+                    </tr>
+                    <tr>
+                      <td>the applicant, its parent(s), its guardian, or representative must respond in</td>
+                    </tr>
+                    <tr>
+                      <td>writing to the Tribal Secretary.  Your response must be received within</td>
+                    </tr>
+                    <tr>
+                      <td>thirty calendar days of you receiving this notice.  If you are contesting</td>
+                    </tr>
+                    <tr>
+                      <td>Tribal Council's intent to deny membership, the applicant, its parent(s), its</td>
+                    </tr>
+                    <tr>
+                      <td>guardian, or representative will have the opportunity to review the copies</td>
+                    </tr>
+                    <tr>
+                      <td>of the documents that Tribal Council is relying on.</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <br/>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>If you are contesting Tribal Council's intent to deny membership, the</td>
+                    </tr>
+                    <tr>
+                      <td>Tribal Council Secretary will then contact the applicant in order to</td>
+                    </tr>
+                    <tr>
+                      <td>schedule the membership issue on an upcoming regular Tribal Council</td>
+                    </tr>
+                    <tr>
+                      <td>meeting agenda. The Tribal Council Secretary will also provide you with</td>
+                    </tr>
+                    <tr>
+                      <td>the copies of relevant documents that Tribal Council relied on for its intent</td>
+                    </tr>
+                    <tr>
+                      <td>to deny membership decision."</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </include>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the applicant has not responded to the Tribal Secretary's <cite path="§MEM.01.06|(c)|(3)">Section MEM.01.06(c)(3)</cite> notice, the Tribal Council may take action to deny membership to the applicant at a regular Tribal Council meeting.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the applicant has responded to the Tribal Secretary's notice, the Tribal Council may not take action to deny membership unless the applicant, its parent(s), its guardian, or representative has had an opportunity to present its case to the Tribal Council in Executive Session at a regular Tribal Council meeting.</text>
+          <para>
+            <num>(A)</num>
+            <text>The applicant, parent of the applicant, guardian of the applicant or representative of the applicant bears the burden of proving that enrollment should not be denied.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Notwithstanding <cite path="§MEM.01.06|(c)|(5)">Section MEM.01.06(c)(5)</cite>, Tribal Council may take action to deny membership if the applicant, its parent(s), its guardian, or representative does not attend a Tribal Council meeting within ninety calendar days after responding the Tribal Secretary's Section <cite path="§MEM.01.06|(c)|(3)">Section MEM.01.06(c)(3)</cite> notice.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Nothing in <cite path="§MEM.01.06|(c)">Section MEM.01.06(c)</cite> is intended to limit Tribal Council's authority to consider membership matters to only two Tribal Council meetings, provided that applicants are provided with the opportunity to respond pursuant the requirements in <cite path="§MEM.01.06|(c)">Section MEM.01.06(c)</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All seven (7) members of the Tribal Council shall be present in order to take action on the final decision to deny membership as outlined in <cite path="§MEM.01.06|(c)|(4)">Section MEM.01.06(c)(4)</cite> and <cite path="§MEM.01.08|(c)|(5)">(5)</cite> above.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Tribal Council is the final forum to determine Tribal Member eligibility.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.6</annotation>
+    </section>
+    <section>
+      <num>MEM.01.07</num>
+      <heading/>
+      <text>Enrolled Tribal Members may voluntarily relinquish their Tribal membership in accordance with established policies and procedures.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.7</annotation>
+    </section>
+    <section>
+      <num>MEM.01.08</num>
+      <heading>Sovereign Immunity</heading>
+      <text>Nothing in this Ordinance shall provide or be interpreted to provide a waiver of the Stockbridge-Munsee Community, or its governmental officers, agents, employees, or committees.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.8</annotation>
+    </section>
+    <section>
+      <num>MEM.01.09</num>
+      <heading>Severability</heading>
+      <text>If any section or any part thereof, of this Ordinance shall be held invalid or illegal by a court of competent jurisdiction, the remainder of the section or part of the Ordinance shall not be affected and shall remain in full force and effect as though no section, or part thereof, has been declared to be invalid or illegal.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 44, §44.9</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">10. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 18-20">Resolution No. 18-20</cite>, adopted December 3, 2019.  BIA rejected proposed amendments on June 30, 2021.</annotation>
+      <annotation type="Legislative History">9. A referendum question asking whether tribal members supported changing the Membership Ordinance to use 1940 as a baseline to establish blood quantum for adoption of new members was on the ballot of the October 12, 2019 general election.  The referendum vote was 313 in support and 157 in opposition.</annotation>
+      <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 055-10">Resolution No. 055-10</cite>, adopted July 20, 2010, approved by BIA August 13, 2010.</annotation>
+      <annotation type="Legislative History">7. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 045-04">Resolution No. 045-04</cite>, adopted September 7, 2004, approved by BIA November 8, 2004.</annotation>
+      <annotation type="Legislative History">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 055-02">Resolution No. 055-02</cite>, adopted October 1, 2002, approved by BIA October 18, 2002.</annotation>
+      <annotation type="Legislative History">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 018-2001">Resolution No. 018-2001</cite>, adopted March 20, 2001, approved by BIA April 10, 2001.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 003">Resolution No. 003</cite>, adopted September 14, 1971, approved by BIA September 28, 1971.</annotation>
+      <annotation type="Legislative History">3. June 1, 1968 Resolution adopted to have Section 4 amended by tribal referendum.  Referendum approval by Commissioner of Indian Affairs, April 11, 1969.</annotation>
+      <annotation type="Legislative History">2. Ordinance was amended Jan. 9, 1949, approved by BIA Jan. 19, 1949, adding Section 8 (became Section 44.7 as of 1995 and renumbered as 44.6 in 2010).</annotation>
+      <annotation type="Legislative History">1. Membership Ordinance was approved by Council February 20, 1940 and approved by Assistant Secretary Aug. 30, 1940.</annotation>
+    </annotations>
+  </container>
+</container>

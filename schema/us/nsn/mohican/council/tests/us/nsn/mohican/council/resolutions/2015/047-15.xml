@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 047-15">
+  <num>047-15</num>
+  <heading/>
+  <meta>
+    <ordinance>Sovereign Immunity</ordinance>
+    <effective/>
+    <history>
+      <adopted>2015-06-02</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 047-15</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally-recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937  Constitution; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its constitution and its inherent rights as a sovereign nation to adopt and amend tribal ordinances; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has immunity from suit pursuant to the well settled doctrine of sovereign immunity; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community desires to preserve and protect this immunity and clarify the process by which the Community may waive the defense of sovereign immunity.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts a new ordinance, which is Chapter 29, Sovereign Immunity Ordinance.</text>
+    </recital>
+  </recitals>
+</document>

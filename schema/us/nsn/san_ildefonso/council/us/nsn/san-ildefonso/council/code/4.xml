@@ -1,0 +1,1218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>4</num>
+  <heading>JUDICIARY</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4.1</num>
+    <heading>Courts and Powers</heading>
+    <annotation type="History">1984 Code</annotation>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.1</num>
+      <heading>Judicial Power</heading>
+      <section>
+        <num>4.1.1.010</num>
+        <heading>Scope and Extent</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Judicial Power of the people of the Pueblo of San Ildefonso shall be vested in the Tribal Judiciary of the Pueblo of San Ildefonso and shall extend to all cases and controversies in law and equity arising under the duly enacted laws of the Council of the Pueblo of San Ildefonso under the provisions as set forth by the San Ildefonso Pueblo Tribal Council and on the traditions and customs of San Ildefonso Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.1.1.020</num>
+        <heading>Jurisdiction</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo of San Ildefonso shall have original jurisdiction over:</text>
+          <para>
+            <num>(1)</num>
+            <text>All Crimes enumerated in the Code and committed within the territorial jurisdiction of the Pueblo by Indians.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All Civil Actions arising under this Code, or tribal laws, in which the defendant is found within the territorial limits of the Pueblo and is served with process or who is found outside the territorial limits of the Pueblo of and who is validly served with process as provided in this Code.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All persons who reside within or conduct business within or territorial limits of the Pueblo for whatever purposes.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>All territory, including but not limited to lands, waters, roadways, trails or right-of-way within the Pueblo of San Ildefonso, as established by patent issued under the Act of December 22, 1958 (11 Stat. 374) as amended, and all territory made a part of the territory of San Ildefonso by any other Acts of Congress, Executive Orders or Federal Court Decisions adding lands to the territory of the Pueblo of San Ildefonso now or in the future and also extraterritorial jurisdiction for the purpose of protecting the rights of the Pueblo of San Ildefonso and its members guaranteed by the Treaty of Guadalupe Hidalgo.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The jurisdiction invoked by this Code over any person, cause of action or subject matter shall be concurrent with any valid jurisdiction over the same by the Courts of the United States; provided, however, this Code does not recognized, grant or cede jurisdiction to any other political or governmental entity in which jurisdiction does not otherwise exist in law.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.1.1.030</num>
+        <heading>The San Ildefonso Court of Appeals</heading>
+        <para>
+          <num>(a)</num>
+          <text>The San Ildefonso Court of Appeals is hereby established and granted jurisdiction to handle all appeals from the San Ildefonso Tribal Court as provided in this Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The court of Appeals shall consist of the members of the Tribal Council of the San Ildefonso Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.1.1.040</num>
+        <heading>Definition of an Indian</heading>
+        <para>
+          <num>(a)</num>
+          <text>For purposes of this Code, and Indian shall be defined as the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>An enrolled member of the Pueblo of San Ildefonso.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An enrolled member of any federally recognized tribe in this United States and its territories; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any resident of the Pueblo who is considered an Indian by the traditions, customs, culture and mores of the Pueblo of San Ildefonso.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.2</num>
+      <heading>Judges of the Pueblo of San Ildefonso Judiciary</heading>
+      <section>
+        <num>4.1.2.010</num>
+        <heading>Selection, Removal, Disqualification, Duties</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo of San Ildefonso Tribal Court shall consist of one Chief Judge and one Associate Judge, as the San Ildefonso Pueblo Council any appoint by a majority vote.  The Associate Judge or the Chief Judge may be designated as Judge of the Children's Court by the Chief Judge.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Tribal Judges of the Pueblo of San Ildefonso Judiciary shall be compensated at a rate determined by the Governor and/or the Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Tribal Judges of the Pueblo of San Ildefonso Judiciary shall be appointed for an indefinite term and shall continue in office unless removed or declared by the Council incapable of serving by absence, illness or other incapacity, and in accordance with the traditional practices and customs of the San Ildefonso Tribe.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Tribal Judges of the Pueblo of San Ildefonso Judiciary shall meet the following requirements:</text>
+          <para>
+            <num>(1)</num>
+            <text>Must be in good standing within the community of the Pueblo of San Ildefonso.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Never convicted of a felony.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Must be at least twenty-five (25) years of age.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Should but not required to have knowledge of the language, custom, traditions and laws of the Pueblo of San Ildefonso.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Chief Judge, with the consent of the parties in any action pending before the Pueblo of San Ildefonso Tribal Court, any appoint a Judge Pro Tempore to hear and adjudge a particular case notwithstanding the requirements set forth in (4) above.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Governor and/or Council shall establish educational and in service training requirements for San Ildefonso Pueblo Tribal Judges and set up programs therefore, or require Tribal Judges to attend other available training sessions.  Refusal of a Tribal Judge to participate in theses required educational and in-service training programs may warrant suspension or removal.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo of San Ildefonso Court of Appeals shall consist of members of the San Ildefonso Pueblo Council who have not participated in or been a party to the case being appealed.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.3</num>
+      <heading>Removal of Judges of the Pueblo of San Ildefonso Judiciary</heading>
+      <section>
+        <num>4.1.3.010</num>
+        <text>Tribal Judges of the Pueblo of San Ildefonso Judiciary may be removed upon the grounds of gross misconduct involving moral turpitude or neglect of duty by the following procedures:</text>
+        <para>
+          <num>(a)</num>
+          <text>Notice of charges served personally on the tribal judge;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A public hearing before the Council ten (10) days after service of notice.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An opportunity for the Tribal Judge to appear at the hearing and to answer all charges and to present evidence in defense.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A vote for removal by an affirmative majority vote of the full council.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.4</num>
+      <heading>Disqualification of judges of the Pueblo of San Ildefonso Judiciary</heading>
+      <section>
+        <num>4.1.4.010</num>
+        <heading>General</heading>
+        <para>
+          <num>(a)</num>
+          <text>A Tribal Judge shall recuse himself from acting in any judicial proceedings in which he has any direct interest or where any party in the proceeding is a relative by marriage or blood in the first or second degree.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Disqualifications of a Tribal Judge may be petitioned by any party to a proceeding by filing a request with the Tribal Judge giving the reasons for disqualification.  The Tribal Judge shall rule upon the disqualification or refer the petition to the San Ildefonso Governor and/or Council for a decision.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.5</num>
+      <heading>Duties and Powers of Judges of the Pueblo of San Ildefonso Judiciary</heading>
+      <section>
+        <num>4.1.5.010</num>
+        <heading>General</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Chief Judge, Associate Judge or Judge of the Children's Court shall hear and determine all matters which are duly and regularly filed in the San Ildefonso Tribal Court.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tribal Judges of the Pueblo of San Ildefonso Judiciary shall have the power:</text>
+          <para>
+            <num>(1)</num>
+            <text>To issue any order or writ necessary and proper to the complete exercise of their powers;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To issue subpoenas to compel attendance of witnesses on their own motion or on the motion of any party in the proceeding before him and may punish for failure to comply with such subpoena;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To administer oaths to persons in proceedings before him and where necessary to carry out judicial duties;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>To sentence, administer fines, hold in contempt, defer sentence or prosecution; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>To retain jurisdiction over the subject matter for a period of two (2) years.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Chief Judge shall be responsible for the administration of the Courts, shall assign cases, manage the Court's calendar and business.  The Chief Judge may designate an Associate Judge to act as Chief Judge in his absence.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.6</num>
+      <heading>Court Clerk</heading>
+      <section>
+        <num>4.1.6.010</num>
+        <heading>Selection, Qualification and Duties</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court Clerk shall be appointed by the Chief Judge, with the concurrence of the Governor, as provided in the San Ildefonso Pueblo personnel policies and procedures.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Court Clerk shall meet the following qualifications:</text>
+          <para>
+            <num>(1)</num>
+            <text>Is Twenty-One (21) years of age or older and of good moral character;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Has never been convicted of a felony;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Has demonstrated competence in the skills essential to the preparation and maintenance of court records, and;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Has completed twelve (12) years of education or equivalent experience.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The duties of the Court Clerk are:</text>
+          <para>
+            <num>(1)</num>
+            <text>To supervise and keep all records, files, dockets, or other records required by this Code;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To keep a record of all proceedings of the court;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To administer oaths;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>To collect and account for all fines, bail or bond money, fees or other funds which come to the Court, to deposit and account for all such monies in the manner prescribed by the Council;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>To assist the Court, Court Officials, and residents of the reservation in the filing of complaints, subpoenas, warrants, and any other documents necessary to the functions of the Courts; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>To perform all other functions which may be required by this Code or as may be directed by the Chief Judge.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.7</num>
+      <heading>Bonding of Pueblo of San Ildefonso Judiciary and Court Personnel</heading>
+      <section>
+        <num>4.1.7.010</num>
+        <heading>General</heading>
+        <para>
+          <num>(a)</num>
+          <text>All Judges, Clerk, and other Court personnel shall be bonded at the expense of the Pueblo of San Ildefonso, in amounts determined by the Council.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.1.8</num>
+      <heading>Records of the Pueblo of San Ildefonso Judiciary</heading>
+      <section>
+        <num>4.1.8.010</num>
+        <heading>Scope, Copies, Ordinances, Etc.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court Clerk shall keep the Court Docket which shall consist of:</text>
+          <para>
+            <num>(1)</num>
+            <text>Names of each plaintiff and defendant in any civil or criminal proceeding;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Character and number of the proceeding;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Date of issuance of return date of any process issued therein;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Appearance or default of parties summoned;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Date and amount of any judgment or any other decision in the proceeding;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Any appeal therefrom;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Final disposition; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Any other information as may be provided in this Code or directed by the Chief Judge.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.1.8.020</num>
+        <heading>Copies of Proceedings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any party involved in the proceedings may obtain a certified copy of the Court proceedings from the Clerk upon payment of the fee contained on the schedule established by the Chief Judge, unless expressly prohibited by this Code.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.1.8.030</num>
+        <heading>Pueblo of San Ildefonso Laws, Ordinances, Etc.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo of San Ildefonso Judiciary shall be provided with copies of this Code, any amendments thereto, including ordinances adopted by the Council, and copies of other Federal and State Laws and regulations deemed by the Judiciary necessary, proper and applicable to the rights and conduct of persons subject to the jurisdiction of the Pueblo of San Ildefonso Judiciary and its judicial power and responsibilities.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4.2</num>
+    <heading>Court Procedures</heading>
+    <annotation type="History">1984 Code</annotation>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.2.1</num>
+      <heading>Records of the Pueblo of San Ildefonso Judiciary</heading>
+      <section>
+        <num>4.2.1.010</num>
+        <heading>Court Sessions</heading>
+        <para>
+          <num>(a)</num>
+          <text>Regular sessions of the court shall be held as established by order of the Court as the Pueblo of San Ildefonso Court in San Ildefonso, New Mexico or as designated by the Courts.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.020</num>
+        <heading>Official Station</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo of San Ildefonso Court as San Ildefonso, New Mexico is designated as the place where current records of the Court shall be kept and the official station of the Court Clerk shall be designated by the Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.030</num>
+        <heading>Location of Filing</heading>
+        <para>
+          <num>(a)</num>
+          <text>All pleadings, motions, and other papers shall be filed with the Pueblo of San Ildefonso Court at San Ildefonso, New Mexico or any other place which will be designated by the Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.040</num>
+        <heading>Copies of Documents</heading>
+        <para>
+          <num>(a)</num>
+          <text>Records or documents in the files of the Courts shall not be taken from the office or custody of the Court Clerk, except upon the consent of the Clerk.  Only parties litigant or counsel for parties will be allowed the right to remove documents and only for good cause shown and after giving proper receipts to the Clerk.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.050</num>
+        <heading>Notice to Parties</heading>
+        <para>
+          <num>(a)</num>
+          <text>All cases at issue shall be set for trial on their merits at the time and place to be designated by toe Court and written notice of not less than five (5) days shall be given counsel and/or to the parties.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.060</num>
+        <heading>Extension of Time</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court may grant an extension of time to answer or otherwise please to a complaint or amended complaint, if a written request is timely filed.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.070</num>
+        <heading>Court Decorum</heading>
+        <para>
+          <num>(a)</num>
+          <text>The following rules shall govern Court decorum not allowing any interference or disturbance with the proceedings before the Court:</text>
+          <para>
+            <num>(1)</num>
+            <text>A Law Enforcement or other Pueblo Officer may be appointed Court Bailiff by the Judge and the Bailiff will open each session of the Court and be present to keep order in the courtroom at all times and to carry out orders of the presiding Judge to remove persons violating these rules.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The public will be permitted to the courtroom during trial sessions except that presence of spectators in the courtroom may be prohibited by the Judge during taking of certain testimony of a highly sensitive nature.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All men in the courtroom shall remove their hats.  All persons shall be dressed in a clean, neat manner, and no persons shall smoke or chew gum in the courtroom.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Loud or unusual noises, the use of profane language or disturbance of any kind will not be tolerated in the courtroom.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>No one shall be allowed in the courtroom who appears to be under the influence of intoxicating liquor or drugs.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Respect and courtesy shall be shown to the Judge, parties, and court officers at all times.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>A flag of the United States and the Pueblo of San Ildefonso shall be displayed in the courtroom at all times.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>No sketches, photographs, shall be taken during proceedings of the court.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.080</num>
+        <heading>Exhibits</heading>
+        <para>
+          <num>(a)</num>
+          <text>All separate documents, Photographs, papers, written or printed instruments of any nature shall be given separate exhibit numbers with exhibits for the plaintiff numbered numerically and exhibits for the defendant marked alphabetically after being admitted into evidence.  In civil cases, all exhibits in the custody of the Clerk, after judgment becomes final or after final disposition of the action, shall be delivered or mailed by the Clerk to the parties offering the same or to their counsel.  Any exhibits refused by a party or counsel any be destroyed or otherwise disposed of by the Clerk upon order of the Judge.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.090</num>
+        <heading>Rules of Evidence</heading>
+        <para>
+          <num>(a)</num>
+          <text>Except as otherwise expressly provided under this Code, the Tiles of Evidence shall follow the Federal Rules of Evidence as guidelines in the criminal or civil proceedings of this Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.100</num>
+        <heading>Jury Trial</heading>
+        <para>
+          <num>(a)</num>
+          <text>When a demand for trial by jury  is contained within a pleading instead of being separately filed, the demand shall be brought to the attention of the Clerk by the pleader, either orally or in writing, at the time of the filing of the pleading, which shall be made within the prescribed time limit, and the Clerk shall call this demand to the attention of the Tribal Judge.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.110</num>
+        <heading>Rules Governing Jury Trial</heading>
+        <para>
+          <num>(a)</num>
+          <text>In any criminal case where there is a probable jail sentence upon conviction, a trial jury may be requested by the defendant at the preliminary hearing or arraignment or by written application to the Court within three (3) days thereafter.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Either party litigant in a civil case involving a claim in excess of $500.00 may request a jury trial except in domestic relation cases, cases involving adoptions, probates, minors, incompetence, injunctions, contempt, and cases in the Court of Appeals.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A jury shall consist of six (6) persons seated by the Chief Judge, from a list of twenty (20) resident members of the Pueblo of San Ildefonso sworn in prior to questioning, with the agreement of counsel.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>When the jury has been seated, the jurors' oath shall be administered by the Tribal judge.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Verdict of the jury may be rendered by a majority vote of four (4) jurors in a civil case, and five (5) jurors in a criminal case.  If the plaintiff in a civil case or persecution in a criminal case shall fail to win the required number of juror votes, judgment shall be entered for the defendant and case dismissed.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Each juror shall be entitled to a fee for each day of jury service plus mileage for travel to and from Court payable by the Pueblo of San Ildefonso pursuant to a schedule established by the Court and approved by the Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.120</num>
+        <heading>Jury Duties</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court may order the jury to view the premises where the offense or other material facts occurred.  The Court may order the discharge of a juror who becomes sick or is otherwise unable to perform his duty and substitute an alternate juror.  In the absence of an alternate and the failure of the parties to stipulate to continue the trial with five (5) or less jurors, the jury shall be discharged and a new jury shall be formed to hear the case.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.130</num>
+        <heading>Lay Counsel</heading>
+        <para>
+          <num>(a)</num>
+          <text>Law Counsel may practice in the Courts of the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Each litigant in a civil case and every defendant in a criminal proceeding shall have the right to have lay counsel or spokesmen of their choice represent them at their own expense at a rate not to exceed the rate approved by order of the Chief Judge.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If a defendant in a criminal proceeding has no such representation and cannot afford to obtain representation, then where conviction could result in confinement in a jail, the Tribal Judge may appoint lay counsel to represent the defendant at no expense to the defendant.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Admission of Lay Counsel or Spokesmen.  All lay counsel or spokesmen who with to be admitted to the practice before the Court of the Pueblo of San Ildefonso any be admitted to practice upon approval of application in writing by order of the Chief Judge, as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any person who is an enrolled member of the Pueblo of San Ildefonso, twenty-one (21) years of age or older, is of good moral character, and demonstrates to the Court a thorough knowledge of this Code, the Rules of the Tribal Judiciary and knowledge of the culture, traditions, and laws of the San Ildefonso people, is eligible to apply for admission to general practice as lay counsel or lay advocate or spokesman.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any person who is admitted as lay counsel or spokesman to practice before the Court of the San Ildefonso Pueblo shall, at the discretion of the Chief Judge, furnish bond satisfactory to the Court.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>No lay counsel of spokesman admitted to practice may act as security for costs or a surety on an y appeal or other bond in any case pending in which he is interested.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>No lay counsel or spokesman in a case may testify as a witness of the trial thereof, except upon permission of the court.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Lay counsel or spokesman may be disbarred by the Chief Judge for cause upon notice and a hearing and a finding of violation by the Chief Judge.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.140</num>
+        <heading>Professional Attorneys</heading>
+        <para>
+          <num>(a)</num>
+          <text>Professional attorneys may practice before the Courts of the Pueblo of San Ildefonso provided that any such attorney is admitted to practice before the Court.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any persons appearing as a party in any civil or criminal action shall have the right to be represented by a professional attorney of their own choice and at their own expense.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any attorney who is an active member in good standing of the New Mexico State Bar, or any attorney certified and eligible to practice before the Courts of any other State of the United States is eligible to be admitted to practice before the Courts of the Pueblo of San Ildefonso, provided the attorney meets the admissions standards.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Admission to Practice.  To practice before the Court of the Pueblo of San Ildefonso any attorney must:</text>
+          <para>
+            <num>(1)</num>
+            <text>Be an active member in good standing of the New Mexico State Bar or be certified and eligible to practice before the Courts of any other State or the United States;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Abide by all the Rules of the Courts of the Pueblo of San Ildefonso and any orders issued by the Courts;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Be knowledgeable and is generally informed about the traditions and customs of San Ildefonso Pueblo;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Payment of a fee $50.00 is required for admission;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Chief Judge shall notify any attorney who applies to practice before the Courts of the Pueblo of San Ildefonso and is admitted to practice to take the following oath: "I do solemnly swear (or confirm) that I will support the Constitution and laws of the United States and the Criminal and Civil Code and all ordinances and resolutions of the Pueblo of San Ildefonso, and that I will maintain proper respect for the Courts and judicial officers of the Pueblo of San Ildefonso."</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Chief Judge may suspend any attorney from practice before the Courts of the Pueblo of San Ildefonso after due notice and a hearing if any attorney shall be found guilty of the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>Violated the oath of the Courts;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Has been disbarred from practice before any State or Federal Court;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Violated the ethics of the legal professions; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Committed any improper or contemptuous act against the dignity of the Pueblo of San Ildefonso, the Courts of the Pueblo of San Ildefonso, and San Ildefonso people.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.150</num>
+        <heading>Appointment of Prosecutor</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council may appoint a lay person or a professional attorney as a part-time prosecutor on an as needed basis for the Pueblo of San Ildefonso upon request of the Chief Judge.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No lay person or professional attorney shall be appointed as a prosecutor unless the appointee is admitted to practice before the Court as provided in Section 6.17.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The prosecutor is authorized to sign, file, and present any complaint, subpoena, affidavit, motion or any civil or criminal process and prosecute any action, criminal or civil, before the Tribal Court on behalf of the Pueblo of San Ildefonso and to represent the Pueblo in appeals before the Appellate Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.160</num>
+        <heading>Subpoena</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every Judge of Courts of the Pueblo of San Ildefonso shall have the power to issue subpoenas for the attendance of witnesses either on his own motion or any parties to the case.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Service of subpoenas shall be by any qualified member of the Law Enforcement staff or other officer of the Court or by any person appointed by the Court for that purpose.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.170</num>
+        <heading>Death or Disability of the Judge</heading>
+        <para>
+          <num>(a)</num>
+          <text>In the case of death, illness or incapacity of the Judge during the course of a trial, the Chief Judge shall order a new trial and designate another Judge who shall have the same power, authority and jurisdiction as the original Judge.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.180</num>
+        <heading>Contempt of Court</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person may be charged in contempt of court for any of the following reasons:</text>
+          <para>
+            <num>(1)</num>
+            <text>Disorderly, contemptuous, or insolent behavior, committed in immediate view and presence of the Court and directly tending to interrupt its proceedings or to impair the respect due to its authority.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any breach of the peace, noise, or other disturbance directly tending to interrupt the proceedings of the court.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Willful disobedience of any process or order lawfully issued by the Court.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Resistance willfully offered by any person to the lawful order or the process of the Court.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The unlawful refusal of any person to be sworn or affirmed or refusal to answer any material questions except where refusal is based on grounds specified in the Indian Civil Rights Act of April 11, 1968 (82 Stat. 77), (25 U.S.C. 1301).</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The publication of a false or grossly inaccurate report of the proceedings of the Court.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Any person who shall request a jury trial and fails to appear on date jury trial is scheduled.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>The Court may sentence a person found to be in contempt of court to confinement at labor for a period of not more than six (6) months or to pay a fine of not more than $500.00 or both, with costs, and may also issue such orders as are necessary to enable the person to purge himself of the contempt. ,There is no right to a jury in a civil contempt hearing.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.190</num>
+        <heading>Default on Fine</heading>
+        <para>
+          <num>(a)</num>
+          <text>When a defendant defaults in the payment of a fine or any installment thereof, the Court, on its own motion, shall order the defendant to show cause why he is not in contempt and may issue a summons or an arrest warrant for the defendant's appearance.  If good faith is shown or the defendant is indigent, the Court may allow additionally time for payment or revoke all or part of the unpaid fine or require labor on behalf of the Pueblo of San Ildefonso or upon refusal of the defendant to cooperate, the Court may order imprisonment until the defendant agrees to cooperate.  The Court also may order the seizure and sale of any personal property of the defendant found within the exterior boundaries of the Pueblo of San Ildefonso to satisfy the fine assessed pursuant to this Code.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.200</num>
+        <heading>Disposition of Fines, Fees, and other Payments Made to the Court</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any funds paid to the Court of the Pueblo of San Ildefonso, other than funds collected for other persons, as a result of the provisions of this Code or other lawful orders of the Court, shall be paid to the Clerk of the Court who shall issue a receipt therefore and shall deposit those fund due the Pueblo of San Ildefonso to the Tribal Treasurer.  The funds shall be recorded upon the accounts of the Pueblo and shall be available for ex- penditure upon appropriation by the Council for such purposes as the Council may direct.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.210</num>
+        <heading>Disposition of Equipment and Property Confiscated by the Court</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any property, including equipment, which may have been confiscated by lawful order of the Court in a criminal proceeding, after disposition of the case and an order as to the property, under the provisions of this Code shall be sold at public auction after five (5) days notice to the owner and the proceeds thereof deposited by the Clerk of the Court into the general Pueblo Treasury.  The funds shall be recorded upon the accounts of the Pueblo and shall be available for expenditure by appropriation of Council for such purposes the Council may direct.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.220</num>
+        <heading>New Trial</heading>
+        <para>
+          <num>(a)</num>
+          <text>The grounds for a new trial in a criminal proceeding as set by the Courts of the Pueblo of San Ildefonso are as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Receipt by the jury of evidence not authorized by the Court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Determination by the jury of a verdict by lot, through intimidation or without a fair expression of opinion.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>When the Court has failed to instruct the jury correctly as to the law or has improperly admitted prejudicial material as evidence or has made other errors at law prejudicial to the defendant.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>When for other prejudicial cause the defendant has not received a fair and impartial trial.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>New evidence discovered and not available at time of original trial.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>On such other grounds that will provide due and proper justice as determined by the Judge.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.230</num>
+        <heading>Appeals</heading>
+        <para>
+          <num>(a)</num>
+          <text>Appeals may be granted by the Tribal Council from a final order of the Tribal Court under the following procedures:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any party aggrieved by a final judgment or order of the Tribal Court in any case shall be entitled to appeal to the Tribal Council, provided that a notice of appeal is filed with the Secretary of the Council within ten (10) days after judgment is entered.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The appeal, if granted, shall be heard by the Tribal Council and the judgment of the Tribal Council shall be final.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If an appeal is taken, the case shall be tried as a new trial.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>While a case is on appeal, no action shall be taken on the judgment of the Tribal Court until the appeal has been decided.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Any party filing an appeal shall pay a filing fee in an amount established not to exceed fifty (50.00) dollars on the fee schedule of the Court.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.240</num>
+        <heading>Terms of Probation</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court, as a condition of any other granting probation to a defendant, may require the defendant:</text>
+          <para>
+            <num>(1)</num>
+            <text>To meet family responsibilities.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To undertake specific employment or occupation.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To undergo available medical or psychiatric treatment and to attend rehabilitation programs and to enter and remain in a specified institution when required.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>To pursue a prescribed course of study or vocational training, including attendance at a Driver Training School.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>To attend or reside in a facility established for the instruction, recreation, and residence of person on probation.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>To refrain from frequenting unlawful or disreputable places or consorting with disreputable persons.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>To possess no firearm or other dangerous weapon unless granted written permission from the Court.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>To make restitution or reparation for the loss or damage of any unlawful  acts of commission or omission as may be direct by the Court.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>To remain within the jurisdiction of the Court and not to leave that jurisdiction without permission of the Court and to notify the Court or an officer thereof of any change in address or employment.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>To report as directed to the Court to a probation officer or other person designated by the Court.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>To post bond, with or without surety, conditioned on the performance of any of these conditions.</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>To satisfy any other conditions imposed by the Court reasonably related to the rehabilitation of the defendant.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.250</num>
+        <heading>Dismissal of Cases on File</heading>
+        <para>
+          <num>(a)</num>
+          <text>All cases now pending or on the docket of the Court, both civil and criminal, upon which no action has been taken for a period of three (3) years after filing shall be and are dismissed, with the approval of this Code, with prejudice, except that any party to a civil case within six (6) months after final approval of this code may move to have the case renewed or reinstated.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.260</num>
+        <heading>Cooperation by Federal and State Employees</heading>
+        <para>
+          <num>(a)</num>
+          <text>Employees of the Bureau of Indian Affairs and the State of New Mexico, particularly but not limited to those who are engaged in law and order, social services, health and educational work, may be requested by the Court to assist the Court in carrying out its duties but no such employee shall obstruct, interfere with or, in any manner attempt to influence the function of the Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.2.1.270</num>
+        <heading>Amendment of the Rules of the Courts of the Pueblo of San Ildefonso</heading>
+        <para>
+          <num>(a)</num>
+          <text>These rules may be amended by the pueblo of San Ildefonso Judiciary with the consent of the Governor and final approval of the majority of the Council.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any amendments to these rules of the Court shall be posted at the San Ildefonso Tribal Office and published in any local circular as notice to the public.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4.3</num>
+    <heading>Pre-Trial Conference</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.3.1</num>
+      <heading>Pre-Trial Conference</heading>
+      <section>
+        <num>4.3.1.010</num>
+        <text>The procedure established in this Section are intended to establish a means whereby both civil and criminal disputes can be settled in the traditional and customary manner by discussion between the parties before a trusted, impartial tribal authority prior to resorting to formal trial procedures and are incorporated as a part of the Code.  The procedures require that formal Court authority be invoked by the filing of a complaint, but anticipate that a great percentage of cases can be settled by traditional and customary means, administered thereafter by the Tribal Court.  The procedures set forth herein shall not be interpreted or applied to deny any person any right otherwise guaranteed by San Ildefonso Pueblo or Federal Law, including the Indian Civil Rights Act.</text>
+      </section>
+      <section>
+        <num>4.3.1.020</num>
+        <heading>Applicability</heading>
+        <para>
+          <num>(a)</num>
+          <text>The procedures established in this Section shall apply in all cases, both civil and criminal, if, at the appropriate times referred to herein, there are two (2) or more judges of the Tribal Court holding office on either a temporary or permanent appointment and one is available to participate as provided herein.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.030</num>
+        <heading>Civil Case</heading>
+        <para>
+          <num>(a)</num>
+          <text>A pre-trial conference as provided herein may be held in all civil cases once the case is at issue.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.040</num>
+        <heading>Criminal Cases</heading>
+        <para>
+          <num>(a)</num>
+          <text>A pre-trial conference as provided herein shall be held in all criminal cases in which the defendant agrees to participate, testify or otherwise cooperate, once the case is at issue by virtue of the defendant entering a plea of not guilty and request for jury to a complaint.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.050</num>
+        <heading>Time</heading>
+        <para>
+          <num>(a)</num>
+          <text>At such other time prior thereto as the Chief Judge shall order, a pre-trial conference shall be held as provided herein.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.060</num>
+        <heading>Attendance – Civil Cases</heading>
+        <para>
+          <num>(a)</num>
+          <text>All plaintiffs and all defendants shall be required to attend the pre-trial conference in a civil case.  The parties may, upon obtaining the advance consent of the Tribal Judge assigned to conduct the pre-trial conference, bring with them such other persons, including their attorney, advocate or lay counselor, as will tend to further the resolution of the issues in the case.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.070</num>
+        <heading>Attendance – Criminal Cases</heading>
+        <para>
+          <num>(a)</num>
+          <text>The defendant, complaining witness, arresting officer and such other witnesses as either side may desire to summon, shall be required to attend the pre-trial conference in a criminal case.  Upon obtaining the advance consent of the Tribal Judge assigned to conduct the pre-trial conference, either side may summon other persons, including the prosecuting or defense attorneys, advocates or lay counselors, as will tend to further the resolution of the issues of the case and the proper disposition of the defendant, should guilt be admitted.  Such other persons may, but need not include the defendant's spouse, other family members, and any social workers, probation officers or similar persons having professional training.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.080</num>
+        <heading>Conduct of Pre-Trial Conference</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be no record or transcript made of the proceedings at the pre-trial conferences nor shall any statements made therein by any person be used for nay purpose should the case ultimately come to trial.  If agreement is reached on some or all of the issues presented in the case, such agreement shall be recorded by the tribal Judge conducting the pretrial conference, or Court Clerk at the Tribal Judge's direction, and may be embodied in a final or interlocutory order or judgment or in a pretrial order prepared to govern the conduct of any tribal subsequently held.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.090</num>
+        <heading>Public and Attorneys</heading>
+        <para>
+          <num>(a)</num>
+          <text>Pre-trial conference as provided herein shall not be open to the public, but professional attorneys, advocates or lay counselors or other parties may be allowed by the Tribal Judge to attend as representatives of the parties or otherwise, (unless parties themselves).</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.100</num>
+        <heading>Judge's Function</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Tribal Judge conducting the pre-trial conference shall listen to the positions of the parties and attempt to work out a settlement to fall or some of the issues of the case.  Such settlement shall not be inconsistent with the laws, ordinances, customs, and traditions of the tribe.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.110</num>
+        <heading>Disposition of the Cases</heading>
+        <para>
+          <num>(a)</num>
+          <text>In the event a settlement of the case is worked out, the Tribal Judge conducting the pretrial conference shall cause a record to be made of such settlement by means of an order or judgment entered in the record of the case.  In the event that some of the issues are not agree to, the Tribal Judge shall cause a pre-trial order to be prepared stating what issues have been settled and what issues remain to be tired and such pre-trial order shall superseded the pleadings for purposes of framing the issues for trial.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The pre-trial order may also contain agreements, stipulations, or orders by the Court as to the production of witnesses and evidence and the conduct of discovery before trial.  If trial appears necessary, the Court Clerk shall, at the time of the pre-trial conference, obtain the names of all persons to be subpoenaed as witnesses and prepare and arrange for service of the necessary subpoenas.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.120</num>
+        <heading>Voluntary Agreements</heading>
+        <para>
+          <num>(a)</num>
+          <text>No settlement of the issue in a civil case should be made at the pretrial conference except with a voluntary agreement of all parties involved and a determination of the issues, as taken and affirmed by the Judge conducting the pre-trial conference.  No settlement of any criminal charge in a criminal case shall be made at the pre-trial conference except with the voluntary agreement of the defendant, as taken and affirmed by the Judge conducting the pre-trial conference.  The defendants in criminal cases shall be afforded the opportunity to consult with counsel of their choosing (at their own expense) if they so desire, prior to agreeing to any judgment or order settling the case or any issue thereof or agreeing to a pre-trial order.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.130</num>
+        <heading>Criminal Defendants</heading>
+        <para>
+          <num>(a)</num>
+          <text>A defendant in a criminal pre-trial conference shall not be required to testify, cooperate or otherwise participate in the pre-trial conference.  The Judge conducting the pre-trial conference in a criminal case shall explain these matters to the defendant at the beginning of the conference and shall, if a settlement involving an admission of guilt is reached, determine the voluntariness of the agreement and determine that the defendant understands the rights being given up to the same extent as would be determined by the Court if a guilty plea had been offered originally.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.3.1.140</num>
+        <heading>Unsettled Cases</heading>
+        <para>
+          <num>(a)</num>
+          <text>All cases not settled either in whole or in part at the pre-trial conference shall be scheduled for trial and a trial held before a Judge, other than the Judge conducting the pre-trial conference, as if no such pre-trial conference had been held, except that any pre-trial order agreed to by the parties prior t to the trial shall be controlling at the trial.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4.4</num>
+    <heading>Judicial Act of 2012</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.4.1</num>
+      <heading>Judicial Act of 2012</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-016, dated May 10, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+      <section>
+        <num>4.4.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>In the Article "COURTS" of the "Agreement", the Pueblo established a separate and independent Judicial System, consisting of a Trial Court and Supreme Court;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the "Agreement", the People have given the Council the authority to make and pass laws consistent with the "Agreement".</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.020</num>
+        <heading>Preamble</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso has created a Judicial Branch in its Governing Document, the AGREEMENT. The AGREEMENT, COURTS, provides that:</text>
+          <include>
+            <text>The purpose of this Article is for the Courts to maintain a limited government and to resolve disputes, and to the greatest extent, the judgments and orders of the Courts shall respect, perpetuate, and advance the culture, values, customs, and traditions of the Pueblo.</text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The AGREEMENT establishes a separate and independent Judicial Branch for the Pueblo de San Ildefonso and establishes a Trial Court and a Supreme Court.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>There is a need for legislation implementing the authority and duties of the Judicial Branch.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.030</num>
+        <heading>Title and Purpose</heading>
+        <para>
+          <num>(a)</num>
+          <text>This Act shall be known as the "Pueblo de San Ildefonso Judicial Act".</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The purpose of this ACT is to implement the "COURTS" provision, Sections 1-6 in the "AGREEMENT", and to establish a framework for the general organization, procedures, policies and budget process for the Trial Court and Supreme Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.040</num>
+        <heading>The Judiciary</heading>
+        <para>
+          <num>(a)</num>
+          <text>The judicial power of the Pueblo de San Ildefonso is vested in the Judicial Branch, consisting of a Trial Court and Supreme Court and other courts of limited jurisdiction, which may be established by the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.050</num>
+        <heading>Jurisdiction</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Trial Court shall have original jurisdiction extending to all cases, matters or controversies arising under and as may be limited by the AGEEMENT, laws, ordinances, regulations, customs and judicial decisions of the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Supreme Court shall have jurisdiction to hear all appeals from the Trial Court, but The Supreme Court will have discretion as to which cases to accept. Decisions of the Supreme Court on all matters within its appellate jurisdiction shall be final.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Sovereign Immunity: The Jurisdiction of the Trial Court and Supreme Court shall not extend to any action against the Pueblo or its officials unless the sovereign immunity of the Pueblo has been explicitly and unequivocally waived by the Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Reciprocity of Decisions: The Trial Court and Supreme Court shall enforce the judgments decrees, orders, warrants, subpoenas, records, and other judicial acts of foreign courts; and such process from foreign courts shall be presumed valid by the Trial Court and Supreme Court unless an objecting party demonstrates that (1) the foreign court lacked personal or subject-matter jurisdiction, or (2) the judgment, decree, warrant, subpoena, record, or other judicial act of the court (a) was obtained by fraud, duress, or coercion, (b) was obtained without fair notice or a fair hearing, (c) is repugnant to the public policy of the Pueblo, or (d) is not final under the laws and procedure of the foreign court: <em>provided that</em>:</text>
+          <para>
+            <num>(1)</num>
+            <text>The foreign court, in the view of the Trial Court or Supreme Court, has provided or will provide reciprocal enforcement of Trial Court or Supreme Court judgments, decrees, orders, warrants, subpoenas, records, and other judicial acts.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>This section does not apply to judgments or orders that federal law requires be given Full Faith and Credit.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.060</num>
+        <heading>Power of the Courts</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Courts of the Pueblo de San Ildefonso shall have the power to:</text>
+          <para>
+            <num>(1)</num>
+            <text>Review any laws, resolutions, regulations or other acts of the Council and to declare such laws, resolutions and regulations void or inconsistent with the San Ildefonso AGREEMENT</text>
+            <para>
+              <num>(A)</num>
+              <text>The Trial Court and the Supreme Court shall apply the law of the Pueblo, and, to the extent applicable, the law of the United States.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>All decisions of the Trial Court and the Supreme Court shall be consistent with prior decisions of the Trial Court and the Supreme Court whenever reasonably possible.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Issue injunctions, attachments, writs of mandamus, quo warranto, review extradition, certiorari and prohibition, and to issue writs of habeas corpus upon petition by, or on behalf of, any person held in actual custody.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Judicial Branch shall adopt rules and procedures for the Trial and Supreme Court to implement and fulfill the provisions of the AGREEMENT, provided that all such rules and procedures shall be approved in the form of a law(s) passed by the Council.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Trial Court will adopt rules and procedures for the Children's Court, subject to Supreme Court review and approval.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Trial Court will develop Trial Court procedures, subject to Supreme Court review and approval.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Supreme Court will develop rules and procedures for the Supreme Court.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Supreme Court will develop rules and procedures for the removal judges.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Supreme Court will develop rules and procedures for the disqualification of judges.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Supreme Court will develop rules and procedures for admission to practice before the Courts.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>The Supreme Court shall adopt a Code of Judicial Responsibility for the Courts.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Certification: The Trial Court may certify to the Supreme Court a question or proposition of law on which it seeks instruction for the proper decision of a case. The certificate shall contain a statement of the nature of the case and the facts on which the question or proposition of law arises. Only questions or propositions of law may be certified, and they shall be stated separately and with precision. The Supreme Court shall have discretion whether to accept a certified question. The Supreme Court will make any rules needed for certification.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Interlocutory Appeals: Threshold questions of law, which must be decided in order to move a case forward on other issues, may be appealed to the Supreme Court, after the Trial Court has finally ruled on such threshold issue, but before the Trial Court has ruled on other issues in a case.  It shall be in the discretion of the Supreme Court whether to accept such appeal. The Supreme Court will make any rules and procedures needed for Interlocutory appeals.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.070</num>
+        <heading>Duties of the Courts</heading>
+        <para>
+          <num>(a)</num>
+          <text>Create a Budget: The Supreme Court will propose an Annual Budget for approval by the Council, in accordance with the AGREEMENT and the Council's budget process.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Hire Clerks and other necessary Court Personnel: The Trial Court and Supreme Court will hire and supervise their respective Court staff, consistent with the Pueblo's Personnel Policy Manual In the absence of either Clerk, the other Clerk may perform duties for both Courts.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Prepare Reports: The Trial Judge and Chief Justice shall, after soliciting comments and input from their Clerks, prepare semi-annual reports for their respective Courts, describing the functioning of their respective courts, including budgetary performance and projections, and setting forth specific recommendations for improvements. The Supreme Court will submit the combined reports to the Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Administer the Courts: The Chief Judge of the Trial Court  Chief Justice of the Supreme Court shall be responsible for the administration of their respective Courts, shall assign cases, and manage their Court' calendar and business. The Chief Trial Judge may designate an Associate Judge to act as Chief Judge in his absence. The Chief Justice of the Supreme Court may designate an Associate Justice to act as Chief Judge in his absence.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Appointment of Temporary Judges: In the absence of a Chief Judge, the Chief Justice of the Supreme Court, in collaboration with other Justices, shall appoint a temporary judge or judges until a Chief Judge is selected by the Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.080</num>
+        <heading>Fiscal Procedures</heading>
+        <para>
+          <num>(a)</num>
+          <text>The following procedures will be followed for all invoices for Court personnel or Judicial Branch activity:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Tribal Court Clerk will prepare all invoices and requisitions and insure that appropriate supporting documentation is completed and attached as necessary.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Trial Court Judge will review all invoices and indicate whether the payment, activity or materials requested are within the approved Court budget and affix his signature to approve.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Accounting will insure that the payment, invoice or requisition is covered in the budget, that appropriate documentation is in place, and affix his signature on the invoice or requisition and submit it to the Governor.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Governor will receive the invoice or requisition with all necessary signatures and affix his signature indicating the item is ready for payment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor shall have administrative authority to approve all invoices if the judge is part-time contract, or address any other personnel matters, consistent with a supervisory role per the personnel policy, should the judge become part-time or full-time position.  However, the Governor shall not have any work-product authority to review orders or influence the flow of the docket or the outcome of cases</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Contracts: Any Judicial Branch service or activity lasting more than one (1) year or costing $500.00 or more will require a professional services contract.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.090</num>
+        <heading>Amendments</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council may amend or modify this Judicial Act at any time upon majority vote of the Council in accordance with the requirements of the AGREEMENT for making laws.</text>
+        </para>
+      </section>
+      <section>
+        <num>4.4.1.100</num>
+        <heading>Severability</heading>
+        <para>
+          <num>(a)</num>
+          <text>The provisions of this Act are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this Act.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4.5</num>
+    <heading>Rules of Appellate Procedure</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.5.1</num>
+      <heading>[RESERVED]</heading>
+    </container>
+  </container>
+</container>

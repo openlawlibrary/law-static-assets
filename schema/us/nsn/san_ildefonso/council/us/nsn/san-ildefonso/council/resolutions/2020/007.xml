@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="11.2" id="Pueblo de San Ildefonso Council Res. No. SI-R20-007">
+  <num>SI-R20-007</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-007</heading>
+  <heading type="law">Act Authorizing Signature of Amended Cost-Sharing and System Integration Agreement</heading>
+  <meta>
+    <effective>2020-05-13</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-007</citation>
+    </citations>
+    <history>
+      <adopted>2020-05-13</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 13th day of May, 2020, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a party in the federal water adjudication case of State v. Aamodt, U.S. District Court of New Mexico, No. 66CV6639, and in 2010, the United States enacted 1the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Settlement Act requires the Secretary, acting through the Bureau of Reclamation to plan, design and construct a regional water system to divert and distribute water to four Pueblos and to Santa Fe County; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 611(c) of the Act required execution of a Cost-Sharing and System Integration Agreement ("CSSI Agreement") to establish, among other things, the federal and non-federal costs of constructing the Pojoaque Basin Regional Water System ("RWS"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Parties entered into a CSSI Agreement on August 27, 2009, which was then amended by the Parties on March 14, 2013 to conform to the Act; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it has been determined that the current total cost to design and construct the RWS exceeds the amount authorized in the Act and related cost-sharing agreements; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 611(g)(1) of the Act provides that the Secretary shall initiate negotiations among the parties to address the funding shortfall and related matters; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblos of Nambe, Pojoaque, San Ildefonso and Tesuque, the County of Santa Fe, the City of Santa Fe, the State of New Mexico and the United States of America negotiated an agreement ("611(g) Agreement") that addresses the funding authorization shortfall, cost-sharing among the State, County and the United States, cost-saving changes to the design of the RWS, limited construction, and related matters; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the 611(g) Agreement was signed on September 17, 2019 and requires that the CSSI Agreement and the State and County funding agreements be amended within 120 days of 	the execution of the 611(g) Agreement to conform to the terms of the 611(g) Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that it is in the best interests of the Pueblo to authorize signature of a form of the Amended Cost-Sharing and System Integration Agreement.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "ACT AUTHORIZING SIGNATURE OF THE AMENDED COST-SHARING AND SYSTEM INTEGRATION AGREEMENT".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on May 13, 2020, at a meeting with a vote of 10 in favor, 0 opposed, 0 abstaining and 0 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):     Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No.  SI-R20-007 was presented to the Governor of the Pueblo de San Ildefonso on the 13th day of May, 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 13th day of 	May	, 2020.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William S. Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.27</num>
+      <heading>Act Authorizing Signature of Amended Cost-Sharing and System Integration Agreement</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="11.2.27"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>ACT AUTHORIZING SIGNATURE OF AMENDED COST-SHARING AND SYSTEM INTEGRATION AGREEMENT</heading>
+    <section>
+      <codify:insert num-value="11.2.27.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF AMENDED COST-SHARING AND SYSTEM INTEGRATION AGREEMENT ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.27.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Cost-Sharing and System Integration Agreement" ("CSSI Agreement") to establish, among other things, the federal and non-federal costs of constructing the Pojoaque Basin Regional Water System ("RWS").</text>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.27.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo de San Ildefonso ("Pueblo") is a party in the federal water adjudication 	case of <em>State v. Aamodt</em>, U.S. District Court of New Mexico, No. 66CV6639, and in 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act"); and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Settlement Act requires the Secretary, acting through the Bureau of Reclamation to plan, design and construct a regional water system to divert and distribute water to four Pueblos and to Santa Fe County; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Section 611(c) of the Act required execution of a Cost-Sharing and System Integration Agreement ("CSSI Agreement") to establish, among other things, the federal and non-federal costs of constructing the RWS; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Parties entered into a CSSI Agreement on August 27, 2009, which was then amended by the Parties on March 14, 2013 to conform to the Act; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>It has been determined that the current total cost to design and construct the RWS exceeds the amount authorized in the Act and related cost-sharing agreements; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Section 611(g)(1) of the Act provides that the Secretary shall initiate negotiations among the parties to address the funding shortfall and related matters; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Pueblos of Nambe, Pojoaque, San Ildefonso and Tesuque, the County of Santa Fe, the City of Santa Fe, the State of New Mexico and the United States of America negotiated an agreement ("611(g) Agreement") that addresses the funding authorization shortfall, cost-sharing among the State, County and the United States, cost-saving changes to the design of the RWS, limited construction, and related matters; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The 611(g) Agreement was signed on September 17, 2019 and requires that the CSSI Agreement and the State and County funding agreements be amended within 120 days of the execution of the 611(g) Agreement to conform to the terms of the 611(g) Agreement; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Council, having reviewed a form of the Amended Cost-Sharing and System Integration Agreement finds authorization of the Amended Cost-Sharing and System Integration Agreement is in the best interest of this Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="11.2.27.040"/>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Governor is hereby authorized to sign a form of the Amended Cost-Sharing and System Integration Agreement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized make any minor technical non-substantive amendments to the Amended Cost-Sharing and System Integration Agreement document as may be necessary, provided that the Council is informed of such amendments.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

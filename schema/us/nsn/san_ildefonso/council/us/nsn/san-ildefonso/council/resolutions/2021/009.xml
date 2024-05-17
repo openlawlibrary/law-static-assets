@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" id="Pueblo de San Ildefonso Council Res. No. SI-R21-009">
+  <num>SI-R21-009</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-009</heading>
+  <heading type="law">Tribal Member Distribution Authorization Act Amendment of 2021</heading>
+  <meta>
+    <effective>2021-05-27</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-009</citation>
+    </citations>
+    <history>
+      <adopted>2021-05-24</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 24th day of May, 2021, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council finds that it is in the best interest of the Pueblo to authorize and direct a distribution of available funds to all members of the Pueblo with conditions to encourage COVID-19 vaccination of Members of the Pueblo.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached amendment to the law entitled, "TRIBAL MEMBER DISTRIBUTION AUTHORIZATION ACT AMENDMENT OF 2021."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>May 24 </u> , 2021, at a meeting with a vote of <u> 8</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S):</strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. <u> SI-R21-009</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>26</u><sup><u>th</u></sup> day of <u>May </u> , 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>27</u><sup><u>th</u></sup> day of <u>May</u> , 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading>TRIBAL MEMBER DISTRIBUTION AUTHORIZATION ACT AMENDMENT OF 2021</heading>
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "TRIBAL MEMBER DISTRIBUTION AUTHORIZATION ACT AMENDMENT OF 2021 ("Amendment")."</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Amendment is to authorize and direct a distribution of available funds to all members of the Pueblo with conditions to encourage COVID-19 vaccinations.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>Title 19, Chapter 19, Section 19.4.1.040 of the Code is hereby amended to add the following subsection (g) as follows:</text>
+      <include>
+        <para>
+          <codify:insert path="19.4.1.040"/>
+          <num>(g)</num>
+          <text>Due to the ongoing effects of the COVID-19 pandemic, the Council has determined that it is in the best interest of the Members of the Pueblo to authorize and direct a one-time distribution to begin in June 2021 to members of the Pueblo with a financial incentive to encourage all Members of the Pueblo to obtain a COVID-19 vaccination.</text>
+        </para>
+      </include>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Amendment</heading>
+      <text>Title 19, Chapter 19, Section 19.4.1.050 of the Code is hereby amended to add the following subsection (e) as follows:</text>
+      <include>
+        <para>
+          <codify:insert path="19.4.1.050"/>
+          <num>(e)</num>
+          <text>The Governor is hereby authorized and directed to issue a one-time distribution of available funds to members of the Pueblo as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>Tribal Members enrolled as of April 30, 2021 who are age 15 or younger shall receive $500 distribution;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Tribal Members enrolled as of April 30, 2021 who are over the age of 15 shall receive a $400 distribution;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Tribal Members enrolled as of April 30, 2021 <u>who are over the age of 15</u>, who have been fully vaccinated and who submit a copy of their CDC vaccination card shall receive an additional $100 distribution; provided, that the deadline for submitting a copy of a CDC vaccination card is September 30, 2021.</text>
+          </para>
+        </para>
+      </include>
+    </section>
+  </attachment>
+</document>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 027-18">
+  <num>027-18</num>
+  <heading/>
+  <meta>
+    <ordinance>Tribal Court Code</ordinance>
+    <effective/>
+    <history>
+      <adopted>2018-03-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/027-18.pdf">Stockbridge-Munsee Tribal Council Res. No. 027-18</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	Ordinances; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 1, Tribal Court Code, was adopted in 1998 and has since been amended a number of times, most recently in March 2016; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The proposed revisions to Chapter 1, <cite doc="Stockbridge-Munsee Tribal Code" path="1.9" proof="needed">Section 1.9</cite>, The Court of Appeals, have been posted for public comment for thirty (30) days and no comments were submitted; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 1, <cite doc="Stockbridge-Munsee Tribal Code" path="1.9" proof="needed">Section 1.9</cite>, The Court of Appeals, which includes the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>Replaces existing appeal language in SMC Code Chapter 1, <cite doc="Stockbridge-Munsee Tribal Code" path="1.9" proof="needed">Section 1.9</cite>; and</li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>Creates a SMC Court of Appeals,</conjunction>
+      <text>with a three-judge appellate panel; and</text>
+      <text>
+        <ul proof="needed">
+          <li>Provides for appointments by Tribal Council for three-year terms of the three-judge appellate panel; and</li>
+          <li>The position of Chief Justice of the Court of Appeals will rotate each year; and</li>
+          <li>The revisions create a new process for appeals where the Chief Justice of the appellate panel will solely preside over appeals unless an en banc panel of appellate justices is requested (a full three panel of judges) by one of the parties to the appeal.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+</document>

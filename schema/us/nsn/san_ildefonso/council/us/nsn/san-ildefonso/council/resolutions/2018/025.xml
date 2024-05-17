@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="10.1" id="Pueblo de San Ildefonso Council Res. No. SI-R18-025">
+  <num>SI-R18-025</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R18-025</heading>
+  <heading type="law">Elder Abuse Prevention Act</heading>
+  <meta>
+    <effective>2018-11-20</effective>
+    <citations>
+      <citation type="res" url="./adopted/025.pdf">Council Resolution No. SI-R18-025</citation>
+      <citation type="res" url="./tabled/025.pdf">Council Resolution No. SI-R18-025(tabled)</citation>
+    </citations>
+    <history>
+      <adopted>2018-11-19</adopted>
+      <tabled>2018-10-22</tabled>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Tribal Council of San Ildefonso Pueblo on the 19th day of November, 2018, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that the protection of elderly citizens of the Pueblo against all forms of abuse is a core value and custom of the Pueblo that should be included in a law that is enforceable in the Courts; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council finds it in the best interest of the Pueblo to enact an Elder Abuse Prevention Act to provide strong protections for elderly citizens of the Pueblo.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "ELDER ABUSE PREVENTION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <u>CERTIFICATION</u>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on<u> November 19</u>, 2018, at a meeting with a vote of <u>6</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>4</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <u>Lt. Governor Terrence K. Garcia</u>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>William Stuart Christian</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Glenda Fred-Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Timothy A. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. <u>SI-R18-025</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>19</u><sup><u>th</u></sup> day of <u>November</u>, 2018, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>20</u><sup><u>th</u></sup> day of <u>November</u>, 2018.</text>
+    <text>Perry M. Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2018.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>William Stuart Christian</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Glenda Fred-Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Timothy A. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <u>CERTIFICATION</u>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>10.1.7</num>
+      <heading>Elder Abuse Prevention Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="10.1.7"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ELDER ABUSE PREVENTION ACT</heading>
+    <text class="center">
+      <strong>ELDER ABUSE PREVENTION ACT</strong>
+    </text>
+    <section>
+      <codify:insert num-value="10.1.7.010"/>
+      <num>1</num>
+      <heading>DEFINITIONS</heading>
+      <text>As used in this Elder Abuse Prevention Act ("Act"), unless the context clearly indicates otherwise:</text>
+      <para>
+        <num>A.</num>
+        <text>"Abuse" shall mean a breach of fiduciary responsibility or the willful infliction of physical injury or pain, assault, sexual abuse, mental anguish, unreasonable confinement, intimidation, fear of bodily harm, financial exploitation, the willful deprivation by a Caretaker of the basic necessities of life including but not limited to food, shelter, clothing, and medical and personal care which are necessary to avoid physical harm, mental anguish, or mental illness, or any other type of maltreatment. However, no Elder shall be deemed to be abused for the sole reason the Elder is being furnished non-medical remedial treatment by spiritual means through prayer alone in accordance with a recognized religious method of healing in lieu of medical treatment;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Adult Care Services Worker" shall mean any employee in the Department of Social Services or other persons designated by the Governor to serve in such capacity including but not limited to a Social Services Worker employed by the U.S. Bureau of Indian Affairs;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>"Advocate for the Elder" shall mean any person appointed by the Court to act in such capacity, or alternatively, any person appointed to act in such capacity by the Governor and such appointment is communicated to the Court;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>"Caretaker" means an adult individual who has assumed responsibility for the care of an Elder, either voluntarily, by contract, receipt of payment for care as a result of a family relationship, or by an order of a Court of the Pueblo;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>"Department of Social Services" shall mean any department of the Pueblo, or other entity designated by the Governor to serve as a department, to receive reports on Elder Abuse or otherwise work with the Elderly. If the Governor does not designate a department, the Governor's office shall serve as the Department of Social Services;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>"Elder" or "Elderly" shall mean any person who has attained the age of fifty-five (55) years;</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>"Exploitation" shall mean the act or process of using an Elder or an Elder's resources for another person's profit, advantage, gain, or for monetary or personal benefit without legal entitlement to do so including breach of fiduciary responsibility;</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>"Fiduciary Responsibility" shall mean the duty owed to an Elder to use the Elder's monetary funds and assets for the best interest of the Elder. A fiduciary responsibility shall apply to any individual or other legal entity that obtains possession or control of the assets of an Elder;</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>"Mental Anguish" shall mean to subject an Elder to fear, agitation, confusion, severe depression, or other forms of serious emotional distress, through abuse or threats, harassment, or other forms of intimidating behavior;</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>"Officer" shall mean any law enforcement personnel as authorized by the Pueblo, including an Officer from another Pueblo, the State, or Federal government;</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>"Order of Protection" shall mean an order issued by a Court of the Pueblo, or a court order issued by another court and domesticated by a Court of the Pueblo, that is issued for the temporary protection, security, and care of an Elder.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>"Physical Injury" shall mean bodily pain, harm, impairment, or disease;</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>"Prosecutor" shall mean a person so designated by the Governor to prosecute individuals who violate Pueblo laws. The Governor may designate a Prosecutor by executive order, employment, or contract. If the Governor has not designated a Prosecutor, then an Adult Care Services Worker may act as the Prosecutor for purposes of this Act.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="10.1.7.020"/>
+      <num>2</num>
+      <heading>ELDER ABUSE AND EXPLOITATION</heading>
+      <text>It shall be illegal for any person to Abuse an Elder or commit Exploitation of an Elder within the jurisdiction of the Pueblo.</text>
+    </section>
+    <section>
+      <codify:insert num-value="10.1.7.030"/>
+      <num>3</num>
+      <heading>ARRESTS – MANDATORY AND DISCRETIONARY</heading>
+      <para>
+        <num>A.</num>
+        <text><u>Abuse or Assault</u>. An Officer shall arrest and take into custody any person, or shall detain a non-Indian, whom the Officer has Probable Cause to believe has committed Abuse or assault of an Elder with whom he/she is currently residing or has formerly resided. A warrant shall not be required to make an arrest or to detain a person under this section. "Probable Cause" for purposes of this Section 2 shall be defined as follows: Based on the officer's observations and statements made by the parties involved and witnesses (if any), the Officer believes abuse or an Assault did occur and the person to be arrested committed the Assault. This mandatory provision means that the victim need not sign a complaint for a person to be arrested or detained, and that, upon finding Probable Cause, an Officer shall arrest or detain the person even though it may be against the expressed wishes of the victim.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>Violation of an Order of Protection</u>. An Officer shall arrest and take into custody any person, or shall detain a non-Indian, whom the Officer has Probable Cause to believe has violated an Order of Protection restraining the person or excluding the person from the residence or other location if the existence of the Order can be verified by the Officer regardless of whether the person violating the Order was invited back into the residence or other location. The restrained or excluded person shall not return to residence or other location even if the protected party makes or has made an invitation to return unless and until the Court has officially vacated or modified the Order of Protection accordingly. Every Order of Protection issued by the Court shall inform the restrained or excluded person that the Court must formally vacate or modify the Order to allow such person to return even if the protected party who obtained the Order of Protection makes or has made an invitation for the excluded or restrained person to return.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text><u>Threats with a Weapon</u>. Upon a finding of Probable Cause, an Officer shall arrest a person or detain a non-Indian who has threatened an Elder with a weapon.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text><u>Fear of Bodily Harm</u>. An Officer may arrest any person or detain a non-Indian if the Officer has a Probable Cause to believe that the person has within the past twenty-four hours placed an Elder in immediate fear of bodily harm.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text><u>Exploitation</u>. An Officer may arrest a person if an Officer has a Probable Cause to believe that the person has committed Exploitation against an Elder.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text><u>Reporting</u>. Whenever an Officer investigates an allegation of an incident described in (A), (B), (C), (D), or (E) above, whether or not an arrest is made, the Officer shall make a written report of the alleged incident and submit that report to the Prosecutor. The Prosecutor shall forward copies of all written reports to the Adult Care Services Worker in the Department of Social Services within forty-eight (48) hours of receipt of reports of Elder Abuse or Exploitation.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Following an arrest or detention pursuant to this Section 3, the provisions of Section 4.a. of this Act shall apply.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="10.1.7.040"/>
+      <num>4</num>
+      <heading>ROLE OF THE COURT IN REGARD TO MANDATORY ARRESTS AND EXCLUSIONS</heading>
+      <para>
+        <num>A.</num>
+        <text>Anyone arrested under this Act shall be held without bond until arraignment except for non-Indians. If the Defendant is a non-Indian, then the Court shall issue a temporary order of exclusion from the Pueblo pending a final disposition of the matter; provided, that after the Defendant is afforded notice, a hearing, and an opportunity to present witnesses and other evidence in his or her defense, if the Court finds that the Defendant has violated this Act, then the Court shall issue a mandatory order of exclusion from the Pueblo for a term of no less than five years or for a longer term as determined by the Court.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When the Defendant is arraigned, if the Defendant enters a plea other than guilty, an advocate for the Elder may assist the Elder with the preparation of a request for an Order of Protection to temporarily exclude the Defendant from the home and/or other locations and restraining the Defendant from any contact with the Elder. If the Defendant pleads guilty, the Court shall order a pre-sentence investigation to be completed, and the Elder may, either personally, through an attorney, or through the Adult Care Services Worker, communicate his/her concerns to the Court.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="10.1.7.050"/>
+      <num>5</num>
+      <heading>PENALTIES AND SENTENCING</heading>
+      <para>
+        <num>A.</num>
+        <text>Sentences for a violation of this Act shall be determined by the Court and may be up to a maximum of one year incarceration and/or a fine up to five thousand dollars ($5,000), or participation in an appropriate treatment program in lieu of incarceration in whole or in part, in addition to any restitution and court costs.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The civil penalty for a non-Indian who violates this Act shall be exclusion from the Pueblo; provided, that the Court may also order restitution and court costs. A non-Indian who has been found to have violated of this Act, or who refuses to submit to the jurisdiction of the Pueblo to determine if a violation of this Act has occurred, shall be excluded from the Pueblo for up to a term of no less than five years or for a longer term as determined by the Court, notwithstanding any other law to the contrary including any other law regarding exclusion.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If the Defendant's use of alcohol or drugs contributed to the Abuse, a chemical</text>
+        <text>dependency evaluation may be ordered by the Court, and the Judge may use the results of the evaluation when considering an appropriate treatment program and/or punishment.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Upon conviction of a violation of this Act, the Court shall order the Defendant to participate in an appropriate treatment program; provided, a Defendant's failure or refusal to comply with the court-ordered treatment program may result in incarceration as determined by the Court in accordance with this Act.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Upon any second or subsequent offense of violating this Act or an Order of Protection, the Court shall order a minimum term of incarceration up to a maximum of one year.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="10.1.7.060"/>
+      <num>6</num>
+      <heading>ORDER OF PROTECTION</heading>
+      <text>Any person may request the Court to issue an Order of Protection if the person reasonably believes that Elder Abuse or Exploitation has occurred.</text>
+      <para>
+        <num>A.</num>
+        <text>A petition for relief under this section may be made by any person on behalf of himself/herself or on behalf of an Elder;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A petition for relief shall allege the existence of Elder Abuse and/or Exploitation and shall be accompanied by an affidavit made under oath stating the specific facts and circumstances from which relief is sought;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A petition for relief may be made regardless of whether or not there is a pending lawsuit, complaint, petition, or other action between the parties;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>An Adult Care Services Worker may provide clerical assistance to the Elder with the preparation and filing of a petition for relief under this section; provided, that the Adult Care Services Worker shall inform the Elder or the person designated as the Caretaker of the Elder by the Court of the need to consult with an attorney to determine the Elder's legal rights.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="10.1.7.070"/>
+      <num>7</num>
+      <heading>HEARING ON APPLICATION; NOTICE</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon receipt of the petition seeking an Order of Protection, the Court may find immediate and present danger of Elder Abuse and/or Exploitation, in which case the Court shall issue an emergency Order of Protection. Such emergency Order of Protection shall set a hearing within fourteen (14) days to determine if the Order shall continue. The Prosecutor shall make personal service upon the Defendant not less than five (5) days prior to the hearing. In the event that personal service cannot be completed in time to give the Defendant the minimum notice required under this section, then the court may set a new hearing date as soon as possible.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notwithstanding the provisions of Section 7(A) above, service may be made by publication for at least one week prior to the date of the hearing; provided, that the petitioner files with the Court an affidavit stating that an attempt at personal service made by a law enforcement official was unsuccessful and that a copy of the petition and notice of hearing has been mailed to the Defendant's residence or that the residence of the Defendant is not known. The Court shall set a new hearing date if necessary to allow the Defendant the five-day minimum notice required under paragraph (A) above.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any relief granted in an emergency Order of Protection shall not exceed thirty days, and any relief granted in a final Order of Protection, after a hearing, shall be for a fixed period of time not to exceed one year, except when the Court determines a longer fixed period is appropriate.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="10.1.7.080"/>
+      <num>8</num>
+      <heading>OTHER RELIEF BY THE COURT</heading>
+      <text>Upon a hearing conducted by the Court and in addition to any other penalties provided under this Act, the Court may provide relief as follows:</text>
+      <para>
+        <num>A.</num>
+        <text>Restrain the Defendant from committing acts of Elder Abuse.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exclude the Defendant from the dwelling which the parties share or from the residence of the Elder.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Award temporary use and possession of an Elder's property to a Caretaker and to restrain any other party from transferring, encumbering, concealing, or disposing of such property except in the usual course of business or for the necessities of life, and to order an accounting for all such transfers, encumbrances, dispositions, and expenditures.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Order, at its discretion, other relief as it deems necessary for the protection of an Elder including ordering or directing an Officer or other official to take certain actions.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

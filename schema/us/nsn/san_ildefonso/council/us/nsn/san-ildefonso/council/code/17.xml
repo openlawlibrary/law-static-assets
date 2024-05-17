@@ -1,0 +1,1103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>17</num>
+  <heading>BUSINESS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.1</num>
+    <heading>Business Corporation Code</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.1.1</num>
+      <heading>Background</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-006, dated March 13, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-006"/>
+      <section>
+        <num>17.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council desires to increase economic development opportunities for the Pueblo and its tribal citizens;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council desires to support the development of wholly owned Tribal corporations and tribal member owned corporations for the economic well begin of the Pueblo and its citizens;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined it is in the best interest of the Pueblo to promote and regulate business formation through the enactment of the Pueblo de San Ildefonso Business Corporation Code.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.1.020</num>
+        <text>Pueblo de San Ildefonso Tribal Council hereby enacts the attached law entitled "The Pueblo de San Ildefonso Business Corporation Code".</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.1.2</num>
+      <heading>FORMING A CORPORATION</heading>
+      <section>
+        <num>17.1.2.010</num>
+        <heading>CITATION.</heading>
+        <text>This Code shall be known as the Pueblo of San Ildefonso Business Corporation Code.</text>
+      </section>
+      <section>
+        <num>17.1.2.020</num>
+        <heading>PURPOSE AND DEFINITIONS.</heading>
+        <text>The purpose of this Code shall be to establish a legal avenue for business owners to organize their business under the laws of the Pueblo of San Ildefonso.  This Code recognizes tribally organized corporations as distinct legal entities independent from its shareholders/ owners and its employees.  As distinct legal entities, shareholders/owners and employees of corporations chartered under this Code are not personally liable for the actions, debts, and/or liabilities of the corporation.</text>
+        <text>For the purpose of this Code, unless the language or context clearly indicates that a different meaning is intended, the words, terms and phrases defined in this section have the meanings given to them.</text>
+        <para>
+          <num>(a)</num>
+          <heading>Articles.</heading>
+          <text>"Articles" means, in the case of a corporation incorporated under or governed by this Code, Articles of Incorporation, charter, or other documents evidencing the creation of a corporate entity.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Authorized Shares.</heading>
+          <text>"Authorized Shares" means the shares of all classes which the corporation is authorized to issue.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Corporation.</heading>
+          <text>"Corporation" means a corporation, other than a foreign corporation, organized for profit and for any lawful purpose and incorporated under or governed by this Code.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Pueblo.</heading>
+          <text>"Pueblo" means the Pueblo of San Ildefonso as is now or hereafter may be recognized by the Secretary of the Interior of the United States of America.  For the purposes of this Code, the terms "Pueblo" and "Tribe" shall mean the same thing.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Registered office.</heading>
+          <text>"Registered office" means the place designated in the articles of a corporation as the registered office of the corporation.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Tribal Corporation.</heading>
+          <text>"Tribal Corporation" means a corporation that is incorporated under this Code.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Tribal Council.</heading>
+          <text>"Tribal Council" means the Tribal Council of the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Tribal Services Director.</heading>
+          <text>"Tribal Services Director" means the person whom shall act as the Secretary for filing of documents required under this Act.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Tribe.</heading>
+          <text>"Tribe" means the Pueblo of San Ildefonso.  For the purposes of this Code, the terms "Pueblo" and "Tribe" shall mean the same thing.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Wholly Owned by the Tribe.</heading>
+          <text>"Wholly Owned by the Tribe" means a Tribal Corporation whose entire interest, or 100% interest, is directly or indirectly owned by the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.030</num>
+        <heading>REPEAL OF PREVIOUS BUSINESS CORPORATION ACT.</heading>
+        <text>Any prior Corporation Codes are hereby repealed effective the date this Code is enacted. No corporations were organized under a Prior Corporation Code. Effective with the effective date of this Code, a corporation incorporated for a purpose or purposes for which a corporation may be incorporated under this Code shall be incorporated only under this Code.</text>
+      </section>
+      <section>
+        <num>17.1.2.040</num>
+        <heading>RESERVATION OF RIGHT.</heading>
+        <text>The Pueblo reserves the right to amend or repeal the provisions of this Code. A corporation incorporated under or governed by this Code is subject to this reserved right.</text>
+      </section>
+      <section>
+        <num>17.1.2.050</num>
+        <heading>CORPORATIONS WHOLLY OWNED BY THE PUEBLO.</heading>
+        <text>The provisions of sections 1-32 through 1-34 shall apply to all corporations incorporated under this Code and wholly owned, directly or indirectly, by the Pueblo and shall override any other provisions in this Code to the contrary.</text>
+      </section>
+      <section>
+        <num>17.1.2.060</num>
+        <heading>SOVEREIGN IMMUNITY OF THE PUEBLO NOT WAIVED.</heading>
+        <text>By the adoption of this Code, the Pueblo does not waive its sovereign immunity or consent to suit in any court, federal, tribal or state, and neither the adoption of this Code, nor the incorporation of any corporation hereunder, shall be construed to be a waiver of the sovereign immunity of the Pueblo or a consent to suit against the Pueblo in any such court.</text>
+      </section>
+      <section>
+        <num>17.1.2.070</num>
+        <heading>PURPOSES.</heading>
+        <text>A corporation may be incorporated under this Code for any lawful business purpose(s), unless some other Code of the Pueblo requires incorporation for any of those purposes under a different law. Unless otherwise provided in its articles, a corporation has general business purposes.</text>
+      </section>
+      <section>
+        <num>17.1.2.080</num>
+        <heading>GENERAL POWERS OF THE CORPORATION.</heading>
+        <text>Each corporation shall have power:</text>
+        <para>
+          <num>(a)</num>
+          <text>To have perpetual succession by its corporate name unless a limited period of duration is stated in its articles of incorporation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>To sue and be sued, complain and defend, in its corporate name.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To have a corporate seal which may be altered at its pleasure, and to use the same by causing it, or a facsimile thereof, to be impressed or affixed or in any other manner reproduced.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To purchase, take, receive, lease, or otherwise acquire, own, hold, improve, use and otherwise dealing with, real or personal property, or any interest therein, wherever situated.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>To sell, convey, mortgage, pledge, lease, exchange, transfer and otherwise dispose of all or any part of its property and assets, except for tribal trust property to which it may have an interest in.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>To lend money and use its credit for any lawful purpose.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>To purchase, take, receive, subscribe for, or otherwise acquire, own, hold, vote, use, employ, sell, mortgage, lend, pledge, or otherwise dispose of, and otherwise use and deal in and with, shares or other interests in, or obligations of, other domestic or foreign corporations, associations, partnerships or individuals, or direct or indirect obligations of the United States or of any other government, state, territory, governmental district or municipality or of any instrumentality thereof.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>To make contracts and guarantees and incur liabilities, borrow money, issue its notes, bonds and other obligations by mortgage or pledge of all or any of its property and income, except for any interest in tribal trust property.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>To lend money for its corporate purposes, invest or reinvest its funds, and take and hold real and personal property as security/collateral for the payment of funds so loaned or invested.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>To conduct its business, carry on its operations and have offices and exercise the powers granted by this Ordinance, within or without the exterior boundaries of the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>To elect or appoint officers and agents of the corporation, and define their duties and fix their compensation.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>To make and amend bylaws, not inconsistent with its articles of incorporation or with the laws of the Pueblo of San Ildefonso for the administration and regulation of the affairs of the corporation.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>To make donation for the public welfare or for charitable, scientific, educational or cultural purposes.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>To transact any lawful business.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>To pay pensions and establish pension plans, pension trusts, profit sharing plans, stock option plans, stock bonus plans or other incentive plans for any or all of its directors, officers and employees.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>To be partner, member, associate, manager or associate of any partnership, joint venture, trust or other enterprise.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>To have and exercise all powers necessary or convenient to effectuate its purposes.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.090</num>
+        <heading>INCORPORATORS.</heading>
+        <text>One or more enrolled members of the Pueblo may act as incorporators of a corporation by filing the articles of incorporation for the corporation with the Tribal Services Director.</text>
+      </section>
+      <section>
+        <num>17.1.2.100</num>
+        <heading>ARTICLES.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Required provisions.</heading>
+          <text>The articles of incorporation shall contain:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name of the corporation;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The address of the registered office of the corporation and the name of its registered agent, if any, at that address;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The aggregate number of shares that the corporation has authority to issue; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The name and address of each incorporator.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.110</num>
+        <heading>FILING ARTICLES.</heading>
+        <text>Articles of incorporation and articles of amendment shall be filed with the Tribal Services Director. All documents shall be filed at the following address:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>Attn:</td>
+                <td>
+                  <p>Tribal Services Director</p>
+                  <p>02 Tunyo Po</p>
+                  <p>Santa Fe, NM 97506</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </section>
+      <section>
+        <num>17.1.2.120</num>
+        <heading>EFFECTIVE DATE OF ARTICLES.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Articles of incorporation are effective and corporate existence begins when the articles of incorporation are filed with the Tribal Services Director accompanied by a payment of $________, which includes a $_______ incorporation fee in addition to the $_______ filing fee.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Articles of amendment are effective when filed with the Tribal Services Director or at another time within 30 days after filing if the articles of amendment so provide.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.130</num>
+        <heading>CORPORATE NAME.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Requirements; prohibitions.</heading>
+          <text>The corporate name:</text>
+          <para>
+            <num>(1)</num>
+            <text>Shall be in the Tewa or English language or in any other language expressed in English letters or characters;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Shall contain the word "corporation," "incorporated," or "limited," or shall contain an abbreviation of one or more of these words, or the word "company" or the abbreviation "Co." if that word or abbreviation is not immediately preceded by the word "and" or the character "&amp;";</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Shall not contain a word or phrase that indicates or implies that it is incorporated for a purpose other than a legal business purpose;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Shall not be the same as, or deceptively similar to, the name of any corporation existing under the laws of the Pueblo of San Ildefonso, or any name the exclusive right to which is, at the time, reserved in the manner provided in this Code, or the name of a corporation which had in effect a registration of its corporate name as provided in this Code.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.140</num>
+        <heading>REGISTERED OFFICE; REGISTERED AGENT.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Registered office.</heading>
+          <text>A corporation shall continuously maintain a registered office. A registered office need not be the same as the principal place of business or the principal executive office of the corporation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Registered agent.</heading>
+          <text>A corporation may designate in its articles a registered agent. The registered agent may be a natural person residing on the Pueblo, or a tribal corporation. The registered agent must maintain an office that is identical with the registered office.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.150</num>
+        <heading>SERVICE OF PROCESS ON CORPORATION.</heading>
+        <text>The registered agent appointed by the corporation shall be an agent of the corporation upon whom any process, notice or demand required or permitted by law to be served upon the corporation may be served.</text>
+      </section>
+      <section>
+        <num>17.1.2.160</num>
+        <heading>AMENDMENT OF ARTICLES.</heading>
+        <text>The articles of a corporation may be amended at any time to include or modify any provision that is required or permitted to appear in the articles or to omit any provision not required to be included in the articles, except that when articles are amended to restate them, the name and address of each incorporator may be omitted.</text>
+      </section>
+      <section>
+        <num>17.1.2.170</num>
+        <heading>ARTICLES OF AMENDMENT.</heading>
+        <text>When an amendment has been adopted, articles of amendment shall be prepared that contain:</text>
+        <para>
+          <num>(a)</num>
+          <text>The name of the corporation;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The amendment adopted;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>With respect to an amendment restating the articles, a statement that the amendment restating the articles correctly sets forth without change the corresponding provisions of the articles as previously amended if the amendment was approved only by the board;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the amendment provides for but does not establish the manner for effecting an exchange, reclassification, division, combination, or cancellation of issued shares, a statement of the manner in which it will be effected; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A statement that the amendment has been adopted pursuant to this Code.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.180</num>
+        <heading>AUTHORIZED SHARES.</heading>
+        <text>Each corporation shall have power to create and issue the number of shares stated in its articles of incorporation.  Such shares may be divided into one or more classes, any or all of which classes may consist of shares with par value or shares without par value with such designations, preferences, limitations, and relative rights as shall be stated in the articles of incorporation. The articles of incorporation may limit voting rights for the shares of any class to the extent not inconsistent with the provisions of this Ordinance.</text>
+        <text>Without limiting the authority herein contained, a corporation, when so provided in its articles of incorporation, may issue shares of preferred or special classes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Subject to the right of the corporation to redeem any of such shares at the price fixed by the articles of incorporation for the redemption thereof;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Entitling the holders thereof to cumulative, noncumulative or partially cumulative dividends;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Having preference over any other class or classes of shares as to the payment of dividends;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Having preference in the assets of the corporation over any other class or classes of shares upon the voluntary or involuntary liquidation of the corporation; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Convertible into shares of any other class or into shares of any series of the same or any other class, except a class having prior or superior rights and preferences as to dividends or distribution of assets upon liquidation, but shares without par value shall not be converted into shares with par value unless that part of the stated capital of the corporation represented by such shares without par value is, at the time of conversion, at least equal to the aggregate par value of the shares into which the shares without par value are to be converted for the amount of any such deficiency is transferred from surplus to stated capital.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.2.190</num>
+        <heading>PAYMENT FOR SHARES.</heading>
+        <text>The consideration for the issuance of shares may be paid, in whole or in part, in cash, in other property, tangible or intangible or in labor or service actually performed for the corporation.</text>
+        <text>Neither promissory notes nor future services shall constitute payment or part payment for this issuance of shares of a corporation.</text>
+      </section>
+      <section>
+        <num>17.1.2.200</num>
+        <heading>CERTIFICATE REPRESENTING SHARES.</heading>
+        <text>The shares of a corporation may or may not be represented by certificates signed by the president or a vice president and the secretary of the corporation.  However, shares shall be recorded in the corporate records.</text>
+      </section>
+      <section>
+        <num>17.1.2.210</num>
+        <heading>LIABILITY OF SHAREHOLDERS WITH RESPECT TO SHARES.</heading>
+        <text>A shareholder of a corporation is under no obligation to the corporation or its creditors with respect to the shares subscribed for or owned, except to pay to the corporation the full consideration for which the shares are issued or to be issued.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.1.3</num>
+      <heading>DISSOLUTION</heading>
+      <section>
+        <num>17.1.3.010</num>
+        <heading>METHODS OF DISSOLUTION.</heading>
+        <text>A corporation may be dissolved:</text>
+        <para>
+          <num>(a)</num>
+          <text>By the incorporators;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>By the shareholders; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>By action of the Tribal Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.020</num>
+        <heading>Voluntary Dissolution by Incorporators.</heading>
+        <text>A corporation which has not commenced business and which has not issued any shares may be voluntarily dissolved by its incorporators at any time in the following manner:</text>
+        <para>
+          <num>(a)</num>
+          <text>Articles of dissolution shall be executed in duplicate by a majority of the incorporators, and verified by them, and shall set forth:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name of the corporation.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The date of issuance of its certificate of incorporation.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>That none of its shares has been issued.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>That the corporation has not commenced business.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>That the amount, if any, actually paid in on subscriptions for its shares, less any part thereof disbursed for necessary expenses, has been returned to those entitled thereto.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>That no debts of the corporation remain unpaid.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>That a majority of the incorporators elect that the corporation be dissolved.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Duplicate originals of the articles of dissolution shall be delivered to the Tribal Services Director. If the Tribal Services Director finds that the articles of dissolution conform to law, the Tribal Services Director shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Endorse on each of such duplicate originals the word "filed" and the month, day and year of the filing thereof.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>File on of such duplicate originals in the Tribal Service Director's office.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Issue a certificate of dissolution to which the Tribal Services Director shall affix the other duplicate original.</text>
+          </para>
+        </para>
+        <aftertext>The certificate of dissolution, together with the duplicate originals of the articles of dissolution affixed thereto by the Tribal Services Director, shall be returned to the incorporators, or their agent.  Upon issuance of such certificate of dissolution by the Tribal Services Director, the existence of the corporation shall cease.</aftertext>
+      </section>
+      <section>
+        <num>17.1.3.030</num>
+        <heading>Voluntary Dissolution by Consent of Shareholders.</heading>
+        <text>A corporation may be voluntarily dissolved by the written consent of all of its shareholders.</text>
+        <text>Upon the execution of such written consent, a statement of intent to dissolve shall be executed in duplicate by the corporation's president or a vice president and its secretary, and verified by one of the officers signing such statement, which statement shall set forth:</text>
+        <para>
+          <num>(a)</num>
+          <text>The name of the corporation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The names and respective addresses of its officers.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The names and respective addresses of its directors.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A copy of the written consent signed by all shareholders of the corporation.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A statement that such written consent has been signed by all shareholders of the corporation or signed in their names by their attorneys' thereunto duly authorized.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.040</num>
+        <heading>Voluntary Dissolution by Act of Corporation.</heading>
+        <text>A corporation may be dissolved by the act of the corporation, when authorized in the following manner:</text>
+        <para>
+          <num>(a)</num>
+          <text>The board of directors shall adopt a resolution recommending that the corporation be dissolved and directing that the question of such dissolution be submitted to a vote at a meeting of shareholders, which may be either an annual or a specially called meeting for such purpose.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Written notice shall be given to each shareholder of record entitled to vote at such meeting within the time and in the manner provided in this Ordinance for the giving of notice of meetings of shareholders, and, whether the meeting be an annual or special, shall state that the purpose, or one of the purposes of such meeting is to consider the advisability of dissolving the corporation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>At such meeting, a vote of shareholders entitled to vote shall be taken on such resolution to dissolve the corporation.  Such resolution shall be adopted upon receiving the affirmative vote of the holders of a majority of the shares of the corporation entitled to vote thereon, unless any class of shares is entitled to vote thereon as a class, in which event the resolution shall be adopted upon receiving the affirmative vote of the holders of a majority of the shares of each class of shares entitled to vote thereon as a class and of the total shares entitled to vote thereon.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Upon the adoption of such resolution, a statement of intent to dissolve shall be executed in duplicate by the corporation by its president or a vice president and by its secretary and verified by one of the officers signing such statement, which statement shall set forth:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name of the corporation.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The names and respective addresses of its officers.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The names and respective addresses of its directors.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A copy of the resolution adopted by the shareholders authorizing the dissolution of the corporation.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The number of shares outstanding, and, if the shares of any class are entitled to vote as a class, the designation and number of outstanding shares of each such class.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The number of shares voted for and against the resolution, respectively, and, if the shares of any class are entitled to vote as a class, the number of shares of each such class voted for and against the resolution, respectively.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.050</num>
+        <heading>Filing of Statement of Intent to Dissolve.</heading>
+        <text>Upon the filing with the Tribal Services Director of a statement of intent to dissolve, whether by consent of shareholders or by act of the corporation, the corporation shall cease to carry on its business, except insofar as may be necessary for the winding up thereof, but its corporate existence shall continue until a certificate of dissolution has been issued by the Tribal Services Director or until a decree dissolving the corporation has been entered by a court of competent jurisdiction.</text>
+      </section>
+      <section>
+        <num>17.1.3.060</num>
+        <heading>Procedure after Filing of Statement of Intent to Dissolve.</heading>
+        <text>After the filing with the Tribal Services Director the statement of intent to dissolve:</text>
+        <para>
+          <num>(a)</num>
+          <text>The corporation shall immediately cause notice thereof to be mailed to each known creditor of the corporation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The corporation shall proceed to collect its assets, convey and dispose of such of its properties as are not to be distributed in kind to its shareholders, pay, satisfy and discharge its liabilities and obligations and do all other acts required to liquidate its business and affairs, and, after paying or adequately providing for the payment of all its obligations, distribute the remainder of its assets, either in cash or in kind, among its shareholders according to their respective rights and interests.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The corporation, at any time during the liquidation of its business and affairs, may make application to a court of competent jurisdiction to have the liquidation continued under the court's supervision.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.070</num>
+        <heading>Articles of Dissolution.</heading>
+        <text>When all debts, liabilities and obligations of the corporation have been paid and discharged, or adequate provision has been made therefor, and all of the remaining property and assets of the corporation have been distributed to its shareholders, articles of dissolution shall be executed in duplicate by the corporation by its president or a vice president and by its secretary and verified by one of the officers signing such statement, which statement shall set forth:</text>
+        <para>
+          <num>(a)</num>
+          <text>The name of the corporation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>That all debts, obligations and liabilities of the corporation have been paid and discharged or that adequate provision has been made therefor.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>That all the remaining property and assets of the corporation have been distributed among its shareholders in accordance with their respective rights and interests.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>That no legal action or administrative proceeding is pending against the corporation in any court or federal, state or tribal agency, or that adequate provision has been made for the satisfaction of any judgment, order or decree which may be entered against it in any pending suit or administrative proceeding.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.080</num>
+        <heading>Filing Articles of Dissolution.</heading>
+        <text>Duplicate originals of such articles of dissolution shall be delivered to the Tribal Services Director.  If the Tribal Services Director finds that such articles of dissolution conform to Tribal Law, the Tribal Services Director shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Endorse on each of such duplicate originals the word "filed" and the month, day and year of the filing thereof;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Maintain one of such duplicate originals in the Tribal Service Director's office; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Issue a certificate of dissolution to which the Tribal Service Director shall affix the other duplicate original.</text>
+          <text>The certificates of dissolution, together with the duplicate original of the articles of dissolution affixed thereto by the Tribal Service Director, shall be returned to the registered agent of the dissolved corporation.  Upon the issuance of such certificate of dissolution, the existence of the corporation shall cease, except for the purpose of suits, other proceedings and appropriate corporate action by shareholders, directors or officers.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.090</num>
+        <heading>Involuntary Dissolution.</heading>
+        <text>A corporation may be dissolved involuntarily by a decree of Pueblo of San Ildefonso Court in an action filed in the name of the Pueblo of San Ildefonso by its General Counsel or Special Counsel when it is established that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The corporation procured its articles of incorporation through fraud; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The corporation has continued to exceed or abuse the authority conferred upon it by law; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The corporation has failed for thirty (30) days to appoint and maintain a registered agent on the Pueblo; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The corporation has failed for thirty (30) days after change of its registered officer or registered agent to file in the Tribal Service Director's office a statement of change.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.100</num>
+        <heading>JURISDICTION OF THE TRIBE TO LIQUIDATE ASSETS AND BUSINESS OF CORPORATION.</heading>
+        <text>The Pueblo of San Ildefonso Court shall have full power to liquidate the assets and business of a corporation:</text>
+        <para>
+          <num>(a)</num>
+          <text>In an action by a shareholder when it is established:</text>
+          <para>
+            <num>(1)</num>
+            <text>That the directors are deadlocked in the management of the corporate affairs and the shareholders are unable to break the deadlock, and that irreparable injury to the corporation is being suffered or is threatened by reason thereof; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>That the acts of the directors or those in control of the corporation are illegal, oppressive or fraudulent; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>That the shareholders are deadlocked in voting power, and have failed, for a period which includes at least two (2) consecutive annual meeting dates, to elect successors to directors whose terms have expired or would have expired upon the election of their successors; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>That the corporate assets are being misapplied or wasted.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In an action by a creditor:</text>
+          <para>
+            <num>(1)</num>
+            <text>When the claim of the creditor has been reduced to judgment and an execution thereon returned unsatisfied and it is established that the corporation is insolvent; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>When the corporation has admitted in writing that the claim of the creditor is due and owing and it is established that the corporation is insolvent.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Upon application by a corporation which has filed a statement of intent to dissolve, as provided in this Code, to have its liquidation continued under the supervision of the court.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>When an action has been filed by the Nation's General Counsel or Special Counsel to dissolve a corporation and it is established that liquidation of its business and affairs should precede the entry of a decree of dissolution.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>17.1.3.110</num>
+        <heading>DECREE OF INVOLUNTARY DISSOLUTION.</heading>
+        <text>In proceedings to liquidate the assets and business of a corporation, when the costs and expenses of such proceedings and all debts, obligations and liabilities of the corporation shall have been paid and discharged and all of its remaining property and assets distributed to its shareholders, or in case its property and assets are not sufficient to satisfy and discharge such costs, expenses, debts and obligations, all the property and assets have been applied so far as they will go to their payment, the court shall enter a decree dissolving the corporation, whereupon the existence of the corporation shall cease.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.1.4</num>
+      <heading>CORPORATIONS WHOLLY OWNED BY THE TRIBE</heading>
+      <section>
+        <num>17.1.4.010</num>
+        <heading>SCOPE.</heading>
+        <text>Sections 1-32 through 1-34 apply to all tribal corporations wholly owned by the Tribe, whether directly or as a subsidiary of another tribal corporation wholly owned by the Tribe.</text>
+      </section>
+      <section>
+        <num>17.1.4.020</num>
+        <heading>APPLICATION.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Corporations directly owned by the Tribe.</heading>
+          <text>The consent of the Tribal Council shall be required prior to the incorporation under this Code of any corporation to be wholly owned by the Tribe. For this purpose, the incorporator shall file with the Tribal Services Director, when the incorporator files the articles of incorporation of a corporation to be wholly owned by the Tribe, a certified copy of a resolution of the Tribal Council authorizing the formation of the corporation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Designation in articles.</heading>
+          <text>The articles of a corporation wholly owned, directly or indirectly, by the Tribe shall expressly so state and when accepting the articles for filing, the Tribal Services Director shall note that the corporation is governed by the provisions of this Code applicable to wholly owned tribal corporations.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.1.4.030</num>
+        <heading>SPECIAL POWERS, PRIVILEGES AND IMMUNITIES OF CORPORATIONS WHOLLY OWNED BY THE TRIBE.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Scope.</heading>
+          <text>The special powers, privileges and immunities described in this section shall be available only to a corporation wholly owned, directly or indirectly, by the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Jurisdictional and tax immunities.</heading>
+          <text>All of the rights, privileges and immunities of the Tribe concerning federal, state, or local taxes, regulations and jurisdiction are hereby conferred on all tribal corporations wholly owned, directly or indirectly, by the Tribe to the same extent that the Tribe would have such rights, privileges and immunities if it engaged in the activities undertaken by the corporation. Absent consent by the corporation, a corporation wholly owned, directly or indirectly, by the Pueblo shall not be subject to taxation by the Pueblo, except to the extent that such taxation is necessary and reasonably appropriate to compensate the Pueblo for services provided to the corporation by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Sovereign immunity.</heading>
+          <text>The sovereign immunity of the Pueblo is hereby conferred on all tribal corporations wholly owned, directly or indirectly, by the Pueblo. A corporation wholly owned, directly or indirectly, by the Pueblo shall have the power to sue and is authorized to consent to be sued in the court, and in all other courts of competent jurisdiction, provided, however, that:</text>
+          <para>
+            <num>(1)</num>
+            <text>no such consent to suit shall be effective against the corporation unless such consent is:</text>
+            <para>
+              <num>(A)</num>
+              <text>explicit,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>contained in a written contract or commercial document to which the corporation is a party, and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>specifically approved by the board of directors of the corporation, and</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any recovery against such corporation shall be limited to the assets of the corporation.</text>
+          </para>
+        </para>
+        <aftertext>Any consent to suit may be limited to the court or courts in which suit may be brought, to the matters that may be made the subject of the suit and to the assets or revenues of the corporation against which any judgment may be executed.</aftertext>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.1.5</num>
+      <heading>EFFECTIVE DATE AND AUTHORITY</heading>
+      <section>
+        <num>17.1.5.010</num>
+        <heading>SEVERABILITY; EFFECT OF INVALIDITY OF PART OF THIS CODE.</heading>
+        <text>If the court shall adjudge to be invalid or unconstitutional any clause, sentence, paragraph, section, article or part of this Code, such judgment or decree shall not affect, impair, invalidate or nullify the remainder of this Code, but the effect thereof shall be confined to the clause, sentence, paragraph, section, article or part of this Code as adjudged to be invalid or unconstitutional.</text>
+      </section>
+      <section>
+        <num>17.1.5.020</num>
+        <heading>EFFECTIVE DATE.</heading>
+        <text>This Code shall be in full force and effect according to its terms from and after ___________, 2014.</text>
+      </section>
+      <section>
+        <num>17.1.5.030</num>
+        <heading>AUTHORITY.</heading>
+        <text>This Code is enacted by the Pueblo of San Ildefonso Tribal Council under the authority vested in the Tribal Council by Section 5, clause (a)(i), of the Governing Document of the Pueblo of San Ildefonso. The Tribal Council reserves the right to repeal or amend the provisions of this Code.</text>
+      </section>
+      <section>
+        <num>17.1.5.040</num>
+        <heading>NO IMPAIRMENT OF CONTRACTS.</heading>
+        <text>Otherwise lawful contracts and other obligations of any corporation shall not be impaired by any subsequent action of the Pueblo or the Tribal Council. Actions to restrain any attempts to impair contracts of tribal corporations, or to declare such actions null and void, shall be available to any interested party in court. Nothing in this section shall be construed to restrict the general application of law, or of this Code to the acts and contracts of tribal corporations.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.2</num>
+    <heading>Department of Economic Development</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.1</num>
+      <heading>Department of Economic Development Enabling Act</heading>
+      <section>
+        <num>17.2.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Annual budget items may only be included if they have first been authorized by law as required by Section 5(a)(ii)(A) of the Agreement;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds that reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council finds that establishing a Department of Economic Development will assist the Tribe in achieving its economic endeavors.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Department of Economic Development Act ("Act").</text>
+      </section>
+      <section>
+        <num>17.2.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.1.040</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of the Act is to establish the Department of Economic Development.</text>
+      </section>
+      <section>
+        <num>17.2.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>establishing a Department of Economic Development will assist the Tribe in achieving its economic endeavors.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.1.060</num>
+        <heading>General Policy</heading>
+        <text>Department of Economic Development.  This act shall establish the Department of Economic Development to carry out the Tribe's economic development initiatives.</text>
+      </section>
+      <section>
+        <num>17.2.1.070</num>
+        <heading>Organization of the Department of Education</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be a Director of the Department of Economic Development who shall oversee the general supervision of the department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In order to promote efficiency within the Department of Economic Development, program offices will be established as necessary.  A program director shall oversee the general supervision of the each program office and shall report to the Director of the Department of Economic Development.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.1.080</num>
+        <heading>Department of Economic Development Goals and Objectives</heading>
+        <text>Department of Economic Development.  The overall goals of the Department of Economic Development ("Department") are to manage the convenience stores/gas stations ("Phillips 66") located at Totavi and White Rock.  The Department shall work towards maximizing revenue, utilizing resources, and managing marketing efforts.  The Department shall provide technical advice and assistance to tribal leadership in economic development improvements and opportunities.</text>
+      </section>
+      <section>
+        <num>17.2.1.090</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this enabling act or reorganize the Department of Economic Development at any time upon majority vote of the Council.</text>
+      </section>
+      <section>
+        <num>17.2.1.100</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+      </section>
+      <section>
+        <num>17.2.1.110</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.2</num>
+      <heading>Reassumption of Authority and Control Over the San Ildefonso Custodial, LLC</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-034, dated August 28, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-034"/>
+      <section>
+        <num>17.2.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council formed San Ildefonso Custodial, LLC ("Custodial") pursuant to Council Resolution No. SI-R07-020;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pursuant to Article IV of the Articles of Organization, San Ildefonso Custodial is a single member limited liability corporation wholly owned by the Pueblo de San Ildefonso;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pursuant to Article IV of the Articles of Organization, all shares in the limited liability corporation are owned by the Pueblo de San Ildefonso for the benefit of the Pueblo and its members and the Pueblo Governor and Council shall serve as the Member's representatives, with all rights of a Member;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>On September 16, 2009, the Council, through Resolution No. SI-R09-031 entitled "Authorizing the San Ildefonso Pueblo Enterprise Corporation to Own and Operate the San Ildefonso Custodial Services, LLC," assigned San Ildefonso Custodial to San Ildefonso Pueblo Enterprise Corporation ("SIPEC") the Pueblo's federally chartered corporation, so that San Ildefonso Custodial would be a wholly-owned and operated subsidiary of SIPEC;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council, by Council Resolution No. SI-R09-031, also authorized the transfer of the Teaming Agreement with Tsay Building Services, LLC, from the Pueblo to SIPEC;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Articles of Organization authorize the adoption of an Operating Agreement for the conduct of business and affairs of the San Ildefonso Custodial;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Second Amended Operating Agreement for San Ildefonso Custodial, LLC, at Section 3.1 states that the Council by Resolution No. SI-R09-031 assigned to the SIPEC Board of Directors the responsibility to serve as the Pueblo's Member Representative for San Ildefonso Custodial;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The SIPEC Board has served as the Member's Representative for San Ildefonso Custodial since 2009;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The transfer of San Ildefonso Custodial to SIPEC has not met the Pueblo's expectations;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Council has determined that for the protection and continued viability of San Ildefonso Custodial, it is in the best interest of the Pueblo to rescind Tribal Council Resolution No. SI-R09-031and reassume any and all interest and authorities in San Ildefonso Custodial that were previously assigned to SIPEC.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.2.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby rescinds in its entirety the Tribal Council Resolution No. SI-R09-031 "Authorizing the San Ildefonso Pueblo Enterprise Corporation to Own and Operate the San Ildefonso Custodial Services, LLC," effectively immediately.</text>
+      </section>
+      <section>
+        <num>17.2.2.030</num>
+        <text>The Pueblo de San Ildefonso Council, on behalf of the single member, the Pueblo de San Ildefonso, shall reassume any and all interests and all authorities of the San Ildefonso Custodial Services, LLC, previously assigned to SIPEC, and shall reassume all authorities as the Member's Representative under the Articles of Organization for the San Ildefonso Custodial Services, effectively immediately.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.3</num>
+      <heading>Approving Resolution to Petition the Secretary of the Interior to Amend the Federal Charter of Incorporation of Pueblo Insurance Agency, Inc.</heading>
+      <section>
+        <num>17.2.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>On November 2, 2001, the Secretary of the Interior issued a federal charter of incorporation to the All Indian Pueblo Council for the Pueblo Insurance Agency, Inc. ("Federal Charter") under Section 17 of the Indian Reorganization Act of 1934, 25 U.S.C. § 477, for the benefit of the Pueblo of Acoma, Pueblo of Cochiti, Pueblo of Isleta, Pueblo of Jemez, Pueblo of Laguna, Pueblo of Santa Ana, Pueblo of Sandia, Pueblo of San Felipe, Pueblo of Santo Domingo, Pueblo of Zia, Pueblo of Zuni, Pueblo of Nambe, Pueblo of Picuris, Pueblo of Pojoaque, Pueblo of Santa Clara, Pueblo de San Ildefonso, Ohkay Owingeh, Pueblo of Tesuque, and Pueblo of Taos (the "19 Pueblos");</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Federal Charter, Art. XX (A), authorizes the All Indian Pueblo Council, as the shareholder's representative of the 19 Pueblos, to petition the Secretary to amend the Federal Charter;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>There is no requirement or procedure under the law of the Pueblo requiring a referendum by the members of the Pueblo or any other procedure or requirement beyond this resolution in order to petition the Secretary for the Amended Federal Charter under 25 U.S.C. § 477;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The 19 Pueblos dissolved the All Indian Pueblo Council in 2011;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In light of the dissolution of the All Indian Pueblo Council, the 19 Pueblos desire to remove all references to the All Indian Pueblo Council from the Federal Charter and clarify the role of the 19 Pueblos as the sole shareholders under the Federal Charter as shown on the amended Federal Charter ("Amended Federal Charter"), which is attached as Exhibit A;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo de San Ildefonso finds that it is in the best interests of the Pueblo to petition the Secretary to approve the Amended Federal Charter.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.3.020</num>
+        <text>Pueblo de San Ildefonso Tribal Council hereby petitions the Secretary to approve the Amended Federal Charter, or in such modified form as the Secretary may approve with the concurrence of the Pueblo.</text>
+      </section>
+      <section>
+        <num>17.2.3.030</num>
+        <text>Pueblo de San Ildefonso Tribal Council requests that the Secretary issue the Amended Federal Charter jointly to the 19 Pueblos at the earliest feasible date.</text>
+      </section>
+      <section>
+        <num>17.2.3.040</num>
+        <text>Pueblo de San Ildefonso Tribal Council authorizes the Governor of the Pueblo de San Ildefonso to work with the Pueblo Insurance Agency, Inc., and the other Pueblos to secure the timely issuance of the Amended Federal Charter.</text>
+      </section>
+      <section>
+        <num>17.2.3.050</num>
+        <text>That, as required by 25 U.S.C. § 477, the Amended Federal Charter requested in this resolution will not be effective until ratified by vote of the governing bodies of all the 19 Pueblos.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.4</num>
+      <heading>Resolution Ratifying Amendments to Federal Charter of Pueblo Insurance Agency, Inc.</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-019, dated July 30, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-019"/>
+      <section>
+        <num>17.2.4.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>On November 2, 2001, the Secretary of the Interior issued a federal charter of incorporation to the All Indian Pueblo Council for the Pueblo Insurance Agency, Inc. ("Federal Charter") under Section 17 of the Indian Reorganization Act of 1934, 25 U.S.C. § 477, for the benefit of the Pueblo of Acoma, Pueblo of Cochiti, Pueblo of Isleta, Pueblo of Jemez, Pueblo of Laguna, Pueblo of Santa Ana, Pueblo of Sandia, Pueblo of San Felipe, Pueblo of Santo Domingo, Pueblo of Zia, Pueblo of Zuni, Pueblo of Nambe, Pueblo of Picuris, Pueblo of Pojoaque, Pueblo of Santa Clara, Pueblo de San Ildefonso, Ohkay Owingeh, Pueblo of Tesuque, and Pueblo of Taos (the "19 Pueblos");</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo, by Tribal Council Resolution No. SI-R15-006 (March 13, 2015) ("Tribal Council Resolution"), petitioned the Secretary to approve certain amendments to PIA's federal charter (the "Amended Federal Charter") to, among other things, remove all references to the All Indian Pueblo Council, which the 19 Pueblos dissolved in 2013;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On May 15, 2015, the Secretary approved the Amended Federal Charter, which is attached as Exhibit A, subject to ratification by the governing body of each of the 19 Pueblos;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Amended Federal Charter is in the form requested by the Pueblo in the Tribal Council Resolution, and is acceptable to the Tribal Council;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>There is no requirement under the laws of the Pueblo that would require a referendum by the members of the Pueblo or any other procedure beyond this resolution in order to ratify the Amended Federal Charter.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.4.020</num>
+        <text>The Tribal Council hereby ratifies the Amended Federal Charter.</text>
+      </section>
+      <section>
+        <num>17.2.4.030</num>
+        <text>The Amended Federal Charter shall be effective upon the ratification by all the 19 Pueblos.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.5</num>
+      <heading>Ratifying The Formal Name Change Of San Ildefonso Custodial, LLC, And Approving The Fourth Amended Operating Agreement Of San Ildefonso Services, LLC, (Formerly Known As San Ildefonso Custodial, LLC)</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-034, dated August 28, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-034"/>
+      <section>
+        <num>17.2.5.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>On May 14, 2007, by Tribal Council Resolution No. SI-R07-020, the Tribal Council chartered San Ildefonso Custodial, LLC, by approving its Articles of Organization;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>San Ildefonso Custodial, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo and the Pueblo de San Ildefonso Governor and Tribal Council serve as the Member's Representatives, as stipulated in the Operating Agreement;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On January 7, 2009, by Tribal Council Resolution No.SI-R07-001, the Tribal Council approved the Operating Agreement of San Ildefonso Custodial, LLC;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Operating Agreement has been amended on three prior occasions;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On August 5, 2015, the Member's Representatives approved a name change whereby San Ildefonso Custodial, LLC, would become San Ildefonso Services, LLC;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>On August 5, 2015, the Member's Representatives approved the "San Ildefonso Services, LLC (aka San Ildefonso Custodial, LLC) Fourth Amended Operating Agreement;"</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council desires to ratify its actions on August 5, 2015, by formal resolution.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.5.020</num>
+        <text>The Council ratifies its actions on August  5, 2015, to:  (1) Approve a name change whereby San Ildefonso Custodial, LLC, is now known as San Ildefonso Services, LLC; and (2) Approve the "San Ildefonso  Services, LLC (aka San Ildefonso Custodial, LLC) Fourth Amended Operating Agreement."</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.6</num>
+      <heading>Amending Section 2.1 Of The Fourth Amended Operating Agreement Of San Ildefonso Services, Llc (F/K/A San Ildefonso Custodial, Llc) To Identify Current Board Of Managers</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R17-007, dated March 21, 2017.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-007"/>
+      <section>
+        <num>17.2.6.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>on May 14, 2007, by Council Resolution No. SI-R07-020, the Council chartered San Ildefonso Custodial, LLC, by approving its Articles of Organization;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>San Ildefonso Custodial, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council serve as the Member's Representatives;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On January 7, 2009, by Council Resolution No. SI-R07-001, the Council approved the Operating Agreement of San Ildefonso Custodial, LLC;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>On August 5, 2015, the Member's Representatives approved a name change whereby San Ildefonso Custodial, LLC, would become San Ildefonso Services, LLC, and further approved the Fourth Amended Operating Agreement for San Ildefonso Services, LLC, which was later ratified by Council Resolution No. SI-R16-031;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The "Fourth Amended Operating Agreement" at Section 2.1 identifies the Board of Managers as Dominic Pruitt, Barbara Gonzales, and Pamela Garcia;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>On March 8, 2017, the Member's Representatives appointed Martin Lovato as a Manager to fulfill the remaining unexpired term following the resignation of Board Member Pamela Garcia;</text>
+        </para>
+      </section>
+      <section>
+        <num>17.2.6.020</num>
+        <text>The Member's Representatives hereby amend and replace Section 2.1 of the Fourth Amended Operating Agreement for San Ildefonso Services, LLC, as follows:</text>
+        <include>
+          <para>
+            <num>2.1</num>
+            <heading>Management by Managers.</heading>
+            <text>This LLC will be managed by a Board of Managers selected by the Member's Representatives, in accordance with the Articles of Organization. The Board of Managers shall select the LLC's program development manager and other employees not based at Los Alamos National Laboratory. The LLC Board of Managers selected by the Member's Representatives are:</text>
+            <text>Names:</text>
+            <text>
+              <ul>
+                <li>
+                  <u>Dominic Pruitt</u>
+                </li>
+                <li>
+                  <u>Barbara Gonzales</u>
+                </li>
+                <li>
+                  <u>Martin Lovato</u>
+                </li>
+              </ul>
+            </text>
+          </para>
+        </include>
+      </section>
+      <section>
+        <num>17.2.6.030</num>
+        <text>That as a Manager, Martin Lovato shall provide a signed certification consistent with Section 9 of the Fourth Amended Operating Agreement stating that he has read the Fourth Amended Operating Agreement and agrees to be bound by its terms in discharging his duties as a Manager.</text>
+      </section>
+    </container>
+  </container>
+</container>

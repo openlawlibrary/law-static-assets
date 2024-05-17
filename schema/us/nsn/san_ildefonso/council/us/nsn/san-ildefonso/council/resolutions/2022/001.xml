@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R22-001" codify:doc="Pueblo de San Ildefonso Code" codify:path="14.1">
+  <num>SI-R22-001</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R22-001</heading>
+  <heading type="law">The Community Health Assessment and Community Health Improvement Plan Authorization Act</heading>
+  <meta>
+    <effective>2022-03-28</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R22-001</citation>
+    </citations>
+    <history>
+      <adopted>2022-03-24</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 24th day of March, 2022, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso (Pueblo) has received funding from the Albuquerque Area Southwest Tribal Epidemiology Center (AASTEC) to allow the Pueblo’s Tribal Health Council and Department of Health and Human Services to participate in and complete a Tribal Public Health Community Health Assessment (CHA); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo’s Tribal Health Council and Department of Health and Human Services operates under the authority provided by the Tribal Council and acts on behalf of the Pueblo de San Ildefonso for health matters; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>improving and maintaining the health and wellness needs of its people are primary goals and objectives of the Pueblo, including activities to address the burden of chronic diseases (i.e., cardiovascular disease, stroke, and type 2 diabetes), COVID-19, behavioral health and substance use/misuse, and underlying risk factors (i.e., tobacco use, obesity, physical inactivity, poor nutrition, generational and environmental trauma, and adverse childhood experiences (ACEs); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo acknowledges the last CHA was completed in 2015 and the needs of the community have changed; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo acknowledges the benefits that can be achieved from completing a CHA in the area of public health and community healthcare; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>health status measures are often not available at the community level; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the CHA was designed to provide a useful and useable tool for tribes to measure their overall health status; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the AASTEC will work closely with the Pueblo to identify appropriate health indicators and to ensure that the project is conducted in a confidential and culturally sensitive manner; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the identified health indicators may be measured using community surveys, interviews, existing records, or other sources; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is necessary to approve the indicators required in order to complete the CHA; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed this project and has determined it is in the Pueblo’s best interest to move forward with the CHA in collaboration with the AASTEC.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled “THE COMMUNITY HEALTH ASSESSMENT AND COMMUNITY HEALTH IMPROVEMENT PLAN AUTHORIZATION ACT.”</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>March 24</u>, 2022, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td />
+            <td />
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td />
+            <td />
+            <td />
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R22-001</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>24</u><sup><u>th</u></sup> day of <u>March</u>, 2022, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Wayne Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>28</u><sup><u>th</u></sup> day of <u>March</u>, 2022.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2022.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2022, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>14.1.4</num>
+      <heading>The Community Health Assessment and Community Health Improvement Plan Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="14.1.4" />
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">THE COMMUNITY HEALTH ASSESSMENT AND COMMUNITY HEALTH IMPROVEMENT PLAN AUTHORIZATION ACT</heading>
+    <section>
+      <codify:insert num-value="14.1.4.010" />
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the “THE COMMUNITY HEALTH ASSESSMENT AND COMMUNITY HEALTH IMPROVEMENT PLAN AUTHORIZATION ACT” (“Act”).</text>
+    </section>
+    <section>
+      <codify:insert num-value="14.1.4.020" />
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Pueblo de San Ildefonso’s (Pueblo) request to partner with the Albuquerque Area Southwest Tribal Epidemiology Center (AASTEC) to complete a Community Health Assessment and Community Health Improvement Plan (CHA).</text>
+    </section>
+    <section>
+      <codify:insert num-value="14.1.4.030" />
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo has received funding from the AASTEC to allow the Pueblo’s Tribal Health Council and Department of Health and Human Services to participate and complete a CHA; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo’s Tribal Health Council and Department of Health and Human Services operates under the authority provided by the Council and acts on behalf of the Pueblo for health matters; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo has primary goals and objectives of improving and maintaining the health and wellness needs of its people, including activities to address the burden of chronic diseases (i.e., cardiovascular disease, stroke, and type 2 diabetes), COVID-19, behavioral health and substance use/misuse, and underlying risk factors (i.e., tobacco use, obesity, physical inactivity, poor nutrition, generational and environmental trauma, and adverse childhood experiences (ACEs); and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo acknowledges the last Community Health Assessment (CHA) was completed in 2015 and the needs of the community have changed; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Pueblo de San Ildefonso acknowledges the benefits that can be achieved from completing a CHA, in the area of public health and community healthcare; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Health status measures are often not available at the community level; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The CHA was designed to provide a useful and useable tool for tribes to measure their overall health status; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The AASTEC will work closely with the Pueblo to identify appropriate health indicators and to ensure that the project is conducted in a confidential and culturally sensitive manner; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The identified health indicators may be measured using community surveys, interviews, existing records, or other sources; and</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>It is necessary to approve the indicators required in order to complete the CHA; and</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The Council has reviewed this project and has determined it is in the Pueblo’s best interest to move forward with the CHA in collaboration with the AASTEC.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="14.1.4.040" />
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Pueblo’s Tribal Health Council and Department of Health and Human Services to participate and complete a CHA, beginning March 14, 2022 and ending September 29, 2022.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The authority granted by the Resolution shall remain in effect until withdrawn by the Council or until the term of the new contract has expired, and the Governor is the authorized agent for the Tribe and shall represent the Council in any negotiations, changes and/or approval of the contract agreement.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

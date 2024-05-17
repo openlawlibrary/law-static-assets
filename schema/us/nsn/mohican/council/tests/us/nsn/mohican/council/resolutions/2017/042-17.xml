@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 042-17">
+  <num>042-17</num>
+  <heading/>
+  <meta>
+    <ordinance>Fish And Wildlife</ordinance>
+    <effective/>
+    <history>
+      <adopted>2017-08-15</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/042-17.pdf">Stockbridge-Munsee Tribal Council Res. No. 042-17</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Legislative History">Authorized changes to <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.01">Chapter ENV.01</cite> to:  redefine big game to not include turkey; define adult bear and cub; retitle department names; increase age for permittee fishing to 16; eliminate fees for minor-age direct descendants to hunt and fish; and eliminate the buck-only season. These changes:
+      <ul><li>Amend sections:  <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.03|(a)">Section ENV.01.03(a)</cite>,(C) and (J); <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.05|(b)|(5)">Section ENV.01.05(b)(5)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.06|(a)">Section ENV.01.06(a)</cite>,(C) and (D); <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.07|(a)">Section ENV.01.07(a)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.08|(d)">Section ENV.01.08(d)</cite> and (H); <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.09|(b)">Section ENV.01.09(b)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.14|(a)">Section ENV.01.14(a)</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.15|(a)">Section ENV.01.15(a)</cite> and(C); <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.16|(a)">Section ENV.01.16(a)</cite>, (B) and (C); <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.17|(a)|(3)">Section ENV.01.17(a)(3)</cite>, (F)(7) and (G); <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.18|(a)">Section ENV.01.18(a)</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.20|(a)">Section ENV.01.20(a)</cite>, (Q).</li><li>Create the following new sections: <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.03|(r)">Section ENV.01.03(r)</cite> and (S); and <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.15|(c)|(2)">Section ENV.01.15(c)(2)</cite>.</li><li>Delete the following sections:  <cite path="§21.9|(B)|(1-3)">21.9(B)(1-3)</cite>; and <cite path="§21.15|(B)|(4)">21.15 (B)(4)</cite>.</li></ul>
+      </annotation>
+  </annotations>
+</document>
