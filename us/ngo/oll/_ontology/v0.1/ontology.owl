@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#"
-     xml:base="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl"
+<rdf:RDF xmlns="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#"
+     xml:base="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:oll="http://www.open.law/ontologies/oll.owl#"
+     xmlns:oll="http://open.law/ontologies/oll.owl#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
@@ -11,7 +11,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:dcterms="http://purl.org/dc/terms/">
-    <owl:Ontology rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#">
+    <owl:Ontology rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#">
         <rdfs:comment xml:lang="en">Open Law Library Ontology contains built-in classes and properties that put together the basis of legal entities and relations between them.</rdfs:comment>
         <rdfs:label xml:lang="en">Open Law Library Ontology</rdfs:label>
     </owl:Ontology>
@@ -70,15 +70,15 @@
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
     </owl:ObjectProperty>
     
 
@@ -98,8 +98,8 @@
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
@@ -194,13 +194,13 @@
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
     </owl:ObjectProperty>
     
 
@@ -237,96 +237,96 @@
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocument -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocument -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocument">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocument">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
         <rdfs:label xml:lang="en">Has Document</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentPart -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentPart -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentPart">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentPart">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
         <rdfs:label xml:lang="en">Has Document Part</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentVersion -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentVersion -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentVersion">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasDocumentVersion">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
         <rdfs:label xml:lang="en">Has Document Version</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLatestPublication -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLatestPublication -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLatestPublication">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLatestPublication">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
         <rdfs:label xml:lang="en">Has Latest Publication</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLawLibrary -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLawLibrary -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLawLibrary">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasLawLibrary">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
         <rdfs:label xml:lang="en">Has Law Library</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasPublication -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasPublication -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasPublication">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasPublication">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
         <rdfs:label xml:lang="en">Has Publication</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#isPartOfPublication -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#isPartOfPublication -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#isPartOfPublication">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#isPartOfPublication">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
         <rdfs:label xml:lang="en">Is Part Of Publication</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#lastCodifiedDocument -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#lastCodifiedDocument -->
 
-    <owl:ObjectProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#lastCodifiedDocument">
+    <owl:ObjectProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#lastCodifiedDocument">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
-        <rdfs:range rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+        <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
         <rdfs:label xml:lang="en">Last Codified Document</rdfs:label>
     </owl:ObjectProperty>
     
@@ -419,11 +419,11 @@
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
@@ -446,11 +446,11 @@
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
@@ -496,8 +496,8 @@
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
@@ -732,7 +732,7 @@
 
     <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/tableOfContents">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/description"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
         <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
     </owl:DatatypeProperty>
     
@@ -762,33 +762,33 @@
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateAdopted -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateAdopted -->
 
-    <owl:DatatypeProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateAdopted">
+    <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateAdopted">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/date"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
         <rdfs:label xml:lang="en">Date Adopted</rdfs:label>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateCurrentThrough -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateCurrentThrough -->
 
-    <owl:DatatypeProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateCurrentThrough">
+    <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateCurrentThrough">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/date"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
         <rdfs:label xml:lang="en">Date Current Through</rdfs:label>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateEffective -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateEffective -->
 
-    <owl:DatatypeProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateEffective">
+    <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#dateEffective">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/date"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
         <rdfs:comment xml:lang="en">An effective date or as of date is the date upon which something is considered to take effect, which may be a past, present or future date.</rdfs:comment>
         <rdfs:label xml:lang="en">Date Effective</rdfs:label>
@@ -796,37 +796,37 @@
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#number -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#number -->
 
-    <owl:DatatypeProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#number">
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#number">
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
         <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#publicNote -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#publicNote -->
 
-    <owl:DatatypeProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#publicNote">
+    <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#publicNote">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
         <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Public Note</rdfs:label>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#url -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#url -->
 
-    <owl:DatatypeProperty rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#url">
+    <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#url">
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
-                    <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+                    <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
@@ -855,7 +855,7 @@
     <!-- http://purl.org/dc/terms/Jurisdiction -->
 
     <owl:Class rdf:about="http://purl.org/dc/terms/Jurisdiction">
-        <owl:equivalentClass rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+        <owl:equivalentClass rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
         <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/LocationPeriodOrJurisdiction"/>
     </owl:Class>
     
@@ -897,82 +897,82 @@
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Article -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Article -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Article">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Article">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Attachment -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Attachment -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Attachment">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Attachment">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Chapter -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Chapter -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Chapter">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Chapter">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document">
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document">
         <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
         <rdfs:comment></rdfs:comment>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart">
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart">
         <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion">
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion">
         <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction">
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction">
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.org/dc/terms/title"/>
@@ -983,62 +983,62 @@
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Section -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Section -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Section">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Section">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument">
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument">
         <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Subchapter -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Subchapter -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Subchapter">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Subchapter">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
     </owl:Class>
     
 
 
-    <!-- http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Title -->
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Title -->
 
-    <owl:Class rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Title">
-        <rdfs:subClassOf rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Title">
+        <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentPart"/>
     </owl:Class>
     
 
@@ -1054,30 +1054,30 @@
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Article"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Chapter"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Section"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Subchapter"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Title"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Article"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Chapter"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Section"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Subchapter"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Title"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Attachment"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Attachment"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
-            <rdf:Description rdf:about="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Jurisdiction"/>
+            <rdf:Description rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
         </owl:members>
     </rdf:Description>
 </rdf:RDF>
