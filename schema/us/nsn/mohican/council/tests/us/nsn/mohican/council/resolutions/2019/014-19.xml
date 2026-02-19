@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 014-19">
+  <num>014-19</num>
+  <heading/>
+  <meta>
+    <ordinance>Revenue Allocation Plan</ordinance>
+    <effective>2019-03-13</effective>
+    <history>
+      <adopted>2018-11-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/014-19.pdf">Stockbridge-Munsee Tribal Council Res. No. 014-19</citation>
+      <citation type="res" url="./BIA/014-19.pdf">BIA Approval for Res. No. 014-19</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Legislative History">Amendments allow per capita payments to be made at end of October, clarify language regarding IRS safe harbor for beneficiary trusts, allowing per capita payments to help secure tribal loans and fix typos.</annotation>
+  </annotations>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 27, the Revenue Allocation Plan Ordinance, establishes the system that the Tribe uses to allocate and distribute gaming revenues in compliance with federal law;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to amend such ordinance to authorize that individual per capita distributions may be made at the end of October, instead of the end of November, as well as clarify language that beneficiary trusts for minors and incompetents are eligible for the IRS safe harbor, allow interests in per capita payments to secure tribal loans against bankruptcy, and make minor changes to clarify the document;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 27, which make the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Adding headings under <cite doc="Stockbridge-Munsee Tribal Code" path="27.7" proof="needed">Section 27.7</cite> and renumbering the subsections under <cite doc="Stockbridge-Munsee Tribal Code" path="27.7|(A)" proof="needed">27.7 (A)</cite>;</li>
+        <li>Amending the following subsections under <cite doc="Stockbridge-Munsee Tribal Code" path="27.7" proof="needed">Section 27.7</cite>:  (B)(2)(a)(vi), (viii), (ix) and (xii); (C)(7) and (8); (G) and (H).</li>
+      </ul>
+    </text>
+  </recitals>
+</document>

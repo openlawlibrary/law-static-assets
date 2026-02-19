@@ -1,0 +1,2379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>SAF</num>
+  <heading>Safety And Public Health</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>SAF.01</num>
+    <heading>General Citation Ordinance</heading>
+    <section>
+      <num>SAF.01.01</num>
+      <heading>Issuance Of Citations</heading>
+      <para>
+        <num>(a)</num>
+        <text>For violation of any ordinance of the Stockbridge-Munsee Tribe, authorized law enforcement personnel may issue a uniform citation in lieu of a formal complaint filed with the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 3, §3.1</annotation>
+    </section>
+    <section>
+      <num>SAF.01.02</num>
+      <heading>Form</heading>
+      <para>
+        <num>(a)</num>
+        <text>Citations shall be numbered and uniform for all uses. Citation forms shall be so constructed that completion of the form shall generate two carbon or no-carbon required copies at the same time. Forms shall provide for the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>Name, address of alleged violator</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Location, time and date of violation</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Description of violation</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Citation of tribal ordinance provision</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Scheduled date and time for appearance</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Penalty for non-appearance or conviction</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Amount of no-contest forfeiture</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Identification of issuing officer</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Time and date of issuance</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 3, §3.2</annotation>
+    </section>
+    <section>
+      <num>SAF.01.03</num>
+      <heading>Delivery</heading>
+      <para>
+        <num>(a)</num>
+        <text>Citation books will only be issued to law enforcement personnel, including county sheriff's deputies, who shall be responsible for the security of the books.</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon completing the citation form, the issuing officer shall deliver a copy of the citation to the alleged violator.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Delivery of a citation may be effected by personal service in accordance with Tribal Court provisions governing personal service of process or by personal service delivery from the issuing officer to the alleged violator.  A citation may be delivered by posting a copy in the mail to the alleged violator's last know address.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Within 3 business days after delivery or mailing, the original citation shall be delivered to the Clerk of Courts. The officer shall retain the second copy and shall forward a photocopy of the citation to the Tribal Prosecutor.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 3, §3.3</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1109">Resolution No. 1109</cite>, adopted October 4, 1988.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1489-95">Resolution No. 1489-95</cite>, adopted April 25, 1995.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1551-95">Resolution No. 1551-95</cite>, adopted November 7, 1995, approved by BIA July 18, 1996.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>SAF.02</num>
+    <heading>Public Peace And Good Order Ordinance</heading>
+    <section>
+      <num>SAF.02.01</num>
+      <heading>Statement Of Purpose, Findings, And Authority</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Purpose.</heading>
+        <text>The Stockbridge-Munsee Tribal Council enacts this Ordinance to provide for the public peace and good order and to minimize health and accident hazards to lands and persons under the jurisdiction of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Findings.</heading>
+        <text>The Stockbridge-Munsee Tribal Council further finds that <cite path="SAF|SAF.02">this chapter</cite> is necessary to protect social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Authority.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority as an exercise of governmental powers to govern the members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In addition, the Stockbridge-Munsee Community has authority over tribal lands owned in fee simple by virtue of its ownership of such land and its authority over the conduct of its members and may enforce this Ordinance consistent with such authority.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.1</annotation>
+    </section>
+    <section>
+      <num>SAF.02.02</num>
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Territorial Jurisdiction.</heading>
+        <text>This ordinance shall apply on the Stockbridge-Munsee Reservation, which for purposes of enforcement of this ordinance includes proclaimed reservation lands and tribal trust lands as well as individual trust lands under the jurisdiction of the Stockbridge-Munsee Community.  This ordinance shall also apply in relation to lands that the Stockbridge-Munsee Community owns in fee simple.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Personal Jurisdiction.</heading>
+        <text>This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and endangering the economic, social and political welfare of the Stockbridge-Munsee Community by violating this ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Subject Matter Jurisdiction.</heading>
+        <text>The Stockbridge-Munsee Tribal Court may exercise jurisdiction to hear violations of this ordinance where there is territorial and/or personal jurisdiction.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.2</annotation>
+    </section>
+    <section>
+      <num>SAF.02.03</num>
+      <heading>Interpretation</heading>
+      <text>This ordinance shall be deemed as a reasonable and proper exercise of the sovereign power of the Stockbridge-Munsee Community for the protection of the tribal community's land, welfare, health, peace and morals. All provisions of this ordinance shall be liberally construed for the accomplishment of these purposes.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.3</annotation>
+    </section>
+    <section>
+      <num>SAF.02.04</num>
+      <heading>Definitions</heading>
+      <text>In this ordinance, unless the context otherwise requires:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Conservation Officers" means individuals employed by the Stockbridge-Munsee Community to enforce tribal conservation codes and tribal civil violations.  Conservation officers may also be authorized to enforce federal and/or state law, if they hold the appropriate credentials.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Tribal Officer" means any officer employed by the Stockbridge-Munsee Community and authorized by the Stockbridge-Munsee Tribal Council for the purpose of patrolling and enforcing state criminal laws and tribal civil regulatory laws.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Tribal Parks" means any tribal land specifically set aside for recreational use by Stockbridge-Munsee tribal members and their families and guests.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.4</annotation>
+    </section>
+    <section>
+      <num>SAF.02.05</num>
+      <heading>Damage To Property Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>Damage to Property:  No person shall deface, mar, injure, break or damage any tribal or private property.  Tribal and private property includes, but is not limited to, physical structures such as signs, statues, monuments, or buildings, infrastructure like roads and utility lines, and personal property such as vehicles and personal belongings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Damage to Vegetation:  No person shall maliciously destroy, remove or cut down, root up, sever or injure any fruit, trees, shrubs, plants, flowers, or other vegetation.  This provision does not prohibit activities such as gathering of medicine or transplanting plants and trees, with the required permission from the Tribal Council where applicable.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.5</annotation>
+    </section>
+    <section>
+      <num>SAF.02.06</num>
+      <heading>Disorderly Conduct And Disturbing The Peace Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>Disorderly Conduct:  Individuals are prohibited, in either a public or private place, from engaging in violent, abusive, indecent, profane, boisterous, unreasonably loud or otherwise disorderly conduct under circumstances in which the conduct tends to cause or provoke a disturbance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Disturbing the Peace:  No person shall make or cause to be made any loud, disturbing, or unnecessary sounds or noises or engage in other acts or omissions that disturb the peace and may reasonably be cause to annoy or disturb any person.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Quiet times are between the hours of 10PM and 7AM in the Tribal housing area off of Camp 14 Road and tribal subdivisions.  Persons shall not engage in conduct that is plainly audible at a distance of 50 feet during quiet times.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.6</annotation>
+    </section>
+    <section>
+      <num>SAF.02.07</num>
+      <heading>Unlawful Use Of Telephone And/Or Electronic Communication Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>For purposes of this section, references to "messages" include making telephone calls as well as other forms of electronic communication, such as text messages, emails and social media posts.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Whoever does any of the following is in violation of this ordinance:</text>
+        <para>
+          <num>(1)</num>
+          <text>With intent to frighten, intimidate, threaten, abuse or harass, sends a message threatening to inflict injury or physical harm to any person or the property of any person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>With intent to frighten, intimidate, threaten, abuse, offend or harass, sends a message using any obscene, lewd or profane language or suggests any lewd or lascivious act.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Sends a message, regardless of whether or not received, without disclosing his or her identity and with intent to abuse or threaten any recipient(s).</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Repeatedly sends messages to another person or causes the telephone of another repeatedly to ring with intent to harass any recipient(s).</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Knowingly permits any telephone or electronic communication system under his or her control to be used for any purpose prohibited by this section.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.7</annotation>
+    </section>
+    <section>
+      <num>SAF.02.08</num>
+      <heading>Harassment Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>In this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>"Course of conduct" means a pattern of conduct composed of a series of acts over a period of time, however short, evidencing a continuity of purpose.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Credible threat" means a threat made with the intent and apparent ability to carry out the threat.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Personally identifiable information" means information that can be associated with a particular individual through one or more identifiers or other information or circumstances.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>"Record" means any material on which written, drawn, printed, spoken, visual, digital or electromagnetic information is recorded or preserved, regardless of the physical form or characteristics, which has been created or is being kept by an authority including the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Whoever, with intent to harass or intimidate another person, does any of the following is in violation of this ordinance:</text>
+        <para>
+          <num>(1)</num>
+          <text>Strikes, shoves, kicks or otherwise subjects the person to physical contact or attempts or threatens to do the same.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Engages in a course of conduct or repeatedly commits acts which harass or intimidate the person and which serve no legitimate purpose.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Whoever violates <cite path="SAF.02.08|(b)">subsection (b)</cite> hereunder in any of the following circumstances is in violation of an additional count under this ordinance:</text>
+        <para>
+          <num>(1)</num>
+          <text>The act is accompanied by a credible threat that places the victim in reasonable fear of death or great bodily harm.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The act occurs while the actor is subject to an order or injunction that prohibits or limits his or her contact with the victim.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.8</annotation>
+    </section>
+    <section>
+      <num>SAF.02.09</num>
+      <heading>Loitering And Trespass Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Loitering:</heading>
+        <text>No person shall loiter, lounge, or loaf in or about tribal premises, such as the Tribal Offices, Tribal Administrative offices, Stockbridge-Munsee Health and Wellness Center, housing project area or other tribal buildings, facilities or grounds.  A person is considered to be loitering on tribal premises if the person remains in an area for no legitimate reason.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Trespass:</heading>
+        <text>No person shall enter or remain in a location where he or she is not authorized to be.  Such trespass can include, but it not limited to, entry into another person's home without invite, entry in a building or part thereof that is not open to the public or from which a person has been banned, or the entry into a part of the reservation that is not open to the public by a non-member.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Upon being requested to move by a tribal officer, conservation officer, or other authorized person, a person must immediately comply with such request by leaving the premises or area thereof at the time of the request.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.9</annotation>
+    </section>
+    <section>
+      <num>SAF.02.10</num>
+      <heading>Misappropriation Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>Theft (less than $100):  No person shall intentionally take moveable property valuing less than $50 of another without out the other's consent and with the intent to deprive the owner of possession of such property.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Fraud on a Hotel, Restaurant or Gas Station:  No person shall intentionally abscond without paying after obtaining food, beverage, lodging, fuel or other similar service from a hotel, restaurant, gas station or other similar establishment.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Worthless Checks:  No person shall issue a check or other order for payment that he or she intends shall not be paid.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Restitution:  In addition to other remedies, the court may order a violator to pay restitution to the victim.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.10</annotation>
+    </section>
+    <section>
+      <num>SAF.02.11</num>
+      <heading>Smoking Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>Public Buildings:  The use of cigarettes, pipes and any other tobacco products, which produce smoke, is prohibited inside all tribal buildings <u>except</u> where exceptions have been approved by the Tribal Council or for traditional ceremonial purposes.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Underage Persons:  No minor, or person over 18-years of age on behalf of a minor, may purchase, attempt to purchase, or possess any cigarette, nicotine product or tobacco product for use other than part of traditional ceremonial purposes.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.11</annotation>
+    </section>
+    <section>
+      <num>SAF.02.12</num>
+      <heading>Public Intoxication Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>For purposes of this section, a person is considered "intoxicated" if he or she is under the influence of alcohol, drugs or another controlled substance to such a degree that their mental or physical functioning is substantially-impaired.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Public Impairment:</text>
+        <para>
+          <num>(1)</num>
+          <text>No person shall be along a roadway or in a tribal building or a place of worship while intoxicated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No intoxicated person shall engage in public conduct that constitutes a danger to oneself or others, including, but not limited to, falling, vomiting, public urination or acting in an unruly or combative manner.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Open Intoxicants:  No person shall have open intoxicants in a moving vehicle.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Underage Persons:  No person under the age of 21 shall be intoxicated or possess intoxicants unless accompanied by a parent, guardian or spouse.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.12</annotation>
+    </section>
+    <section>
+      <num>SAF.02.13</num>
+      <heading>Drug-Related Criminal Activity Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Drug-related criminal activity" refers to the illegal manufacture, sale, distribution, use or possession with intent to manufacture, sell, distribute or use of a controlled substance (as such term is defined in 21 U.S.C. 802) or drug paraphernalia.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall engage in drug-related criminal activity.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.13</annotation>
+    </section>
+    <section>
+      <num>SAF.02.14</num>
+      <heading>Obstruction Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall knowingly obstruct or resist a tribal officer or conservation officer while such officer is acting in an official capacity.  Obstruction for purpose of this section includes fleeing, attempting to evade, physical interference, providing false information, or such other acts or omissions to impede law enforcement operations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall, without reasonable excuse, refuse or fail to comply with any lawful order or direction of a tribal officer or conservation officer while such officer is acting in an official capacity.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No person shall take actions to avoid, evade, or obstruct compliance with a lawful investigative demand by willfully concealing, withholding, destroying, altering, or otherwise falsifying information or materials that are the subject of such demand.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.14</annotation>
+    </section>
+    <section>
+      <num>SAF.02.15</num>
+      <heading>Concealed Weapons Prohibited In Tribal Buildings</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Definitions.</heading>
+        <text>The following definitions apply in relation to this section.</text>
+        <para>
+          <num>(1)</num>
+          <text>For purposes of this ordinance, the term "tribal building" includes the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>structures that are used for the operation of the tribal government or tribal enterprises;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>tribally-owned multi-unit dwellings; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>both the interior and outside premises of tribal buildings that primarily provide services to youth or elders, including parking lots.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The term "weapon" includes, but is not limited to, objects such as guns, knives, and destructive devices like bombs.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All persons, other than official law enforcement personnel, are prohibited from carrying weapons, concealed or otherwise, in tribal buildings.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.15</annotation>
+    </section>
+    <section>
+      <num>SAF.02.16</num>
+      <heading>Littering Prohibited</heading>
+      <text>No person shall throw any solid waste, appliances, electronic devices, furniture, tires, glass, refuse, waste, filth, or other litter upon the streets, parks, or other lands under tribal jurisdiction.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.16</annotation>
+    </section>
+    <section>
+      <num>SAF.02.17</num>
+      <heading>Nuisance Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Public nuisance" refers to acts or omissions that are an unreasonable, significant interference:</text>
+        <para>
+          <num>(1)</num>
+          <text>with the rights of the tribal community to the free use of public property;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>with community standards of public health, public safety, public peace, public comfort or public convenience; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>that in any way renders other persons insecure in life or the use of property or tends to depreciate the value of property of others.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Individuals are prohibited from any act or omission that constitutes a public nuisance.  The following is a non-exclusive list of actions that may constitute a public nuisance.</text>
+        <para>
+          <num>(1)</num>
+          <text>Allowing unlicensed, inoperable, disassembled, junked, or wrecked vehicles and/or scrap material or related items to be stored or remain in an area that does not have a permit to operate as a junkyard/recycling center or for auto repair in accordance with <cite path="PRP|PRP.02">Chapter PRP.02</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Failing to maintain yard and/or land assignment in safe and/or orderly condition.</text>
+          <para>
+            <num>(A)</num>
+            <text>Allowing scrap, salvage, tires, refuse, or goods to accumulate in areas that are open to the elements so as to create areas that are unsightly and/or contribute to health and safety hazards.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Failing to keep waste or garbage in an enclosed building or properly contained in a closed container designed for such purposes.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Allowing vegetation to be a hazard to persons or property.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Failing to maintain a structure and/or infrastructure in a safe and sanitary condition.</text>
+          <para>
+            <num>(A)</num>
+            <text>Structure that is not maintained to avoid deterioration or decay.  This includes the failure to maintain windows, doors, siding, roof, steps, decks, walkways and other components.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Failure to maintain a secure building envelope.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Failure to maintain adequate ventilation, sanitation or plumbing facilities.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Structure that is in a condition that constitutes a fire hazard.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Structure where there is hoarding or the accumulation of excessive goods as to become a health and/or safety hazard.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Using property in a way that attracts violence and the threat of violence or that facilitates illegal activity, such as the drug trade or gang activity.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Allowing physical hazards that are dangerous to children, including, but not limited to, abandoned or neglected equipment, pools, refrigerators, holes, excavations or rubble.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Allowing wells to remain in place unsealed and/or unsecured.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Allowing oil, toxic or noxious materials to discharge into the environment.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Maintaining an excessive number of animals on premises.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Allowing decayed animal or vegetable matter, trash, rubbish, bedding, packing material, or any material in which disease-carrying insects, rats or other vermin can breed, live, nest or seek shelter (exempting private compost piles and normal farm operations) to be in place.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Process to Address Public Nuisances.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe will identify a public nuisance.  This identification can be based on a complaint from the public or can be initiated by tribal personnel.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Once a public nuisance has been identified, the Tribe shall provide written notice of the public nuisance to the individual responsible for the public nuisance and/or the person responsible for the land where the public nuisance is located (e.g., the land assignment holder, occupant or other person controlling the land).  If the person responsible for the public nuisance is unknown, then the notice shall be posted at the site of the public nuisance.</text>
+          <para>
+            <num>(A)</num>
+            <text>The written notice shall contain a description of the public nuisance, the location of the public nuisance and provide an opportunity to cure within 21 days.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>For purposes of this section, curing a public nuisance means to either completely abate the nuisance or to prepare a remediation plan, which is acceptable to the Tribe, for abating the nuisance within an identified timeframe.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The notice shall be signed and dated by the person issuing the notice on the behalf of the Tribe.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>This notice and opportunity to cure is waived in the event the public nuisance is a serious threat to life or limb or may result in irreparable injury, loss or damage to persons, community infrastructure or the environment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In the event that a public nuisance is not cured or in the event the right to cure is waived, then a tribal officer or conservation officer may issue a citation for a public nuisance violation against the individual responsible for the public nuisance and/or the person responsible for the land where the public nuisance is located.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In the event the Court finds that there is a public nuisance, the Tribe may take such actions as are necessary and appropriate to recover damages and abate the public nuisance.  Such actions may include, but are not limited to, obtaining an injunction to prevent a public nuisance from occurring.  The individual responsible for the public nuisance shall be responsible for the costs to abate the public nuisance, as well as any fines levied under this ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.17</annotation>
+    </section>
+    <section>
+      <num>SAF.02.18</num>
+      <heading>Condemnation Of Unsafe Buildings</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Definitions.</heading>
+        <text>The following definitions apply for purposes of this section.</text>
+        <para>
+          <num>(1)</num>
+          <text>"Building" includes any building or structure or part thereof.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Department" refers to the Land Management Department.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Owner" includes the owner of a building or structure, the person holding the underlying tribal land assignment, if different from the person who owns the building or structure, the person holding the land (if not a tribal land assignment) and the Owner's agent, if one is designated.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>"Unsafe" refers to any building that is so dilapidated or out-of-repair as to be dangerous, unsanitary or otherwise unfit for human habitation or unreasonable to repair.  Buildings are determined to be unsafe under the condemnation process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe may condemn buildings that are determined to be unsafe in accordance with the processes outlined under this ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Departmental Condemnation Process.</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon the Tribe discovering or receiving a report of an unsafe building, the Department shall investigate the report.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Tribe shall inspect or have the building inspected.  Such inspection may be by tribal staff or by other authorized individuals.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In the event that the building is occupied, then the Tribe shall obtain the occupants' permission prior to conducting such inspection.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>In the event the building is occupied and the occupants do not grant permission for an inspection, then the Tribe may obtain an inspection warrant from the Tribal Court.</text>
+            <para>
+              <num>(i)</num>
+              <text>The Tribe must show that probable cause exists that the building is an unsafe building.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The mere existence of a report shall not constitute probable cause; rather, other articulable facts must be presented to the Court.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>The Tribal Court shall schedule hearings in relation to the granting of the inspection warrant in an expedited manner.</text>
+            </para>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>In the event of an emergency situation where a building is believed to be an imminent danger to life or limb in the community, an inspection warrant shall not be required even if permission is not granted.  Tribal staff shall be accompanied by a tribal officer or conservation officer for any such emergency inspection.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The Department shall take such other actions as necessary to reasonably investigate whether the building is unsafe.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Following the investigation, the Department shall issue a dated, written report with its conclusion as to whether the building is unsafe.</text>
+          <para>
+            <num>(A)</num>
+            <text>This report should include the reasons why the Department concluded the building is or is not unsafe.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The report shall also include recommendations on what, if anything, should be done for remediation.  For example, the Department may recommend that a building be razed since it is unreasonable to repair or identify if the building can be made safe by repairs.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The report shall identify if the unsafe building constitutes an emergency situation that is a serious threat to life or limb or may result in irreparable injury, loss or damage.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A copy of this written report shall be served on the Owner, if known.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Notice of the report shall be posted on all of the building's exterior doors.</text>
+          <para>
+            <num>(A)</num>
+            <text>This notice shall, at a minimum, identify the date that the written report was issued, the date the notice was posted, the Department's conclusion as to whether the building was unsafe, identify how the Owner can get a copy of the report, and identify any timeframes for the Owner to take action.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If the condition of the building warrants consideration as an emergency situation and/or requires that the building be vacated immediately, the notice shall identify such special considerations.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the Owner disagrees with the Department's conclusion, then the Owner shall have 30 days to contest the report from the latter of the date that the notice of the report is posted or the date of service on the Owner.</text>
+          <para>
+            <num>(A)</num>
+            <text>When an Owner disagrees, then the Owner must provide a written statement identifying why he/she disagrees, including supporting information, and identify what changes to the report are requested.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Owner may also request a meeting with the Department to discuss the report.  However, if the Owner wishes to contest the report, the Owner must still submit the required written statement.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>This opportunity to contest the report is waived in emergency situations where the unsafe building is a serious threat to life or limb or may result in irreparable injury, loss or damage.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Department shall review any written statement contesting its report and, within 30 days, issue a letter either confirming the original report or issue a revised report.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The Owner shall have 60 days to implement the Department's recommendations.  This timeframe shall be calculated from the latter of either the date of the Department's report (if not contested) or, if the report is contested, the date that the report is confirmed or revised.</text>
+          <para>
+            <num>(A)</num>
+            <text>This time shall be counted from either the date of the Department's report (if uncontested) or, if the report is contested, from the date the report is confirmed or revised.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>This timeframe may be extended upon a showing by the Owner that such an extension is necessary and appropriate.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>In emergency situations where an unsafe building is a serious threat to life or limb or may result in irreparable injury, loss or damage, this timeframe may be expedited to be less than 60 days.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The Owner shall be responsible for all costs associated with implementing the Department's recommendation, as well as the Department's costs to implement and enforce this departmental condemnation process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Tribal Court Process.</text>
+        <para>
+          <num>(1)</num>
+          <text>In the event an Owner fails to implement the Department's recommendations regarding an unsafe building, a tribal officer or conservation officer may issue a citation for a condemnation violation to the Owner.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When a citation is issued for the failure to implement the Department's recommendations in an emergency situation, then the Tribal Court shall schedule any hearings in the matter in an expedited manner.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Court may consider the reasonableness of the Department's recommendations as part of a hearing on a condemnation violation.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the Tribal Court upholds the Department's recommendations, then the Tribal Court shall order that the Tribe may take such actions as are necessary and appropriate to abate the unsafe building.  The Owner shall be responsible for the costs to abate the unsafe building, as well as any fines levied under this ordinance.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If the Tribal Court upholds the Department's recommendation that a building be razed, then the Owner shall have up to thirty (30) days to vacate the building and remove any personal property.  Personal property that has not been removed within this time will be deemed abandoned and disposed of by the Tribe.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If, as part of a court proceeding, an unsafe building that is capable of repair is turned over to the Tribe, then the Tribe shall act as receiver and hold the building until it is sold or disposed of consistent with the following requirements.</text>
+          <para>
+            <num>(A)</num>
+            <text>Any building sold under this provision is sold with the condition that any unsafe conditions that were identified must be remediated within a reasonable timeframe.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Tribe shall attempt to sell the property by public sale for a bona fide cash offer to be paid within forty-five (45) days of the public sale.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The proceeds from any such public or private sale shall be first used to satisfy any indebtedness secured by the building, then any indebtedness owed to the Tribe based on the condemnation proceedings, and any remainder shall be paid to the Owner.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>If no offer is accepted at the public sale, then the Tribe may sell the building by private sale.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The Owner shall have no interest in the proceeds if the building is sold by private sale.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>In the event there is no private sale, then the building may be disposed of by the Tribe and the Owner shall have no interest in the proceeds.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.18</annotation>
+    </section>
+    <section>
+      <num>SAF.02.19</num>
+      <heading>Abandoned Buildings</heading>
+      <para>
+        <num>(a)</num>
+        <text>Definitions.</text>
+        <para>
+          <num>(1)</num>
+          <text>"Abandoned building."</text>
+          <para>
+            <num>(A)</num>
+            <text>A building that is not legally occupied for a period of more than eighteen (18) consecutive months and is not subject to maintenance or oversight so that it falls into disrepair.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Buildings that are not occupied on a regular basis, but are subject to reasonable maintenance or oversight (such as a second home or vacation cabin), are not considered to be abandoned even if unoccupied for more than 18 months.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Buildings that are allowed to remain in a partially destroyed condition for more than six (6) months are considered to be abandoned.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Owner" means the person(s) who legally own the building as personal property or may be the person(s) holding the underlying tribal land assignment (if different from the person who owns the building), or the person holding the land (if not a tribal land assignment), or the Owner's agent, if one is designated.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Abandoned buildings are considered to be a nuisance and, depending on the condition, may also be an unsafe building under tribal law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Process to Address Abandoned Building when Owner is Known.</text>
+        <para>
+          <num>(1)</num>
+          <text>When the Tribe identifies an abandoned building and the owner of that building is known, then the Tribe may use the nuisance or condemnation process under this ordinance, as appropriate, to abate the problem.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When a building appears to be abandoned and the person holding the land assignment is known, then the Tribe may alternatively use the abandonment process for land assignments, as outlined in <cite path="PRP|PRP.01">Chapter PRP.01</cite>, the Land Ordinance, to abate the problem.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Process to Address Abandoned Building when Owner is Unknown.</text>
+        <para>
+          <num>(1)</num>
+          <text>When the Owner of an abandoned building is unknown, then the Tribe shall have the building declared abandoned through the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The summons and complaint for an action to have a building declared abandoned shall be served by publication in the tribal newspaper.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If a person appears to contest that the building is abandoned, then that person must show by preponderance of the evidence that he/she is the building's Owner.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the Tribal Court declares that a building is abandoned, then that building shall become the property of the Tribe.  The Tribe shall be authorized to dispose of the building as it deems appropriate.</text>
+          <para>
+            <num>(A)</num>
+            <text>Unauthorized tenants and alleged Owners shall have no rights in relation to a building after a declaration of abandonment.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Tribe shall post notice that the property has been declared abandoned by the Tribal Court on the door of the building and provide unauthorized tenants with an opportunity, not to exceed 10 days, to remove personal belongings from the building.</text>
+          </para>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.19</annotation>
+    </section>
+    <section>
+      <num>SAF.02.20</num>
+      <heading>Animal Control</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Definitions.</heading>
+        <text>The following definitions shall apply for purposes of this section.</text>
+        <para>
+          <num>(1)</num>
+          <text>"Animal" includes every living warm-blooded creature (except human beings), reptile, or amphibian.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Domestic animal" refers to dogs, cats, small pets, and livestock.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Livestock" refers to any horse, bovine, sheep, goat, pig, llama, alpaca, domestic rabbit, farm-raised deer, or domestic fowl.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>"Owner" refers to any person who owns, harbors, or keeps an animal.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Annual Dog/Cat License.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any dog or cat that is at least 5 months of age is required to have a valid license.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Owners shall obtain and maintain a current license their dog(s)/cat(s).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Owners shall pay the license fee and provide evidence that the dog/cat is currently immunized against rabies in order to obtain a license tag from the Public Safety Department.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The license fee shall be $<cite path="§2.00">2.00</cite> per dog/cat and may be changed by the Tribal Council by resolution.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Public Safety Department shall maintain a record of the licenses issued.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Licenses are good for one (1) calendar year and must be obtained in January of each year.  If an owner fails to obtain the license in a timely fashion, then the owner shall pay a fine of $<cite path="§25.00">25.00</cite> in addition to the license fee.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The license fee is waived for service dogs, including dogs that provide assistance to persons who are blind, deaf, or mobility-impaired, but such dogs still require a license.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Animal Health.</text>
+        <para>
+          <num>(1)</num>
+          <text>Dog and cat owners shall have and maintain a current rabies vaccination for their dog(s) that have reached 5 months of age.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a dog or cat that bit a person is believed to be infected with rabies and can be safely captured, then the animal will be captured and put in quarantine.</text>
+          <para>
+            <num>(A)</num>
+            <text>If quarantine cannot be imposed since the animal cannot be captured, then the animal shall be killed in a humane manner and avoids damage to the animal's head so that it can be tested for rabies.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The quarantine shall be under veterinary supervision and shall be as necessary to prevent health risk to humans and animals.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If, at the end of the quarantine period, a veterinarian certifies that the dog or cat has not exhibited any signs of rabies, then the animal will be released from quarantine.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>If it is determined that it is not safe or appropriate to quarantine an animal, then that animal may be euthanized in a humane manner that avoids damage to the animal's head so that it can be tested for rabies.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If an animal other than a dog or cat is believed to be infected with rabies, then a tribal officer or conservation officer may kill or order that animal be killed in a humane manner that avoids damage to the animal's head so that it may be tested for rabies.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The owner of an animal suspected to be infected with rabies shall be responsible for the costs associated with keeping the animal in quarantine and/or the costs associated with examination of the carcass.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>No person may import, sell, transport or exhibit an animal that is exposed to or infected with a contagious or infectious disease.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Tribe may condemn animals that are affected by a contagious or infectious disease if it determines it is necessary to do so to prevent or control the spread of the disease.  The Tribe will generally obtain a court order in relation to such condemnation, but this requirement is waived in emergencies when immediate action to protect the safety of humans.  Condemned animals shall be destroyed as directed by the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Violations.</heading>
+        <text>Except as otherwise provided, no person may:</text>
+        <para>
+          <num>(1)</num>
+          <text>Allow any domestic animal owned by that person to run at large.</text>
+          <para>
+            <num>(A)</num>
+            <text>Running at large means a domestic animal is off the premises of its owner and not under the direct control of the owner or another individual.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>An animal that is actively engaged in a legal hunting or working activity and/or training, is not considered to be running at large if the animal is monitored or supervised by a person on land that is open to hunting.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Allow any dog or cat owned by that person to be untagged.  Untagged, for purposes of this section, means that valid license and rabies tags are not attached to a collar that is kept on the dog whenever the dog is outdoors.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Treat any animal in a cruel manner.  Cruel means causing unnecessary and excessive pain or suffering or causing unjustifiable injury or death by any means.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Allow any animal owned by that person to be abandoned.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Own or keep an animal, which by frequent howling, whining, yelping, barking, or otherwise shall cause serious annoyance or disturbance to a person or persons living in the area. No persons shall be convicted under the provisions of this subsection, except upon the evidence of at least 2 persons, who are not in the same household.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Own an animal that, when unprovoked, bites a person or domestic animal or otherwise engages in behavior causing injury to a person or domestic animal.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Own an animal that, when unprovoked, approaches and threatens to attack or attacks a person or another domestic animal when the animal is not under the owner's control and off of the owner's property.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Own more than two (2) dogs or cats per residence, except that if a person owns more as of June 1, 2015, then such dogs/cats are authorized for their lifetime, so long as the total number does not exceed 5.  This provision is not intended to grant owner permit authorization to keep more than 2 dogs or cats on a permanent basis.  The following exceptions will be allowed, so long as the exception is registered with the Public Safety Department:</text>
+          <para>
+            <num>(A)</num>
+            <text>A litter of puppies or kittens until the puppies or kittens reach 6 months of age;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A business enterprise such as a kennel or dog training business, so long as the business is properly permitted under tribal law; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Sled dogs, working dogs, and hunting dogs, as long as they are properly maintained and do not create a nuisance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Fail to provide proper food, drink or shelter to an animal owned or kept that person.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Instigate, promote, aid or abet fights between animals or between an animal and person.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Keep custody or control of a wild animal or of an exotic animal that, due to its inherent nature, may be considered dangerous to humans.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Authority of the Tribe to protect the public safety and welfare of the Community.</text>
+        <para>
+          <num>(1)</num>
+          <text>An authorized officer or employee of the Tribe shall attempt to capture and restrain any domestic animal running at large or any untagged animal.  The domestic animal may be taken into custody and kept at a place designated by the Tribe for such purposes.</text>
+          <para>
+            <num>(A)</num>
+            <text>If the identity of the owner of a domestic animal taken into custody under this ordinance is known or can be determined, the Tribe shall provide written notice to the owner that the domestic animal is in custody.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If the owner or an agent of the owner fails to claim the domestic animal within 7 days, the animal will be considered abandoned.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>No domestic animal in custody of the Tribe or taken into custody by the Tribe and housed elsewhere shall be returned to the owner or an agent of the owner unless all required licenses, custody, care, vaccination and treatment costs are obtained and fully paid.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>If the identity of the owner of a domestic animal taken into custody under this ordinance is not known or cannot be determined with reasonable diligence, the animal shall be considered a stray.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Unclaimed stray animals remaining in custody of the Tribe for more than 7 days and abandoned animals remaining in the custody of the Tribe for 7 days after issuance of the notice to the owner may be released to a person other than the owner or euthanized, pursuant to tribal policies.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A tribal officer or conservation officer may take any reasonable actions to protect public safety and welfare, the safety of him or herself, and the safety of other animal(s) and property.  Reasonable actions include, but are not limited to, taking an animal into custody or destroying an animal in a humane manner if it cannot be controlled by the officer or an owner or custodian on the scene.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Costs.</heading>
+        <text>In addition to any penalties or remedies assessed under this ordinance, an animal owner shall be responsible for all costs related to the custody and care of an animal in the event that the animal is taken into custody by the Tribe or to remediate damage caused by the animal.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Remedies for Dangerous Animal.  If an animal is deemed to be a danger to the community by a court, then the Tribe may request any remedy appropriate to mitigate the danger, which may include, but is not limited to, having the animal destroyed in a humane manner or banning it from tribal lands.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.20</annotation>
+    </section>
+    <section>
+      <num>SAF.02.21</num>
+      <heading>Park Rules</heading>
+      <para>
+        <num>(a)</num>
+        <text>Regular Park Rules.  All persons using the tribal park facilities shall abide by the following special terms and conditions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Camping is permitted in designated camping areas only.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No fires are permitted except in designated campfire areas. Only firewood that was gathered from within the geographic boundaries of the townships of Bartelme or Red Springs may be used for campfires.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There shall be no littering of any kind inside park boundaries.  Garbage and recycling containers shall be used, as appropriate, to dispose of waste materials.  If no garbage or recycling container is provided, then waste materials must be packed out.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Defacing of any park property or vegetation is strictly prohibited.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The maximum speed limit on park and campground roads is 15 m.p.h.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Through traffic is prohibited on the campground road when the Pow Wow or other tribal functions are scheduled in the park area.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Fishing (by tribal member or those with required permits) in the river is prohibited in designated swimming areas, when swimmers are present.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Excessive noise is prohibited.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Campers shall observe established campground rules.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>No alcohol shall be allowed in any tribal parks from the hour of 10 p.m. until the hour of 10 a.m.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>After 8 p.m., no minors are allowed except if accompanied by a responsible adult, such as a parent or guardian.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Fireworks are not permitted.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Any visibly intoxicated, boisterous, or discourteous person(s) will be subject to immediate removal in addition to any other penalties.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>There shall be no parking in private driveways without the land assignee's permission.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>No weapons or firearms are permitted at any time, other than those carried by official law enforcement personnel.</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>Camping is by permit only.</text>
+          <para>
+            <num>(A)</num>
+            <text>Permits are available to Tribal members from the Property and Equipment Department, Monday through Friday 8 a.m. to 4:30 p.m., and shall be available online at the Tribe's website.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Tribal Members and their family and/or guests may camp<em>.</em></text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>All campers must abide by all Tribal rules and regulations.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>If the camper will utilize electricity, a $<cite path="§3.00">3.00</cite> charge per night must be paid prior to permit being issued.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Permits are subject to revocation if rules and regulations are violated and the applicant may be barred from applying for camping permits in the future.</text>
+          </para>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>Use of the park, including the campground, by others may be granted by Tribal Council upon such terms and conditions as the Tribal Council shall deem appropriate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Additional Rules for Pow Wow Weekend and Other Special Tribal Events.  During the annual Pow Wow weekend and five (5) days before and after Pow Wow weekend, and other special Tribal events that may arise, the following additional rules apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>Stockbridge-Munsee Police Department shall coordinate overall security at the event(s).  The Police Department will work with the event's organizers to identify security needs and security personnel that the organizers need to provide.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No alcohol is allowed in the entire park, including the campground, at any time.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Quiet time shall be from 8 p.m. to 10 a.m.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Camping, parking, and vending shall only be in designated areas.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>No pets or other animals are permitted at any time, other than service animals.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Penalties and Enforcement.  In addition to any other penalty, including criminal charges:</text>
+        <para>
+          <num>(1)</num>
+          <text>Citations against minors may also be issued against the parent(s) or guardian of the minor.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Violators are subject to immediate removal and eviction from the event and are subject to being banned for up to 12 months.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Vehicles may be towed from the park at the owner's expense.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Alcohol, fireworks, weapons, firearms or other dangerous or illegal items are subject to confiscation.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.21</annotation>
+    </section>
+    <section>
+      <num>SAF.02.22</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Tribal officers and conservation officers have authority to investigate and enforce the provisions of this ordinance.  Tribal officers and conservation officers shall conduct such activities in good faith and in accordance with good law enforcement practices, as well as take such actions as appropriate to the circumstances and under applicable law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Tribal officers and conservation officers may issues warnings and/or citations to individuals who violate this ordinance.  Such warnings and/or citations issued under this ordinance are considered to be civil, not criminal, in nature.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tribal officers and conservation officers are authorized to seize and confiscate materials used as part of violations of this ordinance as appropriate.  Such materials shall be considered evidence and shall be properly recorded and secured pending return or disposition, as appropriate, upon resolution of any citation.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Parties to a Violation.</text>
+        <para>
+          <num>(1)</num>
+          <text>Whoever is concerned in the commission of a violation of this ordinance is a principal and may be charged with the violation although he or she did not directly commit it and although the person who directly committed it has not been convicted of the violation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person is concerned in the commission of a violation, if the person:</text>
+          <para>
+            <num>(A)</num>
+            <text>Directly commits the violation; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Aids and abets the commission of it; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Is a party to a conspiracy with another to commit it or advises, hires, or counsels or otherwise procures another to commit it.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person who attempts any violation of this ordinance shall be subject to the same infraction if they had completed all the steps for a violation.  An attempt to commit a violation requires that the actor have an intent to perform acts and attain a result which, if accomplished, would constitute a violation and that the actor does acts towards the commission of the violation which demonstrate unequivocally, under all the circumstances, that the actor formed that intent and would commit the crime except for the intervention of another person or some other extraneous factor.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.22</annotation>
+    </section>
+    <section>
+      <num>SAF.02.23</num>
+      <heading>Burden Of Proof And Statute Of Limitations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The burden of proof for citations issued under this ordinance, unless specified otherwise, shall be by preponderance of the evidence, which is a showing that it is more likely than not that the facts alleged are true.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A citation for a violation of this ordinance must be issued within one (1) year after the commission of the violation.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.23</annotation>
+    </section>
+    <section>
+      <num>SAF.02.24</num>
+      <heading>Penalties And Remedies For Violations</heading>
+      <para>
+        <num>(a)</num>
+        <text>In addition to any other remedy, any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a tribal civil offense punishable by a forfeiture of up to Five Thousand dollars ($5,<cite path="§000.00">000.00</cite>).  The following forfeiture schedules shall generally apply for violations of this ordinance.</text>
+        <para>
+          <num>(1)</num>
+          <text>For violations by individuals who are 16 years of age or younger:</text>
+          <para>
+            <num>(A)</num>
+            <text>1<sup>st</sup> offense is $50;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>2<sup>nd</sup> offense within 1 year is $100; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>3<sup>rd</sup> offense and subsequent within 1 year is $175.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For violations by individuals who are 17 years of age or older:</text>
+          <para>
+            <num>(A)</num>
+            <text>1<sup>st</sup> offense is $300;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>2<sup>nd</sup> offense within 1 year is $500; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>3<sup>rd</sup> offense and subsequent within 1 year is $750.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Deviations from these schedules are permitted when appropriate based on extenuating circumstances.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Individuals receiving a citation may choose to not contest the citation and pay the forfeiture amount in full prior to any scheduled court appearance.  If the forfeiture is not paid in full, then the individual, and/or his/her legal representative, must appear for scheduled court appearance(s).  The failure to appear may result in a default judgment being entered against the individual.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Stockbridge-Munsee Tribal Court may, in addition to the forfeiture described herein, grant such other relief as is necessary and proper for the enforcement of this ordinance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each day that a violation exists or continues shall be considered a separate offense under this ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.24</annotation>
+    </section>
+    <section>
+      <num>SAF.02.25</num>
+      <heading>Future Amendments</heading>
+      <text>Amendments to this Ordinance will be effective upon enactment by the Stockbridge-Munsee Community Tribal Council without further review by the Secretary of the Interior.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.25</annotation>
+    </section>
+    <section>
+      <num>SAF.02.26</num>
+      <heading>Severability</heading>
+      <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, the remaining portions of this Ordinance shall remain unaffected and remain in force.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 16, §16.26</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. Ordinance No. 5 an ordinance to minimize health and accident hazards within the reservation proper...adopted by the Tribal Council January 13, 1973 (No BIA approval); included Snowmobile Resolution No. 1 dated January 6, 1973.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0506">Resolution No. 0506</cite>, adopted May 3, 1974.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1113">Resolution No. 1113</cite>, adopted November 1, 1988.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1552-95">Resolution No. 1552-95</cite>, adopted November 7, 1995.</annotation>
+      <annotation type="Legislative History">5. Amended in July 1996 to disallow alcohol in tribal parks.</annotation>
+      <annotation type="Legislative History">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 251-97">Resolution No. 251-97</cite>, adopted October 7, 1997.</annotation>
+      <annotation type="Legislative History">7. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 050-06">Resolution No. 050-06</cite>, adopted July 18, 2006, approved by BIA August 15, 2006.</annotation>
+      <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 049-15">Resolution No. 049-15</cite>, adopted June 3, 2015.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>SAF.03</num>
+    <heading>Public Health And Safety Ordinance</heading>
+    <section>
+      <num>SAF.03.01</num>
+      <heading>Statement Of Findings, Purpose And Authority</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Findings.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Stockbridge-Munsee Tribal Council finds that the Stockbridge-Munsee Community has entered into a gaming compact with the State of Wisconsin and, pursuant to that gaming compact, the Stockbridge-Munsee Community agreed to enact an ordinance setting forth public health and safety standards.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Stockbridge-Munsee Tribal Council finds that the Tribe is committed to assuring the health and safety of the general public and as well as its Tribal members.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Stockbridge-Munsee Tribal Council finds that this ordinance is necessary to protect the social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Purpose.</heading>
+        <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to provide for the health and safety of persons in any facility that is used by the Stockbridge-Munsee Community for Class III gaming activities pursuant to a gaming compact.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Authority.</heading>
+        <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances providing for the health and safety of the general public and tribal members on reservation and trust lands within the jurisdiction of the Tribe by virtue of the provisions of <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(a)">Article VII, section 1(a)</cite> and <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">(f) of the Stockbridge-Munsee Constitution</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26, §26.1</annotation>
+    </section>
+    <section>
+      <num>SAF.03.02</num>
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <text>This ordinance shall apply on the Stockbridge-Munsee Reservation, which for purposes of this ordinance includes proclaimed reservation lands and tribal trust lands as well as individual trust lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26, §26.2</annotation>
+    </section>
+    <section>
+      <num>SAF.03.03</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"ASME" refers to the American Society of Mechanical Engineers.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Casino" refers to those portions of a facility that are used for Class III gaming activities, including back-of-house areas, regulated under the Tribe's gaming compact with the State of Wisconsin.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"IEBC" refers to the International Existing Building Code®.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Public building" refers to a structure intended for use in whole or in part by the public as a place of resort, assemblage, lodging, trade, traffic, occupancy or use.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"State" refers to State of Wisconsin.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Tribe" refers to the Stockbridge-Munsee Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26, §26.3</annotation>
+    </section>
+    <section>
+      <num>SAF.03.04</num>
+      <heading>Interpretation</heading>
+      <para>
+        <num>(a)</num>
+        <text>This ordinance shall be deemed as a reasonable and proper exercise of the sovereign power of the Stockbridge-Munsee Community for the protection of public safety, health and welfare on lands under the Tribe's jurisdiction.  All provisions of this ordinance shall be liberally construed for the accomplishment of these purposes.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe's adoption of State public health and safety standards as provided for under this ordinance shall not be interpreted as consent to State civil/regulatory jurisdiction or a waiver of the Tribe's sovereign immunity.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26, §26.4</annotation>
+    </section>
+    <section>
+      <num>SAF.03.05</num>
+      <heading>Public Health And Safety Standards</heading>
+      <para>
+        <num>(a)</num>
+        <text>The public health and safety standards established under this ordinance shall apply to any casino facility located on lands under the jurisdiction of the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The following State public health and safety standards that are incorporated, by reference, into this ordinance as tribal standards to the extent applicable to public buildings.</text>
+        <para>
+          <num>(1)</num>
+          <text>Chapter SPS 314 – Fire Prevention, Wis. Admin. Code.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Chapter SPS 316 – Electrical, Wis. Admin. Code.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Chapter SPS 328 – Smoke Detectors and Carbon Monoxide Detectors, Wis. Admin. Code.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Chapter SPS 366 – Existing Buildings, Wis. Admin. Code.</text>
+          <para>
+            <num>(A)</num>
+            <text>Section SPS <cite path="§361.05">361.05</cite> of State law provides for the incorporation of the IEBC-2009, subject to the modifications under Chapters SPS 361 and SPS 366.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>To the extent necessary to effectuate the State standard, the Tribe incorporates IEBC-2009 into this ordinance by reference.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Chapter SPS 377 – Theaters and Assembly Halls, Wis. Admin. Code.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Chapter SPS 381-386 – Plumbing, Wis. Admin. Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The following ASME standards are hereby incorporated, by reference, into this ordinance as tribal standards:</text>
+        <para>
+          <num>(1)</num>
+          <text>Safety Code for Elevators and Escalators, ASME A17.1/CSA B44-2013.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The State public health and safety, IEBC and ASME standards incorporated into tribal law under this ordinance shall also incorporate all properly adopted amendments to such standards that occur after the date of enactment of this ordinance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The application of the State public health and safety standards to casino facilities through this ordinance shall be interpreted as being at least as restrictive as the State public health and safety standards for public buildings, electrical wiring, fire prevention, plumbing and sanitation as set forth in <cite path="101">Chapter 101</cite>, Wis. Stat. and the State administrative rules thereunder.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Tribe's submission of building plans for review and approval by the State shall not be construed as an acceptance of State regulatory authority over the Tribe's construction activities.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26, §26.5</annotation>
+    </section>
+    <section>
+      <num>SAF.03.06</num>
+      <heading>Inspections</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe shall engage a State-certified inspector to conduct periodic inspections, not less than annually, of all casino facilities.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe shall promptly repair or correct any and all instances of non-compliance with public health and safety standards established under this Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Inspection reports prepared in conjunction with the aforementioned inspections shall be forwarded to the State.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing in this ordinance shall be construed as granting or authorizing the State or municipal governments in the State authority to conduct inspections on lands under the Tribe's jurisdiction without the Tribe's authorization.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26, §26.6</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1316">Resolution No. 1316</cite>, adopted May 22, 1992.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 057-15">Resolution No. 057-15</cite>, adopted August 5, 2015, approved by BIA August 13, 2015.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>SAF.04</num>
+    <heading>Communicable Disease, Vaccination, And Quarantine Ordinance</heading>
+    <section>
+      <num>SAF.04.01</num>
+      <heading>Council Findings And Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council finds that there is a need to prepare for possible bioterrorism issues and other communicable disease issues.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council finds that if this area is left unaddressed, the political integrity, economic security, and the general health and welfare is threatened.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII(f) of the Stockbridge-Munsee Constitution</cite>, and its inherent powers, as an exercise of its governmental powers to protect the political integrity, economy, and the general welfare of the Stockbridge-Munsee Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.1</annotation>
+    </section>
+    <section>
+      <num>SAF.04.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Communicable Disease -any disease transmitted from one person or animal to another person or animal directly by contact with excreta or other discharges from the body; or indirectly via substances or inanimate objects: may be bacteria, fungi, parasites, or viruses.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Public Health Emergency - the occurrence or imminent threat of an illness or health condition that meets all of the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is believed to be caused by bioterrorism or a novel or previously controlled or eradicated biological agent.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Poses a high probability of any of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>A large number of deaths or serious or long-term disability among humans.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A high probability of widespread exposure to a biological, chemical or radiological agent that creates a significant risk of substantial future harm to a large number of people.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Communicable diseases on the attached "Non-Quarantinable Diseases" list are not covered by this Ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.2</annotation>
+    </section>
+    <section>
+      <num>SAF.04.03</num>
+      <heading>Compulsory Vaccination During A State Of Emergency</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Health and Wellness Director ("Director") may do all of the following as necessary to address a public health emergency.  The Director shall notify the Tribal President if any of the following are implicated.</text>
+        <para>
+          <num>(1)</num>
+          <text>Order any individual to receive a vaccination unless the vaccination is reasonably likely to lead to serious harm to the individual or unless the individual for reasons of religion or conscience refuses to obtain the vaccination.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Isolate or quarantine any individual who is unable or unwilling for reasons of religion or conscience to receive the vaccination under <cite path="§SAF.04.03|(a)|(1)">subsection (1)</cite>.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.3</annotation>
+    </section>
+    <section>
+      <num>SAF.04.04</num>
+      <heading>Isolation And Quarantine</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Director may require isolation or quarantine of a patient or individual who is a carrier of a communicable disease, a patient or individual under <cite path="§SAF.04.03|(a)|(2)">Section SAF.04.03 (a)(2)</cite>, quarantine of contacts, concurrent and terminal disinfection, or modified forms of these procedures as may be necessary.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the Director reasonably suspects or is informed of the existence of any communicable disease, the Direct6r shall at once investigate and make or cause such examinations to be made as are necessary. The diagnostic report of a physician, the notification or confirmatory report of a parent or caretaker of the patient, or a reasonable belief in the existence of a communicable disease shall require the Director immediately to quarantine, isolate, require restrictions or take other communicable disease control measures in a manner, upon the persons. The Director shall consult a physician as speedily as possible where there is reasonable doubt or disagreement in diagnosis and where advice is needed. The Director shall act as reasonably necessary to protect the public.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If deemed necessary by the Director for a particular communicable disease, all persons except the Director, his or her representative, attending physicians and nurses, members of the clergy, the members of the immediate family and any other persons having a special written permit from the Director are forbidden to be in direct contact with the patient.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In a state of emergency, no person, other than a person authorized by the Director or agent of the Director may enter an isolation or quarantine premises.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Director shall designate the Tribal Police or other appropriate personnel to execute his or her orders and properly guard any place if quarantine or other restrictions on communicable disease are violated or intent to violate is manifested. The Tribal Police or other appropriate personnel shall use all necessary means to enforce the quarantine for the prevention and control of communicable diseases, or the orders of the Director.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>When the Director deems it is necessary that a person be quarantined or otherwise restricted in a separate place, the Director or designee shall remove the person, if it can be done without danger to the person's health to such a designated place.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Expenses for necessary medical care, food and other articles needed for the care of the infected person shall be charged against the person or whoever is liable for the person's support.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Stockbridge-Munsee Community is responsible for the following costs accruing under this section unless the costs are payable through 3rd party liability or through any benefit system:</text>
+          <para>
+            <num>(A)</num>
+            <text>The expense of employing guards under <cite path="§SAF.04.04|(e)">subsection (e)</cite>.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The expense of maintaining quarantine and enforcing isolation of the quarantined area.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The expense of conducting examinations and tests for disease carriers made under the direction of the Director.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The expense of care for dependent persons.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Director shall notify the Tribal President if the Director implicates any of the options in <cite path="§SAF.04.04|(a)">SAF.04.04(a)</cite> to <cite path="§SAF.04.04|(f)">(f)</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.4</annotation>
+    </section>
+    <section>
+      <num>SAF.04.05</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>A violation of <cite path="§SAF.04.04|(d)">SAF.04.04(d)</cite> is subject to a fine not to exceed $100 or imprisonment not to exceed 3 months.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person, whether authorized under <cite path="§SAF.04.04|(c)">SAF.04.04(c)</cite> or <cite path="§SAF.04.04|(d)">(d)</cite> or not, who enters an isolation or quarantine premises may be subject to isolation or quarantine under this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tribal Police are authorized to issue citations.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Prosecutor has authority to prosecute citations in Tribal Court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Tribal Court has exclusive jurisdiction to hear enforcement actions brought under this ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.5</annotation>
+    </section>
+    <section>
+      <num>SAF.04.06</num>
+      <heading>Severability</heading>
+      <text>In the event that any provision of this ordinance is ruled illegal by a court of competent jurisdiction, the remaining provisions of this ordinance shall remain unaffected.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.6</annotation>
+    </section>
+    <section>
+      <num>SAF.04.07</num>
+      <heading>Non-Quarantinable Diseases</heading>
+      <text>
+        <ul>
+          <li>Acquired Immunodeficiency Syndrome (AIDS) Immunodeficiency Virus (HIV) Infection Amebiasis</li>
+          <li>Anthrax</li>
+          <li>Blastomycosis</li>
+          <li>Botulism</li>
+          <li>Botulism, Infant</li>
+          <li>Brucellosis</li>
+          <li>Campylobacteriosis</li>
+          <li>Chancroid</li>
+          <li>Chlamydia</li>
+          <li>Cholera</li>
+          <li>Cryptosporidiosis</li>
+          <li>Ehrlichiosis</li>
+          <li>Encephalitis, Arboviral</li>
+          <li>Encephalitis, Viral</li>
+          <li>Escherichia Coli 0157:H7</li>
+          <li>Foodborne Disease Outbreak</li>
+          <li>Genital Herpes</li>
+          <li>Giardiasis</li>
+          <li>Gonorrhea</li>
+          <li>Haemophilus Influenza</li>
+          <li>Hemolytic Uremic Syndrome (HUS) Hepatitis A</li>
+          <li>Hepatitis B</li>
+          <li>Hepatitis C/non-A, non-B</li>
+          <li>Hepatitis D (Delta)</li>
+          <li>Histoplasmosis</li>
+          <li>Kawasaki Syndrome</li>
+          <li>Legionellosis (Legionnaires Disease)</li>
+          <li>Leprosy (Hansen's Disease)</li>
+          <li>Leptospirosis 11</li>
+          <li>Listeriosis</li>
+          <li>Lyme Disease</li>
+          <li>Meningitis, Aseptic</li>
+          <li>Meningitis, Bacterial.</li>
+          <li>Meningococcal Disease</li>
+          <li>Nontuberculous Mycobacterial Disease</li>
+          <li>Pelvic Inflammatory Disease</li>
+          <li>Pertussis</li>
+          <li>Poliomyelitis</li>
+          <li>Psittacosis</li>
+          <li>Rabies (Animal)</li>
+          <li>Rabies (Human)</li>
+          <li>Reye Syndrome</li>
+          <li>Rheumatic Fever</li>
+          <li>Rocky Mountain Spotted Fever Rubella</li>
+          <li>Rubella, Congenital Syndrome Salmonellosis</li>
+          <li>Syphilis</li>
+          <li>Tetanus</li>
+          <li>Toxic-Shock Syndrome Toxoplasmosis</li>
+          <li>Trichinosis</li>
+          <li>Trichomoniasis</li>
+          <li>Tularemia</li>
+          <li>Typhoid Fever</li>
+          <li>Typhus Fever, Flea-Borne Waterborne Outbreak</li>
+          <li>Yellow Fever</li>
+          <li>Yersiniosis</li>
+        </ul>
+      </text>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 059-07">Resolution No. 059-07</cite>, adopted August 21, 2007, approved by BIA August 21, 2007.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>SAF.05</num>
+    <heading>Food Service Code</heading>
+    <section>
+      <num>SAF.05.01</num>
+      <heading>Definitions</heading>
+      <text>For the purpose of this Code:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Council" means the official Chairperson and quorum of committee representatives all of whom are duly elected or selected to office by the members of the Stockbridge-Munsee Band of Mohican Indians as their official representatives.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Environmental Health Advisor" means the U.S. Public Health Service Sanitarian or his/her designee.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Food Handler's Card" means a wallet sized food handler card issued by the Environmental Health Officer or designee to temporary vendors to indicate they have successfully completed the Stockbridge Munsee food handler's training course.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Food Service Establishment" means a unit that operates at a fixed location for more than 14 days where food is processed and intended for individual consumption usually for retail sale.  The term includes any such place whether consumption is on or off the premises.  This term includes home kitchens that prepare food for sale.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Food Service Permits" means the food service establishment operation permit issued by the Health Director or designee to a permanent food service establishment to indicate they have passed inspection and proven that at least one individual has successfully completed an approved food handler's certification examination.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Health Director" means the duly appointed Director of the Stockbridge-Munsee Health Department or his/her designee.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Retail FOOD SERVICE ESTABLISHMENT" means a unit or location, in which food is manufactured, cut, mixed, ground, packaged, and processed for sale or distribution to consumers.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Retail Food Outlet" means a unit or location at which food is offered for sale or distribution with no cutting, mixing, grinding, packaging, or processing.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Temporary Food Service Establishment" means a food service establishment that operates at a location for a period of less than 14 days.  This could be in conjunction with a single event or celebration.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.1</annotation>
+    </section>
+    <section>
+      <num>SAF.05.02</num>
+      <heading>Food Service Permits</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall operate a food service establishment who does not have a valid FOOD SERVICE PERMIT issued to him/her by the Health Director.  Only a person who complies with the requirements of this Code shall be entitled to receive or retain such a permit.  Permits are not transferable.  A valid permit shall be posted in every food service establishment.</text>
+        <para>
+          <num>(1)</num>
+          <text>Food Service establishments operating on the Stockbridge-Munsee Indian Reservation must possess an unsuspended, unrevoked FOOD SERVICE PERMIT from the Health Director.  Food Service permits will be issued as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>All permanent facilities must meet the general requirements of the 2001 Food and Drug Administration Food Code or the most current edition of said code; whichever is applicable.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The operator or at least one manager of a FOOD SERVICE ESTABLISHMENT shall provide proof to  the Health Director that states the operator or manager has passed an approved (see appendix A) examination on FOOD protection practices. However:</text>
+            <para>
+              <num>(i)</num>
+              <text>A new FOOD SERVICE ESTABLISHMENT or a FOOD SERVICE ESTABLISHMENT under going a change of operator shall have a certified FOOD manager within 90 days of the initial day of operation or provide documentation that they are scheduled within three (3) months to take and pass an approved examination as specified in Appendix A.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>FOOD SERVICE ESTABLISHMENTS which are not in compliance because of employee turnover or other loss of a certified manager, shall have 90 days from the date of the loss of a certified manager to comply with <cite path="56.2">this chapter</cite>, or provide documentation that the person designated to be the certified FOOD manager will become certified within the time specified in this subparagraph.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Environmental Health Advisor shall submit a completed food service establishment inspection report to the Health Director.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The Health Director shall issue a FOOD SERVICE PERMIT if the following conditions are met:</text>
+            <para>
+              <num>(i)</num>
+              <text>There were no "critical item" deficiencies noted on DEHS, IHS Form R-01-1 or the written report provided by the environmental health officer or any form of report that is used to inspect the facility.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>At least one staff member or operator has provided proof that they have received training and passed an approved examination (see appendix A for examination criteria).</text>
+            </para>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Food Service permits shall be issued for a 12 month period following approval by the Health Director.  Renewal of the permit is to be accomplished automatically when the Environmental Health Advisor completes an annual inspection of the premises and no critical items are identified.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Food Service permits shall be displayed in a conspicuous location within food service establishments.</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Food Service Permits are not transferable.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Food Service Establishment employees are not required to obtain and possess a current FOOD HANDLER CARD.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall operate a temporary food service establishment without a valid TEMPORARY FOOD SERVICE PERMIT issued to him by the Health Director, Stockbridge-Munsee Band of Mohican Indians.  Only a person who complies with the requirements of this ordinance shall be entitled to receive or retain such a permit.  Permits are not transferable.</text>
+        <para>
+          <num>(1)</num>
+          <text>Temporary food service establishments, operating on the Stockbridge-Munsee Indian Reservation, must possess an unsuspended, unrevoked TEMPORARY FOOD SERVICE PERMIT from the Health Director, Stockbridge-Munsee Band of Mohican Indians.  Temporary Food Service Permits will be issued as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>All temporary facilities must meet the general requirements of the Stockbridge-Munsee Band of Mohican Indians' "TEMPORARY FOOD SERVICE GUIDELINES".</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Health Director shall issue a TEMPORARY FOOD SERVICE PERMIT to the operator of a temporary food service facility if the operator of said establishment has reviewed the "TEMPORARY FOOD SERVICE GUIDELINES" and signed an agreement to comply with these guidelines.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Health Director shall issue a TEMPORARY FOOD SERVICE PERMIT to the operator of a temporary food service facility after the operator has provided proof  the individuals that will be working in the temporary facility have current FOOD HANDLER'S CARDS (see #2).</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Temporary food service permits shall be issued for a period of time as designated by the Health Director.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Temporary Food Service Permits shall be prominently displayed within the temporary food service establishment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All temporary food service establishment employees, except employees only handling money or selling pre-packaged food or drink, will be required to obtain and possess a current FOOD HANDLER CARD.  The FOOD HANDLER CARD will be issued by the Health Director and will be valid for two (2) years after issuance.</text>
+          <para>
+            <num>(A)</num>
+            <text>To obtain a FOOD HANDLER CARD, the food service employees must   attend a Food Service Training Session, sponsored by the Stockbridge-Munsee Health Department, and successfully complete the requirements of the training session.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Cards issued by other recognized (Tribal, State, City, etc.) organizations will be accepted through reciprocity if the Environmental Health Officer or Designee determines it equals the requirements of the Stockbridge Munsee Food Code</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Food Service Training Sessions will be presented semi annually or more frequently as determined by the Health Director and will be advertised at least 1 month in advance to promote public awareness of the classes.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Copies of all FOOD SERVICE PERMITS, TEMPORARY FOOD SERVICE PERMITS, and FOOD HANDLER CARDS will be maintained by the Director, Stockbridge-Munsee Health Department, or his/her designee.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Three (3) copies each of the most current edition of the "FDA FOOD CODE" and the "TEMPORARY FOOD SERVICE GUIDELINES" shall be on file in the office of the Health Director.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.2</annotation>
+    </section>
+    <section>
+      <num>SAF.05.03</num>
+      <heading>Inspections</heading>
+      <text>The Stockbridge-Munsee Tribal Council delegates inspection authority of all food service establishments on the Stockbridge-Munsee Indian Reservation to the Health Director and Environmental Health Advisor.</text>
+      <text>Inspections shall be conducted at least annually of all food service establishments by the Environmental Health Advisor or his designee.  Findings shall be reported utilizing the Food Service Establishments Inspection Report Form DEHS, IHS R-01-1 or the most current edition of said forms or any written report provided by the environmental health officer.</text>
+      <text>Commercial establishment reports will be sent to the owner/operator of the facility, the Chairman of the Stockbridge-Munsee Tribal Council, and the Health Director of the Stockbridge-Munsee Health Department.</text>
+      <text>Spot check inspections will be conducted periodically of temporary food service establishments by the Health Director or his/her designee.  Each facility will be inspected at least once during its operation.</text>
+      <text>The Health Director or his/her designee has the discretion and authority to temporarily or permanently close all or part of a food service establishment if the Health Director or his/her designee determines that the community's health and welfare are or were jeopardized.</text>
+      <text>The issuance of a FOOD SERVICE PERMIT or TEMPORARY FOOD SERVICE PERMIT carries with it the implied consent that the Health Director, Environmental Health Advisor, or their designee shall have, at all times, the right of proper entry upon any and all parts of the premises of any place in which such entry is necessary to carry out the provisions of this ordinance.  The Health Director or his/her designee has the discretion and authority to temporarily or permanently close all or part of a food service establishment if the Health Director or his/her designee determines that any provision of the permit or this ordinance has been violated.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.3</annotation>
+    </section>
+    <section>
+      <num>SAF.05.04</num>
+      <heading>Termination Of Permits</heading>
+      <text>If any individual or party, subject to the jurisdiction of the Stockbridge-Munsee Reservation, who also operates a food service establishment required to possess a FOOD SERVICE PERMIT or TEMPORARY FOOD SERVICE PERMIT, violates the aforementioned provisions, such violation shall constitute grounds for termination of that person's or entity's permit, by the Tribal Health Director, to trade on the Stockbridge-Munsee Indian Reservation.</text>
+      <text>The licensee or permitee may appeal the Health Director's decision to the Tribal Administrator.  The appeal must be in writing and served upon the Health Director within five business days.  The Tribal Administrator will review all details of the termination of permits and render a written decision within five business days, based on the evidence provided.  The Tribal Administrator's decision will be final.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.4</annotation>
+    </section>
+    <section>
+      <num>SAF.05.05</num>
+      <heading>Enforcement</heading>
+      <text>The Tribal Health Director may seek injunctive Relief or other necessary relief through the Tribal Court against anyone who violates any section of this code, or order or directive of the Health Director.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.5</annotation>
+    </section>
+    <section>
+      <num>SAF.05.06</num>
+      <heading>Effective Period Of Ordinance</heading>
+      <para>
+        <num>(a)</num>
+        <text>This ordinance shall be in full force and effect beginning January 1, 1994, and at that time all ordinances and parts of ordinances in conflict with this ordinance are hereby repealed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Should any section, paragraph, sentence, clause or phrase of this ordinance be declared unconstitutional or invalid for any reason, the remainder of said ordinance shall not be affected hereby.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any part of this ordinance may be amended by the Stockbridge-Munsee Tribal Council by a majority vote.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.6</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. Originally approved August 3, 1993 by Resolution of Tribal Council, to be effective Jan. 1, 1994.  Revised and amended August 17, 2005.  All drafts were developed and recommended by Indian Health Service.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 027-06">Resolution No. 027-06</cite>, adopted March 21, 2006, approved by BIA April 10, 2006.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>SAF.06</num>
+    <heading>Exclusion Ordinance</heading>
+    <section>
+      <num>SAF.06.01</num>
+      <heading>Statement Of Purpose, Findings, And Authority</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Purpose.</heading>
+        <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to provide for the safety and well-being of the tribal community by providing parameters for the expulsion of persons who are considered to be a danger to the community from lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Findings.</heading>
+        <text>The Stockbridge-Munsee Tribal Council finds that this ordinance is necessary to protect the social, economic and political welfare of the Stockbridge-Munsee Community and tribal members, as well as to protect the lands and assets of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Authority.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite>, which provides for the promulgation and enforcement of ordinance for the exclusion of nonmembers from its territory, as well as inherent tribal authority to govern the members of the Stockbridge-Munsee Community and the use, management and administration of lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In addition, the Stockbridge-Munsee Community has authority over lands that it owns in fee simple by virtue of its ownership of such land and may enforce this ordinance in relation to access to such lands consistent with such authority.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.1</annotation>
+    </section>
+    <section>
+      <num>SAF.06.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Banishment" refers to the temporary or permanent expulsion of a member from the Reservation.  This ordinance does not authorize the banishment of members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Ban" refers to a temporary or permanent expulsion of a person from the premises of tribal buildings and/or facilities.  Bans may be issued to prevent access by either a member or a person who is not a member of the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Drug-related criminal activity" refers to the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as such term is defined in 21 U.S.C. 802) or drug paraphernalia.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Exclusion" refers to the temporary or permanent expulsion of a person, other than a member, from the Reservation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Member" refers an enrolled member of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Non-member" refers to any person who is not an enrolled member of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Person" refers to any individual, firm, corporation, public or private entity.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Public Right-of-Way" refers to any lawful right-of-way within the Reservation that is open to public access as a matter of law.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Reservation," for purposes of this ordinance, refers to those lands that are proclaimed as the reservation of the Stockbridge-Munsee Community, lands held in trust for the Stockbridge-Munsee Community and lands owned by the Tribe in fee simple.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Tribal Council" refers to the governing body for the Stockbridge-Munsee Community as established under its Constitution.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Tribe" refers to the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Violent criminal activity" refers to activity that causes death or serious bodily harm to a person, causes substantial property damage, or involves the use, attempted use or threatened use of physical force likely to result in serious bodily injury or substantial property damage. Crimes such as homicide, battery, sexual assault, kidnapping or arson are considered to be violent criminal activity.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.2</annotation>
+    </section>
+    <section>
+      <num>SAF.06.03</num>
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Territorial Jurisdiction.</heading>
+        <text>This ordinance shall apply on the Reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Personal Jurisdiction.</heading>
+        <text>This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as non-members who consent to the jurisdiction of the Stockbridge-Munsee Community by entering the Reservation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Subject Matter.</heading>
+        <text>The Tribal Council has exclusive jurisdiction in relation to actions under this ordinance.  There is no right to appeal such actions through the Tribal Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.3</annotation>
+    </section>
+    <section>
+      <num>SAF.06.04</num>
+      <heading>Grounds For Exclusion</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe may exclude non-members from the Reservation for any of the following reasons:</text>
+        <para>
+          <num>(1)</num>
+          <text>Commission of drug-related criminal activity that could result in a felony conviction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lifetime registration under a State sex offender registration program.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Commission of abuse or a sexually-based offense against a minor child, an elder or an incompetent person, which could result in a felony conviction.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Commission of violent criminal activity that could result in a felony conviction.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Commission of serious, illegal damage to the land or natural resources of the Tribe.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.4</annotation>
+    </section>
+    <section>
+      <num>SAF.06.05</num>
+      <heading>Exclusion Process</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe has sovereign authority over lands under its jurisdiction and to control the access of persons to such lands in order to act in the best interests of the Tribe and its members.  While the Tribal Council intends to provide due process in accordance with this ordinance to individuals prior to exclusion from such lands, the authority of the Tribal Council to exclude persons shall be broadly applicable and deviations from the process shall not nullify actions of Tribal Council properly taken as part of a duly-noticed and held meeting.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Petition.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The process to exclude a person from the Reservation is initiated by the filing of a petition that is signed by at least fifteen (15) members.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A petition shall be in writing and include the following information:</text>
+          <para>
+            <num>(A)</num>
+            <text>The name and address, if known, of the person to be excluded;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The grounds for the exclusion;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The factual basis for the petition;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Whether it is believed that an immediate danger to health, safety or property exists and, if so, why; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The printed names and signatures of the members requesting the exclusion.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The petition shall be filed with the Tribal Council Secretary (or a person acting on the Secretary's behalf), who shall sign and date when it is received.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Role of Tribal Council Secretary to Administer Exclusion Process.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Upon receipt of a petition, the Tribal Council Secretary shall have the person who is the subject of the petition served with the copy of the petition.  With the petition, the Tribal Council Secretary shall include a cover letter informing the person that:</text>
+          <para>
+            <num>(A)</num>
+            <text>The petition may result in the person's temporary or permanent exclusion from the Reservation;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The person may submit a written statement (to the Tribal Council Secretary on behalf of the Tribal Council) responding to the petition;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The person will have an opportunity to present testimony as part of a hearing on the matter; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Notice of the date and time of the hearing will be provided at a later date.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Council Secretary shall forward a copy of the petition to the Tribe's Compliance Department to complete a background check on the person that is the subject of the petition.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Council Secretary shall forward a copy of the petition to the Tribe's Police Department, so that they can take such actions as appropriate and necessary to address any threat from the person who is the subject of the petition.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Following completion of any investigation(s), the Tribal Council Secretary shall schedule a hearing on the petition to be held at a duly-held Tribal Council meeting and send all appropriate notices.</text>
+          <para>
+            <num>(A)</num>
+            <text>The hearing will normally be scheduled no later than 45 days after the submittal of the petition.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The hearing normally will be set for a date no sooner than 14 days from the date of the notice.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Tribal Council reserves the right to waive these time frames when in the best interests of the Tribe.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Tribal Secretary shall have notice of the date, time and place of the hearing served on the person who is the subject of the petition.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Notice of the date, time and place of the hearing on the exclusion shall be posted and sent to the members who submitted the petition.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If the Tribal Council authorizes an exclusion order following a hearing, then the Tribal Council Secretary shall be responsible to facilitate the issuance of such order as provided hereunder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Service.</heading>
+        <text>For purposes of this ordinance, service may be either in person or certified U.S. mail, return receipt requested.  If, after a good faith attempt at service, the Tribe cannot obtain either service in person or by mail, then the Tribe may obtain service by providing a copy of the papers to be served to a member of the person's household or taping the papers on the front door of the person's residence or place of business.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Hearing.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Council will consider the petition, any background investigation into the allegations, as well as testimony and evidence from interested parties as part of their determination of whether the person committed an act or omission that meets the grounds for exclusion.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such hearing may be held during either open or closed session of the Tribal Council meeting as is appropriate based on the nature of the grounds for the exclusion (e.g., actions involving minors shall be discussed during closed session).  Any action taken based on the petition must occur during open session.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The person who is the subject of the petition shall have an opportunity to present testimony and/or evidence on their own behalf as part of the hearing.  That person shall have no right to be present for the testimony of any other party or to cross-examine any other person.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All persons appearing before the Tribal Council as part of these proceedings may be represented by counsel at their own expense.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Persons who fail to observe proper respect and decorum for the proceedings may be ejected from the hearing.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>No formal rules of evidence shall apply to the proceedings; however, the Tribal Council has authority to restrict testimony or evidence that believes is irrelevant or excessively cumulative.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The Tribal Council has the sole responsibility to weigh the evidence presented as part of the proceedings and determine whether the proposed exclusion is in the best interests of the tribal community.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The Tribal Council shall act by motion to decide whether or not to issue an exclusion order and what, if any, special conditions shall apply to such order.  Motions to exclude a person must have at least five (5) Tribal Council members voting in support of the motion.  If the motion to exclude does not have at least five (5) votes in support, then the person shall not be excluded.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Exclusion Order.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Council may orally advise the parties of its decision at the hearing or may issue an opinion within five (5) business days of the hearing.  In either case, the Tribal Council shall prepare a written order of its action.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such written order shall identify the person who is subject of the order, the grounds for exclusion, the date the order was issued, whether the order is permanent or temporary (and, if temporary, the length of the exclusion), and any special conditions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Council Secretary shall have the exclusion order served on the excluded person and send copies to the Police Department, the members filing the petition and any tribal departments directly impacted, if known.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Exclusion orders shall be effective upon issuance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Records.</heading>
+        <text>A copy of the exclusion order, as well as other records related to the exclusion proceedings shall be maintained in secure storage by the Tribal Council Secretary or designee.  Such records shall be maintained for at least the duration of the exclusion plus three (3) years.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.5</annotation>
+    </section>
+    <section>
+      <num>SAF.06.06</num>
+      <heading>Implementation Of Exclusion Order</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Time to Vacate Reservation.</heading>
+        <text>While exclusion orders are effective upon issuance, persons normally shall be provided reasonable time to voluntarily vacate the Reservation in compliance with the exclusion order.  However, if warranted by circumstances, a person may be immediately removed from the Reservation by law enforcement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Personal Property.</heading>
+        <text>If a person requires time to remove or disposal of personal property from the Reservation following the issuance of an exclusion order, then that person must make arrangements with law enforcement to access the Reservation for such purpose.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Funerals.</heading>
+        <text>Persons subject to an exclusion order may enter the Reservation for purposes of a family member's funeral on the day of the funeral and during funeral hours.  The person must notify the Tribe's Police Department at least 4-hours prior to entering the Reservation for the funeral.  The person is only permitted access to go directly to the funeral and must exit immediately after the funeral.  A person may be denied entry for a funeral if there is a substantial threat of harm or injury to the community or a person.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Employment.</heading>
+        <text>Unless specifically authorized by special condition of the exclusion order, persons subject to an exclusion order are not authorized to access the Reservation for the purpose of employment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Business.</heading>
+        <text>Persons subject to an exclusion order are not authorized to conduct business with the Tribe or operate or conduct any other business activities on the Reservation.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.6</annotation>
+    </section>
+    <section>
+      <num>SAF.06.07</num>
+      <heading>Revocation Of Exclusion Order</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council may reconsider and revoke an exclusion order upon its own motion or based upon a request of a member or the person who is the subject of the exclusion.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The exclusion orders may be revoked by the Tribal Council by motion during open session of a regularly-scheduled Tribal Council meeting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Council may act to revoke an exclusion order at any time following its issuance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A person who is the subject of the exclusion may not submit a request to the Tribal Council to have an exclusion order revoked upon at least one (1) year has passed.  In addition, the person must be able to show an on-going connection to the tribal community and that the person has successfully taken actions to rehabilitate the conduct that provided the grounds for the exclusion.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.7</annotation>
+    </section>
+    <section>
+      <num>SAF.06.08</num>
+      <heading>Bans From Access To Tribal Buildings And Facilities</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe may ban either members or non-members from accessing tribal buildings or facilities when such bans are in the best interests of the tribal community.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Bans with a duration of one-week or longer shall be issued in writing by the Tribal President or Vice-President.</text>
+        <para>
+          <num>(1)</num>
+          <text>The ban shall identify the buildings and facilities that are impacted by the ban.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The written ban shall be served on the person who is the subject of the ban.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Copies of the ban will be provided to the Police Department, as well as tribal employees responsible for buildings impacted by the ban.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Bans may be issued by other designated individuals if the authority to issue such bans is delegated by the Tribal Council in approved policies.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tribal employees responsible for a building may issue a temporary ban for a timeframe of less than one-week if such employees believe that the ban is necessary to provide for the safety of the community, tribal employees or the facility.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Bans issued under this section shall have a duration of one (1) year.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.8</annotation>
+    </section>
+    <section>
+      <num>SAF.06.09</num>
+      <heading>Emergency Removal Of Persons</heading>
+      <para>
+        <num>(a)</num>
+        <text>Law enforcement officers are authorized to remove persons from the Reservation if an officer observes than an immediate danger to health, safety or property exists and delay would result in irreparable harm.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Such removals may be effective for up to 72-hours from the time of the removal.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In the event such an emergency removal occurs, law enforcement shall promptly notify the Tribal Council of the action and the reason for the action.  The Tribal Council shall consider whether the situation requires further action to exclude or ban the person in accordance with this ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.9</annotation>
+    </section>
+    <section>
+      <num>SAF.06.10</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Law enforcement officers are authorized to take reasonable measures to remove persons from the Reservation who are the subject of exclusion orders under this ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Law enforcement officers are authorized to take reasonable measures to remove persons who have been banned from the premises of tribal buildings or facilities.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Persons who are the subject of an exclusion order or a ban are considered to be trespassing when they refuse to comply with such exclusion order or ban and may be subject to prosecution under applicable laws.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.10</annotation>
+    </section>
+    <section>
+      <num>SAF.06.11</num>
+      <heading>Immunity</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe shall not be liable for claims of loss, damage or injury resulting from the exclusion or banning of a person.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A law enforcement officer may not be held criminally or civilly liable in carrying out the provisions of this ordinance, so long as the officer acts reasonably and in good faith.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.11</annotation>
+    </section>
+    <section>
+      <num>SAF.06.12</num>
+      <heading>Severability</heading>
+      <text>If a court of competent jurisdiction finds any portion of this ordinance illegal, the remaining portions of this ordinance shall remain unaffected and remain in force.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 68, §68.12</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. On October 11, 2014, the Tribe held an advisory referendum in relation to whether an ordinance authorizing the banishment of tribal members and/or the exclusion of non-members should be adopted.  The majority of tribal members voting in the referendum supported an ordinance that provided for exclusion, but not banishment.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 054-15">Resolution No. 054-15</cite>, adopted July 7, 2015, approved by BIA July 15, 2015.</annotation>
+    </annotations>
+  </container>
+</container>

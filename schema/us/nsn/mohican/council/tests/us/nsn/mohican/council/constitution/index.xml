@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Constitution and By-laws" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://open.law/schemas/library
+  ../../../../../../../../../ngo/oll/_schemas/v0.1/docs/default.xsd">
+  <heading>Constitution and By-Laws of the Stockbridge-Munsee Community</heading>
+  <meta>
+    <effective>1937-11-18</effective>
+    <citations>
+      <citation type="const" url="./constitution/adopted/const.pdf">1938 Publication of Stockbridge-Munsee Constitution and By-Laws</citation>
+      <citation type="const" url="./constitution/amendments/amendment_I.pdf">1995 Amendment</citation>
+      <citation type="const" url="./constitution/notices/election_notice_1995.pdf">1995 Amendment - Election Results</citation>
+    </citations>
+  </meta>
+  <container id="const">
+    <heading>CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY</heading>
+    <container id="preamble">
+      <prefix>PREAMBLE</prefix>
+      <text>We, the people of the Stockbridge Munsee Band of Mohican Indians, grateful to the Great Spirit for his fostering care, in order to re establish our tribal organization, to conserve and develop our common resources and to protect the welfare of ourselves and our descendants, do ordain and establish this Constitution and By laws.</text>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>I</num>
+      <heading>Name</heading>
+      <text>The name of this Community shall be "The Stockbridge Munsee Community".</text>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>II</num>
+      <heading>Territory</heading>
+      <text>The jurisdiction of the Stockbridge Munsee Community shall extend to all lands purchased, heretofore or hereafter, by the United States for the benefit of said Community.</text>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>III</num>
+      <heading>Membership</heading>
+      <section>
+        <num>1</num>
+        <text>The membership of the Stockbridge Munsee Community shall be composed of all persons whose names appear on the Stockbridge Allotment Roll of 1910 and who are residing within the original confines of the Stockbridge Reservation, in Shawano County, State of Wisconsin, on the date of the adoption of this Constitution and By laws.</text>
+      </section>
+      <section>
+        <num>2</num>
+        <text>Descendants of members of the Community, as provided for in Section 1 of this Article, shall be members provided such descendants are of one fourth or more Stockbridge Munsee Indian blood and are residing within the original confines of the Stockbridge Reservation on the date of the adoption of this Constitution and By laws.</text>
+      </section>
+      <section>
+        <num>3</num>
+        <text>All children of one fourth or more Indian blood born to members of the Community shall be members; Provided, that the parents are residents of the Community on the date of the birth of said child.</text>
+      </section>
+      <section>
+        <num>4</num>
+        <text>The Tribal Council shall have authority to promulgate ordinances, subject to the approval of the Secretary of the Interior, governing the adoption of new members and loss of membership in the Community.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>IV</num>
+      <heading>Governing Body</heading>
+      <section>
+        <num>1</num>
+        <text>The governing body of the Stockbridge Munsee Community shall be a Tribal Council, composed of a President, a Vice President, a Treasurer and four Councilmen, to be elected by popular referendum.</text>
+      </section>
+      <section>
+        <num>2</num>
+        <text>The officers and councilmen shall be elected as follows: The President and Treasurer shall be elected for a term of two years, the Vice President and four councilmen shall be elected for a term of one year.</text>
+      </section>
+      <section>
+        <num>3</num>
+        <text>The Tribal Council shall have authority to appoint a Secretary and such boards and committees as may be deemed necessary.</text>
+      </section>
+      <section>
+        <num>4</num>
+        <text>Any member of the Stockbridge Munsee Community is eligible to be elected to the Tribal Council: Provided, that he is 25 years of age or over and has maintained a continuous residence in the community for at least one year immediately preceding his election.</text>
+      </section>
+      <section>
+        <num>5</num>
+        <text>Any member of the Community who is 21 years of age or over shall be entitled to vote in any election at which he presents himself at the polls on election day during the official voting hours.</text>
+      </section>
+      <section>
+        <num>6</num>
+        <text>The present Business Committee shall call, hold, and supervise the first Tribal Council election within 60 days after the adoption and approval of this Constitution and By laws under such rules and regulations as the committee may provide. The Tribal Council shall provide by ordinance, rules and regulations governing the date and manner of holding future elections.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>V</num>
+      <heading>Removal</heading>
+      <section>
+        <num>1</num>
+        <text>The Tribal Council may, by an affirmative vote of five, expel any member of the Council for neglect of duty or gross misconduct PROVIDED that the accused Tribal Council member shall be given full and fair opportunity to reply to any and all charges at a designated Council meeting.  The accused shall be given a written statement of the charges at least five (5) days before the meeting at which the charges are to be heard.</text>
+      </section>
+      <section>
+        <num>2</num>
+        <text>The members of the Stockbridge Munsee Community shall have power to remove Council members through a recall election.  The Tribal Council shall not have jurisdiction over the recall election process.  The recall election process shall be conducted in accordance with the following procedures:</text>
+        <para>
+          <num>(a)</num>
+          <text>the petitioners shall form an election board consisting of five members to oversee and conduct the recall election process;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>upon receipt of a petition signed by at least one third of the number of those voting in the last general election, it shall be the duty of the recall election board to certify the validity of the signatures on the recall petitions, and to call for an election to be held not more than thirty days from the submission of the recall petition;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>individual petitions shall be circulated for each Council member who is subject to recall.</text>
+        </para>
+      </section>
+      <section>
+        <num>3</num>
+        <text>No Council member recalled or removed shall be eligible to run or hold office for four (4) years from the date of removal from office.</text>
+      </section>
+      <section>
+        <num>4</num>
+        <text>If a Council member should die, resign, or be removed from office, under either Section 1 or Section 2 of this Article, the Tribal Council shall declare the position vacant.  The Tribal Council shall fill a vacancy by special election unless less than ninety (90) days remain in the term, in which case the Tribal Council shall leave the position vacant.  The person who fills the vacant position shall only serve out the term of the person being replaced.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>VI</num>
+      <heading>Referendum</heading>
+      <text>Upon a petition of at least 30 per cent of the eligible voters of the Community, any enacted or proposed ordinances, resolution or other regulative act of the Tribal Council shall be submitted to a referendum of the qualified voters of the Community.</text>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>VII</num>
+      <heading>Powers</heading>
+      <section>
+        <num>1</num>
+        <heading>Enumerated Powers.</heading>
+        <text>The Tribal Council of the Stockbridge Munsee Community shall exercise the following powers, subject to any limitations imposed by the Constitution and laws of the United States and this Constitution and By laws.</text>
+        <para>
+          <num>(a)</num>
+          <text>To negotiate with the Federal, state, and local governments;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text> To employ legal counsel, the choice of counsel and fixing of fees to be subject to the approval of the Secretary of the Interior;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To veto any sale, disposition, lease, or encumbrance of Community lands, interest in lands, or other Community assets;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To advise with the Secretary of the Interior with regard to all appropriation estimates or Federal projects for the benefit of the Community prior to the submission of such estimates to the Bureau of the Budget and to Congress;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>To manage all economic affairs and enterprises of the community in accordance with the terms of a charter that may be issued to the Community by the Secretary of the Interior;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community; providing for the manner of making, holding, and revoking assignments of land or interest therein; providing for the levying of assessments on members of the Community and the appropriation of available community funds for public purposes; providing for the licensing of nonmembers coming upon the reservation for purposes of hunting, fishing, trading, or other business, and for the exclusion from the territory of the Community of persons not so licensed; and establishing proper agencies for law enforcement in the Community; Provided, that no assessments made on the members of the Community shall be effective until ratified by a majority vote in an election called for that purpose in which at least 30 per cent of the qualified voters shall vote.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>To charter subordinate organizations, subject to the approval of the Secretary of the Interior, for economic purposes and to delegate to such organizations, or to any subordinate boards or officials of the Community any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated power;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>To adopt resolutions not inconsistent with this Constitution and By laws, regulating the procedure of the Tribal Council itself and of other agencies, officials, and organizations of the Community.</text>
+        </para>
+      </section>
+      <section>
+        <num>2</num>
+        <heading>Future Powers.</heading>
+        <text>The Tribal Council may exercise such further powers as may in the future be delegated to the Council by members of the Community, or by the Secretary of the Interior, or any other duly authorized official or agency of the State or Federal Government.</text>
+      </section>
+      <section>
+        <num>3</num>
+        <heading>Reserved Powers.</heading>
+        <text>Any rights and powers heretofore vested in the Stockbridge and Munsee Band of Mohican Indians, but not expressly referred to in this Constitution, shall not be abridged by this Article, but may be exercised by the Community through the adoption of appropriate by laws and constitutional amendments.</text>
+      </section>
+      <section>
+        <num>4</num>
+        <text>Any resolution or ordinance which by the terms of this Constitution, is subject to review by the Secretary of the Interior shall be presented to the Superintendent of the reservation who shall, within ten days thereafter, approve or disapprove the same.</text>
+      </section>
+      <text>If the Superintendent shall approve any ordinance or resolution, it shall thereupon become effective, but the Superintendent shall transmit a copy of the same, bearing his endorsement, to the Secretary of the Interior, who may, within 90 days from the date of enactment, rescind the said ordinance or resolution for any cause, by notifying the tribal council of such rescission.</text>
+      <text>If the Superintendent shall refuse to approve any ordinance or resolution submitted to him, within ten days after its enactment, he shall advise the Council of his reasons therefor. If these reasons appear to the Council insufficient, it may, by a majority vote, refer the ordinance or resolution to the Secretary of the Interior, who may, within 90 days from the date of its enactment, approve the same in writing, whereupon the said ordinance or resolution shall become effective.</text>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>VIII</num>
+      <heading>Amendments</heading>
+      <text>This Constitution and By laws may be amended by a majority vote of the qualified voters of the Community at an election called for that purpose by the Secretary of the Interior; Provided, that at least 30 per cent of those entitled to vote shall vote in such election; but no amendment shall become effective until it shall have been approved by the Secretary of the Interior.</text>
+      <text>It shall be the duty of the Secretary of the Interior to call an election on any proposed amendment upon the receipt of a petition submitted by the Tribal Council, signed by not less than one third of the qualified voters of the Stockbridge Munsee Community.</text>
+    </container>
+  </container>
+  <container id="bylaws">
+    <heading>BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY</heading>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>I</num>
+      <heading>Duties of Officers</heading>
+      <section>
+        <num>1</num>
+        <heading>Duties of the President.</heading>
+        <text>It shall be the duty of the President to preside over all meetings of the Council and to carry out the orders of the Tribal Council. It shall be the duty of the President to countersign all checks drawn against the funds of the Community by the treasurer.</text>
+      </section>
+      <section>
+        <num>2</num>
+        <heading>Duties of the Vice President.</heading>
+        <text>The Vice President shall assist the President when called upon to do so and in the absence of the President, he shall preside. When so presiding he shall have all the rights, privileges and duties as well as the responsibilities of the President.</text>
+      </section>
+      <section>
+        <num>3</num>
+        <text>The Secretary shall conduct all correspondence for the Council and shall keep an accurate record of all matters transacted at Council meetings. It shall be his duty to submit promptly to the Superintendent of the Jurisdiction copies of all minutes of regular and special meetings of the Council and to perform such other duties as the Council may direct.</text>
+      </section>
+      <section>
+        <num>4</num>
+        <text>The Treasurer shall accept, receive, receipt for, preserve and safeguard all funds in the custody of the Council whether they be Community funds or special funds for which the Council is acting as trustee or custodian.</text>
+        <text>He shall deposit all funds in such depository as the Council shall direct and shall make and preserve a faithful record of such funds and shall report on all receipts and expenditures and the amount and nature of all funds in his possession and custody, at each regular meeting of the Tribal Council, and at such other times as requested.</text>
+        <text>He shall not pay out or otherwise disburse any funds in his possession or custody, except in accordance with a resolution duly passed by the Tribal Council.</text>
+        <text>The Treasurer shall be required to give a bond satisfactory to the Tribal Council and to the Commissioner of Indian Affairs.</text>
+      </section>
+      <section>
+        <num>5</num>
+        <text>The duties of all appointive boards or officers shall be clearly defined by resolution at the time of their creation or appointment and such boards and officers shall report to the Tribal Council from time to time as required.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>II</num>
+      <heading>Meetings</heading>
+      <text>The Tribal Council shall meet semi annually with members of the community on the first Saturday of May and November, and at such other times as the Tribal Council may provide by resolution. The Tribal Council is further authorized to hold such other meetings as may be provided by resolution, at which members of the Community may be auditors. The Tribal Council may hold executive sessions but no final decisions on matters before the Council shall be made except at open regular or special meetings.</text>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>III</num>
+      <heading>Oath of Office</heading>
+      <text>Each member of the Tribal Council and each officer, or subordinate officer, elected or appointed hereunder, shall take an oath of office prior to assuming the duties thereof, by which oath he shall pledge himself to support and defend the Constitution of the United States and this Constitution and By laws.</text>
+    </container>
+    <container>
+      <prefix>ARTICLE</prefix>
+      <num>IV</num>
+      <heading>Ratification</heading>
+      <text>This constitution and By laws when adopted by a majority vote of the qualified voters of the Stockbridge and Munsee Band of Mohican Indians, voting at a special election called by the Secretary of the Interior, in which at least 30 per cent of those entitled to vote shall vote; shall be submitted to the Secretary of the Interior for his approval, and shall be effective from the date of such approval.</text>
+    </container>
+  </container>
+  <procedural-data>
+    <subheading>CERTIFICATION OF ADOPTION</subheading>
+    <text/>
+    <text>Pursuant to an order, approved October 4, 1937 by the Assistant Secretary of the Interior, the attached Constitution and By laws was submitted for ratification to the qualified voters of the Stockbridge and Munsee Band of Mohican Indians of Wisconsin, and was on October 30, 1937 duly ratified by a vote of 119 for, and 13 against in an election in which over 30 per cent of those entitled to vote cast their ballots, in accordance with section 16 of the Indian Reorganization Act of June 18, 1934 (48 Stat. 984), as amended by the Act of June 15, 1935 (49 Stat. 378).</text>
+    <text>CARL MILLER, Chairman of Election Board</text>
+    <text>FRED L. ROBINSON, Secretary of Election Board</text>
+    <text>PERU FARVER, Superintendent.</text>
+    <text>I, Oscar L. Chapman, the Assistant Secretary of the Interior of the United States of America, by virtue of the authority granted me by the Act of June 18, 1934 (48 Stat. 984), as amended, do hereby approve the attached Constitution and By laws of the Stockbridge and Munsee Band of Mohican Indians of the Stockbridge Reservation in Wisconsin.</text>
+    <text>All rules and regulations heretofore promulgated by the Interior Department or by the Office of Indian Affairs so far as they may be incompatible with any of the provisions of the said Constitution and By laws, are hereby declared inapplicable to these Indians.</text>
+    <text>All officers and employees of the Interior Department are ordered to abide by the provisions of the said constitution and by laws.</text>
+    <text>Approval recommended November 13, 1937.</text>
+    <text>F.H. Daiker, Assistant to the Commissioner of Indian Affairs</text>
+    <text>OSCAR L. CHAPMAN, Assistant Secretary of the Interior</text>
+    <text>(SEAL)</text>
+    <text>WASHINGTON, D.C., November 18, 1937</text>
+  </procedural-data>
+  <annotations>
+    <annotation type="Legislative History">2. Amendment No. 1 adopted by the Stockbridge Munsee people on November 14, 1995. This amendment revises Article V Removal, providing in Section 1 that accused shall be given a written statement of the charges at least 5 days before charges are heard; adding sections empowering members of the community to recall; and requiring a special election for a vacancy with more than 90 days remaining in the term.</annotation>
+    <annotation type="Legislative History">1. RATIFICATION: Stockbridge Munsee Tribal Constitution adopted by the vote of the people on October 30, 1937. Approved by Assistant Secretary of the Interior November 18, 1937.</annotation>
+  </annotations>
+</document>

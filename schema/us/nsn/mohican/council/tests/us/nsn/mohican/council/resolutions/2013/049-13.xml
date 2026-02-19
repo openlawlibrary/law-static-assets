@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 049-13">
+  <num>049-13</num>
+  <heading/>
+  <meta>
+    <ordinance>Worker's Compensation</ordinance>
+    <effective/>
+    <history>
+      <adopted>2013-05-07</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 049-13</citation>
+      <citation type="res" url="./BIA/049-13.pdf">BIA Approval for Res. No. 049-13</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe has adopted a Worker Compensation Ordinance, Chapter 52, to provide tribal workers with compensation and medical care when they are injured on the job; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe wishes to adopt amendments to that ordinance to cover law enforcement officers who respond in mutual aid to a request by the Tribe and to update the process for appointing an administrative law judge; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 52, which include the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Creating a new Sub<cite doc="Stockbridge-Munsee Tribal Code" path="52.2|(L)|(4)" proof="needed">section 52.2 (L)(4)</cite>; and</li>
+        <li>Amending <cite doc="Stockbridge-Munsee Tribal Code" path="52.11|(B)|(1-3)" proof="needed">Section 52.11 (B)(1-3)</cite>.</li>
+      </ul>
+    </text>
+  </recitals>
+  <annotations>
+    <annotation type="Legislative History">Created new <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.04.02|(k)|(4)">Section EMP.04.02(k)(4)</cite> and amended <cite path="§52.11|(B)|(1-3)">Section 52.11 (B)(1-3)</cite>.</annotation>
+  </annotations>
+</document>

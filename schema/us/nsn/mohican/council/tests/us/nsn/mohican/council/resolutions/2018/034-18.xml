@@ -1,0 +1,725 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 034-18">
+  <num>034-18</num>
+  <heading/>
+  <meta>
+    <ordinance>Food</ordinance>
+    <effective>2021-01-28</effective>
+    <history>
+      <adopted>2018-04-17</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 034-18</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2015, the Tribal Council adopted a Strategic Plan that identified food sovereignty as a Tier One goal and included an objective of having a food sovereignty ordinance;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>A food sovereignty initiative committee was formed to work on implementation of the Strategic Plan goals, including incorporation into tribal law;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 56, the Tribe's Food Service Code, was revised to become a Food Ordinance that addressed both food sovereignty and food safety;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amended Chapter 56 adds food sovereignty language addressing food access; promoting traditional, healthy and local foods; and regulates the sale of cottage foods at events like farmer's markets; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amended Chapter 56 also updates references and terminology to be consistent with the federal food code as well as makes updates to and clarifies the provisions about food service permitting and handling.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby renames Chapter 56 as the Food Ordinance and adopts amendments to Chapter 56 that make the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>Added new Sections <cite doc="Stockbridge-Munsee Tribal Code" path="56.1" proof="needed">56.1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="56.2|(A)" proof="needed">56.2 (A)</cite>, (C), (H-L), (N), (O); <cite doc="Stockbridge-Munsee Tribal Code" path="56.3" proof="needed">56.3</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="56.4" proof="needed">56.4</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="56.5" proof="needed">56.5</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="56.6" proof="needed">56.6</cite>.</li>
+          <li>Renumbered Sections <cite doc="Stockbridge-Munsee Tribal Code" path="56.1" proof="needed">56.1</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="56.2" proof="needed">56.2</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="56.2" proof="needed">56.2</cite> is now <cite doc="Stockbridge-Munsee Tribal Code" path="56.7" proof="needed">56.7</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="56.8" proof="needed">56.8</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="56.9" proof="needed">56.9</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="56.3" proof="needed">56.3</cite> is now <cite doc="Stockbridge-Munsee Tribal Code" path="56.10" proof="needed">56.10</cite> and the remainder are renumbered accordingly.</li>
+          <li>Deleted Sections <cite doc="Stockbridge-Munsee Tribal Code" path="56.1|(F)" proof="needed">56.1 (F)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="56.2|(C)" proof="needed">56.2 (C)</cite>.</li>
+          <li>Moved <cite doc="Stockbridge-Munsee Tribal Code" path="56.2|(B)|(2)|(d)" proof="needed">Section 56.2 (B)(2)(d)</cite> to now be <cite doc="Stockbridge-Munsee Tribal Code" path="56.12|(A)" proof="needed">56.12 (A)</cite>.</li>
+          <li>Amended Sections:  <cite doc="Stockbridge-Munsee Tribal Code" path="56.7|(A)" proof="needed">56.7 (A)</cite> and subparts, (B)(1), (2), (4)(a), and (C); <cite doc="Stockbridge-Munsee Tribal Code" path="56.8" proof="needed">56.8</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="56.9" proof="needed">56.9</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="56.10|(A)" proof="needed">56.10 (A)</cite>, (B) and (C); <cite doc="Stockbridge-Munsee Tribal Code" path="56.11|(A)" proof="needed">56.11 (A)</cite>; and <cite doc="Stockbridge-Munsee Tribal Code" path="56.12|(B)" proof="needed">56.12 (B)</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+  <codify:find-replace path="SAF.05" count="1">
+    <find>Food Service Code</find>
+    <replace>Food Ordinance</replace>
+  </codify:find-replace>
+  <codify:replace path="SAF.05.01">
+    <section>
+      <num>SAF.05.01</num>
+      <heading>Purpose, Authority, And Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Purpose.</heading>
+        <text>This ordinance has the purposes of promoting food sovereignty and food safety.</text>
+        <para>
+          <num>(1)</num>
+          <heading>Food Sovereignty.</heading>
+          <text>The Tribe wishes to protect and promote local food and community self-governance.</text>
+          <para>
+            <num>(A)</num>
+            <text>Historical changes (loss of the tribal homelands, removal to Wisconsin and the reservation system) disrupted traditional agricultural knowledge and practices of the Stockbridge-Munsee Community.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Federal policies such as assimilation and relocation disrupted families and the tribal community resulting to additional harm to the sharing of traditional agricultural knowledge and practices.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Tribe's geographically-isolated reservation results in reliance on more processed food commodities and less fresh food.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The Tribe wishes to be more self-reliant with food sourcing and support local food production instead of only relying on the global food system.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Food sovereignty provides a way to reconnect to cultural traditions, preserve food knowledge, and promote access to traditional foods.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Food sovereignty helps to increase food security and access.</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Food sovereignty can enhance personal entrepreneurship, local economies, and support community engagement between producers and consumers.</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>Food sovereignty promotes a healthier community through more fresh foods and holistic, healthier lifestyles.</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>Food sovereignty can be a mechanism of implementing sustainable practices.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Food Safety.</heading>
+          <text>The Tribe wishes to ensure the protection of the tribal community through the adoption of food safety requirements in relation to food service.</text>
+          <para>
+            <num>(A)</num>
+            <text>This ordinance includes minimum food safety standards.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The sale of cottage foods, such as homemade pickles and baked goods, are permitted consistent with this ordinance.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Food service permits and food handler cards are required for persons providing food service consistent with this ordinance.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Authority.</heading>
+        <text>This ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority as an exercise of governmental powers to govern members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Jurisdiction.</heading>
+        <text>This ordinance applies in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and engaging in activities that may endanger the economic, social and political welfare of the Stockbridge-Munsee Community if they violate this ordinance.  The Stockbridge-Munsee Tribal Court has jurisdiction to hear violations of this ordinance.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.05.02">
+    <section>
+      <num>SAF.05.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Cottage Foods" refers to homemade foods that are offered for sale consistent with this ordinance.  This does not include home-grown, but unprocessed, foods such as fresh vegetables and fruits.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Environmental Health Advisor" means the U.S. Public Health Service Sanitarian or his/her designee.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Food Code" refers to the model Food Code, as updated, published by the U.S. Food and Drug Administration (FDA).  This Food Code is regularly updated by the FDA and is intended to assist governments by providing a scientifically sound technical and legal basis for regulating retail food sales and the food service industry so as to prevent foodborne illness and injury in food service operations.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Food Handler's Card" means a wallet sized food handler card issued by the Environmental Health Officer or designee to temporary vendors to indicate they have successfully completed the Stockbridge-Munsee food handler's training course.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Food Service Establishment" means a unit that operates at a fixed location for more than 14 days where food is processed and intended for individual consumption usually for retail sale.  The term includes any such place whether consumption is on or off the premises.  This term includes home kitchens that prepare food for sale.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Food Service Permits" means the food service establishment operation permit issued by the Health Director or designee to a permanent food service establishment to indicate they have passed inspection and proven that at least one individual has successfully completed an approved food handler's certification examination.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Health Director" means the duly appointed Director of the Stockbridge-Munsee Health Department or his/her designee.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Local" generally refers to foods grown or produced within 100 miles, but such distance may be greater depending on the reasonable availability of a food.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Major food allergen" refers to milk, eggs, fish (such as bass, flounder, cod, and including crustacean shellfish such as crab, lobster, or shrimp), tree nuts (such as almonds, pecans or walnuts), wheat, peanuts, and soybeans; or a food ingredient that contains protein derived from such a food.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Priority ('P') Item" refers to a provision of the Food Code whose application contributes directly to the elimination, prevention or reduction to an acceptable level, hazards associated with foodborne illness or injury and there is no other provision that more directly controls the hazard.  Priority Item includes items with a quantifiable measure to show control of hazards.  Cooking, reheating, cooling, and handwashing are examples of Priority Items.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Priority Foundation ('Pf') Item" refers to a provision of the Food Code whose application supports, facilitates or enables one or more Priority Items.  Priority Foundation Item includes items that require the purposeful incorporation of specific actions, equipment or procedures by industry management to attain control of risk factors that contribute to foodborne illness or injury.  Personnel training, infrastructure or necessary equipment (such as washing facilities or refrigerators), operation plans, recordkeeping and labeling are examples of Priority Foundation Items.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Safe" for purposes of cottage foods and food service discussion in this ordinance, refers to food that is does not require time/temperature control for safety ("TCS") in order to limit pathogenic microorganism growth or toxin formation or, if such TCS standards are appropriate, such TCS foods are handled consistent with such standards.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Temporary Food Service Establishment" means a food service establishment that operates at a location for a period of less than 14 days.  This could be in conjunction with a single event or celebration.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Time/Temperature Control for Safety" ("TCS") food (formerly referred to as potentially hazardous food) which is food that requires time/temperature control for safety in order to limit pathogenic microorganism growth or toxin formation.</text>
+        <para>
+          <num>(1)</num>
+          <text>Such TCS standards can include, but are not limited to, refrigeration, heat-treating, processing with acid, and time limits on keeping the food.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such TCS foods include, but are not limited to, meat and meat products, fish, dairy, raw sprouts, cut melons, cut leafy greens, cut tomatoes, and garlic-in-oil mixtures that have not been modified in a way that they cannot support pathogenic microorganism growth or toxin formation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Tribe" refers to the Stockbridge-Munsee Community.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.05.03">
+    <section>
+      <num>SAF.05.03</num>
+      <heading>Food Access</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Healthy Foods.</heading>
+        <text>The Tribe supports access to healthy, minimally-processed, foods such as through local farmers markets.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Local Food Production.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe supports local gardening efforts through work to till and cultivate gardens with community members, provide support through tribal summer youth programs to enhance these gardens, and to support the distribution of seeds and plant starts for community members.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe supports food production on tribal lands through the set-aside of areas designated for orchards and food production.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Traditional Foods.</heading>
+        <para>
+          <num>(1)</num>
+          <text>As our people require traditional foods for our good health and sustenance in accordance with our covenant with the Creator and our ability to sustain ourselves and ecosystems, the Tribe supports ongoing traditional harvests of wild rice, maple syrup, medicinal plants, fish, game and deer on tribal lands pursuant to the Fish and Wildlife Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.01">Chapter ENV.01</cite>, and the Forestry Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.01">Chapter ENV.02</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe reaffirms the obligation of sustainable harvesting in accordance with our laws and our traditions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Traditional foods, including game animals, may be provided for community feasts and tribal programs in a manner which insures their sanitation, but provides for access to these foods.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Traditional Agriculture.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe supports the restoration of knowledge about and appropriate implementation of traditional agriculture and harvesting techniques.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe supports the restoration of traditional crop varieties to the Stockbridge-Munsee people and beyond, including corn, beans, squash, tobacco, and melons.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribe supports community seed banking for the restoration of traditional crops for our people.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribe supports the use of traditional and/or organic fertilizer methods and wishes to promote such methods with extension agencies, tribal colleges, and nonprofit organizations on the reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Animal Husbandry and Aquaculture.</heading>
+        <text>The Tribe supports the use of sustainable practices in relation to livestock, poultry, fisheries, and aquaculture activities, such as a pasture-based system or a aquaponics system that create symbiotic environment.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Local Food Processing.</heading>
+        <text>The Tribe supports local food processing on the reservation to enhance local food production and access to traditional foods for our communities. This includes educational efforts to teach basic canning and freezing techniques for traditional foods, drying, and preparation to ensure these foods are available for tribal community members.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Sustainable Practices.</heading>
+        <text>The Tribe supports sustainable agricultural practices and the adoption of appropriate of standards regulating pollution from agriculture and overuse of natural resources.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.05.04">
+    <section>
+      <num>SAF.05.04</num>
+      <heading>Promotion Of Traditional, Healthy, And Local Foods In Tribal Programs</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Tribal Preference.</heading>
+        <text>Tribal producers shall have preference for food sales at events sponsored by the Tribe and its departments, such as pow wows and farmers markets.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Traditional Foods.</heading>
+        <text>Tribal programs shall attempt to incorporate traditional foods, such as fish, squash, and berries, in menus on a regular basis.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Healthy Foods.</heading>
+        <text>Tribal programs shall attempt to offer healthy food alternatives in menus.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Native American Producers.</heading>
+        <text>Tribal programs shall seek to purchase food from Stockbridge-Munsee, or if not reasonably feasible, other Native American producers.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Local Foods.</heading>
+        <text>Tribal programs shall seek to purchase food from local food producers, as well as seek to promote healthy, local food production as part of tribal programs.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.05.05">
+    <section>
+      <num>SAF.05.05</num>
+      <heading>Food Code</heading>
+      <para>
+        <num>(a)</num>
+        <text>To the extent that a topic is not addressed under this Ordinance or other tribal law, the federal Food Code (as updated) is adopted by reference to provide guidelines to ensure the safety of food within the Tribe's jurisdiction, as well as to provide consistency with national food regulatory policy.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Food Code shall be administered through the Tribe's Health Director and the Environmental Health Advisor consistent with this Ordinance.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="SAF.05.06">
+    <section>
+      <num>SAF.05.06</num>
+      <heading>Cottage Foods</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe permits the sale of cottage foods consistent with this ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Cottage foods shall be safe, unadulterated and not presented in way to mislead consumer, such as with additives or packaging to misrepresent the true appearance, color or quality of the food.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Sellers of cottage foods shall not re-package or re-label similar items in order to offer for sale as a cottage food.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Requirements for sale of cottage foods.</text>
+        <para>
+          <num>(1)</num>
+          <heading>Signs.</heading>
+          <text>The seller must have a sign at the place of sale stating:  "These foods are homemade and not subject to inspection."</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Labels.</heading>
+          <text>The seller shall label each container of food product with a label that includes the following information:</text>
+          <para>
+            <num>(A)</num>
+            <text>The name of the item.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The name and address of the person who prepared it.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The date the item was made.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <heading>The following statement:</heading>
+            <text>"This product was made in a private home not subject to licensing or inspection."</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>A list of ingredients in descending order of prominence.</text>
+            <para>
+              <num>(i)</num>
+              <text>The common or usual name for the ingredient should be used.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Major food allergens should be identified, as applicable.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>For example, instead of listing "flour" as an ingredient, "wheat flour" should be listed or list "pecans" instead of "nuts."</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Sellers of cottage foods shall complete the Tribe's food handler training.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The following are foods that typically are considered safe and so are appropriate for sale as cottage foods.</text>
+        <para>
+          <num>(1)</num>
+          <text>Baked goods such as:</text>
+          <para>
+            <num>(A)</num>
+            <text>Cookies and brownies;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Cakes and cupcakes that do not contain fillings or frostings that need refrigeration;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Muffins and scones;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Cooked fruit pies (other than custard, cream, pumpkin or sweet potato that require compliance with TCS standards to be safe);</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Breads (other than focaccia-style ones with meat, vegetable or cheese toppings that require compliance with TCS standards to be safe); and</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Sweet breads (including fruit breads, such as banana or zucchini).</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Shelf-stable, canned foods with an equilibrium pH value of 4.6 or lower, such as:</text>
+          <para>
+            <num>(A)</num>
+            <text>Jams and jellies made from acid foods like fruits;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Jellies that contain small amounts of non-acid foods, like peppers, and have a finished equilibrium pH that does not significantly differ from the predominant acid or acid food;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Acidified foods like pickles; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Acidified salsa (fresh salsas are a TCS food).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Candies and chocolates.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Foods that may not be offered for sale as cottage foods (or may only be sold if TCS controls are in place).</text>
+        <para>
+          <num>(1)</num>
+          <text>Sales of the following types of foods are not permitted without TCS controls, such as an adequate means of keeping foods refrigerated, as there is an increased likelihood of such foods not being safe for consumption:</text>
+          <para>
+            <num>(A)</num>
+            <text>Baked goods with cream, custard, pumpkin, or meat fillings</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Cheesecakes</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Chocolate covered fruit</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sales of low-acid canned goods, such as meats and most vegetables other than tomatoes, are not permitted.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Foods that require TCS controls.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:insert path="SAF.05">
+    <section>
+      <num>SAF.05.07</num>
+      <heading>Food Service Permit</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall operate a food service establishment on Tribal land who does not have a valid FOOD SERVICE PERMIT issued under this Ordinance.</text>
+        <para>
+          <num>(1)</num>
+          <text>FOOD SERVICE PERMITS are issued by the Tribe's Health Director, or designee.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>FOOD SERVICE PERMITS are not transferable from one food service establishment or permit holder to another.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>FOOD SERVICE PERMITS have a term of 12-months from the date of issuance.  Permits are automatically renewed when the Environmental Health Advisor completes an annual inspection of the premises that does not identify violations in relation to priority or priority foundation items.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To be valid, a FOOD SERVICE PERMIT unsuspended, unrevoked and unexpired.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>FOOD SERVICE PERMITS shall be displayed in a conspicuous location within the food service establishment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>FOOD SERVICE PERMITS will be issued as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>All permanent food service establishments must meet the general requirements of the Food Code.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The operator or at least one manager of a permanent food service establishment shall provide proof to the Health Director that the operator or manager has passed an approved examination on food protection practices acceptable under the Food Code. However:</text>
+          <para>
+            <num>(A)</num>
+            <text>A new food service establishment or a food service establishment undergoing a change of operator shall have a certified food manager within 90 days of the initial day of operation or provide documentation that they are scheduled within three (3) months to take and pass an approved examination.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Food service establishments which are not in compliance because of employee turnover or other loss of a certified manager, shall have 90 days from the date of the loss of a certified manager to comply with this ordinance or provide documentation that the person designated to be the certified food manager will become certified within the time specified in this subparagraph.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Environmental Health Advisor shall submit a completed food service establishment inspection report to the Health Director.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Health Director shall issue a FOOD SERVICE PERMIT if the following conditions are met:</text>
+          <para>
+            <num>(A)</num>
+            <text>There were no priority or priority foundation item deficiencies noted on the establishment inspection report provided by the Environmental Health Officer or any form of report that is used to inspect the facility.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>At least one staff member or operator has provided proof that they have received training and passed an approved examination.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Food service establishment employees are not required to obtain and possess a current FOOD HANDLER CARD so long as the permanent food service establishment has a valid Food Service Permit.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.7</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="SAF.05">
+    <section>
+      <num>SAF.05.08</num>
+      <heading>Temporary Food Service Permit</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall operate a temporary food service establishment without a valid TEMPORARY FOOD SERVICE PERMIT issued under this Ordinance</text>
+        <para>
+          <num>(1)</num>
+          <text>TEMPORARY FOOD SERVICE PERMITS are issued by the Tribe's Health Director, or designee, and are not transferable.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>TEMPORARY FOOD SERVICE PERMITS are valid for the period of time as designated by the Health Director, not to exceed 14 days.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To be valid, a TEMPORARY FOOD SERVICE PERMIT unsuspended, unrevoked and unexpired.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>TEMPORARY FOOD SERVICE PERMITS shall be prominently displayed within the temporary food service establishment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All temporary food service establishments must meet the general requirements for such facilities as identified in the Tribe's 'Temporary Food Service Guidelines' (as updated).</text>
+        <para>
+          <num>(1)</num>
+          <text>Such guidelines shall be prepared by the Health Director, or designee.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Guidelines shall be reviewed at least biannually and updated as appropriate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A copy of the guidelines shall be available on the Tribe's website.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Health Director, or designee, shall only issue a TEMPORARY FOOD SERVICE PERMIT, if:</text>
+        <para>
+          <num>(1)</num>
+          <text>The operator of a temporary food service establishment has reviewed the Temporary Food Service Guidelines and signed an agreement to comply with the Guidelines; AND</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The operator of a temporary food service establishment has provided proof the individuals that will be working in the temporary facility have current FOOD HANDLER CARDS (see <cite doc="Stockbridge-Munsee Tribal Code" path="§SAF.05.09">Section SAF.05.09</cite>).</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.8</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="SAF.05">
+    <section>
+      <num>SAF.05.09</num>
+      <heading>Food Handler Card</heading>
+      <para>
+        <num>(a)</num>
+        <text>All temporary food service establishment employees, except employees only handling money or selling pre-packaged food or drink, and vendors of cottage foods will be required to obtain and possess a current FOOD HANDLER CARD.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The FOOD HANDLER CARD will be issued by the Health Director, or designee, or through Indian Health Service and will be valid for two (2) years after issuance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To obtain a FOOD HANDLER CARD, the food service employees must successfully complete a food service training approved by the Health Director, or designee.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Cards issued by other recognized (Tribal, State, City, etc.) organizations will be accepted through reciprocity if the Environmental Health Officer, or designee, determines it equals the requirements of this Ordinance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Food service training sessions will be available annually or more frequently as determined by the Health Director and will be advertised appropriately to promote public awareness.  Food service training can also be obtained from other approved sources, such as through the Indian Health Service online training.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.9</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="SAF.05">
+    <section>
+      <num>SAF.05.10</num>
+      <heading>Inspections</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Tribal Council delegates inspection authority of all food service establishments on tribal trust and fee land to the Health Director, or designee, and the Environmental Health Advisor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Inspections shall be conducted at least annually of all food service establishments by the Environmental Health Advisor or designee.  Findings shall be reported in writing either on an inspection form or in a written report provided by the Environmental Health Advisor.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Inspection reports for food service establishments will be sent to the owner/operator of the establishment, the Tribal President, and the Health Director.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Spot check inspections will be conducted periodically of temporary food service establishments by the Health Director or his/her designee.  Each facility will be inspected at least once during its operation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Health Director or his/her designee has the discretion and authority to temporarily or permanently close all or part of a food service establishment if the Health Director or his/her designee determines that the community's health and welfare are or were jeopardized.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The issuance of a FOOD SERVICE PERMIT or TEMPORARY FOOD SERVICE PERMIT carries with it the implied consent that the Health Director, Environmental Health Advisor, or their designee shall have, at all times, the right of proper entry upon any and all parts of the premises of any place in which such entry is necessary to carry out the provisions of this ordinance.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Health Director or his/her designee has the discretion and authority to temporarily or permanently close all or part of a food service establishment if the Health Director or his/her designee determines that any provision of the permit or this ordinance has been violated.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.10</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="SAF.05">
+    <section>
+      <num>SAF.05.11</num>
+      <heading>Termination Of Permits</heading>
+      <para>
+        <num>(a)</num>
+        <text>If any individual or party, subject to the Tribe's jurisdiction, who also operates a food service establishment required to possess a FOOD SERVICE PERMIT or TEMPORARY FOOD SERVICE PERMIT, violates this Ordinance, such violation shall constitute grounds for termination of that person's or entity's permit by the Health Director.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The licensee or permitee may appeal the Health Director's decision to the Tribal Administrator.  The appeal must be in writing and served upon the Health Director within five business days.  The Tribal Administrator will review all details of the termination of permits and render a written decision within five business days, based on the evidence provided.  The Tribal Administrator's decision will be final.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.11</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="SAF.05">
+    <section>
+      <num>SAF.05.12</num>
+      <heading>Records And Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Copies of all FOOD SERVICE PERMITS, TEMPORARY FOOD SERVICE PERMITS, and FOOD HANDLER CARDS will be maintained by the Health Director, or his/her designee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Health Director, working with the Tribe's prosecutor, may seek injunctive relief or other necessary relief through the Tribal Court against anyone who violates any section of this code, or order or directive of the Health Director.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.12</annotation>
+    </section>
+  </codify:insert>
+  <codify:insert path="SAF.05">
+    <section>
+      <num>SAF.05.13</num>
+      <heading>Effective Period Of Ordinance</heading>
+      <para>
+        <num>(a)</num>
+        <text>This ordinance shall be in full force and effect beginning January 1, 1994, and at that time all ordinances and parts of ordinances in conflict with this ordinance are hereby repealed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Should any section, paragraph, sentence, clause or phrase of this ordinance be declared unconstitutional or invalid for any reason, the remainder of said ordinance shall not be affected hereby.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any part of this ordinance may be amended by the Stockbridge-Munsee Tribal Council by a majority vote.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.13</annotation>
+    </section>
+  </codify:insert>
+  <codify:annotation path="SAF.05" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 034-18">Resolution No.034-18</cite>, adopted April 17, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+</document>

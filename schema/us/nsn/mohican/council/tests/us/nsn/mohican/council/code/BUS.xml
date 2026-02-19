@@ -1,0 +1,1231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>BUS</num>
+  <heading>Business</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>BUS.01</num>
+    <heading>Liquor Control Ordinance</heading>
+    <section>
+      <num>BUS.01.01</num>
+      <heading>Introduction</heading>
+      <text>WHEREAS, Public Law 277, 83<sup>rd</sup> Congress, 1<sup>st</sup> Session, approved August 15, 1953 and codified at sec. 1161 of Title 18, United States Code, provides that Sections 1154, 1156, 3113, 3488, 3618 of Title 18 of the United States Code shall not apply within any area that is not Indian Country, nor to any act or transaction within any area of Indian Country, provided such act or transaction is in conformity both with the laws of the State in which such act or transaction occurs and with an ordinance duly adopted by the Tribe having jurisdiction over such area of Indian Country, certified by the Secretary of the Interior, and published in the Federal Register; and</text>
+      <text>WHEREAS, it is the desire of the Tribal Council of the Stockbridge-Munsee Community of Wisconsin to adopt a liquor control ordinance in the Indian Country that lies within the jurisdiction of the Community; and</text>
+      <text>WHEREAS, the Tribal Council of the Stockbridge-Munsee Community of Wisconsin has the authority to adopt ordinances regulating liquor in the Indian Country that lies within the jurisdiction of the Community, by virtue of the provisions of <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(a)">Article VII, sections 11(a)</cite>, <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(e)">(e)</cite> and <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(h)">(h)</cite> of the Constitution of the Stockbridge-Munsee Community of Wisconsin, adopted October 30, 1937;</text>
+      <text>NOW THEREFORE BE IT RESOLVED that the Tribal Council of the Stockbridge-Munsee Community of Wisconsin authorizes the issuance of licenses for sale of alcohol beverages within the Indian Country that lies within the jurisdiction of the Community, provided:</text>
+      <annotation type="Prior Codifications">Formerly codified as an unnumbered introduction in Chapter 31</annotation>
+    </section>
+    <section>
+      <num>BUS.01.02</num>
+      <heading>Licenses</heading>
+      <para>
+        <num>(a)</num>
+        <text>Licenses for the sale of alcohol beverages may be issued for sale of such beverages for casinos, entertainment facilities, convenience stores and restaurant-bar operations owned and regulated by the Stockbridge-Munsee Community.  This license includes sales for special outdoor events and the sale of beer for consumption on the golf course.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any restaurant-bar operation must produce more than 50% of its gross sales from food service in order to be licensed after the first year of operation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Licenses issued to businesses owned by the Stockbridge-Munsee Community for the sale of alcohol beverages shall be issued by the Tribal Council of the Community, upon the receipt by the Tribal Council of a proper application containing the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the entity that regulates the Community business at which the sale of alcohol beverages would take place.  Such entity shall be the license applicant.  No individual or private entity may apply for or receive a license under this Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A copy of the Community ordinance or resolution under which the applicant entity is organized.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A description of the land or building owned by the Community and regulated by the applicant entity at which the applicant entity wishes to sell alcohol beverages.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A statement that the applicant entity will conform to all requirements of applicable Tribal, State and Federal law, as they relate to the purchase and sale of alcohol beverages.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon receipt of a proper application under this Ordinance, licenses for the sale of alcohol beverages may be issued by the Tribal Council of the Community to a Tribal business of the Community if the Tribal Council finds, in its sound discretion, on the basis of the facts disclosed by the application and by such additional information as the Tribal Council may deem relevant, that such issuance is in the interest of the Community.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Licenses for the sale of alcohol beverages issued by the Tribal Council shall contain the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>Each license shall require its holder to conform its operations to the laws of the Community, the State of Wisconsin and the United States of America;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No license shall be effective for a term of more than one year from the date of its issuance, and each renewal thereof(3)  Each license shall explicitly state that its continued validity is dependent upon the compliance of its holder with all the provisions of this Ordinance and other applicable law.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Each license shall explicitly state that its continued validity is dependent upon the compliance of its holder with all the provisions of this Ordinance and other applicable law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Tribal Council of the Community shall have the authority to suspend or revoke any license issued under this Ordinance, under the following procedures:</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon receiving information suggesting that the holder of a license under this Ordinance may have violated the terms of the license or applicable law, the Tribal Council shall give the license holder written notice that the Tribal Council intends to suspend or revoke the holder's license.  Such notice shall be sent by certified mail, return receipt requested, to the agent of the license holder and shall specify the grounds for the proposed suspension or revocation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any license holder who receives a notice of a proposed suspension or revocation may request a hearing by the Tribal Council, by sending a written request therefor, certified mail, return receipt requested, to the Chairman of the Stockbridge-Munsee Community, at the Community's Tribal Center, within seven (7) days of the license holder's receipt of the notice.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Upon receipt of a request for a hearing under this Ordinance, the Tribal Council shall set a date for a hearing, which shall be not later than thirty days from the date of the receipt of the hearing request.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>At a hearing held under this Ordinance, the holder of a license under this Ordinance shall be permitted to present evidence with respect to the holder's compliance with the terms of its license and applicable law.  In reaching its decision, the Tribal Council may consider such evidence, together with all other evidence it deems relevant.  Following a hearing, if in the judgment of the Tribal Council the license holder has not complied with the terms of its license and applicable law, the Tribal Council shall suspend or revoke its license;  and if in the judgment of the Tribal Council the terms of the license and applicable law have been complied with, the proceedings shall be dismissed.  In either case, the decision of the Tribal Council shall be final.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Tribal Council of the Stockbridge-Munsee Community may reject any application for a license, or for a renewal of a license, under this Ordinance, if the applicant previously has committed acts which have resulted in the suspension or revocation of a license under this Ordinance.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.1</annotation>
+    </section>
+    <section>
+      <num>BUS.01.03</num>
+      <heading>Agent</heading>
+      <text>Any tribally owned entity licensed under this Ordinance shall appoint, subject to the approval and confirmation of the Tribal Council, an agent who shall have full authority and control of the premises and of the conduct of all business on the premises relative to alcohol beverages. This person shall also be the person designated by <cite doc="Wis. Stat." path="§125.04|(6)">Wis. Stats. sec. 125.04(6)</cite> requiring the appointment of agents.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.2</annotation>
+    </section>
+    <section>
+      <num>BUS.01.04</num>
+      <heading>Authority Of The Tribal Council</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council, or any individual member thereof or any person acting with prior written authorization of the Tribal Council may enter any premises licensed under this ordinance at any time to observe the activities taking place.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Written authorization may be enacted at a closed session of the Tribal Council and remain confidential until any report made by such person is before the Tribal Council for action or until such person seeks to gain access to the premises of any Tribally licensed facility during normal closed hours in which case it shall be presented to the Manager on duty at the time, and said Manager shall immediately admit the person to the premises.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tribal Council members do not need such written authorization and may enter any Tribally licensed facility at any time upon identifying themselves if such admission is sought during normal closed hours.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.3</annotation>
+    </section>
+    <section>
+      <num>BUS.01.05</num>
+      <heading>Separate Licenses For Each Facility</heading>
+      <text>Each Tribally owned entity licensed under this Ordinance shall be required to file a separate application and hold a separate license for each facility it operates.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.4</annotation>
+    </section>
+    <section>
+      <num>BUS.01.06</num>
+      <heading>Transfer Of Licenses Prohibited</heading>
+      <text>No license issued under this Ordinance may be transferred to any other entity or person.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.5</annotation>
+    </section>
+    <section>
+      <num>BUS.01.07</num>
+      <heading>State Law Applicable</heading>
+      <text>The Stockbridge-Munsee Community recognizes the applicability of general State law governing the sales of alcohol beverages.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.6</annotation>
+    </section>
+    <section>
+      <num>BUS.01.08</num>
+      <heading>State Law Adopted</heading>
+      <text>The Stockbridge-Munsee Community hereby adopts for purposes of Tribal enforcement against any entity licensed by the Tribe under this ordinance the following provisions, as modified, of <cite doc="Wis. Stat." path="§125.1">Chapter 125</cite> of the Wisconsin Statutes:</text>
+      <include>
+        <section>
+          <num>125.02</num>
+          <heading>Definitions.</heading>
+          <text>Except as otherwise provided, in this ordinance:</text>
+          <para>
+            <num>(1)</num>
+            <text>"Alcohol beverages" means fermented malt beverages, wine and intoxicating liquor as defined below.</text>
+          </para>
+          <para>
+            <num proof="done">(6)</num>
+            <text>"Fermented malt beverage" means any beverage made by the alcohol fermentation  of an infusion in potable water of barley malt and hops, with or without unmalted grains or decorticated and degerminated grains or sugar containing 0.5% or more alcohol by volume.</text>
+          </para>
+          <para>
+            <num proof="done">(8)</num>
+            <text>"Intoxicating liquor" means all ardent, spirituous, distilled or vinous liquors, liquids or compounds, whether medicated, proprietary, patented or not, and by whatever named called, containing 0.5% or more of alcohol by volume, which are beverages, but does not include "fermented malt beverages".</text>
+          </para>
+          <para>
+            <num proof="done">(22)</num>
+            <text>"Wine" means products obtained from the normal alcohol fermentation of the juice or must of sound, ripe grapes, other fruits or other agricultural products, imitation wine, compounds sold as wine, vermouth, cider, perry, mead and sake, if such products contain 0.5% or more of alcohol by volume.</text>
+          </para>
+          <para>
+            <num proof="done">(8m)</num>
+            <text>"Legal drinking age" means 21 years of age.</text>
+          </para>
+          <para>
+            <num proof="done">(14)</num>
+            <text>"Person" means a natural person, sole proprietorship, partnership, corporation or association.</text>
+          </para>
+          <para>
+            <num proof="done">(14m)</num>
+            <text>"Premises" means the area described in a license issued by the Tribal Council.</text>
+          </para>
+          <para>
+            <num proof="done">(17)</num>
+            <text>"Regulation" means any rule or ordinance adopted by the Tribal Council.</text>
+          </para>
+          <para>
+            <num proof="done">(20)</num>
+            <text>"Sell", "sold", "sale" or "selling" means any transfer of alcohol beverages with consideration or any transfer without consideration if knowingly made for purposes of evading the law relating to the sale of alcohol beverages or a device, scheme or transaction for obtaining alcohol beverages, including the solicitation of orders for, or the sale for future delivery of, alcohol beverages.</text>
+          </para>
+          <para>
+            <num proof="done">(20m)</num>
+            <text>"Underage person" means a person who has not attained the legal drinking age.</text>
+          </para>
+        </section>
+        <section>
+          <num>125.04</num>
+          <para>
+            <num>(1)</num>
+            <heading>General licensing requirement.</heading>
+            <text>No person may sell, manufacture, rectify, or brew any alcoholic beverage, or engage in any other activity for which this ordinance provides a license without holding the appropriate license.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>No license to be issued in violation of this ordinance.</heading>
+            <text>No license may be issued to any person except as provided in this ordinance. Any license issued in violation of this ordinance is void.</text>
+          </para>
+          <para>
+            <num proof="done">(10)</num>
+            <heading>License to be framed and posted.</heading>
+            <para>
+              <num>(a)</num>
+              <heading>Frame.</heading>
+              <text>Licenses for the sale of alcohol beverages shall be enclosed in frame having a transparent front which allows the license to be clearly read.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <heading>Display.</heading>
+              <text>Licenses  shall be conspicuously displayed for public inspection at all times in the room or place where the sale of alcohol beverages is carried on.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>125.07</num>
+          <heading>Underage and intoxicated persons; presence on licensed premises; possession; penalties.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Alcohol beverages; Restrictions relating to underage persons.</heading>
+            <para>
+              <num>(1)</num>
+              <text>No person may procure for, sell, dispense or give away any  alcohol beverages to any underage person not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>No licensee may sell, vend, deal or traffic in alcohol beverages to or with any underage person not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>No adult may knowingly permit or fail to take action to prevent the illegal consumption of alcohol beverages by an underage person on premises  under the adult's control.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>No adult may intentionally encourage or contribute to a violation of this section.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Sales of alcohol to intoxicated persons.</heading>
+            <para>
+              <num>(1)</num>
+              <text>No person may procure for, sell, dispense or give away alcohol beverages to a person who is intoxicated.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>No licensee may sell, vend, deal or traffic in alcohol beverages to or with a person who is intoxicated.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>125.85</num>
+          <text>Any Tribal entity selling alcohol beverages shall require the proof of age specified by this section.</text>
+          <para>
+            <num>(a)</num>
+            <heading>Definition.</heading>
+            <text>In this section, "official identification card" means a valid operator's license issued under <cite doc="Wis. Stat." path="§343.1">chapter 343</cite> of the Wisconsin Statutes that contains the photograph of the holder, an identification card issued under <cite doc="Wis. Stat." path="§343.50">section 343.50</cite> of the Wisconsin Statutes or an identification card issued under <cite doc="Wis. Stat." path="§125.08">section 125.08</cite> of the Wisconsin Statutes.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Use.</heading>
+            <text>No card other than the identification card authorized under this section may be recognized as an official identification card by the Tribe for purposes of obtaining alcohol beverages at any Tribally licensed entity.</text>
+          </para>
+        </section>
+      </include>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.7</annotation>
+    </section>
+    <section>
+      <num>BUS.01.09</num>
+      <heading>Closing Hours</heading>
+      <text>Every entity licensed by the Stockbridge-Munsee Community shall observe the closing hours established by Wisconsin Statutes governing Class B Retail State licenses. Failure to do shall the basis for the revocation of licenses issued by the Tribal Council.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 31, §31.8</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1317">Resolution No. 1317</cite>, adopted May 22, 1992.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 04-98">Resolution No. 04-98</cite>, adopted January 20, 1998.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 058-99">Resolution No. 058-99</cite>, adopted September 7, 1999.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 075-99">Resolution No. 075-99</cite>, adopted November 2, 1999, approved by BIA June 12, 2000.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>BUS.02</num>
+    <heading>Tobacco Ordinance</heading>
+    <section>
+      <num>BUS.02.01</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Cigarette" means any roll of tobacco wrapped in paper or any substance other than tobacco.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Cigarette License" means a revocable permit issued by the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Court" means the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Distributor" or "jobber" means any person who stores cigarettes or tobacco products and/or sells them to retailers for resale.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Person" means any and all arms of the Tribal government, any business, corporation, sole-proprietor, enterprise, or any other entity.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Retailer" means any person within the Stockbridge-Munsee jurisdiction licensed by the Tribe, who sells, exposes for sale, or possesses with intent to sell to consumers any cigarettes or tobacco.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Sale" means the transfer of ownership, title, or possession to another in exchange for a consideration and includes the transfer of possession on a consignment basis.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Tobacco" means any and all products that are suitable for smoking or chewing, and are prepared from tobacco, but does not include cigarettes.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Tribal Council" means the elected officials of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 32, §32.1</annotation>
+    </section>
+    <section>
+      <num>BUS.02.02</num>
+      <heading>Exclusive Distributor And Applicability</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe shall be the exclusive vendor of cigarettes and tobacco products for retail sales.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This Ordinance applies to all persons who offer cigarettes or tobacco products for sale on Stockbridge-Munsee lands.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 32, §32.2</annotation>
+    </section>
+    <section>
+      <num>BUS.02.03</num>
+      <heading>License Application</heading>
+      <para>
+        <num>(a)</num>
+        <text>For the privilege of retailing cigarettes or tobacco products each and every retailer shall first secure and maintain a Tribal Retailer's Cigarette License from the Tribal Treasurer.</text>
+        <para>
+          <num>(1)</num>
+          <text>An application fee of $<cite path="§10.00">10.00</cite> shall be submitted with the application, and with each renewal application to the Tribal Treasurer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Tribal Retailer's Cigarette Licenses shall be valid for no longer than two years, and shall expire on September 30 of each odd numbered year (2001, 2003, etc.).</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It shall be the duty of the retailer to obtain a new Tribal Retailer's Cigarette License prior to the expiration of each license.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Retailer's Cigarette License shall be prominently displayed in the retailer's place of business.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Upon recommendation from the Tribal Treasurer, the Tribal Council may by Resolution issue, renew, suspend, or revoke a Tribal Retailer's Cigarette License to the retailer.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 32, §32.3</annotation>
+    </section>
+    <section>
+      <num>BUS.02.04</num>
+      <heading>Cigarette Distribution</heading>
+      <para>
+        <num>(a)</num>
+        <text>All cigarette and tobacco products offered for sale shall be acquired through the Tribe.  The Tribe shall order all cigarettes and tobacco products for all licensed retailers.</text>
+        <para>
+          <num>(1)</num>
+          <text>The retailer has the responsibility to communicate to the Tribe what the retailer's cigarette and tobacco product needs are.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It shall be the retailer's responsibility to pay the Tribe for all amounts due for each delivery, either on the date of delivery or before.</text>
+          <para>
+            <num>(A)</num>
+            <text>Under no circumstances shall the Tribe order a shipment for the retailer, if the retailer has any amounts past due to the Tribe.  For the purposes of this subsection, past due amounts include license application fees, Tribal taxes, fines, and purchases of cigarette and tobacco products that the Tribe has not received payment for.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Retailers are prohibited from selling cigarettes or tobacco products to another retailer, distributor or jobber.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 32, §32.4</annotation>
+    </section>
+    <section>
+      <num>BUS.02.05</num>
+      <heading>Violations And Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Treasurer has the right to inspect retailer's records, inventory, or facilities in order to enforce this Ordinance.</text>
+        <para>
+          <num>(1)</num>
+          <text>Inspections shall be at reasonable business hours.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Refusal by a retailer to allow the Tribal Treasurer to inspect the retailer's records, inventory, or facilities in order to enforce this Ordinance shall be a violation of the Ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Penalties for violations of this Ordinance shall include a fine up to $100.00 per day, suspension of cigarette and tobacco product deliver, and/or suspension or revocation of cigarette license.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Court shall have jurisdiction over all violations of this Ordinance.</text>
+        <para>
+          <num>(1)</num>
+          <text>In addition to the penalties described in <cite path="§BUS.02.05|(b)">Section BUS.02.05(b)</cite>, the Court may grant such other relief as is necessary to enforce this Ordinance.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 32, §32.5</annotation>
+    </section>
+    <section>
+      <num>BUS.02.06</num>
+      <heading>Effective Date; Severability</heading>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of this Ordinance shall take effect 15 calendar days after approval from the Bureau of Indian Affairs.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If any provision of this Ordinance is ruled illegal by a court of competent jurisdiction, the remaining provisions of this Ordinance shall remain unaffected.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 32, §32.6</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0818">Resolution No. 0818</cite>, adopted July 26, 1982.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 04-2000">Resolution No. 04-2000</cite>, adopted January 20, 2000, approved by BIA February 2, 2000.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 022-2000">Resolution No. 022-2000</cite>, adopted April 18, 2000, approved by BIA April 27, 2000.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>BUS.03</num>
+    <heading>Sale And Possession Of Fireworks</heading>
+    <section>
+      <num>BUS.03.01</num>
+      <heading>Definitions</heading>
+      <text>As used in this Ordinance, the following terms shall have the meanings provided below:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Fireworks" means anything manufactured, processed or packaged for exploding, emitting sparks or combustion which does not have another common use, but does not include any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Fuel and lubricant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A firearm cartridge or shotgun shell;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A flare used or possessed or sold for use as a signal in an emergency or in the operation of a railway, aircraft, watercraft, or motor vehicle;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A match, cigarette lighter, stove, furnace, candle, lantern or space heater;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A toy snake which contains no mercury;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>A model rocket engine;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Tobacco and tobacco products;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A cap containing not more than one-quarter grain of explosive mixture, if the cap is used or possessed or sold for use in a device which prevents direct bodily contact with a cap when it is in place for explosion.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>A sparkler on a wire or wood stick not exceeding 36 inches in length or 0.25 inches in outside diameter which does not contain magnesium, chlorate or perchlorate;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>A device designed to spray out paper confetti or streamers and which contains less than one-quarter grain of explosive mixture;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>A device designed to produce an audible sound but not explode, spark, move or emit an external flame after ignition and which does not exceed 3 grams in total weight; or</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>A device which emits smoke with no external flame and does not leave the ground.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Indian Land" means any land in which title thereto is held in trust by the United States for the benefit of the Tribe or a Tribal member, and any land owned by the Tribe or a Tribal member.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Tribal Court" means the Stockbridge-Munsee Community Tribal Court.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.1</annotation>
+    </section>
+    <section>
+      <num>BUS.03.02</num>
+      <heading>Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text>The purpose of this ordinance is to provide for the safety and welfare of  reservation residents by regulating the use, possession, and sale of fireworks on Indian Land.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.2</annotation>
+    </section>
+    <section>
+      <num>BUS.03.03</num>
+      <heading>Authority</heading>
+      <text>This ordinance is adopted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII">Article VII of the Tribal Constitution</cite>.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.3</annotation>
+    </section>
+    <section>
+      <num>BUS.03.04</num>
+      <heading>Effective Date</heading>
+      <text>This ordinance shall take effect upon its adoption by resolution by the Tribal Council.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.4</annotation>
+    </section>
+    <section>
+      <num>BUS.03.05</num>
+      <heading>Severability And Non-Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>If any section, provision or portion of this ordinance is adjudged to be unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be effected thereby.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe declares that there is not liability on the part of the Tribe, its agencies, agents, or employees for any damages which may occur as a result of reliance upon or conformance with this ordinance.  The Tribe by the adoption of this ordinance does not waive its sovereign immunity in any respect.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.5</annotation>
+    </section>
+    <section>
+      <num>BUS.03.06</num>
+      <heading>Implied Consent</heading>
+      <para>
+        <num>(a)</num>
+        <text>Entry upon Indian Land without permission of the Tribe is prohibited.  Such permission when given is expressly conditioned upon the consent of the person entering such land to the jurisdiction of the Tribe for purposes of enforcing this ordinance.</text>
+        <para>
+          <num>(1)</num>
+          <heading>SALE OF FIREWORKS.</heading>
+          <text>No person may sell or possess with intent to sell fireworks on Indian Land without having a permit for said purposes issued by the Stockbridge-Munsee Tribal Council, or its designated agent.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>FIREWORK SALE PERMIT.</heading>
+          <text>Any person who desires to engage in the sale of fireworks on Indian Land shall apply to the Stockbridge-Munsee Tribal Council for a permit to do so, utilizing the form provided for said purposes, which shall specify the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>The identity of the applicant and all employees, agents, or representatives who shall engage in sale activities under the applicant's permit;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The location of the sale of activities and, if different, the location of any storage facility of fireworks under the applicant's control;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The type and class of fireworks for which sale is contemplated; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>A permit processing fee of Ten Dollar ($<cite path="§10.00">10.00</cite>).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>TERM OF PERMIT.</heading>
+          <text>No permit issued under this ordinance shall be valid for a period of longer than 60 days.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>DISPLAY OF PERMIT.</heading>
+          <text>Any person issued a permit by the Tribe for the sale of any type or class of fireworks shall display said permit in a prominent location at the authorized place of sale.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>SALE RESTRICTIONS.</heading>
+          <text>No person shall sell or possess with intent to sell fireworks if:</text>
+          <para>
+            <num>(A)</num>
+            <text>The type or class of fireworks is subject to regulation and permitting under 18 U.S.C. s.841, et seq.; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The purchase of any fireworks is sought by a person under the age of 18 years.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The sale location is in a building or other structure which is not used solely for commercial purposes.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>STORAGE OF FIREWORKS FOR SALE.</heading>
+          <text>No person who sells or possesses fireworks with the intent to sell shall store them in a building occupied for residential purposes or in any structure located within 300 ft. of a residential premises.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.6</annotation>
+    </section>
+    <section>
+      <num>BUS.03.07</num>
+      <heading>Use Of Fireworks</heading>
+      <text>Any and all classes and types of fireworks may be purchased, possessed and used by any of the following provided the permitting process has been followed:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe or any subdivision thereof authorized to use fireworks by the Stockbridge-Munsee Tribal Council;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A public authority;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A fair association;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>An amusement park;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>A park board;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>A civic organization;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>A group of individuals.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.7</annotation>
+    </section>
+    <section>
+      <num>BUS.03.08</num>
+      <heading>Fireworks Display</heading>
+      <text>No entity shall advertise or undertake to engage in a display of fireworks open to members of the public without obtaining prior thereto, and at a minimum of 48 hours in advance thereof, a fireworks display permit issued by the Tribe. The permit processing fee is $<cite path="§5.00">5.00</cite>.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.8</annotation>
+    </section>
+    <section>
+      <num>BUS.03.09</num>
+      <heading>Display Permit And Application</heading>
+      <text>Any entity for which a display permit is required under this ordinance shall make written application therefor to the Stockbridge-Munsee Tribal Council, on a form provided for said purposes, and shall specify:</text>
+      <para>
+        <num>(a)</num>
+        <text>The full name of the applicant, and the names of the persons who shall set up and set off any fireworks in a display;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The date of the proposed display;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The location of the display; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The amount, if any, of an admission charge to the display.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.9</annotation>
+    </section>
+    <section>
+      <num>BUS.03.10</num>
+      <heading>Restrictions On Use Of Fireworks</heading>
+      <text>No person under the age of 18 years shall purchase or use any Class C fireworks on Indian Land.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.10</annotation>
+    </section>
+    <section>
+      <num>BUS.03.11</num>
+      <heading>Notice To Non-Residents</heading>
+      <text>Any individual authorized to sell fireworks pursuant to Section 201 and 202 shall display a written warning to non-residents of the Stockbridge Munsee  Community that purchase and off-reservation possession of certain types of fireworks without local government permits may be in violation of Wisconsin State Statutes.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.11</annotation>
+    </section>
+    <section>
+      <num>BUS.03.12</num>
+      <heading>Parental Liability</heading>
+      <text>A parent or legal guardian of a tribal child who consents to the use of fireworks by said child is liable for damages caused by the child's use of fireworks.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.12</annotation>
+    </section>
+    <section>
+      <num>BUS.03.13</num>
+      <heading>Penalties For Non-Compliance</heading>
+      <text>Any person who violates the provisions of this ordinance shall be subject to the following penalties:</text>
+      <para>
+        <num>(a)</num>
+        <text>Fireworks stored, sold, possessed or used in violation of this ordinance shall be seized.  The fireworks shall be destroyed after conviction for a violation, and otherwise returned to the owner.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A civil remedial money forfeiture may be imposed by the Tribal Court for any violation of this ordinance;  minimum penalty for any such violation shall be $<cite path="§15.00">15.00</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any person who sells or possesses fireworks with the intent of sale without obtaining the required permit shall be subject to a minimum forfeiture upon conviction therefor in the amount of $<cite path="§150.00">150.00</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any person or organization who uses fireworks without the required permit shall be subject to a minimum forfeiture in the amount of $<cite path="§75.00">75.00</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.13</annotation>
+    </section>
+    <section>
+      <num>BUS.03.14</num>
+      <heading>Other Penalties Authorized</heading>
+      <text>Use of fireworks by any person may also subject said person to liability or legal action for violation of the laws of the Tribe of the State of Wisconsin concerning curfew, public disturbances, and damage to persons or property.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.14</annotation>
+    </section>
+    <section>
+      <num>BUS.03.15</num>
+      <heading>Court Codes</heading>
+      <text>Any person adjudicated by the Tribal Court as have violated this ordinance shall be liable for court costs in the amount of $<cite path="§10.00">10.00</cite>.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.15</annotation>
+    </section>
+    <section>
+      <num>BUS.03.16</num>
+      <heading>Parties To A Violation</heading>
+      <text>Whoever is concerned in the commission of a violation of  this ordinance is a principal and may be charged with a violation although he or she did not directly commit it, and although the person who directly committed has not been convicted of a violation.  A person is concerned in the commission of a violation if the person:</text>
+      <para>
+        <num>(a)</num>
+        <text>Directly commits the violation;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Aids and abets the commission of it; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Is a party to a conspiracy with another to commit is or advises, hires, or counsel or otherwise procures another to commit it.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.16</annotation>
+    </section>
+    <section>
+      <num>BUS.03.17</num>
+      <heading>Enforcement Officers</heading>
+      <text>Any tribal law enforcement officer or Shawano Co. Deputy, consistent with the Tribal Law Enforcement agreement may enforce the provisions of this ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.17</annotation>
+    </section>
+    <section>
+      <num>BUS.03.18</num>
+      <heading>Jurisdiction</heading>
+      <text>Jurisdiction is hereby conferred upon the tribal court over all matters related to enforcement of this ordinance.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 36, §36.18</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 226-98">Resolution No. 226-98</cite>, adopted June 2, 1998.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>BUS.04</num>
+    <heading>Door To Door Sales Ordinance</heading>
+    <section>
+      <num>BUS.04.01</num>
+      <heading>Council Findings</heading>
+      <text>Tribal Council finds that the Community will benefit from regulations governing the conduct of persons who are engaged in the business of door to door sales.  Door to door sales often involve the sales person contacting Tribal members at the Tribal Member's residence.  These sales contacts are often unsolicited and Tribal members and their families have indicated a desire to regulate the conduct of door to door sellers.  Unregulated door to door sellers threaten or directly affects the political integrity, the economic security, and/or the heath and welfare of the Tribe.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.1</annotation>
+    </section>
+    <section>
+      <num>BUS.04.02</num>
+      <heading>Interpretation</heading>
+      <text>This Ordinance should be interpreted to give the consumer the broadest rights possible and should be construed broadly to accomplish this purpose.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.2</annotation>
+    </section>
+    <section>
+      <num>BUS.04.03</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Consumer" means an individual to whom a seller offers to sell, sells, lease, or promote the sale of goods or services.  "Consumer" does not include an individual who regularly purchases goods or services in a business or Tribal capacity, or for resale to others.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Consumer goods or services" means good or services typically (but not always) used for personal, family, or household purposes.  "Consumer goods or services" includes, but is not limited to personal investment opportunities, personal business opportunities, personal training courses, cemetery lots, funeral services, real estate and timeshares but does not include goods or services offered for sale to a business or to the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Direct Marketer" means a person engaged in a face-to-face solicitation.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Disclose" means to make a clear and conspicuous oral and written statement that is reasonably designed to be noticed and readily understood by the consumer.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Face-to-face solicitation" means solicitation (as defined in <cite path="§BUS.04.03|(m)">Section BUS.04.03(m)</cite>) that a seller makes in a person-to-person encounter with a consumer.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Face-to-face transaction" means any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A face-to-face solicitation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Purchase contracts and other dealings that result from a face-to-face solicitation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Person" means an individual, corporation, partnership, cooperative association, limited liability company, trust or other organization or entity.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Purchase" means to buy or lease consumer goods or services.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Purchase contract" means an agreement to purchase consumer goods or services, regardless of whether that agreement is subject to a later right of cancellation.  Purchase contract includes a purchase commitment that arises under any of those agreements as a result of a consumer's subsequent action, non-action or omission.  Purchase contract does not include the following agreements:</text>
+        <para>
+          <num>(1)</num>
+          <text>An agreement authorizing the trial delivery of consumer goods or services which the consumer has not yet agreed to purchase, provided that the agreement includes no minimum purchase requirement.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An negative option plan that complies with 16 CFR 425, or similar regulation, or law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Sale" means the passing of an ownership or leasehold interest in consumer goods or services to a consumer for consideration.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Sell" means to engage in the sale of consumer goods or services, or to accept payment pursuant to a purported sale of consumer goods or services.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Seller" or "door to door seller or sale" means a person who is engaged in the business of selling, offering to sell, or promoting the sale of consumer goods or services to consumers.  "Seller" includes, but is not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>A person who accepts payment for a purported sale of consumer goods or services to a consumer.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An employee or agent of the seller.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A direct marketer working with, or any other arrangement with a seller.</text>
+        </para>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Solicitation" means a communication received by a consumer at a place other than the seller's regular place of business, in which a seller offers or promotes the sale of consumer goods or services to a consumer, or which is part of a seller's plan or scheme to sell consumer goods or services to a consumer.  "Solicitation" does not include any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A mass advertisement.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A telephone, mail, or electronic communication initiated by the consumer, unless prompted by the seller's prior solicitation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A written communication that invites a consumer to the seller's regular place of business.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A communication at an established public gathering, pow-wow or similar event, unless that communication was prompted by the seller's prior solicitation to the consumer.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The delivery of goods or services to a consumer previously sold to the consumer in a transaction other than a telephone, mail, or face-to-face transaction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Written" or "in writing" means legibly printed on paper or another tangible non-electronic medium that is delivered to the consumer, or legibly printed in an electronic form that the consumer can electronically retrieve, store, or print for future reference.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.3</annotation>
+    </section>
+    <section>
+      <num>BUS.04.04</num>
+      <heading>Applicability</heading>
+      <text>This Ordinance is applicable to face-to-face transactions arising within the reservation as established by the 1856 Treaty between the United States and the Stockbridge Indians.  This Ordinance does not apply to face-to-face solicitations initiated by sellers who volunteer for charities, are selling on behalf of the charity, and the proceeds will go to the charity.  This Ordinance does not apply to pow-wows, fundraisers, or other similar events.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.4</annotation>
+    </section>
+    <section>
+      <num>BUS.04.05</num>
+      <heading>Opening Disclosures</heading>
+      <para>
+        <num>(a)</num>
+        <text>In a face-to-face solicitation, a seller shall disclose all of the following to the consumer:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the principal seller.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name of the individual making the face-to-face solicitation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the seller is offering or promoting the sale of consumer goods or services.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The nature of the goods or services which the seller is offering or promoting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A seller shall make the opening disclosure before asking any questions or making any statements to a consumer, other than an initial greeting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A seller shall not use any fictitious name in the opening disclosure, except that a seller may use a trade name if all of the following apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>The seller is widely known by and consistently does business under that name.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name does not have the tendency or capacity to confuse or mislead the consumer as to the seller's true identity.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.5</annotation>
+    </section>
+    <section>
+      <num>BUS.04.06</num>
+      <heading>Disclosures Prior To Sale</heading>
+      <para>
+        <num>(a)</num>
+        <text>In a face-to-face transaction, a seller shall disclose all of the following to a consumer before the consumer enters into any purchase contract, and before the seller takes the consumer's credit card number or accepts any payment from the consumer:</text>
+        <para>
+          <num>(1)</num>
+          <text>The nature and quantity of consumer goods or services included in the sale.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The total cost to purchase and receive the consumer goods or services.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All materials terms and conditions affecting the sale, receipt or use of any consumer goods or services, including credit terms if any as required by any applicable law.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The name, mailing address and telephone number of the principal seller.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The seller's policy related to refunds, cancellations, exchanges or repurchases if any of the following apply:</text>
+          <para>
+            <num>(A)</num>
+            <text>The seller has a policy that prevents or substantially limits refunds, cancellations, exchanges or repurchases.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The seller makes any claim or representation regarding refunds, cancellations, exchanges or repurchases.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The buyer's right to cancel the transaction by midnight of the 3<sup>rd</sup> business day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Whenever a consumer signs any written agreement in a face-to-face transaction, the seller shall provide the consumer with a true copy of that agreement.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.6</annotation>
+    </section>
+    <section>
+      <num>BUS.04.07</num>
+      <heading>Unauthorized Payment</heading>
+      <text>No seller in a face-to-face transaction may obtain or submit for payment any check, draft or other negotiable instrument drawn on a consumer's account without the consumer's express authorization.  Express written authorization may include the consumer's signature on the check, draft or other negotiable instrument.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.7</annotation>
+    </section>
+    <section>
+      <num>BUS.04.08</num>
+      <heading>Misrepresentations Prohibited</heading>
+      <para>
+        <num>(a)</num>
+        <text>No seller may do any of the following, directly or by implication, in a face-to-face transaction:</text>
+        <para>
+          <num>(1)</num>
+          <text>Misrepresent a seller's identity, affiliation, location, or other characteristics.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Misrepresent the nature, purpose, or intended length of a face-to-face transaction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Misrepresent the nature or terms of a face-to-face transaction, or any document related to that transaction.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Misrepresent the cost of goods or services offered or promoted by a seller, or fail to disclose all costs payable by the consumer.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Misrepresent the nature, quantity, material characteristics, performance or efficacy of the goods or services offered or promoted by the seller.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Misrepresent or fail to disclose material restrictions, limitations or conditions on the purchase, receipt, use or return of goods or services offered or promoted by the seller.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Misrepresent the material terms of the seller's refund, cancellation, exchange, repurchase or warranty policies.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Misrepresent that a seller is offering consumer goods or services free of charge or at a reduced price.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Misrepresent that a seller is affiliated with, or endorsed by, any government or 3<sup>rd</sup>-party organization.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Represent that the seller has specially selected the consumer unless the representation is true and the seller concurrently discloses to the consumer the specific basis on which the seller makes the representation.  The seller may not misrepresent that basis.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Represent that the seller is conducting a special sales promotion, is making a special offer limited to a few persons, is making a special offer for a limited period of time, or is authorized to place the offered goods or services in a limited number of homes, unless the representation is true and the seller concurrently discloses to the consumer the specific basis on which the representation is made.  The seller may not misrepresent that basis.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Represent that the seller is participating in a contest or conducting a survey unless the representation is true and all of the following and all of the following apply:</text>
+          <para>
+            <num>(A)</num>
+            <text>The seller first makes all of the opening disclosures under <cite path="§BUS.04.05">Section BUS.04.05</cite>.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The seller concurrently discloses the name of the contest or survey sponsor, and the specific terms of the contest or survey.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The seller concurrently discloses that the seller is attempting to sell goods or services, or to obtain information to identify sales prospects, if that is the case.</text>
+          </para>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Misrepresent any material aspect of a personal investment opportunity offered to the consumer, including any aspect such as risk, liquidity, earnings potential, or profitability.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Fail to disclose in connection with every purported offer of free goods or services in a face-to-face transaction, any costs that the consumer may incur, or any conditions that the consumer must meet in order to receive these free goods or services.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>Make any false, deceptive or misleading representation to a consumer.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.8</annotation>
+    </section>
+    <section>
+      <num>BUS.04.09</num>
+      <heading>Prohibited Practices</heading>
+      <para>
+        <num>(a)</num>
+        <text>No seller may do any of the following in a face-to face transaction:</text>
+        <para>
+          <num>(1)</num>
+          <text>Threaten, intimidate or harass a consumer.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Fail to leave a consumer's premises immediately upon request.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Request or receive payment for seeking or arranging a loan or extension of credit until the consumer actually receives that loan or extension of credit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Fail to disclose the consumer's right to cancel within the 3<sup>rd</sup> business day following a sale.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Fail to honor the consumer's right to cancel within the 3<sup>rd</sup> business day following a sale.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.9</annotation>
+    </section>
+    <section>
+      <num>BUS.04.10</num>
+      <heading>Remedies And Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <text>Sellers who perform direct marketing and/or solicitation within <cite path="§BUS.04.04">Section BUS.04.04</cite> consent to the jurisdiction of the Stockbridge-Munsee Community and the Stockbridge-Munsee Tribal Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal Police, or any other police officer, have the authority to enforce any provision of this Ordinance, including but not limited to removing a seller from a consumer's premises and issuing citations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to any other rights, consumers or family member residing with the consumer, have the right to bring a private cause of action against a seller for any violation of this Ordinance in Tribal Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Court may award actual damages, punitive damages, and any other award or remedy the court deems just.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe may bring a cause of action against any seller violating this Ordinance in Tribal Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>Violations of this Ordinance shall be subject to a forfeiture of up to $1,000.00 for each separate violation.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.10</annotation>
+    </section>
+    <section>
+      <num>BUS.04.11</num>
+      <heading>Severability</heading>
+      <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, the remaining portions of this Ordinance shall remain unaffected and remain in force.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.11</annotation>
+    </section>
+    <section>
+      <num>BUS.04.12</num>
+      <heading>Effective Date</heading>
+      <text>This Ordinance shall take effect 5 calendar days after Bureau of Indian Affairs approval.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 18, §18.12</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 037-2000">Resolution No. 037-2000</cite>, adopted June 20, 2000, approved by BIA July 13, 2001.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>BUS.05</num>
+    <heading>Commercial-Security Interests</heading>
+    <section>
+      <num>BUS.05.01</num>
+      <heading>Adoption Of Articles 1 And 9 Of The Uniform Commercial Code</heading>
+      <para>
+        <num>(a)</num>
+        <text>Notwithstanding any provision of Tribal law except as otherwise provided in this Ordinance, the provisions of Articles 1, 9 and the applicable provisions of Article 8 referenced by Article 9 of the Uniform Commercial Code as enacted in the Consolidated Laws of the State of New York, and as the same may be amended from time to time by the State of New York (the "New York UCC"), shall be deemed adopted and incorporated by reference as if set forth in full herein as Stockbridge-Munsee Tribal law.  Such law shall be applicable to all security interests and collateral subject to the jurisdiction of the Stockbridge-Munsee Community, including any security interest granted by the Stockbridge-Munsee Community, any arm of the Tribal government, and any Tribally owned businesses or enterprises that are located within the State of New York or the State of Wisconsin, to the same extent provided in Section 9-109 of the New York UCC, except that provisions of Sections 9-109(c)(2) and (c)(3) of the New York UCC shall be ineffective to limit the application of the New York UCC to a Tribal Party.</text>
+        <para>
+          <num>(1)</num>
+          <text>For purposes of this Ordinance, a "Tribal Party" means the Tribe or any division, subdivision, branch, department, board, committee, commission, agency, enterprise or instrumentality of the Tribe, and any corporation, limited liability company or other entity wholly owned or wholly controlled by the Tribe, either directly or through one or more entities, along with the successors and assigns of each.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>With respect to any security interest to which this Ordinance applies, except as provided elsewhere in this Ordinance, the rights and obligations of any person shall be governed by the New York UCC, including those rights and obligations related to enforcement of a security interest or arising after a default, including all filing requirements.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Except as provided elsewhere in this Ordinance, the perfection, effect of perfection or nonperfection, and priority of any security interest to which this Ordinance applies shall be determined in accordance with the New York UCC as if each debtor were (for purposes of Sections 9-301 through 9-307 of the New York UCC) located in the State of New York and as if the lands of the Tribe were subject to the laws of the State of New York.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Notwithstanding any provision of the New York UCC to the contrary, a security interest granted by a Tribal Party in Pledged Revenues shall be created and attach upon the giving of value and the granting of such security interest in a writing executed by that Tribal Party.</text>
+        <para>
+          <num>(1)</num>
+          <text>Such security interest may be perfected only by the filing of a financing statement in the same manner and in the same location as if all of such Pledged Revenues were accounts.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For purposes of this Ordinance, "Pledged Revenues" means the money, earnings, income, and revenues (and any proceeds thereof), as well as the Tribal Party's rights to, and interest with respect to, receiving the foregoing before actual possession, whether in the form of money, deposit accounts, investments, accounts, instruments or other assets, and the proceeds thereof, that a Tribal Party has granted a security interest to a secured party in a writing signed by the Tribal Party, but only to the extent as pledged in that written document.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No security interest shall be granted or permitted in the following assets or property of the Tribe:</text>
+        <para>
+          <num>(1)</num>
+          <text>assets or property of the Tribe held in trust for the Tribe by the U.S. government;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>any account or fund that holds per capita payment funds for the benefit of minor or disabled tribal members as provided for under the Revenue Allocation Plan;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>any properly established and held account or fund that holds funds in trust for  beneficiaries; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>any funds, assets or property held in a protected or restricted status, including federal or state government funding that must be used for a specified use.</text>
+        </para>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 59, §59.1</annotation>
+    </section>
+    <section>
+      <num>BUS.05.02</num>
+      <heading>Applicability To Prior Transactions</heading>
+      <text>The provisions of the Ordinance shall be applicable to all security interests subject to the jurisdiction of the Tribe prior to enactment of this Ordinance, unless such application would be inconsistent with rights vested in any party other than the Tribe by operation of the provisions of any existing contract between the Tribe and such party.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 59, §59.2</annotation>
+    </section>
+    <section>
+      <num>BUS.05.03</num>
+      <heading>Severability.</heading>
+      <text>If any section, or any part thereof, of this Ordinance shall be held invalid for any reason whatsoever by a court of competent jurisdiction, the remainder of the section, or part of this Ordinance shall not be affected thereby and shall remain in full force and effect as though no section, or part thereof, has been declared to be invalid.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 59, §59.3</annotation>
+    </section>
+    <section>
+      <num>BUS.05.04</num>
+      <heading>No Waiver Of Sovereign Immunity.</heading>
+      <text>Nothing in this Ordinance shall provide or be interpreted to provide a waiver of the Stockbridge-Munsee Community or any of its governmental officers' and/or agents' sovereign immunity from suit.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 59, §59.4</annotation>
+    </section>
+    <section>
+      <num>BUS.05.05</num>
+      <heading>Future Amendments</heading>
+      <text>This Ordinance, and any section, part, and word thereof, may be amended by Tribal Council in accordance with the provisions of the Stockbridge-Munsee Tribal Constitution, and without Bureau of Indian Affairs approval.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 59, §59.5</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 013-05">Resolution No. 013-05</cite>, adopted March 16, 2005, approved by BIA April 1, 2005.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 068-09">Resolution No. 068-09</cite>, adopted June 29, 2009.</annotation>
+    </annotations>
+  </container>
+</container>

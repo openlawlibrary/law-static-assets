@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/ca/cities/san-mateo/_schemas/docs/code"
+    xmlns="https://open.law/us/ca/cities/san-mateo/_schemas/docs/code">
+    <xs:redefine schemaLocation="../../adapters/docs/code.xsd">
+        <xs:group name="ContainerBodyElGroup">
+            <xs:sequence>
+                <xs:group ref="ContainerBodyElGroup"/>
+                <xs:element ref="annotation" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:group>
+    </xs:redefine>
+</xs:schema>

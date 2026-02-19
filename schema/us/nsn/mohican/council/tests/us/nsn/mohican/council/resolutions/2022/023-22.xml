@@ -1,0 +1,476 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Tribal Council Res. No. 023-22" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>023-22</num>
+  <heading/>
+  <meta>
+    <ordinance>Healing to Wellness Court</ordinance>
+    <effective>2022-01-18</effective>
+    <history>
+      <adopted>2022-01-18</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/023-22.pdf">Stockbridge-Munsee Tribal Council Res. No. 023-22</citation>
+      <citation type="BIA" url="./BIA/023-22.pdf">BIA Approval for Res. No. 023-22</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community recognizes the negative impacts that substance abuse and addiction issues have on the community and wishes to provide additional ways to help individuals with these issues find a path back to being a healthy and productive member of the community;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The establishment of a Healing to Wellness Court would provide an option for diversion of legal offenders with substance abuse and addiction issues away from the regular court system and toward a more holistic, healing approach that involves a treatment-oriented perspective;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to establish a Healing to Wellness Court as part of the Stockbridge-Munsee Tribal Court system through the adoption of the Healing to Wellness Court Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.06">Chapter TCT.06</cite>;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.06" >Chapter TCT.06</cite>, Healing to Wellness Court Ordinance, and authorizes its submittal to the U.S. Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 6, constituting a quorum, were present at a meeting duly called, noticed, and held on the 18th day of January, 2022, that the foregoing resolution was duly adopted at such meeting by a vote of 5 for, 0 against, and 0 abstaining.</text>
+    <text>_______________________	   ________________________</text>
+    <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
+  </procedural-data>
+  <codify:find-replace path="TCT.06">
+   <find>TCT.06</find>
+   <replace>TCT.[07]</replace>
+  </codify:find-replace>
+  <codify:insert path="TCT" before="TCT.[07]">
+   <container>
+    <prefix>Chapter</prefix>
+    <num>TCT.06</num>
+    <heading>Healing to Wellness Court Ordinance</heading>
+    <section>
+      <num>TCT.06.01</num>
+      <heading>Purpose and Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>Purpose.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Stockbridge-Munsee Community recognizes the negative impacts that substance abuse and addiction issues have on the community and wishes to provide additional ways to help individuals with these issues find a path back to being a healthy and productive member of the community.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>SHAAXKOOXWEEWAAKAN, or healing path, is a Healing to Wellness Court intended for the diversion of nonviolent legal offenders with substance abuse and addiction issues away from the regular court system and toward a more holistic, healing approach that involves a treatment-oriented perspective.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Healing to Wellness Court can promote public safety by offering a rehabilitative alternative to reduce patterns of recidivism among vulnerable members of our community.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Healing to Wellness Court emphasizes wellness, accountability, personal responsibility, and cultural connectiveness as sober and productive community members.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Healing to Wellness Court promotes life-long substance abuse recovery and the reintegration of Tribal members into the community.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authority.  This ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|1(f)">Article VII, Section 1 (f) of the Stockbridge-Munsee Constitution</cite>, which provides for the promulgation and enforcement of ordinances.</text>
+      </para>
+    </section>
+    <section>
+      <num>TCT.06.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Authorizing Jurisdiction" means a jurisdiction which has established an agreement to authorize an Eligible Person to participate in the Healing to Wellness Court in lieu of or in addition to any sentence imposed in another matter as well as the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Community Member" means an individual who consents to tribal jurisdiction by living on the Reservation and has a close personal relationship with a tribal member such as a parent, child, spouse, or significant other.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Eligible Person" means Stockbridge-Munsee tribal members or Community Members who live in an Authorizing Jurisdiction.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Evidence-based Treatment" means treatments based on professional research and clinical expertise to achieve the best outcome for the individual.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Handbook" means a document with written policies and procedures for Participants in the Healing to Wellness Court.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Healing to Wellness Court" means the healing to wellness court with its program of healing, or SHAAXKOOXWEEWAAKAN, as established under this ordinance.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Participant" means an Eligible Person that is under the jurisdiction of the Healing to Wellness Court, having been admitted to the Healing to Wellness Court and agreeing to comply with all policies, procedures, and requirements of the Healing to Wellness Court.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Reservation" means all tribal trust land and all lands owned by the Tribe in fee simple within the 1856 Reservation boundary.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Team" means the Healing to Wellness Court Team established under this ordinance.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Tribal Court" means the Stockbridge-Munsee Tribal Court system established under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter TCT.01</cite> of the Stockbridge-Munsee Tribal Code.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+    </section>
+    <section>
+      <num>TCT.06.03</num>
+      <heading>Establishment Of The Healing To Wellness Court</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Stockbridge-Munsee Healing to Wellness Court is established as a court of special jurisdiction within the Tribal Court system.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Healing to Wellness Court shall have jurisdiction over any case that is transferred to it by the Tribal Court or another Authorizing Jurisdiction.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The following positions or departments are considered part of the Healing to Wellness Court Team. This Team holds roles and responsibilities in facilitation of the Wellness Court process.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal Court judge(s).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Healing to Wellness Court coordinator.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tribal Court clerk(s).</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Tribal Prosecutor.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Stockbridge-Munsee Police Department.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Stockbridge-Munsee Health and Wellness Center Behavioral Health Department.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Such other departments as may be appropriate based on the types of cases before the Healing to Wellness Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Court, under its rule-making power under <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.12">TCT.01.12</cite>, shall adopt a Handbook for Participants in the Healing to Wellness Court. The Handbook shall be posted to the Tribal Court website and otherwise made available to Eligible Persons and Participants. Such Handbook shall describe the overall program including the following items:</text>
+        <para>
+          <num>(1)</num>
+          <text>Program description including duration and phases.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Expectations for successful participation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Eligibility requirements for admission.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identification of Team members and roles and responsibilities.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Procedures for Participant information disclosure and confidentiality.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Participant code of conduct and conditions for participation.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Process for referral and admission to the program.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Process for adjudication of referred cases through the program.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Description of how the Healing to Wellness Court uses incentives and sanctions along with treatment programing.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Requirements for successful completion of the program.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Policies and procedures for voluntary or involuntary termination from participation before completion of the program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>In addition to the Handbook, the Tribal Court shall adopt a manual of standard operating procedures for the internal operations of the program, to include, but not be limited to, provisions on secure record handling, staffing, partnerships, and other procedures for effective implementation of the program. This operations manual is intended for the use of the Healing to Wellness Court and Team and will not be available to Participants.</text>
+      </para>
+    </section>
+    <section>
+      <num>TCT.06.04</num>
+      <heading>Referral From Authorizing Jurisdiction To The Healing to Wellness Court</heading>
+      <para>
+        <num>(a)</num>
+        <text>A case may be referred to the Healing to Wellness Court by the Tribal Court or another Authorizing Jurisdiction. Such referrals shall be made in writing.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Referrals may be based on request of the prosecutor, a named party, or at the suggestion of the court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Participation in the Healing to Wellness Court is voluntary.</text>
+        <para>
+          <num>(1)</num>
+          <text>If any party objects to the referral, then the parties agree to meet with applicable members of the Team to discuss the referral.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such meeting shall be scheduled and held in a timely manner and not be used to delay the proceedings.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If prosecutor or another named party continues to object, then the case will not be referred.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The parties recognize that referrals to the Healing to Wellness Court often function as a deferred sentencing program. By agreeing to a referral, a person essentially enters a no contest plea to a violation. The person acknowledges the violation, that there are underlying substance abuse and/or addiction issues, and that the person wishes to work on healing those issues.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Healing to Wellness Court referrals also may be made as part of the dispositional recommendations in an action under the Youth in Need of Care Ordinance (<cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite>) or in other similar proceedings.</text>
+        <para>
+          <num>(1)</num>
+          <text>In such instances, the Healing to Wellness Court proceeding operates parallel to <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> or similar proceedings. The Healing to Wellness Court proceeding does not replace or take priority over the <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> proceeding.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Tribal Court judge shall preside over the <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> proceeding where the focus will be on protection, services, well-being, and permanency for the children.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Healing to Wellness Court shall preside over a separate Healing to Wellness Court proceeding under this ordinance where the focus will be on the Participant's recovery.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Healing to Wellness Court may provide progress updates to the Tribal Court subject to appropriate releases of information from the Participant.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Participants remain liable to satisfy any conditions ordered in the <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> proceeding regardless of participation in the Healing to Wellness Court program.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Substance abuse treatment and testing activities may be used to satisfy the requirements of both the <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> proceeding and the Healing to Wellness Court proceeding only if the Participant has provided the appropriate authorizations to release information for each proceeding.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Healing to Wellness Court process can be used to supplement the <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> proceeding and provide an additional option for achieving the healing so that youth have a healthy and safe family and home.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>A referral is not complete until the Healing to Wellness Court issues an order accepting or rejecting jurisdiction following completion of the admission process under <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.06.05">TCT.06.05</cite>. A copy of the order shall be filed with the Participant, the Authorizing Jurisdiction, and any other parties to the case in the Authorizing Jurisdiction. The Healing to Wellness Court shall process referrals in a timely manner. If the Healing to Wellness Court does not provide an order to accept or reject the referral within 30 days, the referral will be considered rejected.</text>
+      </para>
+    </section>
+    <section>
+      <num>TCT.06.05</num>
+      <heading>Determination Of Eligibility By Team And Admission For Participation</heading>
+      <para>
+        <num>(a)</num>
+        <text>When a case is referred, the Team will determine whether the Eligible Person should be admitted for participation in the Healing to Wellness Court. An Eligible Person must meet the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>Be an Eligible Person accused of a crime or violation of law that is directly or indirectly related to substance abuse or addiction issues; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Be listed as a named party in a case originating in the Tribal Court or an Authorizing Jurisdiction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Be willing to participate in the Healing to Wellness Court.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any other eligibility requirements as outlined in the Handbook, which take into consideration the following factors:</text>
+          <para>
+            <num>(A)</num>
+            <text>The needs of the tribal community.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The professional competencies and operational limits of the Team.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>National best practices for rehabilitative or drug treatment courts, with particular focus on research and reporting from other tribal healing to wellness courts.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If determined eligible, the Team will then make a recommendation to the Healing to Wellness Court on whether the Eligible Person should be admitted as a Participant. The judge participating in the Healing to Wellness Court makes the final decision on admission.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Prior to admission, the Participant will be required to execute documentation agreeing to cooperate with and provide information to the Healing to Wellness Court for program purposes.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Healing to Wellness Court will issue an order documenting acceptance or rejection of referral once eligibility and admission are determined as provided for in <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.06.04|(f)">TCT.06.04 (f)</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <num>TCT.06.06</num>
+      <heading>Healing to Wellness Court Program Elements</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Healing to Wellness Court program is intended to promote recovery of Participants and the community from substance abuse and addiction. The program holds Participants accountable through the effective use of treatment programing, incentives, sanctions, and cultural connectiveness. The Handbook contains additional information on the program for Participants.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Healing to Wellness Court provides a Participant with consistent and continual monitoring of completion of the program requirements.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Participants are required to remain in regular contact with the Healing to Wellness Court coordinator.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Participants are required to engage in evidence-based treatment for substance abuse and addiction as part of the Healing to Wellness Court program. Treatment activities are conducted by appropriately licensed professionals. Participants must authorize the treatment professional to provide regular participatory reports to the Healing to Wellness Court confirming whether the Participant is actively engaging in treatment and meeting treatment goals required under the program.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Healing to Wellness Court shall ensure periodic and random testing through a certified laboratory for the presence of any controlled substances or alcohol in the Participant's blood, urine, or breath using the best available, accepted, and scientifically valid methods.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Healing to Wellness Court shall have appropriate periodic evaluations completed to assess the Participant's circumstances and progress in the program.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Regular status hearings will be held before the Healing to Wellness Court to discuss a Participant's progress or lack of progress in the program.</text>
+        <para>
+          <num>(1)</num>
+          <text>Status hearings are typically open to the public unless issues related to a minor child are discussed. If issues related to a minor child are discussed, then that portion of the hearing shall be a closed hearing.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Healing to Wellness Court may take such judicial actions as necessary to implement the Healing to Wellness Court program, which can include issuing orders, subpoenas, and fines.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Healing to Wellness Court costs and fees, if any, as well as any payments will be tracked for each Participant. Statements will be provided to Participants as appropriate.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Healing to Wellness Court may order sanctions if a Participant violates mutually agreed upon program elements. Such sanctions can include, but are not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Contempt of court order.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The suspension of payment of any authorized per capita payments until the Participant completes the program.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The suspension of hunting, fishing, and trapping privileges.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Healing to Wellness Court typically recommends sentencing leniency or dismissal of charges in the Authorizing Jurisdiction upon successful completion of the program as the key incentive for a positive outcome. Other incentives for compliance such as encouragement, public praise, small gifts like a gas card, or assistance may also be offered during the program.</text>
+      </para>
+    </section>
+    <section>
+      <num>TCT.06.07</num>
+      <heading>Completion Of Healing to Wellness Court Program</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Healing to Wellness Court shall transfer jurisdiction of such Participant's case(s) back to the Authorizing Jurisdiction for any final disposition at the successful completion of the Healing to Wellness Court program requirements or if there is an early termination of the process.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Healing to Wellness Court program may be terminated early when the Participant fails to engage with the program or if it becomes evident that the Participant is not interested in moving forward with healing their substance abuse or addiction issues.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Healing to Wellness Court shall issue a written order to document the transfer of jurisdiction within fourteen (14) days of completion or early termination of the program.</text>
+        <para>
+          <num>(1)</num>
+          <text>This transfer order will clearly document either the Participant's successful completion of the Healing to Wellness Court's program requirements or that the program was terminated prior to completion.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>While the transfer order may contain a general summary of the Healing to Wellness Court program elements, the order shall not contain specific information protected under <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.06.08">TCT.06.08</cite>.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>TCT.06.08</num>
+      <heading>Records And Communications</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Healing to Wellness Court shall not be a court of record for criminal offenses, meaning any information obtained, used or disclosed by a member of the Team while the Participant is under the jurisdiction of the Healing to Wellness Court shall not be used as evidence against the Participant in any criminal proceeding in the Tribal Court or a court in any other jurisdiction.</text>
+        <para>
+          <num>(1)</num>
+          <text>This limitation does not prevent the disclosure of information in compliance with other applicable laws, such as mandatory reporting laws for child or elder abuse.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This limitation on the use or sharing of information does not limit the use of information or evidence obtained by independent means or as part of other proceedings.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>This limitation does not prevent the Participant from authorizing the release of information from the Healing to Wellness Court proceeding to be used as part of a <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.02">Chapter YAE.02</cite> or similar proceeding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Healing to Wellness Court records are confidential and shall be handled and maintained securely.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Records shall not be disclosed to any person or entity without prior written informed consent from the Participant except as authorized by applicable law.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The confidentiality limitations under <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.06.08">this section</cite> are not intended to limit or prevent the Healing to Wellness Court from scheduling and holding joint appearances with the Authorizing Jurisdiction when appropriate, such as at a Participant's successful completion of the program.</text>
+      </para>
+    </section>
+  </container>
+ </codify:insert>
+ <codify:annotation path="TCT.06" type="Legislative History" history="false" dest="container">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Resolution No. 023-22</cite>, adopted January 18, 2022, approved by BIA January 25, 2022.</codify:annotation>
+ <codify:annotation path="TCT.[07].01" type="Prior Codifications">Formerly codified as §TCT.06.01</codify:annotation>
+ <codify:annotation path="TCT.[07].02" type="Prior Codifications">Formerly codified as §TCT.06.02</codify:annotation>
+ <codify:annotation path="TCT.[07].03" type="Prior Codifications">Formerly codified as §TCT.06.03</codify:annotation>
+ <codify:annotation path="TCT.[07].04" type="Prior Codifications">Formerly codified as §TCT.06.04</codify:annotation>
+ <codify:annotation path="TCT.[07].05" type="Prior Codifications">Formerly codified as §TCT.06.05</codify:annotation>
+</document>

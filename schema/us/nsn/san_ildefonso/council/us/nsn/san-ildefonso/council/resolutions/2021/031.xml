@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R21-031" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3">
+  <num>SI-R21-031</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-031</heading>
+  <heading type="law">Authorization for Fiscal Year 2021-2022 Budget Modification No. 1</heading>
+  <meta>
+    <effective>2022-01-03</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-031</citation>
+    </citations>
+    <history>
+      <adopted>2021-12-29</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 29th day of December, 2021, the following Resolution was adopted:</preamble>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.25</num>
+      <heading>Authorization for Fiscal Year 2021-2022 Budget Modification No. 1</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-031"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="|6.3.25.010">
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
+      <codify:insert path="|6.3.25">
+        <section>
+          <num>6.3.25.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+          </para>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the FY2021-2022 Annual Budget is as follows:</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>GENERAL FUND</td>
+              <td>$ 3,241,544.00</td>
+            </tr>
+            <tr>
+              <td>SPECIAL REVENUE FUND</td>
+              <td colspan="2">$ 9,945,006.00</td>
+            </tr>
+            <tr>
+              <td>CAPITAL PROJECTS FUND</td>
+              <td colspan="2">$ 10,301,448.00</td>
+            </tr>
+            <tr>
+              <td>TOTAL BUDGET:</td>
+              <td colspan="2">$ 23,487,998.00</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>The FY2021-2022 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$ 3,241,544.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td colspan="2">$ 9,945,006.00</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td colspan="2">$ 10,301,448.00</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td colspan="2">$ 23,487,998.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it has been determined that certain modifications to the FY 2021-2022 Annual Budget are necessary; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(f)</num>
+          <text>It has been determined that certain modifications to the FY 2021-2022 Annual Budget are necessary; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's FY 2021-2022 Annual Budget amount for general funds will increase by $7,409.00 as a result of Budget Modification No. 1; and,</text>
+       <codify:insert display-template="">
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's FY 2021-2022 Annual Budget amount for general funds will increase by $7,409.00 as a result of Budget Modification No. 1; and,</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's FY 2021-2022 Annual Budget amount for special revenue funds will not increase nor decrease as a result of Budget Modification No. 1 due to the development of the American Rescue Plan Act budget; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(i)</num>
+          <text>the Pueblo's FY 2021-2022 Annual Budget amount for special revenue funds will not increase nor decrease as a result of Budget Modification No. 1 due to the development of the American Rescue Plan Act budget; and,</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the funds for increasing the General Fund for the Education Departments Scholarship increase will come from the Pueblo's investment account; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(j)</num>
+          <text>the funds for increasing the General Fund for the Education Departments Scholarship increase will come from the Pueblo's investment account; and,</text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's FY 2022-2022 Annual Budget after Budget Modification No. 1 is as follows:</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>GENERAL FUND</td>
+              <td>$ 3,248,953.00</td>
+            </tr>
+            <tr>
+              <td>SPECIAL REVENUE FUND</td>
+              <td colspan="2">$ 9,945,006.00</td>
+            </tr>
+            <tr>
+              <td>CAPITAL PROJECTS FUND</td>
+              <td colspan="2">$ 10,301,448.00</td>
+            </tr>
+            <tr>
+              <td>TOTAL BUDGET:</td>
+              <td colspan="2">$ 23,495,407.00</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(k)</num>
+          <text>The Pueblo's FY 2021-2021 Annual Budget after Budget Modification No. 1 is as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$ 3,248,953.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td colspan="2">$ 9,945,006.00</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td colspan="2">$ 10,301,448.00</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td colspan="2">$ 23,495,407.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2021-2022 Annual Budget and that such modifications shall be effective immediately upon enactment; and</text>
+      <codify:insert path="|6.3.25">
+        <section>
+          <num>6.3.25.020</num>
+          <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2021-2022 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
+        </section>
+      </codify:insert>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <codify:insert path="|6.3.25">
+        <section>
+          <num>6.3.25.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </section>
+      </codify:insert>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>December 29</u> , 2021, at a meeting with a vote of <u>8</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>2</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raymond Martinez, Lt. Governor</text>
+    <text><strong>COUNCIL REPRESENTATIVE SPONSOR(S): <u>Council Representatives</u></strong></text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong></text>
+    <text>Resolution No. <u>SI-R21-031</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u> 29th</u> day of <u>December</u>, 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Raymond Martinez, Lt. Governor</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>3</u><sup><u>rd</u></sup> day of <u>January</u>, 2022.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <u>CERTIFICATION</u>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raymond Martinez, Lt. Governor</text>
+  </procedural-data>
+  <attachment id="law">
+    <heading>AUTHORIZATION FOR FISCAL YEAR 2021-2022 BUDGET MODIFICATION NO. 1</heading>
+    <para>
+      <num codify:value="(a)">1.</num>
+      <text>The current FY 2021-2022 Annual Budget, prior to this enactment, is as follows:</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>GENERAL FUND</td>
+              <td>$ 3,241,544.00</td>
+            </tr>
+            <tr>
+              <td>SPECIAL REVENUE FUND</td>
+              <td colspan="2">$ 9,945,006.00</td>
+            </tr>
+            <tr>
+              <td>CAPITAL PROJECTS FUND</td>
+              <td colspan="2">$ 10,301,448.00</td>
+            </tr>
+            <tr>
+              <td>TOTAL BUDGET:</td>
+              <td colspan="2">$ 23,487,998.00</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num codify:value="(b)">2.</num>
+      <text>The Council hereby approves Budget Modification No. 1 to the FY 2021-2022 Annual Budget as follows and as documented on the attached budgets.</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <td>BUDGET</td>
+              <td>CODE</td>
+              <td>GENERAL FUND</td>
+              <td>JUSTIFICATION</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Facilities</td>
+              <td>SI.118.000.00</td>
+              <td>$ -</td>
+              <td>Reclasses less than 10% to align with costs</td>
+            </tr>
+            <tr>
+              <td>Historic Preservation</td>
+              <td>SI.132.000.00</td>
+              <td>$ -</td>
+              <td>Reclasses less than 10% to align with costs</td>
+            </tr>
+            <tr>
+              <td>Education</td>
+              <td>SI.182.000.00</td>
+              <td>$ 7,409.00</td>
+              <td>Increase to fund scholarships for continuing education</td>
+            </tr>
+            <tr>
+              <td colspan="2">TOTAL:</td>
+              <td>$ 7,409.00</td>
+              <td/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <td>BUDGET</td>
+              <td>CODE</td>
+              <td>SPECIAL REVENUE FUND</td>
+              <td>JUSTIFICATION</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>American Rescue Plan Act</td>
+              <td>21.019.ARP.21</td>
+              <td>$ 4,825,932.00</td>
+              <td>Creation of ARPA budgets to be included in the FY2021-2022 Annual Budget. The total amount reflects the remaining funds to be budgeted.</td>
+            </tr>
+            <tr>
+              <td>Revolving Loan Fund</td>
+              <td/>
+              <td>$ 1,200,000.00</td>
+              <td>The amount identified will come from the ARPA fund.</td>
+            </tr>
+            <tr>
+              <td colspan="2">TOTAL:</td>
+              <td>$ 6,025,932.00</td>
+              <td/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num codify:value="(c)">3.</num>
+      <text>The Pueblo's FY 2021-2022 Annual Budget amount for general funds will increase by $7,409.00 as a result of Budget Modification No. 1</text>
+    </para>
+    <para>
+      <num codify:value="(d)">4.</num>
+      <text>The Pueblo's FY 2021-2022 Annual Budget amount for special revenue funds will not increase nor decrease as a result of Budget Modification No. 1 due to the development of the American Rescue Plan Act budget.</text>
+    </para>
+    <para>
+      <num codify:value="(e)">5.</num>
+      <text>The funds for increasing the General Fund for the Education Departments Scholarship increase will come from the Pueblo's investment account.</text>
+    </para>
+    <para>
+      <num codify:value="(f)">6.</num>
+      <text>The Fiscal Year 2021-2022 Annual Budget total after Budget Modification No. 1 is as follows:</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>GENERAL FUND</td>
+              <td>$ 3,248,953.00</td>
+            </tr>
+            <tr>
+              <td>SPECIAL REVENUE FUND</td>
+              <td colspan="2">$ 9,945,006.00</td>
+            </tr>
+            <tr>
+              <td>CAPITAL PROJECTS FUND</td>
+              <td colspan="2">$ 10,301,448.00</td>
+            </tr>
+            <tr>
+              <td>TOTAL BUDGET:</td>
+              <td colspan="2">$ 23,495,407.00</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <codify:insert path="|6.3.25">
+      <section>
+        <num>6.3.25.040</num>
+        <heading>Authorization for Fiscal Year 2021-2022 Budget Modification No. 1</heading>
+        <para>
+          <num>(a)</num>
+          <text>The current FY 2021-2022 Annual Budget, prior to this enactment, is as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$ 3,241,544.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td colspan="2">$ 9,945,006.00</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td colspan="2">$ 10,301,448.00</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td colspan="2">$ 23,487,998.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby approves Budget Modification No. 1 to the FY 2021-2022 Annual Budget as follows and as documented on the attached budgets.</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <td>BUDGET</td>
+                  <td>CODE</td>
+                  <td>GENERAL FUND</td>
+                  <td>JUSTIFICATION</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Facilities</td>
+                  <td>SI.118.000.00</td>
+                  <td>$ -</td>
+                  <td>Reclasses less than 10% to align with costs</td>
+                </tr>
+                <tr>
+                  <td>Historic Preservation</td>
+                  <td>SI.132.000.00</td>
+                  <td>$ -</td>
+                  <td>Reclasses less than 10% to align with costs</td>
+                </tr>
+                <tr>
+                  <td>Education</td>
+                  <td>SI.182.000.00</td>
+                  <td>$ 7,409.00</td>
+                  <td>Increase to fund scholarships for continuing education</td>
+                </tr>
+                <tr>
+                  <td colspan="2">TOTAL:</td>
+                  <td>$ 7,409.00</td>
+                  <td/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <td>BUDGET</td>
+                  <td>CODE</td>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td>JUSTIFICATION</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>American Rescue Plan Act</td>
+                  <td>21.019.ARP.21</td>
+                  <td>$ 4,825,932.00</td>
+                  <td>Creation of ARPA budgets to be included in the FY2021-2022 Annual Budget. The total amount reflects the remaining funds to be budgeted.</td>
+                </tr>
+                <tr>
+                  <td>Revolving Loan Fund</td>
+                  <td/>
+                  <td>$ 1,200,000.00</td>
+                  <td>The amount identified will come from the ARPA fund.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">TOTAL:</td>
+                  <td>$ 6,025,932.00</td>
+                  <td/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo's FY 2021-2022 Annual Budget amount for general funds will increase by $7,409.00 as a result of Budget Modification No. 1</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo's FY 2021-2022 Annual Budget amount for special revenue funds will not increase nor decrease as a result of Budget Modification No. 1 due to the development of the American Rescue Plan Act budget.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The funds for increasing the General Fund for the Education Departments Scholarship increase will come from the Pueblo's investment account.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Fiscal Year 2021-2022 Annual Budget total after Budget Modification No. 1 is as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2021-2022</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$ 3,248,953.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td colspan="2">$ 9,945,006.00</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td colspan="2">$ 10,301,448.00</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td colspan="2">$ 23,495,407.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </section>
+    </codify:insert>
+  </attachment>
+</document>

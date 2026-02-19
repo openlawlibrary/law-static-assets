@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>20</num>
+  <heading>LIQUOR</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>20.1</num>
+    <heading>Liquor</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-004, dated March 29, 2015.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>20.1.1</num>
+      <heading>Background</heading>
+      <section>
+        <num>20.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council desires to regulate the sale, possession and consumption of liquor within the Pueblo lands;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council has determined that the management of such should be through the Pueblo de San Ildefonso Liquor Control Act of 2015.</text>
+        </para>
+      </section>
+      <section>
+        <num>20.1.1.020</num>
+        <text>Pueblo de San Ildefonso Tribal Council hereby enacts the attached law entitled "Pueblo de San Ildefonso Liquor Control Act of 2015."</text>
+      </section>
+      <section>
+        <num>20.1.1.030</num>
+        <text>Any and all Tribal Council resolution or provisions in the Pueblo de San Ildefonso Law and Order Code which conflict in any way with the provisions of this Act are hereby repealed to the extent they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
+      </section>
+      <section>
+        <num>20.1.1.040</num>
+        <text>Pueblo de San Ildefonso Liquor Control Act of 2015</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>20.1.2</num>
+      <heading>ADMINISTRATION</heading>
+      <section>
+        <num>20.1.2.010</num>
+        <heading>Title.</heading>
+        <text>This Act shall be known as the Pueblo de San Ildefonso Liquor Act.</text>
+      </section>
+      <section>
+        <num>20.1.2.020</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of the Pueblo de San Ildefonso Liquor Act is to regulate and control the sale, possession, and consumption of liquor within the Pueblo de San Ildefonso lands for the public health, safety, and welfare.</text>
+      </section>
+      <section>
+        <num>20.1.2.030</num>
+        <heading>Authority.</heading>
+        <text>The Pueblo has enacted this Liquor Act in exercise of its inherent governmental authority over its lands and activities occurring thereon and in accordance with its governing Agreement, The Government, Section 5. Authority.  This Liquor Act is in conformance with the laws of New Mexico, as required by Federal law and 18 U.S.C. § 1161.</text>
+      </section>
+      <section>
+        <num>20.1.2.040</num>
+        <heading>Definitions.</heading>
+        <text>As used in this Act, the following terms shall apply:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Alcohol" or "Liquor" includes the four varieties of liquor commonly referred to as alcohol, spirits, wine, and beer, and all fermented, spirituous, vinous, or malt liquor, or combinations thereof, and mixed liquor, a part of which is fermented, spirituous, vinous, or malt liquor or otherwise intoxicating, and every liquor or solid or semisolid or other substance, patented or not, containing alcohol, spirits, wine, or beer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Tribal Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Governor" means the Governor of the Pueblo de San Ildefonso, or his or her designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Licensed premises" means the location within Pueblo lands at which a licensee is permitted to sell and allow the consumption of liquor.  Includes such buildings and surrounding land as designated in the liquor license.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Licensee" means a person who has been issued tribal liquor license by the Pueblo, to sell liquor on the licensed premises under the provisions of this Act.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Minor" means any person under the age of twenty-one (21) years.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Package sale" means any sale of liquor in a container or containers filled or packed by a manufacturer or wine bottler and sold by a liquor licensee in an unbroken package for consumption off the licensed liquor establishment premises, and not for resale.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Person" means any individual, business, or other legal entity, and includes the Pueblo and its wholly owned commercial entities.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso, a federally recognized Tribe of Indians.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Public place" means any location or premises on Pueblo lands to which the general public has unrestricted access.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Pueblo de San Ildefonso lands" means all lands within the exterior boundaries of the Pueblo de San Ildefonso, including rights-of-way, lands owned by or for the benefit of the Pueblo, tribally purchased lands, and lands that may be leased by the Pueblo de San Ildefonso.  Also referred to as "Pueblo Lands."</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Sale" or "sales" means the exchange, barter, donation, selling, supplying, or distribution of liquor.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Server" means a person who sells, serves or dispenses liquor for consumption on or off licensed premises, and includes persons who manage, direct or control the sale or service of liquor.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Tribal Court" means the trial court of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>20.1.2.050</num>
+        <heading>Tribal Liquor License.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every person who sells liquor on Pueblo lands must hold a tribal liquor license issued by the Pueblo for each location on Pueblo Lands where liquor is sold.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A liquor license shall not be transferred, sold or assigned and is only valid for the licensed premises identified on the License.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A liquor license shall designate whether the licensed premises is permitted to have package sales and/or by the drink.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo in its discretion may place terms, conditions, and/or restrictions on the sale of liquor at licensed premises, including, but not limited to, the hours and days of operation and the type of liquor sold.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The term of a liquor license shall be two (2) years.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>All persons issued a Liquor License shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>prominently display the license in the business location;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>be responsible for the sale of liquor on Pueblo Lands by their business, and for the conduct of his or her officers, agents, and employees in relation to the sale of liquor;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>ensure that all servers have successfully completed, within the past three (3) years, an alcohol server education program and examination approved by the director of the New Mexico Alcohol and Gaming Division.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>ensure all handling, stocking, and sale of liquor shall be made by persons twenty-one (21) years of age or older.  Proof of age must be shown by a current and valid state driver's license, tribal identification card, or other government issued identification that contains birth date and photo of the holder of the license or identification.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Any person licensed to sell liquor within the Pueblo shall obtain general public liability insurance insuring the licensee and the Pueblo against any claims, losses or liability whatsoever for any acts or omissions of the licensee or business invitee on the licensed premises resulting in injury, loss or damage to any other party, with coverage limits in the amount not less than $1,000,000 (one million dollars) per occurrence.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo has the authority to suspend, revoke or terminate a Tribal liquor license for any violations arising from this Act or other Pueblo Criminal and Civil Code violations.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>20.1.3</num>
+      <heading>SALE OF LIQUOR; RESTRICTED AREAS</heading>
+      <section>
+        <num>20.1.3.010</num>
+        <heading>Sales Limited.</heading>
+        <text>Sales of liquor are allowed at the following locations only:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo's convenience stores.</text>
+        </para>
+      </section>
+      <section>
+        <num>20.1.3.020</num>
+        <heading>Sales for Personal Use; Resale Prohibited.</heading>
+        <text>All sales allowed by this Act shall be for personal use of the individual purchaser.  Such sales for personal non-commercial use must be in package form or by the drink.  Resale of any liquor by a person not licensed under this Act is prohibited.</text>
+      </section>
+      <section>
+        <num>20.1.3.030</num>
+        <heading>Right to Refuse Sale.</heading>
+        <text>Any person authorized to sell liquor within the Pueblo shall have the authority to refuse to sell liquor to any person unable to produce proof of age and identity, or to any person who appears intoxicated.</text>
+      </section>
+      <section>
+        <num>20.1.3.040</num>
+        <heading>Acceptable Proof of Age for Purchase.</heading>
+        <text>If there is a question of a Person's age to purchase liquor, such person shall be required to present any one of the following identification cards which shows his or her correct age and bears his or her signature and photograph:</text>
+        <para>
+          <num>(a)</num>
+          <text>A driver's license of any state or identification card issued by any state department of motor vehicles;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>United States active duty military ID;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A passport;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>An official identification or tribal membership card issued by a federally recognized tribe.</text>
+        </para>
+      </section>
+      <section>
+        <num>20.1.3.050</num>
+        <heading>Liquor in Undesignated Areas.</heading>
+        <text>The sale and possession of liquor in areas of the Pueblo Lands which are not designated or licensed for the sale and possession of liquor pursuant to this Act is prohibited.</text>
+        <para>
+          <num>(a)</num>
+          <text>This prohibition does not pertain to the otherwise lawful transportation of liquor through Pueblo de San Ildefonso lands by persons remaining upon public highways or other areas paved for motor vehicles and where such liquor is not delivered, sold or offered for sale to anyone within Pueblo Lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>This prohibition does not pertain to liquor wholesalers selling, transporting or delivering liquor to a person licensed by the Pueblo to sell liquor, or to a location designated for the sale of liquor.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>20.1.4</num>
+      <heading>OFFENSES, ENFORCEMENT AND PENALTIES</heading>
+      <section>
+        <num>20.1.4.010</num>
+        <heading>Offenses.</heading>
+        <text>Any person who violates this Act is subject to a civil penalty, at a minimum.  Offenses include, but are not limited to, the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>No person under the age of twenty-one (21) shall consume, purchase, attempt to purchase, or have in his or her possession any liquor.  Any person violating this section shall be guilty of a separate violation of this Act for each container acquired, bought or possessed.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person who sells, provides, or attempts to sell or provide any liquor to any person under the age of twenty-one (21) shall be guilty of violation of this Act for each sale or drink provided.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any person who transfers in any manner an identification of age to a minor for purposes of permitting such minor to obtain liquor shall be guilty of a violation of this Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Any person who attempts to purchase liquor through the use of a false or altered identification shall be guilty of a violation of this Act.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>It shall be a violation of this Act for any person within Pueblo Lands to buy liquor from any person other than those properly authorized and licensed by the Pueblo and in compliance with this Act.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>It shall be a violation of this Act for any person within Pueblo Lands to sell liquor without a license.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>It shall be a violation of this Act for any person licensed by this Act to sell liquor off of the licensed premises.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Any person who is not licensed pursuant to this Act who purchases liquor on Pueblo Lands and resells it, whether in the original container or not, shall be guilty of a violation of this Act.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>It shall be a violation of this Act for any person to sell liquor to a person who is visibly intoxicated or appears to be intoxicated.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>It shall be a violation of this Act for any person to sell or possess any liquor in any area of the Pueblo's lands which is not designated or licensed for the sale and possession of liquor pursuant to this Act.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Any person who violates any other provision of this Act shall be guilty of a violation of this Act.</text>
+        </para>
+      </section>
+      <section>
+        <num>20.1.4.020</num>
+        <heading>Enforcement Powers and Authorities.</heading>
+        <text>The Governor, or his or her designee, shall have the following powers and authorities for the enforcement of this Act:</text>
+        <para>
+          <num>(a)</num>
+          <text>To adopt rules, regulations or polices necessary to carry out the intent of this Act to regulate and control the sale, possession and consumption of liquor.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>To inspect all licensed premises on which liquor is sold, consumed, possessed or distributed at all reasonable times for the purposes of ascertaining whether the requirements of this Act and any rules or regulations promulgated under this Act are being met and adhered to.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To work with the Tribal Prosecutor or Law Enforcement Officer to bring proceedings in Tribal Court to enforce this Act, and any related rules or regulations, as necessary.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To suspend, revoke or terminate a liquor license for any violations arising from this Act or other Pueblo Criminal and Civil Code violations.</text>
+        </para>
+      </section>
+      <section>
+        <num>20.1.4.030</num>
+        <heading>Civil Penalty.</heading>
+        <text>Any person, purchasing, possessing, selling, delivering, bartering, or manufacturing liquor products in violation of any part of this Act, or of any rule or regulation adopted pursuant to this Act, shall be subject to a civil assessment of not more than five thousand dollars ($5,000) for each violation.</text>
+      </section>
+      <section>
+        <num>20.1.4.040</num>
+        <heading>Criminal Penalty.</heading>
+        <text>In addition to civil penalties, a person may be subject to criminal prosecution by the Pueblo for the purchasing, possessing, selling, delivering, bartering, or manufacturing liquor products in violation of any part of this Act, or of any rule or regulation adopted pursuant to this Act.</text>
+      </section>
+      <section>
+        <num>20.1.4.050</num>
+        <heading>Exclusion.</heading>
+        <text>For good and sufficient cause found, the Tribal Court may exclude from the Pueblo Lands any person who engages in an activity or activities prohibited by this Act to the extend such exclusion is not inconsistent with Pueblo law.</text>
+      </section>
+      <section>
+        <num>20.1.4.060</num>
+        <heading>Contraband.</heading>
+        <text>Any liquor that is possessed contrary to the terms of this Act are declared to be contraband. Any tribal agent, employee or officer who is authorized by the Governor to enforce this Act shall have the authority to, and shall seize all contraband.  Any officer seizing contraband shall preserve the contraband in accordance with the applicable law of the Pueblo or state law.  Upon being found in violation of this Act by the Tribal Court, the person shall forfeit all right, title, and interest in the items seized and they shall become the property of the Pueblo.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>20.1.5</num>
+      <heading>Miscellaneous</heading>
+      <section>
+        <num>20.1.5.010</num>
+        <heading>Effective Date.</heading>
+        <text>This Act shall take effect upon the date of publication in the Federal Register by the Secretary of the Interior or the Secretary's designee.</text>
+      </section>
+      <section>
+        <num>20.1.5.020</num>
+        <heading>Repeal of Inconsistent Law or Provisions.</heading>
+        <text>The Pueblo's Ordinance Legalizing the Introduction, Possession and Sale of Intoxicants, dated January 15, 1976 and published in the January 22, 1976 Federal Register is hereby repealed in its entirety.  Further, any and all Council resolutions, or provisions in the Pueblo de San Ildefonso Civil and Criminal Code, or other laws, which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
+      </section>
+      <section>
+        <num>20.1.5.030</num>
+        <heading>Severability.</heading>
+        <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
+      </section>
+      <section>
+        <num>20.1.5.040</num>
+        <heading>Amendment.</heading>
+        <text>The Council may amend this Act upon majority vote of the Council, subject to the publication in the Federal Register by the Secretary of the Interior or his designee.</text>
+      </section>
+      <section>
+        <num>20.1.5.050</num>
+        <heading>Sovereign Immunity.</heading>
+        <text>Nothing in this Act shall be construed as a waiver of sovereign immunity or rights of the Pueblo.</text>
+      </section>
+    </container>
+  </container>
+</container>

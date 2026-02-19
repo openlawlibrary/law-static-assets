@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 021-21">
+  <num>021-21</num>
+  <heading/>
+  <meta>
+    <ordinance/>
+    <effective>2021-02-16</effective>
+    <history>
+      <adopted>2021-02-16</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/021-21.pdf">Stockbridge-Munsee Tribal Council Res. No. 021-21</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe governed by the Stockbridge-Munsee Tribal Council pursuant to authority vested in the Council by a Constitution approved in November 1937, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council has the authority under its Constitution and its inherent rights as a sovereign nation to act on behalf of the Community in area of economic affairs and other issues of self-governance;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>For the convenience of community members and governmental operations, the Tribe has taken the approach of having its ordinances publicly available on the Internet;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe is working with Open Law Library (“OLL”) to codify the Tribe’s ordinances and publish them in a new electronic tribal law library. It is OLL’s mission to make all official law freely and openly accessible to the public in human and computer readable formats and OLL develops and maintains software systems in the public domain for the performance of this mission;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>OLL’s software is capable of ensuring that the published code is:</text>
+      <text>
+        <ul>
+          <li>1. Preservable: All published laws will be maintained meet or exceed all requirements for level 2 preservation as specified by the National Digital Stewardship Alliance,</li>
+          <li>2. Authenticatable: All published laws will be authenticatable as the official laws of the Tribe. Authentication will use Open Law Library certificates, and</li>
+          <li>3. Accessible: All published laws will be available to the public through OLL or the Tribe will have ability to self-host the published laws.</li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe, as part of establishing its new online Stockbridge-Munsee Tribal Law Library, intends to codify its ordinances as the Stockbridge-Munsee Tribal Code. This codification includes reorganizing and renumbering the ordinances into titles grouping similar subject areas; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe also wishes to make the online Stockbridge-Munsee Tribal Code the official version of the Tribe’s ordinances.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Tribal Council codifies its current ordinances as the Stockbridge-Munsee Tribal Code.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>this codification of the Stockbridge-Munsee Tribal Code includes reorganizing the existing tribal ordinances into titles that group ordinances with similar subject areas. Tribal ordinances shall be reorganized, and renumbered appropriately, into the following Titles.</text>
+      <text>
+        <ul>
+          <li>
+            <text>Title GOV – Government</text>
+            <ul>
+              <li>Stockbridge-Munsee Bill Of Rights</li>
+              <li>Sovereign Immunity Ordinance</li>
+              <li>Election Ordinance</li>
+              <li>Stockbridge-Munsee Flag</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title ADM – Government Administration</text>
+            <ul>
+              <li>Procedures Ordinance</li>
+              <li>Code of Conduct</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title MEM – Tribal Membership</text>
+            <ul>
+              <li>Membership</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title TCT – Tribal Court</text>
+            <ul>
+              <li>Tribal Court Code</li>
+              <li>Civil Procedure Ordinance</li>
+              <li>Appellate Procedure Ordinance</li>
+              <li>Peacemaker Ordinance</li>
+              <li>Financial Responsibility Code</li>
+              <li>Change of Name</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title YAE – Youth and Elders</text>
+            <ul>
+              <li>Youth Code</li>
+              <li>Youth in Need of Care</li>
+              <li>Guardianship</li>
+              <li>Termination of Parental Rights</li>
+              <li>Adoption</li>
+              <li>Paternity</li>
+              <li>Juvenile Delinquency, Curfew, and Hitchhiking</li>
+              <li>Custody, Physical Placement and Visitation Ordinance</li>
+              <li>Child Support</li>
+              <li>Elder/Youth License Ordinance</li>
+              <li>Elder Protection Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title EDU – Education</text>
+            <ul>
+              <li>Education</li>
+              <li>Truancy</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title DMR – Domestic Relations</text>
+            <ul>
+              <li>Marriage</li>
+              <li>Dissolution of Marriage</li>
+              <li>Domestic Abuse Restraining Order and Injunction Ordinance</li>
+              <li>Domestic and Family Violence Ordinance</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title EMP – Employment</text>
+            <ul>
+              <li>Employee Rights Ordinance</li>
+              <li>Employee Preference Policy Ordinance</li>
+              <li>Mohican Fair Labor Standards Ordinance</li>
+              <li>Worker’s Compensation</li>
+              <li>Prevailing Wage Ordinance</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title PRP – Property and Land Management</text>
+            <ul>
+              <li>Land Ordinance</li>
+              <li>Mohican Land Use Code</li>
+              <li>Tribal Registry Office </li>
+              <li>Probate Code</li>
+              <li>Housing</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title ENV – Environment</text>
+            <ul>
+              <li>Fish and Wildlife Ordinance</li>
+              <li>Forest Resources Ordinance</li>
+              <li>Solid Waste Management Ordinance</li>
+              <li>Water Pollution Control</li>
+              <li>Air Pollution Control</li>
+              <li>Groundwater Protection Ordinance</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title GMG – Gaming</text>
+            <ul>
+              <li>Gaming Ordinance</li>
+              <li>Revenue Allocation Plan</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title SAF – Safety and Public Health</text>
+            <ul>
+              <li>General Citation Ordinance</li>
+              <li>Public Peace and Good Order Ordinance</li>
+              <li>Public Health and Safety Ordinance</li>
+              <li>Communicable Disease, Vaccination, and Quarantine Ordinance</li>
+              <li>Food Ordinance</li>
+              <li>Exclusion Ordinance</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title UTL – Utilities and Public Improvements</text>
+            <ul>
+              <li>Tribal Utility Ordinance</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title VEH – Vehicles, Roads and Traffic</text>
+            <ul>
+              <li>Road Safety Ordinance</li>
+              <li>All-Terrain Vehicle Safety Ordinance</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title BUS – Business</text>
+            <ul>
+              <li>Liquor Control Ordinance</li>
+              <li>Tobacco Ordinance</li>
+              <li>Door-to-Door Sales Ordinance</li>
+              <li>Sale and Possession of Fireworks</li>
+              <li>Commercial-Security Interests</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title TAX – Taxation</text>
+            <ul>
+              <li>Tax Ordinance</li>
+            </ul>
+          </li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>as part of this codification, the Tribal Council authorizes administrative corrections to replace inaccurate citations and references within the individual ordinances, update renumbering within and between ordinances, correct typos, and make other similar minor changes that do not change the substantive content of the ordinances that are part of the Tribal Code.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the electronic version of the Stockbridge-Munsee Tribal Code, which is published online using OLL software and which is part of the Stockbridge-Munsee Tribal Law Library, shall be the official version of such code. Additionally, this Stockbridge-Munsee Tribal Code shall be in the public domain.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>the electronic Stockbridge-Munsee Tribal Code shall be effective as of March 1, 2021.</text>
+    </recital>
+  </recitals>
+</document>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>14</num>
+  <heading>SOCIAL SERVICES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14.1</num>
+    <heading>Health and Human Services</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>14.1.1</num>
+      <heading>Department of Health and Human Services Enabling Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-022, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-022"/>
+      <section>
+        <num>14.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Annual budget items may only be included if they have first been authorized by law as required by Section 5(a)(ii)(A) of the Agreement;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds that reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council finds that establishing a Department of Health and Human Services will assist the Tribe in assessing and implementing various health care programs in a well-coordinated and collaborative manner that will enhance educational awareness, disease prevention, and healthy behavioral change.</text>
+        </para>
+      </section>
+      <section>
+        <num>14.1.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Department of Health and Human Services Enabling Act ("Act").</text>
+      </section>
+      <section>
+        <num>14.1.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>14.1.1.040</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of the Act is to establish the Department of Health and Human Services.</text>
+      </section>
+      <section>
+        <num>14.1.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>establishing a Department of Health and Services will assist the Tribe in assessing and implementing various health care programs.</text>
+        </para>
+      </section>
+      <section>
+        <num>14.1.1.060</num>
+        <heading>General Policy</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Department of Health and Human Services.</heading>
+          <text>This act shall establish the Department of Health and Human Services to in assess and implement various health care programs in a well-coordinated and collaborative manner that will enhance educational awareness, disease prevention, and healthy behavioral change.</text>
+        </para>
+      </section>
+      <section>
+        <num>14.1.1.070</num>
+        <heading>Organization of the Department of Health and Human Services</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be a Director of the Department of Health and Human Services who shall oversee the general supervision of the department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In order to promote efficiency within the Department of Health and Human Services, program offices will be established as necessary.  A program director shall oversee the general supervision of the each program office and shall report to the Director of the Department of Health and Human Services.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Department of Health and Human Services includes the following program offices:</text>
+          <para>
+            <num>(1)</num>
+            <text>Diabetes Prevention Program</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Healthy Kids</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Community Health Representatives ("CHR")</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Indian Child Welfare Act Program ("ICWA")</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>14.1.1.080</num>
+        <heading>Department of Health and Human Services Goals and Objectives</heading>
+        <text>
+          <strong>Health &amp; Human Services</strong>
+        </text>
+        <text>The mission of the Department of Health &amp; Human Services ("Department") is to assess and implement various health care programs (Diabetes Program, Community Health Representatives, Social Services, and Healthy Kids Initiative) in a well-coordinated and collaborative manner that will enhance educational awareness, disease prevention, and healthy behavioral changes.  The primary goal of the Department is to provide comprehensive health care awareness that will target multiple dimensions of health such as physical, mental, emotional, and social aspects of Pueblo members of all ages.</text>
+        <text>
+          <strong>Diabetes Prevention Program</strong>
+        </text>
+        <text>The Diabetes Prevention program office promotes prevention education and diabetes self-management education, maintains data on the identified diabetic population within the community measures diabetes care outcomes, and works with outside entities to meet community health needs and improves services.</text>
+        <text>
+          <strong>Healthy Kids</strong>
+        </text>
+        <text>The Healthy Kids program office promotes community health by implementing alcohol, drug, and tobacco prevention programs focusing on youth.  The Healthy Kids program office shall lead the community's health council initiatives.</text>
+        <text>
+          <strong>Community Health Representative ("CHR") Program</strong>
+        </text>
+        <text>The CHR program office provides management to improve and maintain the delivery systems for general health care, gerontological health care, maternal and child health, and environmental health.  The CHR program office shall coordinate with health resource agencies to assure the provision of necessary health care services to Pueblo members.</text>
+        <text>
+          <strong>Indian Child Welfare Act Program ("ICWA")</strong>
+        </text>
+        <text>The ICWA program office manages the Pueblo's child welfare system including working toward protecting the children of the Pueblo from child abuse, neglect, and the separation of families through collaborative work with families.  The ICWA program office shall provide a central contact point for families seeking assistance in temporary and permanent placement of children.</text>
+      </section>
+      <section>
+        <num>14.1.1.090</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this enabling act or reorganize the Department of Health and Human Services at any time upon majority vote of the Council.</text>
+      </section>
+      <section>
+        <num>14.1.1.100</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+      </section>
+      <section>
+        <num>14.1.1.110</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>14.1.2</num>
+      <heading>Approving the Pueblo de San Ildefonso's Fy2016 BIA Indian Highway Child Passenger Safety Seat Program</heading>
+      <section>
+        <num>14.1.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Bureau of Indian Affairs, Office of Justice Services, Northern Pueblo Agency is responsible for administering, developing, and implementing organizational objectives for Law Enforcement, Drug Enforcement, and Highway Safety;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The BIA, Office of Justice Services, NPA oversees the BIA Indian Highway Safety Program which seeks "to reduce the number and severity of traffic crashes in Indian Country by supporting education, and enforcement, as well as Safe Tribal Communities Programs;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Highway Safety Act of 1966, U.S.C. Title 23, Section 402, and the U.S. Department of Transportation is providing funding to assist Indian tribes in implementing traffic safety projects;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo and BIA Office of Justice Services, NPA have recognized the need to implement a Child Passenger Safety Seat Program solely for the benefit of the Pueblo de San Ildefonso;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo de San Ildefonso recognizes the need to implement a Child Passenger Safety Seat Program in order to reduce the high number of crashes and their resulting fatalities, and safety seat injuries within the exterior boundaries of the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>14.1.2.020</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby approves the Pueblo de San Ildefonso the Pueblo de San Ildefonso FY 2016 BIA Indian Highway Child Passenger Safety Seat Program and future years.</text>
+      </section>
+    </container>
+  </container>
+</container>

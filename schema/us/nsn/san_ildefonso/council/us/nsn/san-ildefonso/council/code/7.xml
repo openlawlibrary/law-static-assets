@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>7</num>
+  <heading>CIVIL PROCEDURES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.1</num>
+    <heading>Civil Procedures</heading>
+    <annotation type="History">1984 Code</annotation>
+    <container>
+      <prefix>Part</prefix>
+      <num>7.1.1</num>
+      <heading>Civil Procedure: Pre-Trial Procedure</heading>
+      <section>
+        <num>7.1.1.010</num>
+        <heading>Process for Civil Action</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any civil proceeding way be instituted in the Pueblo of San Ildefonso Tribal Court by the filing of a complaint with the clerk, stating the names of the plaintiff and the defendant, and the facts constituting the grievance for which relief is requested and the nature of the relief requested.  The complaint shall be signed by the plaintiff.  Upon the filing of a complaint, the Clerk shall issue a summons to which shall be attached a copy of the complaint directing the defendant to appear before the Tribal Court to answer the complaint at the time and place specified which shall be not more than fifteen (15) days from the date of serving the summons and copy of the complaint.  A trial shall thereupon be conducted; or, in the discretion of the Court a later trial date may be set, especially if a counterclaim is filed by the defendant.  The general common law shall apply in Civil Procedures of this Code.  Before any complaint is filed, there must be a showing by the plaintiff that all other remedies offered by this Code have been exhausted.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.1.020</num>
+        <heading>Complaint and Answer</heading>
+        <para>
+          <num>(a)</num>
+          <text>The complaint shall contain the title of the action naming the parties as plaintiff and defendant.  A plain concise statement of the facts with dates, places, acts, etc., constituting a cause of action shall be made together with a demand for relief.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>When the demand for relief by the plaintiff is the recovery of property, such property shall be fully described and, if money is demanded, the amount asked for shall be stated;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The answer may contain a denial of each allegation of the complaint made by the defendant, or parts thereof, that the facts stated do not constitute a cause of action, that there is another action pending between the same parties for the same cause, that the plaintiff has no legal right to sue, that the action was not started within the period of three (3) years following the acts complaint of and for which relief is sought.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The defendant may make a counterclaim in his answer to the charge in the compliant and in that event the plaintiff shall have ten (10) days in which to answer and file a copy of his reply with the Clerk of the Court.  If the defendant files a cross-claim against a third party defendant, the their party defendant shall be served in the same manner as set forth in this Section for service of process and shall have ten (10) days to answer the cross-claim.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.1.030</num>
+        <heading>Service</heading>
+        <para>
+          <num>(a)</num>
+          <text>The summons and complaint shall be served on the defendant by personal service or by mail.  Service by mail shall be made by the Clerk by registered or certified mail, return receipt requested.  The ten (10) dyas for service of process shall begin upon receipt by the defendant of the registered or certified mail as evidenced by the notice of receipt.  The summons and complaint may be served personally by delivery to the defendant in person, by leaving copies thereof on the door of such abode.  Any person designated by the Clerk, over twenty-one (21) years of age other than the plaintiff, may make personal service.  The return receipt on mail delivery shall be kept in the docket as evidence of the receipt of notice and an affidavit of service shall be returned to the Clerk and filed in the docket which shall constitute proof of personal service.  The same provisions for service of process shall apply to cross claims.  Any defendant making an answer, counter-claim or cross-claim shall file such pleadings with the Clerk of the Court and the Clerk of the Court will be responsible for mailing counter-claims and answers to the plaintiffs immediately upon filing.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.1.040</num>
+        <heading>Filing Fee</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any complaint filed in a civil action before the Tribal Court must be accompanied with the established filing fee determined by the Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.1.050</num>
+        <heading>Long Arm Service</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person subject to the jurisdiction of the Pueblo of San Ildefonso Tribal Court may be served outside the territorial jurisdiction of the Court in the manner provided in with the same force and effect as if the service has been made within the territorial jurisdiction thereof, if such person:</text>
+          <para>
+            <num>(1)</num>
+            <text>Transacts business or does an act leading to a civil action within the Pueblo;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Owns, uses or possesses any property or interest therein within the Pueblo;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Contracts for serviced to be rendered or good to furnished within the Pueblo.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>7.1.2</num>
+      <heading>Rules for Civil Procedure: Civil Trial Procedure</heading>
+      <section>
+        <num>7.1.2.010</num>
+        <heading>Right to jury</heading>
+        <para>
+          <num>(a)</num>
+          <text>Civil cases shall be tried by the Court, unless the case is one to which a party would have a right to a jury trial under the laws of the United States and provided the party entitled to jury trial makes demand therefore to the Court in writing at least five (5) days before the trial date set in the summons and agrees to pay the cost of the jury trial in the first instance by the party or parties demanding the jury trial, but in the event the verdict is in favor of such party, the costs is recoverable from the losing party.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.2.020</num>
+        <heading>Trial</heading>
+        <para>
+          <num>(a)</num>
+          <text>If a jury is demanded, the Court shall empanel a jury in the manner provided in this Code and the jury selected to try the case shall reach a verdict by majority vote based upon the preponderance of the evidence.  At a trial without a jury, the Court shall hear the evidence and determine the grievance set forth in the complaint and any answer or counterclaim or cross-claim presented by the defendant and determine the relief to be granted, if any.  Any party, at the beginning or end of the trial, may move the Court for a judgment for dismissal of the complaint or such other or further relief as the motion may state.  The burden of proof is upon the plaintiff.  If the plaintiff establishes the facts necessary to sustain his burden of proof, after the plaintiff has rested his case the burden or proof shifts to the defendant.  Witnesses who give direct testimony may be cross-examined as to their testimony and rebuttal witnesses may be called to testify and be cross-examined.  Evidence may be introduced after a proper foundation has been laid and its relevance to the facts established.  The plaintiff must prove the allegations in the complaint by a preponderance of the evidence, unless another standard of proof is found to apply.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.2.030</num>
+        <heading>Witnesses and Evidence</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court shall order by subpoena the appearance of any individual as witness in a hearing or trial upon request from either party.  Upon the failure of any person to answer such subpoena, the Court may order a Law Enforcement Officer to bring such person before the Court to determine if that person shall be held in Contempt.  The Court may also order the production of books, records of other physical evidence, and compel compliance therewith in the same manner.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>7.1.3</num>
+      <heading>Civil Post-Trial Procedure</heading>
+      <section>
+        <num>7.1.3.010</num>
+        <heading>Judgment of Court or jury</heading>
+        <para>
+          <num>(a)</num>
+          <text>At the conclusion of the proceeding, the Court of Jury shall render a judgment in favor of the plaintiff, if allegations are proved beyond a preponderance of the evidence or other standard of proof found applicable, or the defendant, if the allegations are not so prove, in such amount or order such other relief as the evidence and the law may require or as the jury may find.  The Court or jury may also find for the defendant against a third party under a cross-claim or a third party defendant under a cross-claim.  In a damage case:</text>
+          <para>
+            <num>(1)</num>
+            <text>Where the injury inflicted was the result of carelessness of the defendant, the judgment shall fairly compensate the injured party of the loss suffered.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Where the injury was willfully inflicted, the judgment may impose an additional penalty upon the defendant for the benefit of the injured party, not to exceed triple the amount of the judgment.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Where the plaintiff and defendant were both at fault, the judgment shall be at the discretion of the court or jury.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>7.1.3.020</num>
+        <heading>Costs in Civil Action</heading>
+        <para>
+          <num>(a)</num>
+          <text>Unless the Court provides otherwise, Court costs incurred by the winning party shall be included in any judgment, including filing fees, service fees, expense of involuntary witnesses, expert witness fees, compensation of jurors, and other incidental expenses.  Costs shall not be allowable against the Pueblo of San Ildefonso or any agency thereof which may be party in a civil case.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.3.030</num>
+        <heading>Default Judgment</heading>
+        <para>
+          <num>(a)</num>
+          <text>Upon failure of a defendant to appear at the time stated in the summons, the other party may proceed to offer evidence including proof that the defendant was served with summons, and the Court may render a judgment granting such relief as demanded in the complaint provided that the defaulting party may apply in writing for a new trial within ten (10) days of a default judgment, after showing good cause for his failure to answer the summons.  Upon failure of plaintiff without just cause to appear at the time set by the summons for hearing, the Court shall dismiss the cause with prejudice.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.3.040</num>
+        <heading>Appeal</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any aggrieved party in a civil proceeding may appeal within ten (10) days after judgment order of the Court.  All appeals shall be in accordance with appeal procures established by the rules of the Pueblo of San Ildefonso Judiciary.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.3.050</num>
+        <heading>Enforcement of judgment</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Court may enforce judgments in civil proceedings by issuing a writ of execution against any eligible personal property of the party against whom judgment is rendered which is located or found within the jurisdiction of the Pueblo returnable not less than ten (1) days after the day of issuance.  The writ of execution will be served by a Law Enforcement Officer.</text>
+          <para>
+            <num>(1)</num>
+            <text>Whenever a judgment orders the payment of damages and costs and payment is not made within the time specified therein and when the party against whom judgment is rendered has sufficient funds to his credit at the Northern Pueblo Agency to pay all or part of the judgment, the Clerk shall require the party to sign Form 5-139 and deliver the signed forma and a copy of the judgment to the Superintendent who shall pay over to the Cout the amount specified in the judgment or such lesser amount as may be held to the credit of such party for payment to party entitled to the judgment.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A judgment shall be considered a lawful debt in all procedures to distribute a defendant's estate.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>No judgment of the Court for money shall be enforceable after five (5) years from the date of entry, unless the judgment shall have been renewed once before the date of expiration by institution of appropriate proceedings in the Court by the judgment creditor filing an application for renewal and the court thereupon shall order the judgment renewed and extended for an additional year.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An unsatisfied judgment may be filed as a lien against funds owing the defendant by the pueblo of San Ildefonso by having the Clerk deliver a copy of the judgment to the Governor or the Treasurer of the Tribe and they shall pay over to the Court the amount specified in the judgment as funds become available to the credit of such party.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Satisfaction of a judgment is not a burden of the Court or its Clerk and the judgment creditor must notify the Court in writing of full or partial satisfaction.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The writ of execution may specify personal property to be seized in satisfaction of any judgment and any property seized may be subject to sale by the Court to satisfy the judgment after ten (10) days notice by posting public notice of such sale.  The sale will be conducted by the Clerk and sale will be to the highest bidder for cash, but not less than the appraised value of the property.  The proceeds of such sale will be paid by the Clerk as follows:</text>
+            <para>
+              <num>(A)</num>
+              <text>All costs of the sale;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>All unpaid Court costs;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The amount of the unsatisfied judgment;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Any balance will be paid to the defendant; and</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Any unpaid amount of the judgment shall remain unsatisfied.</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>A judgment shall be satisfied when there is filed with the Clerk of the Court:</text>
+            <para>
+              <num>(A)</num>
+              <text>An officer's or Court Clerk's return on an execution showing the amount of the judgment an all costs have been paid in full.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Statement signed and acknowledged by the judgment creditor that the judgment has been paid in full filed with the Court; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>By order of the Court, made on a motion by the judgment debtor, the agent or heirs after a hearing in which all interested parties were given an opportunity to be heard.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>7.1.4</num>
+      <heading>Foreign Judgments: Uniform Enforcement of Foreign Judgment Act</heading>
+      <section>
+        <num>7.1.4.010</num>
+        <heading>Definitions</heading>
+        <text>As used in this CHAPTER:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Foreign Judgment" means judgment, decree of order of a Court of the United States or of any estate or territory which is entitled to full faith and credit in this Reservation.  (Cross reference to "Reciprocity of Decisions" Judicial Act, Section II. D.)</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Register" means to file a foreign judgment in the Pueblo of San Ildefonso Court.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Levy" means to take control of or create a lien upon property under any judicial writ or process whereby satisfaction of a judgment may be enforced against such property.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Judgment debtor" means the party against whom a foreign judgment has been rendered.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.020</num>
+        <heading>Registration of Judgment.</heading>
+        <para>
+          <num>(a)</num>
+          <text>On application made within the time allowed for bringing an action on a foreign judgment in this Pueblo any person entitled to bring such action may have a foreign judgment registered in the Pueblo Trial Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.030</num>
+        <para>
+          <num>(a)</num>
+          <text>A verified petition for registration shall set forth a copy of the judgment to be registered, the date of its entry and the record of any subsequent entries affecting it (such as levies of execution, payments in partial satisfaction and the like) all authenticated in the manner authorized by the laws of the United States or of this Pueblo, and a prayer that the judgment be registered. The Clerk of the registering Court shall notify the Clerk of the Court which rendered the original judgment that application for registration has been made, and shall request him to file this information with the judgment.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.040</num>
+        <heading>Personal Judgment.</heading>
+        <para>
+          <num>(a)</num>
+          <text>At any time after registration the petitioner shall be entitled to have summons served upon the judgment debtor as in an action brought upon the foreign judgment, in any manner authorized by the law of this Pueblo for obtaining jurisdiction of the person.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.050</num>
+        <heading>Notice in Absence of Personal Jurisdiction.</heading>
+        <para>
+          <num>(a)</num>
+          <text>If jurisdiction of the person of the judgment debtor cannot be obtained, a notice clearly designated the foreign judgment and reciting the fact of registration, the Court in which it is registered, and the time allowed for pleading, shall be sent by the Clerk of the registering Court by registered mail to the last known address of the judgment debtor. Proof of such mailing shall be made by certificate of the Clerk.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.060</num>
+        <heading>Levy</heading>
+        <para>
+          <num>(a)</num>
+          <text>At any time after registration and regardless of whether jurisdiction of the person of the judgment debtor has been secured or final judgment has been obtained, a levy may be made under the registered judgment upon any property of the judgment debtor which is subject to execution or other judicial process for satisfaction of judgment.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.070</num>
+        <heading>New Personal Judgment</heading>
+        <para>
+          <num>(a)</num>
+          <text>If the judgment debtor fails to plead within sixty (60) days after jurisdiction over his person has been obtained, or if the Court after hearing has refused to set the registration aside, the registered judgment shall became a final personal judgment of the Court in which it is registered.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.080</num>
+        <heading>Defenses</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any defenses, set-off, counterclaim or cross-complaint which under the law of this Pueblo may be asserted by the defendant in any action on the foreign judgment may be presented by appropriate pleadings and the issues raised thereby shall be tried and determined as in other civil actions. Such pleadings must be filed within sixty (60) days after personal jurisdiction is acquired over him or within sixty (60) days after the mailing of the notice prescribed in this Code.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.090</num>
+        <heading>Pendency of Appeal.</heading>
+        <para>
+          <num>(a)</num>
+          <text>If the judgment debtor shows that an appeal from the original judgment is pending or that he is entitled and intends to appeal therefrom, the Court shall, on such terms as it thinks just, postpone the trial for such time as appears sufficient for the appeal to be concluded, and may set aside the levy upon proof that the defendant has furnished adequate security for satisfaction of the judgment.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.100</num>
+        <heading>Effect of Setting Aside Registration</heading>
+        <para>
+          <num>(a)</num>
+          <text>An order setting aside a registration constitutes a final judgment in favor of the judgment debtor.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.110</num>
+        <heading>Appeal</heading>
+        <para>
+          <num>(a)</num>
+          <text>An appeal may be taken by either party from any judgment sustaining or setting aside a registration on the same terms as an appeal from a judgment of the same Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.120</num>
+        <heading>New judgment</heading>
+        <para>
+          <num>(a)</num>
+          <text>If personal jurisdiction of the judgment debtor is not secured within sixty (60) days after the levy and he has not, within sixty (60) days after mailing of the notice prescribed by act to set aside the registration or to assert a setoff, counterclaim, or cross-complaint, the registered judgment shall be final judgment of the Court in which it is registered, binding upon the judgment debtor's interest in property levied upon, and the Court shall enter an order to that effect.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.130</num>
+        <heading>Sale Under Levy</heading>
+        <para>
+          <num>(a)</num>
+          <text>Sale under the levy may be held at any time after final judgment, but not earlier. Sale and distribution of the proceeds shall be made in accordance with the law of this Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.140</num>
+        <heading>Interest and Costs</heading>
+        <para>
+          <num>(a)</num>
+          <text>When a registered foreign judgment becomes a final judgment of this Pueblo, the Court shall include as part of the judgment interest payable on the foreign judgment under the law of the State in which it was rendered, and the cost of obtaining the authenticated copy of the original judgment. The Court shall include as part of its judgment Court costs incidental to the proceeding in accordance With the law of this Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.150</num>
+        <heading>Satisfaction of judgment</heading>
+        <para>
+          <num>(a)</num>
+          <text>Satisfaction, either partial or complete, of the original judgment or of a judgment entered thereupon in any other state shall operate to the same extent as satisfaction of the judgment in this Pueblo as to costs authorized by this Section.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.160</num>
+        <heading>Optional Procedure</heading>
+        <para>
+          <num>(a)</num>
+          <text>The right of a judgment creditor to bring an action to enforce his judgment instead of proceeding under this chapter remains unimpaired.</text>
+        </para>
+      </section>
+      <section>
+        <num>7.1.4.170</num>
+        <heading>Construction</heading>
+        <para>
+          <num>(a)</num>
+          <text>This chapter shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states and tribes which enact it.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+</container>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 055-10">
+  <num>055-10</num>
+  <heading/>
+  <meta>
+    <ordinance>Membership</ordinance>
+    <effective>2010-08-13</effective>
+    <history>
+      <adopted>2010-07-20</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/055-10.pdf">Stockbridge-Munsee Tribal Council Res. No. 055-10</citation>
+      <citation type="res" url="./BIA/055-10.pdf">BIA Approval for Res. No. 055-10</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe governed by the Stockbridge-Munsee Tribal Council pursuant to authority vested in the Council by a Constitution approved in November 1937; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council has the authority under its Constitution and its inherent rights as a sovereign nation to act on behalf of the Community in area of economic affairs and other issues of self-governance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council is the final forum for determinations of tribal membership; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council desires to clarify the manner in which tribal membership appeals will be processed in the final forum;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 44, which include the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>Deleting <cite doc="Stockbridge-Munsee Tribal Code" path="44.6" proof="needed">Section 44.6</cite>; and</li>
+          <li>Renumbering <cite doc="Stockbridge-Munsee Tribal Code" path="44.7" proof="needed">44.7</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="44.8" proof="needed">44.8</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="44.9" proof="needed">44.9</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="44.10" proof="needed">44.10</cite>; and</li>
+          <li>Creating new Sections <cite doc="Stockbridge-Munsee Tribal Code" path="44.6|(C)" proof="needed">44.6 (C)</cite> (5) (a) and (b); and</li>
+          <li>Renumbering <cite doc="Stockbridge-Munsee Tribal Code" path="44.6|(C)" proof="needed">Section 44.6 (C)</cite> (5) (c);and</li>
+          <li>Creating new <cite doc="Stockbridge-Munsee Tribal Code" path="44.6|(D)" proof="needed">Section 44.6 (D)</cite>; and</li>
+          <li>Renumbering Sections <cite doc="Stockbridge-Munsee Tribal Code" path="44.6|(E)" proof="needed">44.6 (E)</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+  <annotations>
+    <annotation type="Legislative History">Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.01">Section EMP.01.01</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.02|(e)">Section EMP.01.02(e)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.02|(f)">Section EMP.01.02(f)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.02|(j)">Section EMP.01.02(j)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(e)">Section EMP.01.03(e)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(f)">Section EMP.01.03(f)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(i)">Section EMP.01.03(i)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(j)|(1)">Section EMP.01.03(j)(1)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(l)">Section EMP.01.03(l)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03|(m)">Section EMP.01.03(m)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.05">Section EMP.01.05</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">Section EMP.01.06</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(g)">Section EMP.01.07(g)</cite>; created new <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.02|(k)">Section EMP.01.02(k)</cite>; deleted <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07|(h)">Section EMP.01.07(h)</cite>, and renumbering <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.02|(l)">Section EMP.01.02(l)</cite>-(P) and <cite path="§53.5|(I)">53.5(I)</cite>.  The version forwarded to the BIA for approval included both the 2007 amendments and those adopted in 2010.  Approved by the BIA, except for <cite path="§53.8">Section 53.8</cite>.  <cite path="§53.8">Section 53.8</cite>, regarding the need for BIA approval of future amendments, was deleted.</annotation>
+  </annotations>
+</document>

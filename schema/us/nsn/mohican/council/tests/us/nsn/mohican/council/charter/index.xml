@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Federal Corporate Charter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://open.law/schemas/library
+  ../../../../../../../../../ngo/oll/_schemas/v0.1/docs/charter.xsd">
+  <heading>Stockbridge-Munsee Federal Corporate Charter</heading>
+  <meta>
+    <effective>1996-06-21</effective>
+    <citations>
+      <citation type="charter" url="./charter/adopted/charter.pdf">Stockbridge-Munsee Federal Corporate Charter</citation>
+      <citation type="charter" url="./charter/PL_106-216.pdf">Pub. L. 106-216</citation>
+      <citation type="res" url="../council/resolutions/1995/adopted/1533-95.pdf">Stockbridge-Munsee Tribal Council Res. No. 1533-95</citation>
+      <citation type="res" url="../council/resolutions/1996/adopted/047-96.pdf">Stockbridge-Munsee Tribal Council Res. No. 047-96</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Editor's Notes">The Stockbridge-Munsee Community's initial Federal Corporate Charter adopted in 1938 under the Indian Re-organization Act was surrendered and revoked by Act of Congress on June 20, 2000. The Stockbridge-Munsee Community had adopted a new Federal Corporate Charter in 1995, which was approved in 1996. See the Information tab on the left for supporting documents.</annotation>
+  </annotations>
+  <text class="center">
+    <strong>FEDERAL CHARTER OF INCORPORATION</strong>
+  </text>
+  <text class="center">
+    <strong>ISSUED BY</strong>
+  </text>
+  <text class="center">
+    <strong>THE UNITED STATES OF AMERICA</strong>
+  </text>
+  <text class="center">
+    <strong>Department of the Interior</strong>
+  </text>
+  <text class="center">
+    <strong>Bureau of Indian Affairs</strong>
+  </text>
+  <text class="center">
+    <strong>TO</strong>
+  </text>
+  <text class="center">
+    <strong>THE STOCKBRIDGE-MUNSEE COMMUNITY</strong>
+  </text>
+  <text class="center">
+    <strong>FOR</strong>
+  </text>
+  <text class="center">
+    <strong>THE MOHICAN CORPORATION</strong>
+  </text>
+  <text class="center">
+    <strong>A Federally Chartered Tribal Business Corporation</strong>
+  </text>
+  <text class="center">
+    <strong>KNOW ALL BY THESE PRESENT THAT</strong>
+  </text>
+  <strong>RECITALS</strong>
+  <recital>
+    <conjunction>WHEREAS</conjunction>
+    <text>the Congress of the United States enacted the Act of June 18,  1934  (48 Stat. 984), as amended, commonly known as the "Indian  Reorganization  Act"  (IRA),  which in part authorizes the Secretary of the Interior to issue a Federal Corporate Charter to an Indian Tribe; and,</text>
+  </recital>
+  <recital>
+    <conjunction>WHEREAS</conjunction>
+    <text>the Indian people of the Stockbridge-Munsee Indian Reservation are duly organized as a federally recognized Indian tribal government as the Stockbridge-Munsee Community; and,</text>
+  </recital>
+  <recital>
+    <conjunction>WHEREAS</conjunction>
+    <text>on September 19, 1995 the governing body of the Stockbridge-Munsee Community petitioned the Secretary of the Interior to issue a Federal Charter of incorporation to the Stockbridge-Munsee Community to establish a business corporation as authorized by Section 17 of the Indian Reorganization Act, as amended at 25 U.S.C. § 477); and,</text>
+  </recital>
+  <recital>
+    <conjunction>WHEREAS</conjunction>
+    <text>all of the legal prerequisites to the issuance of this Charter have been fulfilled;</text>
+  </recital>
+  <recital>
+    <conjunction>Now, Therefore,</conjunction>
+    <text>I, Ada E. Deer, Assistant Secretary of the Interior for Indian Affairs, by virtue of the power conferred upon the Secretary of the Interior by the said Act and delegated to me, do hereby issue this <strong>CHARTER OF INCORPORATION </strong>to the Stockbridge-Munsee Community, State of Wisconsin, for the Mohican Corporation, to be operative when ratified by the governing body of the Stockbridge-Munsee Community.</text>
+  </recital>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>I</num>
+    <heading>CORPORATE IDENTITY AND STATUS</heading>
+    <para>
+      <num>(1)</num>
+      <text>The name of the Corporation is Mohican Corporation ("Corporation").</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>This corporation is organized, incorporated and granted its corporate powers, privileges and immunities under the laws of the United States as a federally chartered Indian business corporation.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>This corporation is a distinct legal entity wholly owned by the Stockbridge-Munsee Community ("Community").  Mohican Corporation's activities, transactions, obligations, liabilities and property are not those of the Community.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Nothing in this Charter shall be deemed to have waived or to permit the corporation to waive the sovereign immunity from suit of agencies or enterprises of the Stockbridge-Munsee Community except where other provisions in this Charter specifically state otherwise.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Mohican Corporation shall have the same immunity from taxation under Federal and tribal law as the Stockbridge-Munsee Community but shall be subject to tribal taxes where applicable.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>II</num>
+    <heading>PRINCIPAL OFFICE</heading>
+    <text>The principal office of Mohican Corporation shall be located within the exterior boundaries of the Stockbridge-Munsee reservation. The Mohican Corporation may have such other offices, either within or without the Stockbridge-Munsee reservation, as the Board of Directors may designate or as the business of the Corporation may require from time to time.</text>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>III</num>
+    <heading>OWNERSHIP OF THE CORPORATION</heading>
+    <para>
+      <num>(1)</num>
+      <text>The aggregate number of shares which the Corporation shall have authority to issue is 50,000 shares with a par value of One Dollar ($1.00).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Corporation shall be owned solely by the Stockbridge-Munsee Community for the benefit of the Community and its recognized members.  No individual or legal entity other than the Stockbridge-Munsee Community shall acquire any ownership interest in the Corporation.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <para>
+        <num>(a)</num>
+        <text>The Community's share in the Corporation shall not be sold, transferred, pledged or hypothecated, voluntarily or involuntarily, without the prior written consent of the Stockbridge-Munsee Tribal Council and the approval of the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council shall not take any action to sell or transfer, voluntarily and involuntarily, the Community's share in the Corporation without first holding a referendum in which a majority of the voters approve such action.</text>
+        <para>
+          <num>1.</num>
+          <text>At least thirty (30) percent of all eligible voters or fifty (50) percent of all eligible resident voters must vote upon the referendum. The deciding majority shall include a majority of resident voters.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>All rights of the shareholder of the Corporation shall be exercised by the Stockbridge-Munsee Tribal Council on behalf of the Stockbridge-Munsee Community in accordance with this Charter and applicable tribal law.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>IV</num>
+    <heading>PERIOD OF DURATION</heading>
+    <text>The period of the Corporation's duration is perpetual, or until this Charter is revoked or surrendered by Act of Congress, pursuant to 25 U.S.C. § 477, as amended.</text>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>V</num>
+    <heading>CORPORATION PURPOSES</heading>
+    <para>
+      <num>(1)</num>
+      <text>To engage in any type of lawful business, enterprise or venture, when authorized to do so by written resolution of the Board of Directors of the Mohican Corporation; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To promote the economic development of the Stockbridge-Munsee Community; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To enable the Stockbridge-Munsee Community to develop its resources for the benefit of the members of the Stockbridge-Munsee Community.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>VI</num>
+    <heading>CORPORATION POWERS</heading>
+    <text>Subject to applicable Federal law, this corporation is expressly authorized and empowered:</text>
+    <para>
+      <num>(1)</num>
+      <text>To adopt, use and alter at its pleasure a corporate seal.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To sue in its corporate name and, notwithstanding the immunity possessed by the Corporation as an agency of the Tribe, to permit by written resolution of the Board of Directors, suit against itself in its corporate name in courts of competent jurisdiction within the United States; or elsewhere; <u>Provided</u>, However, That this power does not authorize the levy of any judgment, lien, garnishment or attachment upon any property or income of the corporation other than corporate property or income specifically and in writing duly mortgaged, pledged or assigned as collateral for its corporate debts or liabilities by the Board of Directors.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To purchase, take by gift, bequest, lease or otherwise, and to own, hold, manage, operate, use and otherwise deal in and with real or personal property of every description or any interest therein, wherever situated, including the power to purchase restricted Indian land and issue in exchange therefore interests in corporate property; <u>Provided</u>, That interest in real property acquired by the corporation shall be put into Federal trust status for the Community whenever possible under Federal law.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To sell, convey, mortgage, pledge, lease, exchange, transfer or otherwise dispose of all or any part of its corporate property or assets; <u>Provided</u>, However, That this Corporation has no authority to sell, mortgage, or lease for a period of time exceeding that authorized by Federal law, any trust or restricted lands included within the exterior boundaries of the Stockbridge-Munsee reservation.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Notwithstanding any other provision in this charter, before the Board of Directors is authorized to sell or otherwise dispose of all or substantially all of the Corporation's assets, reasonable notice shall be given to the governing body of the Stockbridge-Munsee Community and its concurrence to such transaction shall be obtained.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>To make contracts or agreements, incur liabilities and borrow money in any amount, from any source, upon such terms and at such rates of interest as the Corporation may determine; to issue notes, bonds and other obligations and secure any of its obligations by specifically mortgaging, pledging or assigning its corporate property or income as collateral for, its corporate debts or liabilities, all without the approval of the Secretary of the Interior, except when its use of trust or federally-restricted Indian property requires such approval.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>To lend or invest money for its corporate purposes and to take and hold real and personal property as security for the payment of funds so loaned or invested.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>To conduct it business, carry on its operations, have offices and exercise the powers granted by this charter within or without the boundaries of the Stockbridge-Munsee reservation.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>To elect or appoint officers and agents of the corporation and define their duties and fix their compensation.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>To have and exercise all powers incidental, necessary or convenient to the conduct of corporate business, not inconsistent with tribal or federal law or Article VII.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>VII</num>
+    <heading>LIMITATIONS ON CORPORATE POWERS</heading>
+    <text>The Corporation shall have no power:</text>
+    <para>
+      <num>(1)</num>
+      <text>To expressly or implicitly enter into any agreement of any kind on behalf of the Stockbridge-Munsee Community.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To pledge the credit of the Stockbridge-Munsee Community.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To dispose of, pledge, or otherwise encumber real or personal property of the Stockbridge-Munsee Community, except as explicitly authorized in lease or other agreements between the Corporation and the Stockbridge-Munsee Community.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To waive any right, privilege or immunity of, or release any obligation owed to, the Stockbridge-Munsee Community.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>VIII</num>
+    <heading>SHAREHOLDER ACTION</heading>
+    <para>
+      <num>(1)</num>
+      <heading>Annual Meeting.</heading>
+      <text>The Corporation shall hold an annual meeting with the shareholder on the 15th day of the month of January beginning with the year 1996, at the hour of 7:00 p.m., for the purpose of appointing Directors and the transaction of any business that may come before said meeting. If the day fixed for the annual meeting shall be a holiday, Saturday or Sunday, such meeting shall be held on the next succeeding business day. If the appointment of Directors shall not be held on the date designated herein for any annual meeting of the shareholder, or at any adjournment thereof, the Board of Directors shall cause the appointment to be held at a special meeting of the shareholder as soon thereafter as is convenient.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <heading>Special Meetings.</heading>
+      <text>Special meetings with the shareholder for any purpose or purposes, unless otherwise prescribed by applicable law, may be called by a majority of the Directors, upon ten (10) days notice to the shareholder, such notice to contain a statement of the business to be transacted at such meeting, and to be served personally or sent through the Post Office, addressed to the Tribal President of the Stockbridge-Munsee Community; but at any meeting of the Stockbridge-Munsee Tribal Council at which a quorum of the Council is present, the giving of notice as above described may dispensed with and notice of the special meeting may be given at the Tribal Council meeting. Any business in addition to that specified in the notice of the meeting may be transacted at any special meeting of the shareholder with the consent of the Stockbridge-Munsee Tribal Council.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <heading>Voting.</heading>
+      <text>At all meetings of the shareholder, all questions shall be determined in the manner provided by the laws of the Stockbridge-Munsee Community for actions of the Tribal Council, or by any applicable Federal law.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>IX</num>
+    <heading>BOARD OF DIRECTORS MEMBERSHIP, QUALIFICATIONS, TERMS, REMOVAL AND VACANCIES</heading>
+    <text>The business affairs of the Corporation shall be managed exclusively by its Board of Directors. The Stockbridge-Munsee Community shall have no authority to direct the business affairs of the Corporation, except through its status as the sole shareholder of the Corporation and as provided by this Charter.</text>
+    <para>
+      <num>(1)</num>
+      <heading>Number to be Appointed.</heading>
+      <text>The initial Board of Directors shall consist of seven (7) members appointed for staggered terms by the Stockbridge-Munsee Tribal Council. Two board positions shall be for 1-year terms, three Board positions shall be for 2-year terms, and two Board positions shall be for 3-year terms. The number of Directors may thereafter be increased or decreased at any time by a duly adopted resolution of the shareholder.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <heading>Composition.</heading>
+      <text>All Directors of the Corporation shall be tribal members of the Stockbridge-Munsee Community.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <heading>Resignations.</heading>
+      <text>Directors may resign by submitting written notice of their resignation, and such resignation shall be accepted by the Board at the next Board meeting.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <heading>Removal.</heading>
+      <text>Any Director of the Board may be removed for cause by a majority vote of the Directors of the Board or by the Stockbridge-Munsee Tribal Council at a duly called meeting of said Board or Council after the Board or Council has had the opportunity to fully review the matters constituting cause for removal and after allowing any Board Director so affected to appear before the Board or Council and respond to allegations which constitute cause for removal. Cause for removal shall be limited to the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Such a Director has failed to attend any four (4) meetings of the Board out of any eight (8) consecutive meetings, unless any of such absences is excused by the Board; or,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Such a Director has been convicted of any crime reflecting upon such member's honesty or ability to fulfill the fiduciary obligations imposed by law upon such member; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Board has found, in a meeting wherein such a topic is scheduled for discussion, that such member has committed malfeasance and breached his fiduciary duties to the Corporation or has been adjudged in any action, suit, or other lawful proceeding to be liable for negligence or misconduct in the performance of his or her management duties.</text>
+      </para>
+      <text>A vacancy shall exist from the date of any Board meeting at which a Director is removed or whose resignation is accepted as provided above.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <heading>Appointments to Vacancies.</heading>
+      <text>The Stockbridge-Munsee Tribal Council shall name new appointments to fill any vacancies in the Board of Directors within thirty (30) days of the Directors meeting where such vacancy occurs.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>X</num>
+    <heading>AUTHORITY OF THE BOARD OF DIRECTORS</heading>
+    <text>The Board of Directors shall manage the general affairs and business of the Corporation. The Directors shall in all cases act as a Board, regularly convened, by a majority vote, and they may adopt such rules and regulations for the conduct of their meetings and the management of the Corporation as they may deem proper, not inconsistent with this Charter, the bylaws of the Corporation and applicable tribal or federal law. The Vice-Chairperson shall assume the duties of the Chairperson in the absence of the Chairperson.</text>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XI</num>
+    <heading>DISQUALIFICATION OF OFFICERS OR DIRECTORS</heading>
+    <text>A Director or officer shall vacate his office if during the term of his or her office, s/he shall be party to a contract for profit with the Corporation differing in any way from the business relations accorded the shareholder of this Corporation on his/her private account.</text>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XII</num>
+    <heading>MEETINGS OF THE BOARD OF DIRECTORS</heading>
+    <para>
+      <num>(1)</num>
+      <heading>Regular Meetings.</heading>
+      <text>Regular meetings of the Board of Directors shall be held with written notice of at least three (3) days prior to the date fixed for such meeting, setting forth the time, place and purpose of the meeting. Four (4) Directors shall constitute a quorum for a meeting of the Board of Directors. The Directors may provide by resolution, the time and place for the holding of additional regular meetings without other notice than such resolution.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <heading>Special Meetings.</heading>
+      <text>Special meetings of the Board of Directors may be called by or at the request of the President or any two Directors. The person or persons authorized to call special meetings of the Board of Directors may fix the place for holding any special meetings of the Board of Directors called by them.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <heading>Notice.</heading>
+      <text>Notice of any special meetings shall be given at least three (3) days previously thereto by written notice delivered personally or by telephone, telegram or mailed to each Director at his/her business address. If mailed, such notice shall be deemed to be delivered when deposited in the United States mail so addressed, with postage paid. The attendance of a Director at a meeting shall constitute a waiver of notice of such meeting, except where a Director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <heading>Presumption of Assent.</heading>
+      <text>A Director who is present at a meeting of the Board of Directors at which action on any business matter is taken shall be presumed to have assented to the action taken, unless such dissent shall be entered in the minutes of the meeting or unless the Director shall file a written dissent to such action with the person acting as the Secretary of the meeting before the adjournment of the meeting or shall forward such dissent by registered mail to the Secretary of the Corporation immediately after the adjournment of the meeting. Such right to dissent shall not apply to a Director who voted in favor of such action.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <heading>Compensation.</heading>
+      <text>No compensation shall be paid to Directors, as such, for their services, but by resolution of the Board of Directors a fixed sum and expenses for actual attendance at each regular or special meeting of the Board of Directors may be authorized. Nothing in this Charter shall be construed to preclude any Director from serving the Corporation in any other capacity and receiving compensation for such service.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XIII</num>
+    <heading>EXECUTIVE AND OTHER COMMITTEES</heading>
+    <text>The Board of Directors, by resolution, may designate from among its members an executive committee and other committees, each consisting of three or more Directors. Each such committee shall serve at the pleasure of the Board of Directors.</text>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XIV</num>
+    <heading>OFFICERS</heading>
+    <para>
+      <num>(1)</num>
+      <heading>Number and Positions.</heading>
+      <text>The officers of the Corporation shall be the Chairman, the Vice-Chairman, the Secretary and the Treasurer. Any two or more offices may be held by the same person, except the offices of President and Secretary. The Board of Directors may by resolution add additional officer positions at any time and appoint persons to fill such positions until their successors are duly elected.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <heading>Election.</heading>
+      <text>All officers of the Corporation shall be elected annually by the Board of Directors at its meeting held immediately after the annual meeting of the shareholder, and shall hold office for the term of one year or until their successors are duly elected.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <heading>Resignation and Removal of Officers.</heading>
+      <text>Any officer may resign at any time by giving written notice to the Chairman of the Board of Directors, and such resignation shall be effective on the date specified in the notice. Any one or more of the officers may <em>be </em>removed either with or without cause, at any time by a vote of <em>the </em>Board of Directors, at any special meeting called for that purpose, or at the annual meeting.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <heading>Vacancies.</heading>
+      <text>A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may <em>be </em>filled by the Board of Directors for the unexpired portion of the term.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <heading>Duties of Officers.</heading>
+      <text>The duties and powers of the officers of the Corporation shall be as specified in the Bylaws of the Corporation, duly adopted by the Board of Directors.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <heading>Compensation.</heading>
+      <text>The salaries of the officers shall be fixed from time to time by the Board of Directors and no officer shall be prevented from receiving such salary by reason of the fact that he or she is also a Director.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XV</num>
+    <heading>INDEMNIFICATION</heading>
+    <para>
+      <num>(1)</num>
+      <text>The Corporation may, at the discretion of the Board of Directors, indemnify any current or former Director, officer or employee against reasonable expenses actually and necessarily incurred by him or her in connection with the defense of any action, suit, or proceeding in which he or she is made a party by reason of being, or having been, such Director, officer or employee of the Corporation, and the reasonable costs of settlement of any such action or proceeding, if a majority of Directors not seeking indemnification or otherwise involved in the controversy shall determine in good faith:</text>
+      <para>
+        <num>(a)</num>
+        <text>That such person did not act, fail to act, or refuse to act willfully or with gross negligence or with fraudulent or criminal intent; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>That any legal fees paid or any settlements made are reasonable; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>That the person seeking indemnification did not act beyond the scope of his or her employment of office; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>That it is in the best interests of the Corporation that indemnification be made.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the Board is unable to act on a request for indemnification due to a lack of a disinterested quorum, the decision whether to indemnify shall be submitted to the Stockbridge­ Munsee Tribal Council.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XVI</num>
+    <heading>DIVIDEND PAYMENTS</heading>
+    <para>
+      <num>(1)</num>
+      <text>The Board of Directors shall formulate a policy for declaring dividends from the surplus profits of the Corporation, which will take into account the Corporation's ability to pay its debts as they come due in the usual course of business and the balance of the Corporation's assets and liabilities.'</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>All dividends declared by the Board of Directors shall be paid to the Stockbridge- Munsee Community as the sole shareholder.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XVII</num>
+    <heading>FUNDS AND ACCOUNTING</heading>
+    <para>
+      <num>(1)</num>
+      <heading>Accounting System.</heading>
+      <text>A modern accounting system shall be established and used the by the Corporation in conformity with generally accepted accounting principles. The accounting system shall insure the availability of information as may be necessary to comply with Federal regulatory requirements.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Board shall, no less frequently than on a quarterly basis, report in writing to the Stockbridge-Munsee Community on the financial and operating condition of the Corporation.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Corporation shall, within 120 days following the close of the Corporation's fiscal year, submit to the Stockbridge-Munsee Community an audited financial statement showing the status of the Corporation as of the last day of the Corporation's fiscal year.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XVIII</num>
+    <heading>SOVEREIGN IMMUNITY</heading>
+    <text>The Corporation is and shall be considered an instrumentality of the Stockbridge-Munsee Community and entitled to all of the privileges and immunities of the Stockbridge-Munsee Community. The Corporation and its Directors, officers, employees and agents while acting in their official capacities are immune from suit, and the assets and other property of the Corporation are exempt from any levy or execution, except as provided in this Article XVIII.</text>
+    <para>
+      <num>(1)</num>
+      <text>Notwithstanding any other provisions of law, the Corporation is authorized to waive immunity from suit of the Corporation, the Directors, officers, employees or agents for any particular agreement, matter or transaction as may be entered into to further the purposes of the Corporation.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Corporation is authorized to waive, as provided in this Article XVIII, any defense the Corporation, its Directors, officers, employees or agents may otherwise assert that Federal, state or tribal law required exhaustion of tribal court remedies prior to suit against the Corporation in a state or Federal court otherwise having jurisdiction over the subject matter and the parties.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Any waiver by the Corporation authorized by paragraphs 1 or 2 of this Article XVIII shall be in the form of a resolution duly adopted by the Board of Directors, which resolution shall not require the approval of the Stockbridge-Munsee Community or the Secretary of the Interior. The resolution shall identify the party or parties for whose benefit the waiver is granted, the transaction or transactions and the claims or classes of claims for which the waiver is granted, the property of the Corporation which may be subject to execution to satisfy any judgment which may be entered in the claim, and shall identify the court or courts in which suit against the Corporation may be brought.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any waiver of immunity shall be limited to the assets and/or income of the Corporation and the acts or omissions of the Corporation, its Directors, officers, employees and agents shall not create any liability, obligation or indebtedness either of the Stockbridge-Munsee Community or payable out of assets, revenues or income of the Stockbridge-Munsee Community.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Any waiver of immunity by the Corporation shall not be construed to waive any immunity of the Stockbridge-Munsee Community, other instrumentality of the Stockbridge­ Munsee Community, or other person or entity.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XIX</num>
+    <heading>AMENDMENTS</heading>
+    <text>This Charter may be amended from time to time as necessary and appropriate by the Board of Directors with the concurrence of the Stockbridge-Munsee Tribal Council.  No amendments to this Charter shall become operative until approved by the Secretary of the Interior and ratified by a majority vote of the Stockbridge-Munsee Tribal Council.</text>
+  </container>
+  <text class="center">CERTIFICATE OF APPROVAL</text>
+  <text>I, Ada E. Deer, Assistant Secretary- Indian Affairs, by virtue of the authority granted to the Secretary of the Interior by the Act of June 8, 1934 (48 Stat. 984, 25 U.S.C. 477), as amended, and delegated to me by 230 D.M. 2, do hereby approve this Federal Corporate Charter for use by the Stockbridge­ Munsee Community and its enterprise, Mohican Corporation. It shall become effective upon ratification by the Stockbridge-Munsee Tribal Council, PROVIDED, That nothing in this approval shall be construed as authorizing any action under this document that would be contrary to Federal law.</text>
+  <text>Ada E. Deer</text>
+  <text>Assistant Secretary - Indian Affairs</text>
+  <text>Washington, D.C.</text>
+  <text>Date:  June 21, 1996</text>
+</document>

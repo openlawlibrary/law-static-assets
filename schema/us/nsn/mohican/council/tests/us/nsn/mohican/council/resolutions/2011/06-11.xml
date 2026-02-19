@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 06-11">
+  <num>06-11</num>
+  <heading/>
+  <meta>
+    <ordinance>Fish And Wildlife</ordinance>
+    <effective/>
+    <history>
+      <adopted>2010-11-16</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/06-11.pdf">Stockbridge-Munsee Tribal Council Res. No. 06-11</citation>
+    </citations>
+  </meta>
+  <annotations>
+    <annotation type="Legislative History">The Tribal Council adopted changes to <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.01">Chapter ENV.01</cite> amending <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.08|(c)">Section ENV.01.08(c)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.15">Section ENV.01.15</cite>.5(C)(1), and <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.15">Section ENV.01.15</cite>.5(G) and creating new <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.03|(q)">Section ENV.01.03(q)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.08|(a)|(1)">Section ENV.01.08(a)(1)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§ENV.01.08|(g)">Section ENV.01.08(g)</cite> and <cite path="§21.20|(FF)">21.20(FF)</cite>.</annotation>
+  </annotations>
+</document>

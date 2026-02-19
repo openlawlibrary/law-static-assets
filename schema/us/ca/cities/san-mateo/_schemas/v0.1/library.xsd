@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/ca/cities/san-mateo/_schemas/library"
+    xmlns="https://open.law/us/ca/cities/san-mateo/_schemas/library"
+    xmlns:d="https://open.law/us/ca/cities/san-mateo/_schemas/docs/default"
+    xmlns:od="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance">
+    <xs:import namespace="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance"
+        schemaLocation="docs/ordinance.xsd"/>
+    <xs:redefine schemaLocation="../adapters/library.xsd">
+        <xs:complexType name="HeadingType">
+            <xs:complexContent mixed="true">
+                <xs:extension base="HeadingType"> </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+        <xs:group name="DocumentsGroup">
+            <xs:choice>
+                <xs:group ref="DocumentsGroup"/>
+                <xs:element ref="od:document"/>
+            </xs:choice>
+        </xs:group>
+    </xs:redefine>
+</xs:schema>

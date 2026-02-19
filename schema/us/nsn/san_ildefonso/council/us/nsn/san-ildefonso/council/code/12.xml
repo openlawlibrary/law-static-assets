@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>12</num>
+  <heading>CIVIL RIGHTS AND CONSUMER PROTECTION</heading>
+  <annotation type="History">1984 Code</annotation>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>12.1</num>
+    <heading>Civil Rights Protection</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>12.1.1</num>
+      <heading>Civil Rights Commission</heading>
+      <section>
+        <num>12.1.1.010</num>
+        <heading>Enrollment</heading>
+      </section>
+      <section>
+        <num>12.1.1.020</num>
+        <heading>Civil Rights Protection</heading>
+      </section>
+      <section>
+        <num>12.1.1.030</num>
+        <heading>Appointment of Civil Rights Commission</heading>
+        <text>There is hereby created a Civil Rights Commission which shall consist of three members appointed by the Governor with the concurrence of the Council who shall hold office until removed.</text>
+      </section>
+      <section>
+        <num>12.1.1.040</num>
+        <heading>Authority</heading>
+        <text>The Commission shall have authority to enforce the provisions of this Chapter and to issue appropriate rules and regulations for the protection of the civil rights of members of the Pueblo and non-members who came under the jurisdiction of the Pueblo for any purpose.</text>
+      </section>
+      <section>
+        <num>12.1.1.050</num>
+        <heading>Complaint of Civil Rights Violation</heading>
+        <text>Any person who has probably cause to believe that his or her civil rights guaranteed by the Indian Civil Rights Act of April 11, 1968, PL 90-284 (82 Stat. 77) or by the traditions and customs of the Pueblo, may file a complaint with the Tribal Court pursuant to the Rules of Civil Procedure set forth in this Code, except for testing the legality of detention by order of the Pueblo which must be filed in the Federal Court.  The complaint, together with the summons or citation, will be served in accordance with civil procedures.  The complaint must be directed personally against the alleged violator or violators and an opportunity will be provided for the defendant or defendants to answer after which a hearing will be set following the Rules of Civil Procedure of this Code, and the hearing will be a civil matter held by the Tribal Court.</text>
+      </section>
+      <section>
+        <num>12.1.1.060</num>
+        <heading>Waiver of Immunity</heading>
+        <text>The Pueblo of San Ildefonso Tribal Council hereby expressly waives immunity of its members, officers, employees and staff from suit in matter relating to alleged violation of civil rights but for no other purpose.</text>
+      </section>
+      <section>
+        <num>12.1.1.070</num>
+        <heading>Remedies</heading>
+        <text>After a hearing following the Civil Procedures of this Code and a finding for the plaintiff, the Tribal Court may issue appropriate orders that will provide the relief prayed for or as the Court may deem appropriate.  If the finding is for the defendant, the suit shall be dismissed.</text>
+      </section>
+      <section>
+        <num>12.1.1.080</num>
+        <heading>Appeals form Orders of the Tribal Court</heading>
+        <text>Appeals from decisions of the Tribal Court may be made to the Tribal council following the procedures established for appeals under the Civil Procedures of this Code.  The decisions of the Tribal Council shall be final.</text>
+      </section>
+      <section>
+        <num>12.1.1.090</num>
+        <heading>Additional Penalties</heading>
+        <text>In addition to the relief prayed for in the complaint and granted to the plaintiff, any violator or violators may be subject to pay a penalty assessment not to exceed $500.00 and costs or such other orders of the Court.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>12.2</num>
+    <heading>Consumer Rights Protection</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>12.2.1</num>
+      <heading>Consumer Civil Rights and Welfare Protections</heading>
+      <section>
+        <num>12.2.1.010</num>
+        <heading>Creditors' Rights and Responsibilities</heading>
+      </section>
+      <section>
+        <num>12.2.1.020</num>
+        <heading>Consumer Protection</heading>
+      </section>
+      <section>
+        <num>12.2.1.030</num>
+        <heading>Consumers Protected by State Laws of New Mexico</heading>
+        <text>All members of the Pueblo of San Ildefonso, and residents thereof, are protected by the following Consumer Protection Statutes of the State of New Mexico in commercial transaction, with dealers licensed by the State of New Mexico, and should avail themselves of their benefits and remedies, when applicable.</text>
+        <para>
+          <num>(a)</num>
+          <heading>UNFAIR TRADE PRACTICES ACT 49-15-1, N.M.S.A. 1953, et seq.</heading>
+          <text>This Act makes it unlawful for any business or person to make false or misleading statements in connection with the sale, lease, or rental or goods or services.  Violations include chain referral sales, resetting odometers, failing to reveal chassis repair, regrooving tires, and representing used goods as being new. Individuals may sue under the Act and obtain injunctions and court costs.  Violations may also be reported to the Attorney General who has subpoena power to investigate the violation and the power to seek an injunction and to seek a civil penalty of $5,000.00 for each willful violation.  The 1977 Legislature may give individuals the right to sue for damages under the Act.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>FALSE ADVERTISING ACT  49-12-1, N.M.S.A. 1953, as amended.</heading>
+          <text>This Act makes it unlawful for anyone to engage in false or misleading advertising or labeling.  Enforcement power lies with the Attorney General who can seek an injunction or civil penalty of $500.00 for willful violations.  The Attorney General has subpoena power to investigate violations of this Act.  Individuals any, with the authorization of the Attorney General, seek injunction against false advertising. Common violations include misrepresenting the price of goods, advertising bargain goods that are not available, and showing samples of more expensive models than the ones on sale at the advertised price.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Indian ARTS AND CRAFTS SALES ACT 40-21-24 and 40-21-25, 1 N.M.S.A. 1953, et seq.</heading>
+          <text>This Act makes it unlawful to sell of trade jewelry or arts and crafts without so labeling them as "Indian Imitation" or to sell imitation turquoise without revealing it is not natural or stabilized turquoise. Violations of the Act are petty misdemeanors punished by fines of $100.00 or imprisonment of thirty (30) to ninety (90) days, or both.  The Attorney General has the duty of enforcing the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>MANUFACTURERS, DISTRIBUTORS AND DEALERS BUSINESS PRACTICES ACT, 64-37-1 N.M.S.A. 1953, as amended.</heading>
+          <text>This Act makes it unlawful for an automobile dealer to falsely advertise, to require the purchase of optional accessories, to fail to perform its warranty obligations, to represent a used car as new, or to knowingly sell a stolen vehicle. Willful violations of the Act is a petty misdemeanor punishable by a fine of $100.00 or $50.00 or imprisonment of up to six (6) months in jail.  An individual any also sue for an injunction any damages he has incurred where a violation of the Act has occurred.  The court is required to award the consumer his damages, attorney's fees and Court costs if he prevails.  The cur may also, in its discretion, award punitive damages of three times the amount of the actual damages awarded.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>RETAIL INSTALLMENT SALES ACT, 50-16-1 N.M.S.A. 1953, et seq.</heading>
+          <text>This Act required that numerous disclosures about the cost and terms of credit and customers' rights be printed an all installment contracts for the sale of goods.  The Act prohibits delinquency charges in excess of $5.00 per default.  The Act prohibits contract provisions which require or allow: confessions of judgment, assignments of wages, repossession by illegal means, or waiver of all defenses. Willful and intentional violation of the Act is a misdemeanor.  Any merchant that violates that Act loses its right to collect any interests, fees or delinquency charges on the installment contract.  The merchant can only recover the balance of the principal. The Attorney General may obtain injunction against continuing violations of the Act, and he is responsible for its enforcement.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>MOTOR VEHICLE SALES FINANCE ACT, 50-15-1 N.M.S.A. 1953, et seq.</heading>
+          <text>This Act regulates banks, dealerships and finance companies that finance the sale of motor vehicles.  It provides that any credit institution financing the sale of a motor vehicle may be its license suspended, be charged with a misdemeanor or be barred in court form collecting all finance and delinquency charges for violations of this Act.  The State Banking Commissioner is responsible for its enforcement and his office has investigative subpoena powers. Violations of the Act include charging excessive interest, failing to reveal all required credit terms, failing to give the buyer a copy of the contract and insurance policy, refusing to tell a buyer how much he has paid and still owes, or having a buyer sign the contract in blank.  For free information about possible violations, call the State Banking Commissioner.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>NEW MEXICO SMALL LOAN ACT, 48-17-30 N.M.S.A. 1953, as amended.</heading>
+          <text>This Act regulates all loans of $2,500.00 or less, whether made by finance companies, banks or credit unions.  The Act requires lenders to reveal the following information to the borrower about all loans.  The repayment schedule, the type of collateral used as security, the annual percentage rate of interest, the total interest in dollars and cents, and all other charges.  Lenders under the Act cannot charge more than 36% per year on the first $150.00 for unpaid balance, 24% per year on the next $150.00 or unpaid balance, or more than 12% per year on the balance over $300.00.  Lenders way not require purchase of whole life insurance or health insurance.  In addition, they may not loan money to persons who already have three other outstanding loans. The State Bank Examiner is responsible for the enforcement of this Act.  He has investigative subpoena powers and may issue cease and desist orders.  He may also suspend licenses or prosecute violators criminally.  Knowing violations of the Act are petty misdemeanors.  A small loan made by a person or company without a license is void, and the lender has no right to sue in any court of this State to collect or recover any principal, interest or any charges whatsoever.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>NEW MEXICO EXEMPTION LAWS, 36-14-7 N.M.S.A. 1953, et. seq. 24-5-1 N.M.S.A. 1953 et seq., 24-6-1 N.M.S.A. 1953 et seq.</heading>
+          <text>These laws are designated to protect a minimum amount of everyone's property from seizure by creditors.  Generally, these laws provide that one motor vehicle, all furniture, a home, all collateral, all clothing, all trade tools, all medical equipment, all books, all pension funds and social security are exempt (or protected by law) from collection by creditors.  Three-fourths of a person's take home pay and $500.00 (home owners) or $1,500.00 (renters) worth personal property (appliances, jewelry, farm equipment, etc.) are also exempt from seizure by creditors collecting on Court Judgments.  In order to obtain this protection, which is not automatic a person must file a Claim of Exemption listing the property he wants protected with the Clerk of the Court that issued the Judgment against the person.  See the sample form in Consumer Handbook, page fifty-one (51).</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>12.2.2</num>
+      <heading>Violations to be Reported to San Ildefonso Tribal Courts</heading>
+      <section>
+        <num>12.2.2.010</num>
+        <text>All alleged violations of State laws described in See. 1 of this Chapter may be reported to the Tribal Courts together with facts surrounding the transaction, contracts, notices, documents, letters and other relating to the violation.</text>
+      </section>
+      <section>
+        <num>12.2.2.020</num>
+        <text>Procedures for Repossession of Automobiles and Other Equipment, Materials and Supplies Purchased Under Installment Plan or Credit (Sec. 56.3 – SIP CODE 84, P.261-262).</text>
+        <text>The following procedures shall govern repossession on the Pueblo of San Ildefonso of automobiles and other equipment, material and supplies purchase under installment plan or credit:</text>
+        <para>
+          <num>(a)</num>
+          <text>All creditors are requested to contact eh San Ildefonso Tribal Courts for the purpose of arranging a joint collection visit to the home of the debtor on the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Repossession of an automobile will not be allowed form a debtor on the Pueblo of San Ildefonso if the debtor offers immediate payment of all installments and penalties and interest.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Repossession of any items on which the balance has been reduced below $300.00 is not allowed, but satisfactory arrangements must be made for payment of the balance due, plus penalties and interest, between the creditor and purchaser.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Force or intimidation will not be allowed in any repossession process.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Repossession will be allowed only if the purchaser has missed at least two consecutive payments on the sales contract or agreement.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Creditors or agents seeking repossession of any items on the San Ildefonso Pueblo are required to register with the San Ildefonso Tribal Courts and present proof of their right to repossession.  If there has been a counterclaim or defense against the repossession, the Creditor or agent should be referred to the San Ildefonso Tribal Court for a hearing on the matter and the issuance of an Order by the Court allowing the repossession.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Creditors or agents who violate this Title shall not be allowed to enter upon the Pueblo of San Ildefonso at any time in the future unless special permission is obtained from the Governor, for the purpose of processing a repossession of any item located within the Pueblo of San Ildefonso.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>12.2.3</num>
+      <heading>Pawned Goods</heading>
+      <section>
+        <num>12.2.3.010</num>
+        <text>Any person who shall knowingly offer for sale, sell, pledge, accept or purchase any goods in pawn during the period of redemption by the owner thereof shall be guilty of a violation and, upon conviction thereof, may be subject to pay a penalty assessment of not to exceed $500.00, with costs, or to such other order of the court, and may be required by order of the Court to make proper restitution.</text>
+      </section>
+      <section>
+        <num>12.2.3.020</num>
+        <text>Any person who shall knowingly offer for sale, sell, pledge, accept or purchase any goods in pawn without proof of ownership or who refuses to surrender to a Law Enforcement Officer property determined to have been stolen upon presentation of a proper Court order or who fails to keep proper and adequate records showing description of the item, date pawned, name of owner and proof of ownership and date of redemption and amount for which pawned or who fails to openly display pawned goods, shall be guilty of a violation and, upon conviction thereof, may be subject to pay a penalty assessment of not to exceed $500.00, with costs, or such other orders of the Court, and may be required by the Court to make proper restitution.</text>
+      </section>
+    </container>
+  </container>
+</container>

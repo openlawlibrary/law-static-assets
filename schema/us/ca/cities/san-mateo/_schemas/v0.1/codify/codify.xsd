@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    xmlns:od="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance"
+    targetNamespace="https://open.law/us/ca/cities/san-mateo/_schemas/codify"
+    xmlns="https://open.law/us/ca/cities/san-mateo/_schemas/codify"
+    xmlns:d="https://open.law/us/ca/cities/san-mateo/_schemas/docs/default">
+    <xs:import namespace="https://open.law/us/ca/cities/san-mateo/_schemas/docs/ordinance"
+        schemaLocation="../docs/ordinance.xsd"/>
+    <xs:redefine schemaLocation="../../adapters/codify.xsd">
+        <xs:group name="InsertElGroup">
+            <xs:choice>
+                <xs:group ref="InsertElGroup"/>
+                <xs:group ref="OrdinanceInsertGroup"/>
+            </xs:choice>
+        </xs:group>
+        <xs:group name="FindReplaceElGroup">
+            <xs:choice>
+                <xs:group ref="FindReplaceElGroup"/>
+                <xs:group ref="OrdinanceFindReplaceElGroup"/>
+            </xs:choice>
+        </xs:group>
+    </xs:redefine>
+    <xs:group name="OrdinanceInsertGroup">
+        <xs:choice>
+            <xs:element ref="od:container"/>
+            <xs:element ref="od:section"/>
+            <xs:element ref="od:para"/>
+            <xs:element ref="od:text"/>
+            <xs:element ref="od:subsection"/>
+            <xs:element ref="od:toc"/>
+        </xs:choice>
+    </xs:group>
+    <xs:group name="OrdinanceFindReplaceElGroup">
+        <xs:sequence>
+            <xs:element ref="od:find"/>
+            <xs:element ref="od:replace"/>
+        </xs:sequence>
+    </xs:group>
+
+</xs:schema>

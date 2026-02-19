@@ -1,0 +1,2412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>8</num>
+  <heading>CRIMES, PROCEDURES, AND LAW ENFORCEMENT</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.1</num>
+    <heading>Criminal Offenses</heading>
+    <annotation type="History">1984 Code</annotation>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.1.1</num>
+      <heading>Criminal Offenses</heading>
+      <section>
+        <num>8.1.1.010</num>
+        <heading>Abduction</heading>
+        <text>Any person who shall willfully take or detain another person against his/her will or takes, detains, or entices a child under eighteen (18) from custody of its parents or other lawful custodian, when he/she lacks lawful permission to do so, shall be guilt y of the offense of abduction and, upon conviction thereof, shall be sentenced to confinement for a period of not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.020</num>
+        <heading>Abuse of Office</heading>
+        <text>Any person acting or purporting to act for the Pueblo in an official capacity, taking advantage of such official or purported capacity, knowing that his conduct is illegal and who shall subject another to arrest, detention, search, seizure, mistreatment, dispossession, assessment, lien or other infringement of person or property rights or shall deny or impede another in the exercise or enjoyment of any right, privilege, power or immunity, shall be guilty of the offense of abuse of office, and upon convict ion thereof, shall be sentenced to confinement for a period of not to exceed three (3) months or to pay a fine not to exceed $300.00, or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.030</num>
+        <heading>Adulteration of Food or Drink</heading>
+        <text>Any person who shall knowingly manufacture, sell or keep or offer for sale any food, drug or drink, in the making of which any harmful or foreign substance is used, shall be guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.040</num>
+        <heading>Assault</heading>
+        <text>Any person who shall attempt to commit battery on another person or threaten bodily harm to another person through use of unlawful force or violence or verbal threats shall be guilty of assault and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs. In the discretion of the Court, such offender may be required to furnish a satisfactory bond to keep the peace.</text>
+      </section>
+      <section>
+        <num>8.1.1.050</num>
+        <heading>Battery</heading>
+        <text>Any person who shall willfully strike another person or otherwise intentionally inflict bodily injury on another person or who shall cause another to harm himself shall be guilty of battery and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs. In the discretion of the Court, such offenders may be required to pay any hospital and doctor bills for treatment of injuries as a result of the battery and support the victim's family during the victim's incapacity to work and to furnish a satisfactory bond to keep the peace.</text>
+      </section>
+      <section>
+        <num>8.1.1.060</num>
+        <heading>Bigamy</heading>
+        <text>Any person who being Tarried to another intentionally marries any other human shall be guilty of the offense of bigamy; provided, that no Indian shall be guilty thereof who believes that the prior spouse is dead or whose original spouse shall have been absent for seven (7) successive years, without being known to be living or, if the original marriage has been presumed to be dissolved, pronounced void or annulled by the decree of a Court of competent jurisdiction. Upon conviction thereof, such person shall be sentenced to confinement for a period not to exceed ninety (90) days or to pay a fine not to exceed $180.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.070</num>
+        <heading>Breaking and Entering</heading>
+        <text>Any person who breaks into or attempts to break into any dwelling, vehicle, boat, or building of any nature or makes or attempts to make an unauthorized entry into any vehicle, boat, dwelling or any other structure, with the intent to commit any crime therein, without the permission of the owner or custodian shall be deemed guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs, and may be required to make proper restitution by order of the Court.</text>
+      </section>
+      <section>
+        <num>8.1.1.080</num>
+        <heading>Bribery</heading>
+        <text>Any person who shall give or offer to give any money, property, services or other gain or advantage to another human with corrupt intent to influence another in the discharge of his public duties or conduct and any person who shall accept, solicit or attempt to solicit any bribe as above defined, shall be guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs, and shall forfeit any public office hold in the Pueblo.</text>
+      </section>
+      <section>
+        <num>8.1.1.090</num>
+        <heading>Carrying Concealed Weapon</heading>
+        <text>Any person who shall go about in public places armed with a dangerous weapon concealed upon his person unless he otherwise shall have a permit signed by the Governor and/or Judge, shall be deemed guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed sixty (60) days or to pay a fine not to exceed $150.00 or both, with costs. Dangerous weapons within the meaning of the foregoing shall be construed to mean: Air gun, blow gun, explosive device, pistol, or other firearm, and any type of knife which the blade exceeds 3 inches, and any other instrument capable of lethal use, possessed under circumstances not appropriate for lawful use.</text>
+      </section>
+      <section>
+        <num>8.1.1.100</num>
+        <heading>Child Abuse</heading>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-020"/>
+        <text>Any person who shall willfully or maliciously commit any acts of violence or abuse on any child, causing any harm or injury, under the age of eighteen (18), shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed one year, or pay a fine not to exceed $5,000, or both, with costs, and may be required to undergo such medical evaluation and treatment as may be ordered by the Court.</text>
+      </section>
+      <section>
+        <num>8.1.1.110</num>
+        <heading>Contributing to the Delinquency of a Minor</heading>
+        <text>Any person who shall willfully, by an action or omission, willfully encourage or contribute to the delinquency of a child (under eighteen (18) years of age) as specified in the Children's Code, shall be guilty of the offense, and upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.120</num>
+        <heading>Curfew</heading>
+        <text>Any minor who shall be or any person who shall permit his minor children or any minor children under his care to be, without good cause on the streets, highways or other public places on the Reservation between the hours of 10:00 P.M. to 6:00 A.M. for those under the age of eighteen (18) years, shall be guilty of the offense, except when attending ceremonial or religious affairs or fiestas, as determined by tribal traditions and customs, and upon conviction thereof, any adult shall be sentenced to confinement for a period not to exceed fifteen (15) days or to pay a fine not to exceed $50.00 or both, with costs. Any minor who shall be detained for violation of this Section shall be referred to the Children's Court.</text>
+      </section>
+      <section>
+        <num>8.1.1.130</num>
+        <heading>Destruction of Evidence</heading>
+        <text>Any person who shall willfully and knowingly destroy or withhold any evidence that could be used in trial of a case with intent to prevent same from being used, shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed sixty (60) days or to pay a fine not to exceed $200.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.140</num>
+        <heading>Disobedience to Lawful Order of the Court</heading>
+        <text>Any person who shall willfully disobey any order, subpoena, warrant or command duly issued, made or given by any Court or the Council or any Judge or Officer thereof shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs, and ordered by the Court to comply with any lawful order.</text>
+      </section>
+      <section>
+        <num>8.1.1.150</num>
+        <heading>Disorderly Conduct</heading>
+        <text>Any person who shall engage in fighting in a public place, or who uses abusive language and thereby intentionally creates a risk of assault, disturb or annoy any public or religious assembly, of appear in a public or private place in an intoxicated or disorderly condition or who shall engage in any other act of public indecency, shall be deemed guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed ninety (90) days or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.160</num>
+        <heading>Disposing of Property of an Estate</heading>
+        <text>Any person who, without proper authority, takes, keeps, sells, trades or otherwise disposes of any property of any estate before the determination of the heirs of the property, through proper procedures, shall be guilty of the offense, and upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs, and shall be required to return the property taken and make restitution as may be ordered by the Court.</text>
+      </section>
+      <section>
+        <num>8.1.1.170</num>
+        <heading>Disposing of Trust or Restricted Property</heading>
+        <text>Any person who sells, trades, transfers or in any way disposes of any trust or restricted property, including livestock and increase therefrom, in violation of the Federal Government Regulations, ordinances, customs or traditions of the Pueblo of San Ildefonso, and without proper permit, shall be deemed guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period of not to exceed six (6) months or to pay a fine not to exceed $360.00 or both, with costs. Where indebtedness exists by the offender to the Pueblo or the United States under a loan agreement, the Court may order such property, upon its recovery, sold and the proceeds applied on the indebtedness.</text>
+      </section>
+      <section>
+        <num>8.1.1.180</num>
+        <heading>Distribution of Alcohol, Marijuana, Drugs to Children</heading>
+        <text>Any person who shall sell or barter to give any alcoholic beverage, marijuana, drugs or any controlled substance as determined by the Courts to be harmful to any children under the age of eighteen (18) years including any edible foodstuffs containing materials harmful to a child shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.190</num>
+        <heading>Drawing or Uttering Instrument on Bank with Funds or Credits</heading>
+        <text>Any person who shall for a present consideration make or utter or deliver any check, draft or order for payment of money upon depository, knowing at the time of such making, drawing, uttering, or delivery that the maker or drawer has no sufficient funds in or on credit with such bank or other depository for the payment of such check, draft or order in full upon its presentation shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed sixty (60) days or to pay a fine of not to exceed $200.00 or both, with costs, and may be required by order of the Court to make proper restitution.</text>
+      </section>
+      <section>
+        <num>8.1.1.200</num>
+        <heading>Embezzlement</heading>
+        <text>Any person who shall, having lawful custody of property not his own, appropriate the same to his own use with intent to deprive the owner thereof shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs, and to make such restitution as may be required by order of the Court.</text>
+      </section>
+      <section>
+        <num>8.1.1.210</num>
+        <heading>Escape</heading>
+        <text>Any person who, being in the lawful custody of a Law Enforcement Officer, shall unlawfully remove himself from official detention to escape or who shall permit or assist another person to escape from lawful custody or who shall fail to return to official detention following leave granted for a specific purpose or a limited time (excluding probation, parole or release on bail) shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.220</num>
+        <heading>Extortion</heading>
+        <text>Any person who shall willfully extort or attempt to extort any money, goods, property, or anything of value by making or threatening to make false charges against another person or to threaten to do unlawful injury to another Person or property of the per son threatened or of another, shall be deemed guilty of the offense of extortion and upon conviction thereof, shall be sentenced to confinement of not to exceed ninety (90) days or to pay a fine not to exceed $150.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.230</num>
+        <heading>Failure to Send Children to School</heading>
+        <text>Any person who shall, without good cause, neglect or refuse to send his children or any children under his care to school who, from the age of eight (8) to under fifteen (15), and from fifteen (15) to under eighteen (18) years of age not lawfully engaged in some useful occupation or attending part-time school, unless otherwise excused, shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed thirty (30) days or to pay a fine not to exceed $100.00 or both, with costs, and ordered to send their children to school.</text>
+      </section>
+      <section>
+        <num>8.1.1.240</num>
+        <heading>Failure to Support Dependent Persons</heading>
+        <text>Any person who shall, because of habitual intemperance or gambling or for any other reason, refuse, fail, or neglect to furnish food, shelter, or care to those dependent upon him, including any children born out of wedlock, shall be deemed guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.250</num>
+        <heading>False Alarm</heading>
+        <text>Any person who knowingly cause a false alarm of fire or other emergency to be transmitted to any organization, official, or volunteer having responsibility for dealing with emergencies involving danger to life and property, shall be deemed guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed fifteen (15) days or to pay a fine not to exceed $50.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.260</num>
+        <heading>False Arrest</heading>
+        <text>Any person who shall willfully and knowingly make or cause to be made, the unlawful arrest, detention or imprisonment of another Person shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.270</num>
+        <heading>Fire, Failure to Control or Report</heading>
+        <text>Any person who knows that a fire is endangering life or property and fails to give a prompt fire alarm or fails to take reasonable measures to put out or control the fire without danger to himself if he knows that he is under an official, contractual or other legal duty to prevent or to combat the fire, or if any fire was started in any manner, including throwing of any lighted material, lawfully or unlawfully by any person or with his assent on any property, private or public, whether or not in his custody or control, that endangers life or property shall be deemed guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $250.00 or both, with costs, an d may be liable for damages in an amount determined by the Court, and parents of minor children who violate this Section may be held liable.</text>
+      </section>
+      <section>
+        <num>8.1.1.280</num>
+        <heading>Flags - Desecration Thereof</heading>
+        <text>Any person who in any manner for exhibition or display shall place or cause to be placed any mark, word, or design upon or shall publicly mutilate, deface or defile an official flag, color or design of the United States or the Pueblo of San Ildefonso shall be guilty of the offense and, upon conviction thereof, shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed ten (10) days or to pay a fine not to exceed $50.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.290</num>
+        <heading>Flight to Avoid Prosecution</heading>
+        <text>Any person who willfully and knowingly shall flee from the Pueblo of San Ildefonso or the jurisdiction of the Trial Court to avoid prosecution or to avoid giving testimony in a case pending before the Tribal Court shall be deemed guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed thirty (30) days or to pay a fine not to exceed $60.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.300</num>
+        <heading>Forgery and Counterfeiting</heading>
+        <text>Any person who shall, with intent to defraud, falsely sign, utter, execute, alter or counterfeit any written instrument, check, or currency shall be guilty of forgery-and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs, and may be required to make restitution.</text>
+      </section>
+      <section>
+        <num>8.1.1.310</num>
+        <heading>Fraud</heading>
+        <text>Any person who shall by willful misrepresentation or deceit or by falsely interpreting or by the use of false weights or measures, obtains any money or any other property or thing of value which belongs to another shall be guilty of fraud and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs, and may be required by order of the Court to make proper restitution.</text>
+      </section>
+      <section>
+        <num>8.1.1.320</num>
+        <heading>Gambling</heading>
+        <text>Any person who operates or participates in any game of chance or lottery to win money or other valuable consideration or operates a place or device where a risk is taken on a chance of winning money or other valuable property shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed fifteen (15) days or to pay a fine of not to exceed $50.00 or both, with costs, and all gambling equipment, materials, and supplies may be confiscated. This Sect ion shall not apply to those games of chance or lottery authorized by the Council or traditional games of chance operated by Tribal members in their own right.</text>
+      </section>
+      <section>
+        <num>8.1.1.330</num>
+        <heading>Illicit Cohabitation</heading>
+        <text>
+          <em>Any person who shall live or cohabit with another as man and wife and not then and there being married shall be deemed guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed sixty (60) days or to pay a fine not to exceed $150.00 or both, with costs.</em>
+        </text>
+        <annotation type="Editor's Notes" dest="container">Repealed by Resolution No. SI-R14-007, dated April 8, 2014. See Part 8.1.2 below.</annotation>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-007"/>
+      </section>
+      <section>
+        <num>8.1.1.340</num>
+        <heading>Indecent Exposure</heading>
+        <text>Any person who publicly exposes his or her sexual organ or organs under circumstances in which this conduct is likely to cause affront or fear shall be guilty of the offense, and upon conviction thereof, shall be sentenced to confinement for a period not to exceed thirty (30) days or to pay a fine not to exceed $100.00 or both, with costs, and nay be compelled to undergo a medical examination and necessary treatment.</text>
+      </section>
+      <section>
+        <num>8.1.1.350</num>
+        <heading>Injury to Public Property</heading>
+        <text>Any person who shall, without proper authority, use or misuse any public property shall be deemed guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed ninety (90) days or to pay a fine not to exceed $150.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.360</num>
+        <heading>Libel and Slander</heading>
+        <text>Any person who willfully shall write a falsehood about another with the intent to harm the reputation of another, knowing the same to be untrue, shall be guilty of the offense of libel, and any person who willfully shall speak a falsehood about another, with intent to harm the reputation of another person, knowing the same to be untrue, shall be guilty of the offense of slander and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed ninety (90) days or to pay a fine not to exceed $300.00 and may be required to make public retraction as tradition dictates of the written or spoken falsehood.</text>
+      </section>
+      <section>
+        <num>8.1.1.370</num>
+        <heading>Liquor Violations</heading>
+        <text>Any person who shall possess to sell, or shall manufacture any beer, ale, wine, whiskey or any materials whatsoever which produce alcoholic intoxication without a license issued by the Governor with the concurrence of the Tribal Council, shall be deemed guilty of the offense, and upon conviction thereof, shall be sentenced to confinement for a period not to exceed sixty (60) days or to pay a fine not to exceed $120.00 or both, and all such materials, including vehicles used to transport same, may be confiscated by order of the Court.</text>
+      </section>
+      <section>
+        <num>8.1.1.380</num>
+        <heading>Maintaining a Public Nuisance</heading>
+        <text>Any person who shall act in such a manner, or permit his property to fall into such condition as to make, injure, or endanger the safe health, comfort, or property of his neighbors, the reputation and dignity of the pueblo, shall be deemed guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed sixty (60) days or to pay a fine not to exceed $100.00, or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.390</num>
+        <heading>Malicious Mischief</heading>
+        <text>Any person who shall maliciously disturb, deface, injure or destroy any tangible or personal property, including domestic animals or vandalize any property, not belonging to that person shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs, and may be required by order of the Court to make proper restitution. When any injury to persons or property is caused by the actions of any person under eighteen (18) years of age, the parents or guardians or custodians of such an individual will be held accountable for any damages resulting from these acts.</text>
+      </section>
+      <section>
+        <num>8.1.1.400</num>
+        <heading>Marijuana and Controlled Substance</heading>
+        <text>Any person who shall plant, grow, cultivate, keep for sale, sell, barter, give, have possession of or use marijuana or other narcotic drugs or any controlled substance, determined by the Court to be harmful to the physical and mental health of the user, shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.410</num>
+        <heading>Obstructing Justice</heading>
+        <text>Any person who, with the purpose of hindering the apprehension, prosecution, conviction or punishment of another for a crime shall harbor or conceal another person, provide a weapon, transportation or other means of escape, warns the other of impending discovery, or volunteer false information to a Law Enforcement Officer, shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.420</num>
+        <heading>Perjury</heading>
+        <text>Any person who shall willfully and deliberately in any administrative or judicial proceeding in any Agency or Court of the Pueblo of San Ildefonso falsely swear or interpret or shall make a sworn statement or affidavit knowing the same to be untrue or shall induce to procure another person to do so shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00, or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.430</num>
+        <heading>Public Drunkenness: Drug Incapacitation</heading>
+        <text>Any person who shall appear in any public place, including any Tribal or public meeting or gathering under the influence of alcohol or any other drug or narcotic, to the degree that he may endanger himself or another human or property or annoy any persons in his vicinity shall be guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed thirty (30) days or to pay a fine not to exceed $100.00 or both, with costs. The Court may in its judgment, order the person, upon conviction, to participate in any available alcoholic or drug abuse program in lieu of the foregoing penalties which may be reimposed upon failure of the person to follow the orders of the Court.</text>
+      </section>
+      <section>
+        <num>8.1.1.440</num>
+        <heading>Prostitution</heading>
+        <text>Any person who shall engage or solicit to engage in sexual activity as a business or who shall knowingly keep, maintain, rent or lease any house, room, tent, motor vehicle or any kind of other place for the purpose of so engaging, and any person who shall procure any person to engage in such activities, or live off the earnings of any person engaged in such activities, shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.450</num>
+        <heading>Sexual Assault</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who engages in a sexual act with another person, who is not his spouse, or compels the other person to participate in such act by force or by threatening or place the other person in fear that any person will imminently to subjected to death, serious bodily injury or kidnapping or has substantially impaired the ability of the other person to appraise or control conduct by administering or employing a drug or intoxicant or by other means, without the knowledge or against the will of such other person or the other person is in fact, less than twelve (12) years old, shall be guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person who engages in a sexual act with another person who is not his spouse and knows that the other person is incapable of understanding the nature of the conduct or knows that the other person is physically incapable of resisting or of declining consent to the sexual act or knows that the other person is unaware that a sexual act is being committed or knows that the other person participates because of a mistaken belief that the actor is married to the other person or compels the other person to participate by any threat by placing the other person in fear shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>As used in this Section, sexual act means conduct between human beings consisting of contact between the penis and the vulva, the penis and the anus, the mouth and the penis or the mouth and the vulva; provided that contact involving the penis occurs upon penetration, however slight, and sexual contact means a touching of the sexual or other intimate parts of a person to arouse or gratify the sexual desire of any person.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.1.1.460</num>
+        <heading>Receiving Stolen Property</heading>
+        <text>Any person who shall buy, receive or conceal or aid in receiving or concealing any property, knowing or having cause to know the same to be stolen, embezzled or obtained by fraud or false pretense, theft, burglary or robbery, shall be guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs, and may be ordered to make proper restitution.</text>
+      </section>
+      <section>
+        <num>8.1.1.470</num>
+        <heading>Recklessly Endangering Another Person</heading>
+        <text>Any person who recklessly engages in conduct which places or may place another person in danger of death or bodily injury shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs, and may be required to furnish a satisfactory peace bond for one (1) year.</text>
+      </section>
+      <section>
+        <num>8.1.1.480</num>
+        <heading>Refusing to Aid an Officer</heading>
+        <text>Any person who shall neglect or refuse, when called upon by any Law Enforcement Official, to assist in the arrest of any person charged or convicted of an offense or in securing such offender when apprehended or in conveying such offender to the nearest p lace of confinement shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed thirty (30) days or to pay a fine not to exceed $100.00 or both, with costs, provided that no other responsibility shall attach to the person assisting the Law Enforcement Official at his request.</text>
+      </section>
+      <section>
+        <num>8.1.1.490</num>
+        <heading>Resisting Arrest</heading>
+        <text>Any person who shall willfully and/or knowingly shall resist a lawful arrest, or aid or abet or assist another person to resist lawful arrest shall be guilty of an offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed sixty (60) days or to pay a fine not to exceed $200.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.500</num>
+        <heading>Theft</heading>
+        <text>Any person who, without permission of the owner, shall take, shoplift, possess or exercise unlawful control over movable property, not his own or under his control, with the purpose of depriving the owner thereof or who unlawfully transfers immovable property not his own or any interest thereto shall be guilty of an offense and shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs, if the value of such property is less than $50.00 and shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 if the value is $50.00 or over. The Court may order proper restitution to be made in each case.</text>
+      </section>
+      <section>
+        <num>8.1.1.510</num>
+        <heading>Unlawful Intimidation</heading>
+        <text>Any person who directly or indirectly utters or addresses any threat or unlawful harm to any person, or aids and abets another in uttering or addressing any threat or unlawful harm with the purpose of influencing the decision, opinion, recommendation, vote or other exercise of discretion of a Pueblo employee or voter or to influence a Pueblo or public official to violate any public duty shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.520</num>
+        <heading>Unlawful Intimidation to Law Enforcement Official, Judge or</heading>
+        <text>Council Member</text>
+        <text>Any person who shall use unjustified force or violence or threatens the use thereof on a Law Enforcement Official, Judge or a Tribal Council Member for the purpose of interfering with or influencing the performance of an official duty, shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.530</num>
+        <heading>Trespass</heading>
+        <text>Any person who shall go upon or pass over any enclosed land of another person and shall refuse to go immediately therefrom upon request of the owner or occupant thereof, or shall knowingly and willfully allow livestock to occupy or graze on the enclosed l ands of others without authorization, shall be deemed guilty of the offense and upon conviction thereof, shall be sentenced to confinement for a period not to exceed ten (10) days or to pay a fine not to exceed $25.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.540</num>
+        <heading>Unauthorized Use of Property, Including Vehicles</heading>
+        <text>Any person who shall, without proper authority, use or injure any property not belonging to him or who shall operate or occupy another's automobile, motorcycle, mini bike, or other motor-propelled vehicle without the consent of the owner shall be guilty o f an offense and, upon conviction thereof, shall be sentenced to confinement at labor for a period not to exceed three (3) months or to pay a fine not to exceed $300.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.550</num>
+        <heading>Negligent Use &amp; Discharging of Firearms &amp; Cannons</heading>
+        <text>It shall be unlawful for any person within the San Ildefonso Pueblo Proper to discharge, set off, or fire any firearms or cannons; provided that a permit may be issued by the Tribal Council to a civil body, club, or organization sponsoring a supervised celebration to discharge, set off or fire at a designated time or place under the immediate supervision of a competent expert. Such firearms or cannons may be deemed proper by the Tribal Council.</text>
+        <para>
+          <num>(a)</num>
+          <text>Firing or discharging of firearms in residential area.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Exceptions: During any ceremony where traditions and customs are called for.</text>
+        </para>
+        <aftertext>Negligent use of a weapon consists of:</aftertext>
+        <para>
+          <num>(c)</num>
+          <text>Unlawfully discharging a firearm in the proximity of a building or into any building or vehicle so as to knowingly a person or his property;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Carrying a firearm while under the influence of an intoxicant or narcotic; or,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Endangering the safety of another or his property by handling or using a firearm or other deadly weapon in a negligent manner. Whoever violates this section and upon conviction shall be punished by a fine not to exceed $300.00 or by imprisonment of no t to exceed ninety (90) days, or both, with costs, and such weapons may be confiscated upon the order of the Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.1.1.560</num>
+        <heading>Aiding or Attempting</heading>
+        <text>Any person who attempts, aids or abets any violation of this Criminal Code shall be guilty of an offense in the same degree as the principal perpetrator and, upon conviction thereof, shall be subject to same penalties.</text>
+      </section>
+      <section>
+        <num>8.1.1.570</num>
+        <heading>Taking of Official Papers or Documents of the Pueblo of San Ildefonso</heading>
+        <text>Any person who shall hold any public office or who may be an employee of the Pueblo of San Ildefonso and, upon termination of the term of office or employment for any reason, shall take without authorization or convert to his or her own use any official documents, files or other materials belonging to the Pueblo or received by the person as a result of their office or position with the Pueblo, shall be guilty of an offense and upon conviction thereof, may be sentenced to confinement for a period not to exceed six (6) months or to pay a fine not to exceed $500.00 or both, with costs and shall be required to return all documents, files or other material deemed by the Court to be the property of the San Ildefonso Pueblo, and may be barred from holding any public office or employment in the Pueblo of San Ildefonso as the Court may prescribe.</text>
+      </section>
+      <section>
+        <num>8.1.1.580</num>
+        <heading>Driving under the Influence</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who shall drive any vehicle while under the influence of alcohol or any drug which may impair driver Performance shall be guilty of an offense and upon conviction thereof, may be sentenced to confinement for a period not to exceed twelve (12)  months or pay a fine of up to $1,000 or both,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person who while a passenger Permits another person to drive a vehicle while that driver is under the influence of alcohol or any drug which may impair driver Performance is guilty of an offense and upon conviction thereof, may be sentenced to confinement for a period not to exceed six (6) months or pay a fine of UP to $1,000 or both.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In either case above, there is no requirement of "knowingly" breaking the law, and proof of under the influence of alcohol is sufficient if the person alleged to have been under the influence has partaken of alcohol within 24 hours of the offense.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.1.1.590</num>
+        <heading>Reckless Driving</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who drives or operates a vehicle carelessly and heedlessly without regard of the rights of safety of others and without due caution and safety at a Speed or in a manner so as to endanger or be likely to endanger any person (including the driver) or property is guilty of reckless driving and upon conviction thereof, may be sentenced to confinement for a period not to exceed six (6) months or pay a fine of up to $1,000 or both.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.1.1.600</num>
+        <heading>Parties to a Crime</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every person who commits, attempts to commit, conspires to commit or aids or abets in the commission of any act declared herein to be a crime, whether individually or in connection with one or more other persons or as a principal, agent or accessory, shall be guilty of such offense and upon conviction thereof, may be sentenced the same as if found guilty of that crime.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Every person who falsely, fraudulently, forcibly or willfully induces, causes, coerces, requires, permits, on directs another to commit a crime shall be guilty of an offense and upon conviction thereof, may be sentenced to confinement for a period not to exceed six (6) months or pay a fine of up to $1,000 or both.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.1.1.610</num>
+        <heading>Aggravated assault</heading>
+        <text>Any person who shall attempt to assault another person or strike another person with a deadly weapon, or willfully and intentionally assault or strike another human with an intent to commit any non-violent crime (whether or not herein described in this Law and Order Code) shall be guilty of aggravated assault and upon conviction thereof, may be sentenced to confinement for a period not to exceed six (6) months or pay a fine of up to $1,000 or both with costs. In the discretion of the Court, such offender may be required to furnish a satisfactory bond to keep the peace.</text>
+      </section>
+      <section>
+        <num>8.1.1.620</num>
+        <heading>Assault with intent to commit a violent crime</heading>
+        <text>Any person who shall attempt to assault any human with intent to commit a violent act or violent crime (murder, maiming, rape, robbery, kidnapping, etc.) whether or not herein described in this Law and Order Code, shall be guilty of assault with intent to commit a violent crime and upon conviction thereof, shall be sentenced to confinement for a period not to exceed one (1) year or to pay a fine of $1,000 or both with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.630</num>
+        <heading>Aggravated battery</heading>
+        <text>Any person who shall harm any person by unlawful touching or application of force with intent to injure and inflicts painful temporary disfigurement or temporary loss or impairment of the functions of any member or organ of the body shall be guilty of aggravated battery and upon conviction thereof, shall be sentenced to confinement for a period not to exceed six (6) months or to pay a fine of up to $1,000 or both with costs.</text>
+        <text>If the offender inflicts great bodily harm or uses a deadly weapon, or does the act in such a manner that great bodily harm or death can be inflicted, then upon conviction thereof, shall be sentenced to confinement for a period not to exceed one (1) year or pay a fine of $1,000 or both with costs.</text>
+      </section>
+      <section>
+        <num>8.1.1.640</num>
+        <heading>Harassment</heading>
+        <text>It is unlawful for any person to knowing pursue a pattern of conduct that is intended to annoy seriously alarm or terrorize another person and which serves no lawful purpose (the conduct must be such that it would cause a reasonable person to suffer substantial emotional distress or actually cause emotional distress in the victim) and upon conviction thereof, may be sentenced to confinement for a period not to exceed six (6) months or pay a fine of up to $1,000 or both with costs. In the discretion of the Court, such offender may be required to furnish a satisfactory bond to keep the peace or may be subject to such other orders as the court deems necessary or just.</text>
+      </section>
+      <section>
+        <num>8.1.1.650</num>
+        <heading>Stalking</heading>
+        <text>It is unlawful for any person to knowingly pursue a pattern of conduct that poses a credible threat to another person and that is intended to place that person in reasonable apprehension of death, bodily harm, sexual assault, confinement or restraint and upon conviction thereof, may be sentenced to confinement for a period not to exceed six (6) months or pay a fine of up to $1,000 or both with costs. In the discretion of the Court, such offender may be required to furnish a satisfactory bond to keep the peace or may be subject to such other orders as the court deems necessary or just.</text>
+        <text>Proof of the reasonable apprehension may be furnished by the perpetrator committing one or more of the following acts:</text>
+        <para>
+          <num>(a)</num>
+          <text>following a person, other than in the residence of the stalker;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>placing a person under surveillance by remaining present outside that person's school, residence, workplace or vehicle or another place frequented by the person other than in the residence of the stalker;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>harassing a person; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>any other verbal or nonverbal threat made with the intent and the apparent ability to carry out the threat that would cause a reasonable person to fear for her/his safety.</text>
+        </para>
+        <aftertext>It should be noted that police officers should not be prosecuted under this section if they are performing acts in the line of duty.</aftertext>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.1.2</num>
+      <heading>Rescission of Illicit Cohabitation</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R14-007, dated April 8, 2014.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R14-007"/>
+      <section>
+        <num>8.1.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Section 13.33 (§ 13.33) of the Pueblo de San Ildefonso Civil and Criminal Code (Code) provides that the man and woman who live or cohabit with each other as man and wife on the Pueblo but who are not married to each other (Illicit Cohabitation) shall be deemed guilty of a criminal offense;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council wishes to rescind § 13.33 and its prohibition of Illicit Cohabitation on the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.1.2.020</num>
+        <text>The Council hereby rescinds § 13.33 of the Code which prohibits Illicit Cohabitation on the Pueblo.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.1.3</num>
+      <heading>Criminal Code Technical Correction Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-020, dated August 11, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-020"/>
+      <section>
+        <num>8.1.3.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Section 13.10 of the Pueblo's Criminal Code addressing the crime of Child Abuse includes a typographical error that incorrectly list no clear penalty for conviction of this crime;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds it in the best interests of the Pueblo and the children of the Pueblo to correct and clarify the criminal penalty for anyone convicted of Child Abuse.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.1.3.020</num>
+        <heading>Child Abuse</heading>
+        <text>Any person who shall willfully or maliciously commit any acts of violence or abuse on any child, causing any harm or injury, under the age of eighteen (18), shall be guilty of the offense and, upon conviction thereof, shall be sentenced to confinement for a period not to exceed one year, or pay a fine not to exceed $5,000, or both, with costs, and may be required to undergo such medical evaluation and treatment as may be ordered by the Court.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.2</num>
+    <heading>Rules for Criminal Procedure</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.2.1</num>
+      <heading>Pre-Trial Procedure</heading>
+      <section>
+        <num>8.2.1.010</num>
+        <heading>Rules to Govern</heading>
+        <text>These rules govern the procedures in all criminal cases in the Courts of the Pueblo of San Ildefonso.  These rules are intended to provide for fair trial and the just determination of every criminal proceeding before the Courts.  These rules shall be construed to secure simplicity in procedure, fairness in administration, and the elimination of unjustifiable expense and salary.</text>
+      </section>
+      <section>
+        <num>8.2.1.020</num>
+        <heading>Complaint</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any criminal complaint filed in the Court to be valid shall state the following facts:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name of the complaining witness, the name of the defendant and the statement whether the defendant is an Indian within the exterior boundaries of the Pueblo of San Ildefonso or on the other lands under the jurisdiction of the Pueblo of San Ildefonso.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A short statement of the acts constituting the offense in ordinary language, including the alleged acts and the time and place of the acts, making reference to the section of the Criminal Offenses.  If the acts constitute more than one offense, such offense should be state separately.  Crimes may be charged using the language of this Code.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The name of the Judge before whom the complaint was filed and the date of filing.  A complaint shall be signed by the complaining witness and the Judge.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Prior to the signing of any criminal complaint by the Judge involving a family dispute, the Judge may counsel with the parties, or refer them to someone designated by him as Peacemaker in an effort to resolve the dispute between the parties, according to the tradition and custom of the Pueblo of San Ildefonso, or the Judge may divert the offending party to an appropriate treatment or rehabilitation center if the facts warrant.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.1.030</num>
+        <heading>Warrant to Apprehend</heading>
+        <para>
+          <num>(a)</num>
+          <text>An arrest warrant shall be issued by the Judge.</text>
+          <para>
+            <num>(1)</num>
+            <text>After a complaint has been filed from which it appears that there is probable cause to believe that an offense in violation of this Code has been committed and is considered serious and the defendant has committed it.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The warrant shall contain:</text>
+            <para>
+              <num>(A)</num>
+              <text>The name of the person to be arrested or if his name is unknown, any description by which he can be identified with reasonable certainty;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The offense or offenses charged in the complaint;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The date of issuance and signature of the Judge.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>No warrant shall be issued more than three (3) years after the commitment of any alleged offense.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>In lieu of an arrest warrant, the Judge may issue a summons or citation naming the defendant and offense charged and ordering the person to appear before him at a specified timed and place to enter a plea to the charge.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.1.040</num>
+        <heading>Execution of Warrant of Summons</heading>
+        <text>The warrant, summons, or citation still be executed or served by a Law Enforcement Officer within the jurisdiction of the Pueblo of San Ildefonso or in "hot pursuit" of the person or persons.  Upon execution of the warrant, summons, or citation or the failure to find the defendant, the Law Enforcement Officer shall endorse the warrant, summons, or citation and return it to the Clerk of the Court.  Any unexecuted warrant, summons or citation may be canceled at any time by the Judge who issued it.</text>
+      </section>
+      <section>
+        <num>8.2.1.050</num>
+        <heading>Law Enforcement Officer</heading>
+        <text>Law Enforcement Officers shall include any police officer, probation and parole officer, juvenile officer, game warden or livestock or range inspector, or other officer commissioned by the Governor of the Pueblo of San Ildefonso or by the Federal Government to make arrests.</text>
+      </section>
+      <section>
+        <num>8.2.1.060</num>
+        <heading>Arrests</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Law Enforcement Officer, or other officer commissioned to make arrests, shall arrest any person for any offense defined by this Code unless:</text>
+          <para>
+            <num>(1)</num>
+            <text>The offense was committed in the presence of the Officer, or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Officer had probable cause in believe that the person has committed such an offense, or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A warrant has been issued for the arrest of the person.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.1.070</num>
+        <heading>Warnings</heading>
+        <para>
+          <num>(a)</num>
+          <text>When any person is arrested, he shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Be informed of the right to remain silent and that any statement made by him may be used against him;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Be informed of the complaint against him;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Be informed of his right to retain lay counsel or professional attorney at his own expense;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>If arrested pursuant to a warrant, receive a copy of the warrant and complaint at the time of arrest or as soon thereafter as possible.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.1.080</num>
+        <heading>Bail</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every person charged with an offense before the Court may be admitted to bail, after photographing and fingerprinting, before conviction (or after conviction if an appeal is pending) as provided under these conditions.</text>
+          <para>
+            <num>(1)</num>
+            <text>Acceptance by the Tribal Court of a cash surety bond or undertaking as will in the opinion of the Judge ensure the appearance of the defendant on the date set for trial, giving consideration to the nature and circumstances of the offenses and the character, reputation, and previous criminal record of the defendant and his residence.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The amount of the bail shall not exceed twice the minimum find for each offense charged, but in no event shall the bail be set for more than $500.00.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The defendant also may be released by the Judge on or before the arraignment before the Court upon the defendant's own recognizance.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.1.090</num>
+        <heading>Forfeiture</heading>
+        <text>Upon good cause shown, the Court may increase or decrease the bail originally set (but no over $500.00).  If the defendant fails to appear before the Court as lawfully required, the Court may direct on entry of such failure to be made in the record, order the forfeiture of the bond or cash deposit and issue a warrant for the arrest of the defendant.</text>
+      </section>
+      <section>
+        <num>8.2.1.100</num>
+        <heading>Return of Surety</heading>
+        <text>Any case or other property given as security by the surety defendant shall be returned by the Court upon the entry of a not guilty verdict or the issuance of a commitment order unless the case is appealed in which cash bail or surety may be extended.</text>
+      </section>
+      <section>
+        <num>8.2.1.110</num>
+        <heading>Detention</heading>
+        <text>No person shall be detained, jailed or imprisoned under this Code for a period longer than seventy-two (72) hours (exclusive Saturdays and Sundays and holidays) without preliminary (arraignment) hearing before the Tribal Court and shall be released from custody after seventy-two (72) hours if no hearing is held and no temporary commitment order is issued.  During the period of detention, the person may be taken under protective custody to a treatment center if, in the opinion of the Officer, this procedure is necessary for the well-being of the arrested or detained party.  If a longer time than seventy-two (72) hours is needed before being brought before a Judge, the person shall be released on his own recognizance or bail pending time of arraignment.</text>
+      </section>
+      <section>
+        <num>8.2.1.120</num>
+        <heading>Arraignment Procedure</heading>
+        <para>
+          <num>(a)</num>
+          <text>At the arraignment:</text>
+          <para>
+            <num>(1)</num>
+            <text>The complaint shall be read to the defendant who shall be properly identified.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Judge shall explain the offense and the penalties prescribed by this Code to the defendant and shall-determine that the defendant understands the nature of the charge and possible penalties.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Judge shall advise the defendant of his right to remain silent and that any statement made by the defendant may be used against the defendant and right at his own expense to the assistance of lay counsel or Professional attorney admitted to practice before the Court of the Pueblo of San Ildefonso and the right to a trial by jury, under the provisions of this Code.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Judge shall ask the defendant to plead as follows: guilty, not guilty or no contest.  A plead of 'no contest' shall be interpreted by the Court for the purpose of sentencing in the same way as admission of guilt.  If the defendant refuses or fails to plead, or if the Court does not accept the defendant's plea of guilty, the Court shall direct the entry of a plea of not guilty on behalf of the defendant.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Judge shall be satisfied that any plea is made at the free will of the defendant.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Judge may defer any further action in the case and take the case under the advisement upon defendant's agreement to enter a treatment or rehabilitation facility.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.1.130</num>
+        <heading>Sentencing</heading>
+        <text>If the Court is convinced that the defendant pleaded guilty of his free will or pleads no contest, the Court shall accept the plea and shall sentence the defendant immediately or within a reasonable period during which time the defendant may be detained by temporary commitment, released on bill or on own recognizance.  Before sentencing, the police report shall be read by the arraignment officer and the Judge shall acknowledge that the police report is sufficient for finding of guilt.</text>
+      </section>
+      <section>
+        <num>8.2.1.140</num>
+        <heading>Trial Date</heading>
+        <text>If the defendant enters a plea of not guilty, the Court shall set a date for trial which shall be not less than five (5) days nor, unless based on due cause, more than sixty (60) days from the date of arraignment.</text>
+      </section>
+      <section>
+        <num>8.2.1.150</num>
+        <heading>Release</heading>
+        <text>The defendant may be eligible for release form custody while awaiting trial in accordance with the provisions of the Code.</text>
+      </section>
+      <section>
+        <num>8.2.1.160</num>
+        <heading>Order for Detention</heading>
+        <text>Unless so released, the Judge may order the detention of the defendant by signing a temporary commitment to that effect.</text>
+      </section>
+      <section>
+        <num>8.2.1.170</num>
+        <heading>Commitments</heading>
+        <text>There shall be issued for each person held for trial or sentencing a temporary commitment and for each person held after sentence has been passed a final commitment.</text>
+      </section>
+      <section>
+        <num>8.2.1.180</num>
+        <heading>Search and Seizure, Warrant</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every Judge of the Tribal Court shall have the power to issue warrants for search and seizure or property within the jurisdiction of the Court provided that no warrant shall be issued except:</text>
+          <para>
+            <num>(1)</num>
+            <text>Upon probable cause that an offense has been committed supported by oath or affirmation signed by the complaining witness naming or describing the person and particularly describing the items or articles to be seized, the place to be searched and the reasons for its issuance.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To an Officer to be served between 7:00 A.M. and 10:00 P.M., unless the Judge for good cause authorized service at another time and such authorization is noted on the warrant.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.1.190</num>
+        <heading>Search and Seizure, No Warrant</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Law Enforcement Officer shall search or seize any property without warrant nor shall any property seized be admitted into evidence unless:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Officer has reasonable cause to believe that the person in possession of such property is engaged in the commission of an offense.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The search is incidental to a lawful detention of a motor vehicle or lawful arrest or is reasonably related to the offense for which the defendant is taken into custody.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Officer has probable cause to believe that the person has in possession contraband or fruits of the crime and the time to get a warrant would endanger the Officer's safety or seriously risk the destruction of the evidence.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.2.2</num>
+      <heading>Trial Procedure</heading>
+      <section>
+        <num>8.2.2.010</num>
+        <heading>Right to jury</heading>
+        <text>Criminal cases shall be tried by the Court unless the defendant demands a jury trial.  Any defendant charged with a criminal offense under this Code which could result, by law or custom, in punishment by confinement is entitled to a jury trial on demand.  The demand may be made orally at the preliminary hearing or arraignment or by written application to the court three (3) days thereafter.</text>
+      </section>
+      <section>
+        <num>8.2.2.020</num>
+        <heading>Trial</heading>
+        <para>
+          <num>(a)</num>
+          <text>The trial should proceed in the following manner, before the Court if no jury trial is demanded; if, the defendant is entitled to and has demanded a trial by jury, and after the jury has been impaneled as provided by the rules of the Court and sworn by the Judge:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Clerk shall read the complaint and state the defendant's plea.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Court shall give all of its rulings on motions already filed and accept any pre-trial notions for ruling by the Court.  All arguments on motions shall be made outside the hearing of the jury in a trial by jury.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The opening statements shall be made by the Prosecutor or person acting in such capacity followed by the defendant or his lay counsel or professional attorney.  The Prosecutor may waive an opening statement and the defendant may waive an opening statement or reserve the right to make an opening statement after the prosecution has rested its case.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Evidence shall be presented in support of the charge, and the defendant, lay counsel or professional attorney shall have the right to cross examine any witnesses called by the Prosecutor.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The testimony of witnesses shall be taken orally in open Court, but upon motion of prosecutor or defendant, lay counsel or professional attorney, witnesses nay be sequestered or excluded until called upon to testify.  Testimony can also be given as evidence by properly executed sworn affidavits, dispositions or written interrogatories.  Physical evidence shall be introduced and admitted only after a proper foundation has been laid as to its relevancy.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The defendant any make a motion for judgment of not guilty or directed verdict of acquittal at the close of the evidence offered by the prosecution.  If the evidence is not sufficient to support a conviction of the offense charged (beyond a reasonable doubt), the Court shall order the entry of judgment of not guilty or a directed verdict of acquittal of the offense charged.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>The Court nay also enter judgment of not guilty on its own motion after the evidence on either side is closed, and shall do so if the evidence is not sufficient to support a conviction of the offense charged beyond a reasonable doubt.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>After the prosecution has rested its case, the defendant, lay counsel or professional attorney shall have the burden to proceed with the defense and evidence in support thereof, and the prosecution shall have the right to cross-examine any witnesses called by the defendant, lay counsel or professional attorney.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>The parties may then offer rebutting testimony only on matters relating to direct testimony, except that the Court may, in the interest of justice, permit the introduction of newly discovered evidence.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>The prosecution and the defendant, lay counsel or professional attorney may then present final arguments in the case, the prosecution having the right to open and close.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>The Judge shall charge the jury orally or in writing stating the law as applicable to the case.  At any time during the trial, the Judge may give the jury such instruction as to the law as he considers necessary.  The Judge shall instruct the jury that the defendant is presumed to be innocent, that the burden of proof rests on the prosecution, that the evidence must show beyond a reasonable doubt that the defendant has committed the crime charged, that if the defendant did not testify, that his failure to testify shall not be considered as evidence that he is guilty, and that the verdict of the jury must be a majority vote, meaning that all but one (1) jury member must agree to the verdict.</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>Objections to the instructions not made before the jury determines its verdict shall be deemed waived.  The Federal Rules of Evidence shall be followed as applicable.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.2.030</num>
+        <heading>Rights of Defendant</heading>
+        <para>
+          <num>(a)</num>
+          <text>In all criminal prosecutions, the defendant shall have the following rights:</text>
+          <para>
+            <num>(1)</num>
+            <text>The right to be present throughout the proceeding and to defend himself in person, by lay counsel or professional attorney at his own expense.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The right to know the nature and cause of the charge and to receive a copy of the complaint.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The right to present witnesses and to meet the witnesses against him face to face and cross-examine them.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The right to compulsory process to obtain the testimony of witnesses and physical evidence in his behalf.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The right to a speedy and public trial and a trial by an impartial jury if conviction could result in punishment by confinement under this Code.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The right not to testify.  The failure of the defendant to testify shall not be construed against him or be commented upon by the prosecution.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.2.3</num>
+      <heading>Post Trial Procedure</heading>
+      <section>
+        <num>8.2.3.010</num>
+        <heading>Directed Verdict</heading>
+        <text>At any time after the close of the evidence, the Court may direct a verdict of acquittal.  If no directed verdict of acquittal is ordered, the Court shall charge the jury as to the law and the jury shall retire to determine a verdict.  The jury must render a verdict for conviction by majority vote of five (5) jurors on any charge in the complaint.  After the verdict of the jury has been announced by the Judge, he shall discharge the jury.  If the trial is without a jury, the finding of guilt or innocence shall be made by the Court.</text>
+      </section>
+      <section>
+        <num>8.2.3.020</num>
+        <heading>Acquittal</heading>
+        <text>If the court finds the defendant not guilty or the jury brings in a verdict of not guilty on all counts of the complaint, a judgment of not guilty or acquittal shall be announced by the Court and entered in the official records by the Clerk, along with the names of the jurors in the case, and the defendant shall be immediately discharged.</text>
+      </section>
+      <section>
+        <num>8.2.3.030</num>
+        <heading>Conviction and Sentencing</heading>
+        <text>Within a reasonable time or immediately after a plea of guilty, a finding of the guilt by the Court, or a verdict of guilty by the jury, and after such pre-sentencing investigation as the Court may direct, the Court shall sentence the defendant in its discretion pursuant to the applicable provisions of this Code, and deliver to the Law Enforcement Officer a signed copy of the final commitment.  The judgment of conviction shall state the charge, the plea, the verdict and the sentence.  The judgment shall be signed by the Judge and entered in the official records by the Clerk.  The final commitment shall direct that the prisoner be held in custody until the prisoner has satisfied the sentence according to law, or be held in suspension provided the convicted person follows a course of treatment and rehabilitation or other order of the Court.</text>
+      </section>
+      <section>
+        <num>8.2.3.040</num>
+        <heading>Motion for New Trial</heading>
+        <text>A motion for a new trial to be held in the Tribal Court may be made by the defendant within seven (7) days after judgment.  The Court shall grant a motion for a new trial for the cause set forth in the Rules of the Court, if such trial, in the discretion of the Court, is required in the interest of justice.</text>
+      </section>
+      <section>
+        <num>8.2.3.050</num>
+        <heading>Right of Appeal</heading>
+        <text>Upon imposing sentence in a case which has gone to a trial after a plea of not guilty, the Court shall advise the defendant upon conviction by the Court of jury, if the defendant has not already been so advised, or his right to file an appeal within ten (10) days.  All appeals shall be made in accordance with the Rules of the Court.</text>
+      </section>
+      <section>
+        <num>8.2.3.060</num>
+        <heading>Probation</heading>
+        <text>After conviction of an offense by the Court or jury, the Court may suspend, upon such reasonable terms and conditions as it considers necessary, at any time, all or any part of the sentence or remainder of the sentence and release the prisoner on probation under the rules of the Court.  In granting probation, the Judge shall consider the prior criminal record of the prisoner, his background, character, financial conditions, family obligations, and other conditions as specified in the Rules of the Court.</text>
+      </section>
+      <section>
+        <num>8.2.3.070</num>
+        <heading>Violation of Probation and Parole</heading>
+        <text>If any person all violate probation or parole, that prisoner may be required to serve the balance of the original sentence (plus and additional sentence for probation or parole violation), but the Court shall not revoke probation or parole except after a hearing at which the defendant shall be present, advised of the charges on which revocation is proposed, and defend against the charges.  The defendant may be admitted to bail pending such hearing.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.2.4</num>
+      <heading>Sentencing</heading>
+      <section>
+        <num>8.2.4.010</num>
+        <heading>Discretion of Court</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any final commitment of the Court may include:</text>
+          <para>
+            <num>(1)</num>
+            <text>Serving of sentence on weekends or in any other appropriate manner.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Labor for public purposes of the Pueblo while in confinement or in lieu thereof.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Confiscation of any material substance or equipment used in wrongful and illegal acts and making appropriate disposition thereof pursuant to this Code.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.2.4.020</num>
+        <heading>Credit</heading>
+        <text>The convicted person shall receive full credit toward his sentence for any time spent in confinement prior to final commitment in connection with the same offense, and further, shall be given one (1) additional day credit each week for good time served.</text>
+      </section>
+      <section>
+        <num>8.2.4.030</num>
+        <heading>Confinement in Lieu of Fine</heading>
+        <text>No convicted person shall be confined solely because of inability to pay a fine, however, sentence may be imposed upon any convicted person who is able but refuses to pay a fine.</text>
+      </section>
+      <section>
+        <num>8.2.4.040</num>
+        <heading>Payment of Fine</heading>
+        <text>When the defendant is sentence to pay a fine, the Court may permit payment within a definite period or by installment.  In the absence of such permission, a fine shall be payable forthwith.  Fines an any installment thereof shall be payable to the Court Clerk, properly receipted for and entered upon the trial record and docket, and deposited weekly in the Pueblo Treasury.</text>
+      </section>
+      <section>
+        <num>8.2.4.050</num>
+        <heading>Work Credit</heading>
+        <text>Any prisoner who performs work for the Tribe during the period of his sentence shall be give two (2) days credit for each one (1) day of satisfactory work performed.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.2.5</num>
+      <heading>Uniform Criminal Extradition Act</heading>
+      <section>
+        <num>8.2.5.010</num>
+        <heading>Authority of the Governor</heading>
+        <text>The Governor may in his discretion have arrested and delivered up to the executive authority of any State, Tribe or the United State any person charged with a crime in the jurisdiction and who has fled from justice and is found in the jurisdiction of the pueblo of San Ildefonso.</text>
+      </section>
+      <section>
+        <num>8.2.5.020</num>
+        <heading>Demand for Extradition – Requirements</heading>
+        <text>No demand for the extradition of a person charged with crime in another jurisdiction shall be recognized by the Governor unless in writing alleging that the accused was present in the demanding jurisdiction at the time of the commission of the alleged crime, and that thereafter he fled from that jurisdiction, and accompanied by a copy of an indictment found or by information supported by affidavit made before a magistrate or Judge there, together with a copy of any warrant which was issued thereupon, together with a copy of a judgment of conviction or of a sentence imposed in execution thereof, together with a statement by the executive authority of the demanding jurisdiction that the person claimed has excepted from confinement of has broken the terns of his bail, probation or parole.  The indictment, information or affidavit made before the magistrate or Judge must substantially charge the person demanded with having committed a crime under the law of that jurisdiction; and the copy of indictment, information, affidavit, judgment of conviction or sentence must be certified or authenticated by the executive authority upon demand.</text>
+      </section>
+      <section>
+        <num>8.2.5.030</num>
+        <heading>Investigation of Demand – Report</heading>
+        <text>When a demand shall be made upon the Governor for the surrender of a person so charged with crime, the Governor shall cause an investigation to be made of the demand and to report to him the situation and circumstances of the person so demanded and whether he ought to be surrendered.</text>
+      </section>
+      <section>
+        <num>8.2.5.040</num>
+        <heading>Return or Surrender of Person Charged in Another Jurisdiction</heading>
+        <text>When it is desired to have returned to the Pueblo of San Ildefonso a person charged by the Pueblo of San Ildefonso with a crime and such person is imprisoned or is held under criminal proceedings then pending against him in another jurisdiction, the Governor may agree with the executive authority of such other jurisdiction for the extradition of such person before the conclusion of such proceedings or his term of sentence in such other jurisdiction, upon condition that such person be returned to such other jurisdiction at the expense of the Pueblo as soon as the prosecution in the Pueblo is terminated.  The Governor may also surrender on demand of the executive authority of any other jurisdiction any person in the jurisdiction of his Pueblo who is charged with having violated the laws of the jurisdiction whose executive authority is making the demand, even though such person left the demanding jurisdiction involuntarily.</text>
+      </section>
+      <section>
+        <num>8.2.5.050</num>
+        <heading>Surrender of Person Charged with Crime Committed in Other Than Demanding Jurisdiction</heading>
+        <text>The Governor may also surrender, on demand of the executive authority of any other jurisdiction, any person in the jurisdiction of the Pueblo of San Ildefonso charged in such other jurisdiction with committing an act in the Pueblo of San Ildefonso in a third jurisdiction, intentionally resulting in a crime in the jurisdiction whose executive authority is making the demand and the provisions of this Section not otherwise inconsistent, shall apply to such cases, even though the accused was not in that jurisdiction at the time of the commission of the crime, and has not fled therefrom.</text>
+      </section>
+      <section>
+        <num>8.2.5.060</num>
+        <heading>Warrant of Arrest</heading>
+        <text>If the Governor decides that the demand should be complied with, he shall sign a warrant of arrest, which shall be sealed with the Pueblo Seal, and be directed to any Law Enforcement officer for execution.  The warrant must substantially recite the facts necessary to the validity of the issuance.</text>
+      </section>
+      <section>
+        <num>8.2.5.070</num>
+        <heading>Authority of Officer or Other Person Under Warrant</heading>
+        <text>Such warrant shall authorized the Law Enforcement Officer to whom directed to arrest the accused at any time and any place where he may be found within the jurisdiction of the Pueblo of San Ildefonso and to command the aid of all Low Enforcement Officers in the execution of the warrant, and to deliver the accused, subject to provisions of this Section, to the duly authorized agent of the demand jurisdiction.</text>
+      </section>
+      <section>
+        <num>8.2.5.080</num>
+        <heading>Authority to Command Assistance</heading>
+        <text>Every Law Enforcement Officer empowered to make the arrest shall have the same authority, in arresting the accused, to command assistance therein, a Law Enforcement Officer has by law in this execution of any criminal process to them, with like penalties against those who refuse their assistance.</text>
+      </section>
+      <section>
+        <num>8.2.5.090</num>
+        <heading>Rights of Persons Arrested</heading>
+        <text>No person arrested upon such warrant shall be delivered over to the agent when the executive authority demanding him shall have appointed to receive him unless he shall first be taken forthwith before a Judge of the Pueblo of San Ildefonso who shall inform him which he is charged, and that he has the right to demand the procurement of legal counsel at his own expenses; and, if the prisoner or his counsel shall state that he or they desire to test the legality of his arrest, the Judge shall fix a reasonable time to be allowed him within which to apply for a writ of habeas corpus.  When such writ is applied for, notice thereof, and of the time and place of hearing thereof, shall be given to the said agent of the demanding jurisdiction.</text>
+      </section>
+      <section>
+        <num>8.2.5.100</num>
+        <heading>Delivery of Person in Violation of Section-Penalty</heading>
+        <text>Any Law Enforcement Officer, who shall deliver to the agent for extradition of the demanding jurisdiction, a person in his custody under the Governor's warrant, in willful disobedience of the previous Section shall be guilty of an offense and upon conviction thereof may be sentenced to confinement for a period not to exceed six (6) months or to pay a fine $500.00 or both, with costs.</text>
+      </section>
+      <section>
+        <num>8.2.5.110</num>
+        <heading>Confinement of Prisoner</heading>
+        <text>The Law Enforcement Officer executing the Governor's warrant of arrest, or the agent of the demanding jurisdiction to whom the prisoner may have been delivered may, when necessary, confine the prisoner in the jail of any jurisdiction through which he any pass and the keeper of such jail must receive and safely keep the prisoner until the Law Enforcement Officer is ready to proceed on his route, such officer being chargeable with the expenses of keeping the prisoner.</text>
+      </section>
+      <section>
+        <num>8.2.5.120</num>
+        <heading>Charge of Complaint – Warrant of Arrest</heading>
+        <text>Whenever any person within the jurisdiction of this Pueblo of San Ildefonso shall be charged on an oath of any credible person before any Judge of this Pueblo with the commission of any crime in any other jurisdiction and, with having fled from justice or with having been convicted of a crime in that jurisdiction and have escaped from confinement or having broken the terms of his bail, probation or parole or whenever complaint shall have been made before any Judge of this Pueblo setting forth on the affidavit or any credible person in another jurisdiction and that the accused has been charged in such jurisdiction with commission of a crime and has fled from justice and having excepted from confinement or having broken the term of his bail, probation or parole, and is believed to be in the jurisdiction of this Pueblo, the Judge shall issue a warrant directed to any Law Enforcement Officer commanding him to apprehend the person named therein, wherever he may be found in this Pueblo and to bring him before the same or any other Judge of the Pueblo or which may be available in our convenient of access to the place where the arrest may be made to answer the charge or complaint and affidavit, and a certified copy of the sworn charge or complaint and affidavit upon which the warrant is issued shall be attached.</text>
+      </section>
+      <section>
+        <num>8.2.5.130</num>
+        <heading>Arrest Without Warrant</heading>
+        <text>The arrest of a person may be lawfully made with the approval of the Governor's Office also by a Law Enforcement Officer of a private person, without a warrant upon reasonable information that the accused stands charged in the Courts of another jurisdiction with a crime but when so arrested the accused must be taken before a Judge of the Tribal Court with all practicable speed and complaint must be made against him under oath setting forth any ground for the arrest and thereafter his answer be heard as if he had been arrested on a warrant.</text>
+      </section>
+      <section>
+        <num>8.2.5.140</num>
+        <heading>Preliminary Examination – Commitment</heading>
+        <text>If, from the examination before the Judge, it appears that the person held is the person charged with having committed the crime alleged and that he has fled from justice, the Judge must, by a warrant reciting the accusation, commit him to the closes jail for such a time not exceeding thirty (30) days and specified in the warrant as will enable the arrest of the accused to be made under a warrant of the Governor on a requisition of the executive authority of the jurisdiction having jurisdiction of the offense, unless the accused gives bail.</text>
+      </section>
+      <section>
+        <num>8.2.5.150</num>
+        <heading>Bail</heading>
+        <text>Unless the offense with which the prisoner is charged is shown to be an offense punishable by death or life imprisonment under the laws of the jurisdiction in which it was committed, a Judge of the Pueblo Tribal court may admit the person arrested to bail by bond, with sufficient sureties, and in such sum as he deems proper, conditioned upon his surrender, to be arrested upon the warrant of the Governor.</text>
+      </section>
+      <section>
+        <num>8.2.5.160</num>
+        <heading>Failure to Make Timely Arrest or Demand for Extradition</heading>
+        <text>If the accused is not arrested under warrant of the Governor by the expiration of the time specified in the warrant or bond, a Judge may discharge him or may recommit him for further period not to exceed sixty (60) days or a Judge may again take bail for his appearance and surrender but within a period not to exceed sixty (60) days after the date of such new bond: Provided, that the Governor may, except in cases in which the offense is punishable under laws of the demanding jurisdiction by death or life imprisonment, deny a demand for extradition when such demand is not received by the Governor before the expiration for one-hundred eighty (180) days from the date of the arrest in the Pueblo of the alleged fugitive in the absence of a showing of good cause for such delay.</text>
+      </section>
+      <section>
+        <num>8.2.5.170</num>
+        <heading>Failure to Appear – Bond Forfeiture – Recover on Bond</heading>
+        <text>If the prisoner is admitted to bail and fails to appear and surrender himself according to the conditions of his bond, the Judge, by proper order, shall declare the bond forfeited and order his immediate arrest without warrant if he is within the jurisdiction of the Pueblo of San Ildefonso.  Recovery may be had on such bonds given by the accused in criminal proceedings within the jurisdiction of the Pueblo.</text>
+      </section>
+      <section>
+        <num>8.2.5.180</num>
+        <heading>Pending Criminal Prosecution</heading>
+        <text>If a criminal prosecution has been instituted against such person under the laws of the Pueblo and is still pending, the Governor in his discretion, either surrender him on demand of the executive authority of another jurisdiction or hold him until he has been tried and discharged or convicted and punished by the Pueblo.</text>
+      </section>
+      <section>
+        <num>8.2.5.190</num>
+        <heading>Recall or Reissuance of Warrant</heading>
+        <text>The Governor may recall his warrant of arrest or may issue another warrant whenever he deems proper.</text>
+      </section>
+      <section>
+        <num>8.2.5.200</num>
+        <heading>Demand by Governor of the Pueblo of San Ildefonso for Extradition – Warrant – Agent</heading>
+        <text>When the Governor of the Pueblo of San Ildefonso shall demand person charged with a crime or with escaping from confinement or breaking the terms of this bail, probation or parole in the jurisdiction of the Pueblo, from the executive authority of any other jurisdiction, authorized to receive such demand, he shall issue a warrant under the Seal of the Pueblo to a Law Enforcement Officer commanding him to receive the person so charged if delivered to him and convey him to the proper officer of the Pueblo.</text>
+      </section>
+      <section>
+        <num>8.2.5.210</num>
+        <heading>Application for Requisition for Return of Person – Contents Affidavits – Copies</heading>
+        <para>
+          <num>(a)</num>
+          <text>When the retune to this Pueblo of a person charged with a crime under the jurisdiction of this Pueblo is required, the Court shall present to the Governor written application for a  requisition for the return of the person so charged, the crime charged against him, the approximate time, place, and circumstances of its commission, the jurisdiction in which he is believe to be, including location of the accused therein at the time the application is made and certifying that, in the opinion of the Judge, the ends of justice require the arrest and return of the accused to this Pueblo for trial and that the proceeding is not instituted to enforce a private claim.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>When the return to this Pueblo is required of a person who has been convicted of a crime under the jurisdiction of this Pueblo and has escaped from confinement or broken the terms of his bail, probation or parole, the Court shall present to the Governor a written application for a requisition for the return of such person, in which application shall be stated the name of the person, the crime of which he was convicted, the circumstances of his escape from confinement or of the breach of the terms of his bail, probation or parole, the jurisdiction in which he is believed to be, including the location of the person therein at the time the application is made.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The application shall be verified by affidavit, shall be executed in duplicate and shall be accompanied by two (2) certified copies of the indictment or information and affidavit filed or of the complaint made to the Judge, stating the offense with which the accuse is charged or of the judgment of conviction or of the sentence.  The Judge may also attach such further affidavit and other documents in duplicate as he shall deem proper to be submitted with such application.  One (1) copy of the application, with the action of the Governor indicated by endorsement thereon, and one (1) of the certified copies of the indictment, complaint, information, and affidavits or of the judgment of conviction or of the sentence shall be filed in the Office of the Governor's Secretary to remain as record in that Office.  The other copies of all papers shall be forwarded with the Governor's requisition.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.2.5.220</num>
+        <heading>Civil Process – Service on Extradited Person</heading>
+        <text>A person brought into this pueblo by or after waiver of, extradition based on a criminal charge shall not be subject to service of personal process in civil actions arising out of the same facts as the criminal proceeding to answer which he is being or has been returned until he has been finally convicted in the criminal proceeding or, if acquitted, until he has had reasonable opportunity to return to the jurisdiction form which he was extradited.</text>
+      </section>
+      <section>
+        <num>8.2.5.230</num>
+        <heading>Waiver of Extradition</heading>
+        <text>Any person arrested in the jurisdiction of this pueblo charged with having committed any crime in another jurisdiction or alleged to have escaped from confinement or broken terms of his bail, probation or parole, may waive issuance and service of the warrant provided for and all other procedure incidental to extradition proceedings by executing or subscribing in the presence of any tribal court a writing which states he consents to return to the demanding jurisdiction; provided, however, that before such waiver shall be executed or subscribed by such person it shall be the duty of such Judge to inform such person of his rights to the issuance and service of a warrant of extradition and to obtain a writ habeas corpus.</text>
+        <text>If and when such consent has been duly executed, it shall forthwith be forwarded to the Office of the Governor and filed therein.  The Judge shall direct the Law Enforcement Officer of having such person in custody to deliver forthwith such person to the duly accredited agent or agents of the demanding jurisdiction, and shall deliver or cause to be delivered to such agent or agents a copy of such consent: Provided, however, that nothing in this Section shall be deemed to limit the rights of the accused person to return voluntarily and without formality to the demanding jurisdiction nor shall this waiver procedure be deemed to be an exclusive procedure or to limit the powers, rights or duties of the officers of the demanding jurisdiction or this Pueblo.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.3</num>
+    <heading>Law Enforcement</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.3.1</num>
+      <heading>Law Enforcement Officers, Probation and Parole Officers, Juvenile Officers, Game Warder, Livestock and Range Inspectors, and Other Officers of the Court</heading>
+      <section>
+        <num>8.3.1.010</num>
+        <heading>Selection, Duties and Authority</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor, with the approval of the Council, shall appoint Law Enforcement officers, Probation and Parole Officers, Juvenile Officer, Game Wardens and Livestock and Range Inspectors traditional and other officers.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council shall approve the qualifications, terms of employment, and compensation of such officers.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council shall approve the duties of such officers including their authority to make arrests for violations of this Code for any others issued thereunder, and to carry out official orders of the Court.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>With the approval of the Council, Law Enforcement Officers, Probation and Parole Officers, Juvenile Officers, Game Wardens, Livestock and Range Inspectors, and other officers of the Court may accept deputy commissions from city, county, state and Federal agencies.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council may issue commissions with power of arrest for violations of this Code to city, county, state and Federal officers, and may deputize Law Enforcement Officers of the State, County; Municipality, and including Livestock and Range Inspectors and other individuals as traditions and customs and the law of the Pueblo of San Ildefonso dictate.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.3.2</num>
+      <heading>Pueblo de San Ildefonso Law Enforcement Commission Act of 2015</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R15-002, dated January 19, 2015.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-002"/>
+      <section>
+        <num>8.3.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The safety, health and well-being of the Pueblo's community members and protection of property are matters of great importance;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo relies on the Bureau of Indian Affairs Office of Justice Services ("BIA Law Enforcement") to provide the primary law enforcement services for the Pueblo;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>BIA Law Enforcement does not have a sufficient number of police officers to provide the necessary law enforcement coverage at the Pueblo for Feast Day;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pursuant to Section 5.1(5) of the Pueblo's Civil and Criminal Code, the Council may issue commissions to law enforcement officers from other jurisdictions in accordance with the traditions and customs of the Pueblo;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has determined it to be in the best interests of the Pueblo to authorize the Governor to issue law enforcement commissions to law enforcement officers from other jurisdictions as necessary to ensure proper law enforcement coverage during the annual Feast Day time period.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.3.2.020</num>
+        <heading>Enactment</heading>
+        <text>The Council hereby enacts the attached law entitled, "Law Enforcement Commission Act".</text>
+      </section>
+      <section>
+        <num>8.3.2.030</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Law Enforcement Commission Act.</text>
+      </section>
+      <section>
+        <num>8.3.2.040</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.3.2.050</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Governor to issue commissions and to deputize law enforcement officers from other jurisdictions for the annual Feast Day time period.</text>
+      </section>
+      <section>
+        <num>8.3.2.060</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>the current law enforcement services provided by BIA Law Enforcement are  insufficient for the annual Feast Day activities; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the Council finds the need to provide for additional law enforcement officers for the annual Feast Day activities to protect the health and safety of the Pueblo, its citizens, and visitors.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.3.2.070</num>
+        <heading>Amendment of Section 5.1(5) of the Civil and Criminal Code of the Pueblo</heading>
+        <text>Section 5.1(5) of the Civil and Criminal Code of the Pueblo ("Code") is hereby deleted and replaced with the following new Section 5.1(5)(a), (b), (c), and (d) as follows, notwithstanding any other provision of the Code to the contrary:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor shall be authorized to issue law enforcement commissions to and deputize law enforcement officers from agencies, departments, or entities from other jurisdictions as he deems necessary to provide law enforcement coverage during the annual San Ildefonso Pueblo Feast Day time period.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any law enforcement commission and deputization issued by the Governor shall be for the enforcement of the Pueblo's laws and shall include the power to arrest persons violating the Pueblo's laws.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor shall promptly notify the Council in writing of all law enforcement commissions and deputizations that he issues to any officer from another jurisdiction.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Governor shall inform each law enforcement officer from another jurisdiction who receives a commission or deputization to enforce Pueblo law that a condition of such commission or deputization is that: (i) such officer and/or his or her employer shall be responsible and liable for such officer's actions; (2) the Pueblo accepts no responsibility or liability for such officer's actions; (3) the Governor and Pueblo have not waived the Pueblo's sovereign immunity from suit, and the Pueblo expressly reserves its right to assert sovereign immunity; and the Governor shall ensure that any officer and/or his employer who receives such a commission or deputization agrees to and accepts such conditions.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.3.2.080</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.4</num>
+    <heading>Sex Offender Registration Code</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.1</num>
+      <heading>Background</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R11-018, dated June 20, 2011; and was amended pursuant to Council Resolution No. SI-R13-023, dated June 5, 2013.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R11-018"/>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-023"/>
+      <section>
+        <num>8.4.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>In 2007, the Tribal Council decided it would participate as a registration jurisdiction pursuant to Section 127 of the Adam Walsh Act;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Since that time, the Pueblo continued to work towards substantial implementation of the registration and notification requirements of the Sex Offender Registration and Notification Act ("SORNA");</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On June 20, 2011,  the Council pursuant to SI-R11-018 adopted the Pueblo de San Ildefonso Sex Offender Registration Code ("Registration Code") that establishes the requirements and procedures for registration and notification of sex offenders within the Pueblo's lands;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>On July 27, 2011, the Pueblo submitted its Registration Code to the Department of Justice Sentencing, Monitoring, Apprehending, Registering and Tracking (SMART) Office as part of its substantial implementation package; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The SMART Office identified areas in the Pueblo's Registration Code that required amendment in order to comply with SORNA requirements;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo is required to have policies and procedures to implement its Sex Offender Registration Program and such policies and procedures should be referenced in the Registration Code and the Governor designated as the party responsible for the development and implementation of such policies and procedures;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed and discussed the proposed amendments to the Sex Offender Registration Code attached hereto and determined it to be in the best interest of the Pueblo de San Ildefonso to approve and adopt the amendments as proposed.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts the amendments to the  Pueblo de San Ildefonso Sex Offender Registration Code as attached hereto and authorizes such other non-substantive changes as may be needed.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his or her designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.2</num>
+      <heading>GENERAL MATTERS</heading>
+      <section>
+        <num>8.4.2.010</num>
+        <heading>Title</heading>
+        <text>This Title shall be known as the Pueblo de San Ildefonso Sex Offender Registration Code.</text>
+      </section>
+      <section>
+        <num>8.4.2.020</num>
+        <heading>Purpose</heading>
+        <text>The intent of this Code is to implement the federal Sex Offender Registration and Notification Act (SORNA) (Title I of Public Law 109-248) and shall be interpreted liberally to comply with the terms and conditions of SORNA as presently written or as may be amended.</text>
+      </section>
+      <section>
+        <num>8.4.2.030</num>
+        <heading>Establishment of Registration Program</heading>
+        <para>
+          <num>(a)</num>
+          <text>Sex Offender Registration Program.  The Pueblo de San Ildefonso Tribal Council hereby establishes a sex offender registration program, known as the Pueblo de San Ildefonso Sex Offender Registration Program, which shall be maintained and operated by the Tribal Court, with the assistance of the Bureau of Indian Affairs Office of Justice Services – Northern Pueblos Agency, in accordance with this Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Public Sex Offender Registry Website.  The Pueblo de San Ildefonso hereby establishes a public sex offender registry website which shall be utilized and maintained in accordance with this Code.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Policies and Procedures.  The Pueblo de San Ildefonso shall develop policies and procedures necessary to implement the requirements of this Code and aid in the operation of the Pueblo's Sex Offender Registration Program.  The Governor, or his or her designee, shall develop, implement and revise, as necessary, such policies and procedures.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.3</num>
+      <heading>TERMINOLOGY AND COVERED OFFENSES</heading>
+      <section>
+        <num>8.4.3.010</num>
+        <heading>Definitions</heading>
+        <text>The Definitions below apply to this Title only.</text>
+        <para>
+          <num>(a)</num>
+          <text>Conviction.  A conviction in any court of competent jurisdiction upon a criminal trial, a plea of guilty or a plea of nolo contendere, and includes a deferred sentence, but does not include a conditional discharge.  Also referred to as "convicted".</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Employee.  An individual who is self-employed or works for any other entity, regardless of compensation including by not limited to volunteers, interns, externs, and apprentices.  See also Chpt. 64, Sec. 64.1(4).</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Habitually Lives.  When the offender actually lives in a jurisdiction for more than fifteen (15) days in total within a six (6) month period.  The fifteen (15) days do not have to be consecutive.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Immediate.  "Immediate" and "immediately" means within three (3) business days.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Imprisonment.  Incarceration pursuant to a conviction, regardless of the nature of the institution in which the offender serves the sentence.  The term is to be interpreted broadly to include, for example, confinement in a state "prison" as well as in a local or tribal "jail".  Persons under "house arrest" following conviction of a covered sex offense are required to register pursuant to the provisions of this Code during their period of "house arrest."</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Jurisdiction.  The term "jurisdiction" refers to the fifty (50) states, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, the United States Virgin Islands, and any Indian tribe.  This includes the Pueblo de San Ildefonso Lands.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Minor.  An individual who has not attained the age of eighteen (18) years.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Police Department.  The Bureau of Indian Affairs Office of Justice Services – Northern Pueblos Agency which currently serves as the Pueblo's primary law enforcement agency.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Pueblo de San Ildefonso Lands.  All lands subject to the jurisdiction of the Pueblo de San Ildefonso which is all of Pueblo de San Ildefonso "Indian Country" under Title 18 U.S.C. §1151(b) as well as such other lands now or hereafter held in trust for the Pueblo's benefit by the United States.  Also referred to as "Pueblo's Lands."</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Resides.  The location of the individual's home or other place where the individual habitually lives or sleeps.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Sexual Act.  The term means:</text>
+          <para>
+            <num>(1)</num>
+            <text>contact between the penis and the vulva or the penis and the anus, and for purposes of this definition, contact involving the penis occurs upon penetration, however slight;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>contact between the mouth and the penis, the mouth and  the vulva, or the mouth and the anus;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the penetration, however, slight, of the anal or genital opening of another by a hand or finger or by any object, with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the intentional touching, not through the clothing, of the genitalia of another person that has not attained the age of eighteen (18) years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Sexual Contact.  The intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with the intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desires of another person.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Sex Offense.  Those offenses contained in Section 111 (5) of SORNA and those offenses enumerated in Sec. 61.2. of this Code or any other covered offense under tribal law.</text>
+          <text>An offense involving <strong>consensual sexual conduct</strong> is <u>not</u> a sex offense for the purposes of this Code if the victim was an adult, unless the adult was under the custodial authority of the offender at the time of the offense, or if the victim was at least thirteen (13) years old and the offender was not more than four (4) years older than the victim.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Sex Offender.  A person convicted of a sex offense pursuant to federal, state, tribal or military law or pursuant to the law of a foreign nation that provides due process similar to that provided in the United States.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Sex Offender Registry. The registry of sex offenders, and a notification program, maintained by the Pueblo, or agent or designee of the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Student.  A person who enrolls in or attends either a private or public education institution, including a secondary school, trade or professional school, or an institution of higher education.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>SORNA.</heading>
+          <text>The Sex Offender Registration and Notification Act (Title I of the Adam Walsh Child Protection and Safety Act of 2006 P.L. 109-248), 42 U.S.C. §16911 <em>et. seq.</em>, as amended.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Tribal Court.  The Tribal Court of the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Tribe.  Pueblo de San Ildefonso.  Can also include the Pueblo de San Ildefonso Tribal Court.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.3.020</num>
+        <heading>Covered Offenses</heading>
+        <text>Offenders who reside within Pueblo de San Ildefonso lands, are employed within Pueblo de San Ildefonso lands, or attend school within Pueblo de San Ildefonso lands that have been convicted of the following offenses are subject to the requirements of this Code:</text>
+        <para>
+          <num>(a)</num>
+          <text>Tribal Offenses.</text>
+          <para>
+            <num>(1)</num>
+            <text>Sec. 13.45 - Sexual Assault, and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any offenses hereinafter designated as requiring the person convicted of such offense to register as a "sex offender."</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Attempts and Conspiracies.  Any attempt or conspiracy to commit any sex offense.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Federal Offenses.  A conviction for any offense now and hereafter included within SORNA.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Foreign Offenses.  Any conviction for a sex offense involving any conduct listed in Sec. 61.2(7) that was obtained under the laws of Canada, the United Kingdom, Australia, and New Zealand, or in any foreign country where the U.S. State Department, in its Country Reports on Human Rights Practices, has concluded that an independent judiciary generally (or vigorously) enforced the right to a fair trial in that country during the year in which the conviction occurred.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Military Offenses.  Any military offense specified by the Secretary of Defense under section 115(a)(8)(C)(i) of PL 105-119 (codified at 10 U.S.C. §951 note).</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Juvenile Offenses or Adjudications.  Any convictions of juveniles who are prosecuted for a sex offense as adults and those adjudicated delinquent if:</text>
+          <para>
+            <num>(1)</num>
+            <text>the offender is fourteen (14) years of age or older at the time of the offense, and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the offense was comparable to or more severe than aggravated sexual abuse (18 U.S.C. §2241), or was an attempt or conspiracy to commit such an offense.  This includes engaging in a sexual act with another by force or the threat of serious violence; or engaging in a sexual act with another when the victim is rendered unconscious or involuntarily drugged.</text>
+            <para>
+              <num>(A)</num>
+              <text>Registration is not required for a juvenile adjudicated delinquent of a sex offense simply because it involves a sexual act with a person under 12 (18 USC §2241(c)), without more.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Offenses from Other Jurisdictions.  A conviction for any sex offense committed in another jurisdiction that involves:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any type or degree of genital, oral, or anal penetration, however slight,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any sexual touching of or contact with a person's body, either directly or through the clothing,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Kidnapping of a minor,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>False imprisonment of a minor,</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Solicitation to engage a minor in sexual conduct understood broadly to include any direction, request, enticement, persuasion, or encouragement of a minor to engage in sexual conduct,</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Use of a minor in a sexual performance,</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Solicitation of a minor to practice prostitution,</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Video voyeurism of a minor,</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Possession, production, or distribution of child pornography,</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Criminal sexual conduct that involves physical contact with a minor or the use of the internet to facilitate or attempt such conduct.  This includes offenses whose elements involve the use of other persons in prostitution, such as pandering, procuring, or pimping in cases where the victim was a minor at the time of the offense.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Any conduct that by its nature is a sex offense against a minor, and</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>Any offense similar to those outlined in federal offenses for:</text>
+            <para>
+              <num>(A)</num>
+              <text>sex trafficking by force, fraud, or coercion (18 U.S.C. §1591),</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>video voyeurism of a minor (18 U.S.C. §1801),</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>aggravated sexual abuse (18 U.S.C. §2241),</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>sexual abuse (18 U.S.C. §2242),</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>abusive sexual contact (18 U.S.C. §2244),</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>coercing a minor to engage in prostitution (18 U.S.C. §2422(b)),</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>transporting a minor to engage in illicit conduct (18 U.S.C. §2423(a)).</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.4</num>
+      <heading>TIERED OFFENSES</heading>
+      <section>
+        <num>8.4.4.010</num>
+        <heading>Tier 1 Offenses</heading>
+        <para>
+          <num>(a)</num>
+          <text>Sex Offenses.  A "Tier 1" offense includes any sex offense for which a person has been convicted that is not included in Sec. 62.2 (Tier 2) or Sec. 62.3 (Tier 3).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Offense Involving Minors.  A "Tier 1" offense also includes any offense for which a person has been convicted that involves the false imprisonment of a minor, video voyeurism of a minor, or possession or receipt of child pornography.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Tribal Offenses.  Any conviction in a Tribal Court, including the Pueblo de San Ildefonso Tribal Court, of a sex offense covered by this Code where punishment was limited to one (1) year in jail and the person is required to register as a "sex offender."</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Certain Federal Offenses.  Conviction for any of the following federal offenses shall be considered "Tier 1" offenses:</text>
+          <para>
+            <num>(1)</num>
+            <text>Video voyeurism of a minor (18 U.S.C. §1801),</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Receipt or possession of child pornography (18 U.S.C. §2252),</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Receipt or possession of child pornography (18 U.S.C. §2252A),</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Misleading domain names on the internet (18 U.S.C. §2252B),</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Misleading words or digital images on the internet (18 U.S.C. §2252C),</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Coercion to engage in prostitution (18 U.S.C. §2422(a)),</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Travel with the intent to engage in illicit conduct (18 U.S.C. §2423(b)),</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Engaging in illicit conduct in foreign places (18 U.S.C. §2423(c)),</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Arranging, inducing, procuring or facilitating the travel in interstate commerce of an adult for the purpose of engaging in illicit conduct for financial gain (18 U.S.C. §2423(d))</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Failure to file factual statement about an alien individual (18 U.S.C. §2424), and</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Transmitting information about a minor to further criminal sexual conduct (18 U.S.C. §2425).</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Certain Military Offenses.  Any military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of PL 105-119 (codified at 10 U.S.C. §951  note) that is similar to those offenses outlined in Sec. 62.1(1), (2), or (3) shall be considered "Tier 1" offenses.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.4.020</num>
+        <heading>Tier 2 Offenses</heading>
+        <para>
+          <num>(a)</num>
+          <text>Recidivism and Felonies.  Unless otherwise covered by Sec. 62.3, a "Tier 2" offense is any sex offense which is not the first sex offense for which a person has been convicted, that is punishable by more than one (1) year in jail.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Offenses Involving Minors.  A "Tier 2" offense includes any sex offense against a minor for which a person has been convicted that involves:</text>
+          <para>
+            <num>(1)</num>
+            <text>The use of minors in prostitution, including solicitations,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Enticing a minor to engage in criminal sexual activity,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Sexual conduct with a minor thirteen (13) years of age or older, whether direct or through the clothing, that involves the intimate parts of the body,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The use of a minor in a sexual performance, or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The production for distribution of child pornography.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Certain Federal Offenses.  Conviction for any of the following federal offenses or an attempt or conspiracy to commit such an offense shall be considered "Tier 2" offenses:</text>
+          <para>
+            <num>(1)</num>
+            <text>Sex trafficking by force, fraud, or coercion (18 U.S.C. §1591),</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Arranging, inducing, procuring, or facilitating the travel in interstate commerce of a minor for the purpose of engaging in illicit conduct for financial gain (18 U.S.C. §2423(d)),</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Abusive sexual contact with a person 13 years of age or older (18 U.S.C. §2244),</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Sexual exploitation of children (18 U.S.C. §2251),</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Selling or buying of children (18 U.S.C. §2251A),</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Material involving the sexual exploitation of a minor (18 U.S.C. §2252),</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Production or distribution of material containing child pornography (18 U.S.C. §2252A),</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Production of sexually explicit depiction of a minor for import into the United States (18 U.S.C. §2260),</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Transportation of a minor for illegal sexual activity (18 U.S.C. §2421),</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Coercing a minor to engage in prostitution (18 U.S.C. §2422(b)),</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Transporting a minor to engage in illicit conduct (18 U.S.C. §2423(a)).</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Certain Military Offenses.  Any military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of PL 105-119 (codified at 10 U.S.C. §951) that is similar to those offenses outlined in Sec. 62.2(1), (2), or (3) shall be considered "Tier 2" offenses.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.4.030</num>
+        <heading>Tier 3 Offenses</heading>
+        <para>
+          <num>(a)</num>
+          <text>Recidivism and Felonies.  A "Tier 3" offense is any sex offense that is punishable by more than one (1) year in jail where the offender has at least one prior conviction for a Tier 2 sex offense.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>General Offenses.  A "Tier 3" offense includes any sex offense for which a person has been convicted that involves:</text>
+          <para>
+            <num>(1)</num>
+            <text>Non-parental kidnapping of a minor,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A sexual act with another by force or threat,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A sexual act with another who has been rendered unconscious or involuntarily drugged, or who is otherwise incapable of appraising the nature of the conduct or declining to participate, or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Sexual contact with a minor twelve (12) years of age or younger, including offenses that cover sexual touching of or contact with the intimate parts of the body, either directly or through the clothing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Certain Federal Offenses.  Conviction for any of the following federal offenses shall be considered "Tier 3" offenses:</text>
+          <para>
+            <num>(1)</num>
+            <text>Aggravated sexual abuse (18 U.S.C. §2241),</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Sexual abuse (18 U.S.C. §2242),</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Sexual abuse of a minor or ward (18 U.S.C. §22.43), or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Abusive sexual contact where the victim is twelve (12) years of age or younger (18 U.S.C. §2244) (abusive sexual contact), or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Offenses resulting in death (18 U.S.C. §2245).</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Certain Military Offenses.  Any military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of PL 105-119 (codified at 10 U.S.C. §951 note) that is similar to those offenses outlined in Sec. 62.3(1), (2) or (3) shall be considered "Tier 3" offenses.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.5</num>
+      <heading>REQUIRED INFORMATION</heading>
+      <section>
+        <num>8.4.5.010</num>
+        <heading>General Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>Duties.  A sex offender who is required to register with the Tribe pursuant to Chapter 64 shall provide all of the required information to the Tribal Court. The Tribal Court, with the assistance of the Police Department as needed, shall obtain all of the required information from covered sex offenders who are required to register with the Tribe in accordance with this Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Digitization.	All registration information obtained under this Code shall be maintained by the Tribal Court in digitized format that, at a minimum, is accessible electronically.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Electronic Database.  A sex offender registry shall be maintained in an electronic database by the Tribal Court and shall be in a form capable of electronic transmission, or otherwise electronically accessible by other jurisdictions.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.5.020</num>
+        <heading>Required Registration Information</heading>
+        <para>
+          <num>(a)</num>
+          <text>Required Information:  When a covered sex offender registers with the Tribal Court, the covered sex offender shall provide the following registration information:</text>
+          <para>
+            <num>(1)</num>
+            <text>Name:  Sex offender's full primary given name and all nicknames, aliases, pseudonyms, and ethnic or tribal names by which the sex offender is commonly known.  This does not include any religious or sacred names not otherwise commonly known.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Date of Birth:  The sex offender's actual date of birth and any other date of birth used by the sex offender.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Social Security Number:  A valid social security number for the sex offender and any social security number the sex offender has used in the past, valid or otherwise.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Address:  The address of each residence at which the sex offender resides or will reside, and any location or description that identifies where the sex offender habitually resides regardless of whether it pertains to a permanent residence or location otherwise identifiable by a street or address.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Employment:  	The name and address of the sex offender's employer, including any physical locations where the sex offender is employed, and similar information related to any transient or day labor employment.  Similar information is required for volunteer and unpaid positions.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>School:  The name and address of each school where the sex offender is or will be a student.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Criminal History:  Every offense for which the sex offender has been convicted, the date and place of all arrests and convictions, the sex offender's status of parole, probation, or supervised release, the sex offender's registration status, and any outstanding arrest warrants.</text>
+            <para>
+              <num>(A)</num>
+              <text>The Tribal Court shall obtain the text of each provision of law defining the criminal offense(s) for which the sex offender is registered.</text>
+            </para>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Internet Related Identifiers:  All email addresses, Instant Message addresses and identifiers, all other designations or monikers used for self-identification in internet communications or postings used by the sex offender, and all designations used for the purpose of routing or self-identification in internet communications or postings, including but not limited to social network identifications, Twitter accounts, video posting site identifications such as YouTube, etc.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Telephone Numbers:  Any and all land line telephone number, cellular telephone numbers, and all voice-over (VOIP) telephone numbers.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Identification Documents:   A photocopy of all of the sex offender's valid driver's licenses issued by any jurisdiction, any identification card including the sex offender's tribal enrollment card issued by any jurisdiction, any passports used by the sex offender and all immigration documents.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Professional Licensing Information: All licensing of the sex offender that authorizes the sex offender to engage in an occupation or carry out a trade or business.</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>Vehicle Information:  License plate numbers, registration numbers or identifiers, a general description of the vehicle to include color, make, model, and year, and any permanent or frequent location where any covered vehicle is kept for all vehicles owned or operated by the sex offender for work or personal use including land vehicles, aircraft and watercraft.</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>DNA Sample.  If the sex offender's DNA is not already contained in the Combined DNA Index System (CODIS), the sex offender shall provide the Police Department a sample of his DNA.  Any DNA sample obtained from a sex offender shall be submitted to an appropriate lab for analysis and entry of the resulting DNA profile in to CODIS.</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>Finger and Palm Prints.  A covered sex offender shall provide finger prints and palm prints in a digitized format.  The Police Department shall obtain the required prints from the sex offender.</text>
+          </para>
+          <para>
+            <num>(15)</num>
+            <text>Photograph.  A current digital photograph of the sex offender is required at initial registration.  Unless the appearance of a sex offender has not changed significantly, a digitized photograph shall then be collected:</text>
+            <para>
+              <num>(A)</num>
+              <text>Every ninety (90) days for Tier 3 sex offenders,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Every one-hundred eighty (180) days for Tier 2 sex offenders, and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Every year for Tier 1 sex offenders.</text>
+            </para>
+          </para>
+          <para>
+            <num>(16)</num>
+            <text>Physical Description. 	An accurate general description of the sex offender's physical appearance or characteristics, and any identifying marks, such as, but not limited to, scars, moles, birthmarks, or tattoos.  A photograph may be taken of any identifying marks for investigation purposes.</text>
+          </para>
+          <para>
+            <num>(17)</num>
+            <text>Temporary Lodging.  When the sex offender will be absent from his residence for seven  (7) days or more, the name and address of the temporary lodging locations, the dates of travel and the dates the sex offender will be staying at each temporary lodging location.  The sex offender must provide the required information to the Tribal Court no later than three (3) days before the scheduled travel and the information/notice must be provided in person.</text>
+          </para>
+          <para>
+            <num>(18)</num>
+            <text>International Travel.  In the event the sex offender will be traveling out of the United States for more than seven (7) days, the offender must inform the Tribal Court in person twenty-one (21) days in advance of the date of intended travel.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Sex Offender Acknowledgement Form:  The sex offender shall read, or have read to them, and sign a form stating that the duty to register has been explained to them by the Tribal Court and that the sex offender understands the registration requirement.</text>
+          <para>
+            <num>(1)</num>
+            <text>The form shall be signed and dated by the Tribal Court personnel registering the offender and immediately uploaded into the sex offender registry.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.6</num>
+      <heading>REGISTRATION</heading>
+      <section>
+        <num>8.4.6.010</num>
+        <heading>Where Registration is Required</heading>
+        <para>
+          <num>(a)</num>
+          <text>Jurisdiction of Conviction.  A sex offender must initially register if they were convicted of a covered sex offense in the Pueblo de San Ildefonso Tribal Court regardless of the sex offender's actual or intended residency.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Jurisdiction of Incarceration.  A sex offender must register if they are incarcerated while completing any sentence for a covered sex offense arising out of the Pueblo de San Ildefonso Tribal Court.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Jurisdiction of Residence.  A sex offender who resides within Pueblo de San Ildefonso lands must register.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Jurisdiction of Employment.  A sex offender who is employed within Pueblo de San Ildefonso lands or with the Tribe or any entity owned by the Tribe must register.</text>
+          <para>
+            <num>(1)</num>
+            <text>Contractors and Contractor's Employees:  Sex offenders who are contractors or employees of contractors doing business within Pueblo de San Ildefonso lands on jobs or projects that exceed five (5) days must notify the Tribal Court of their presence within Pueblo de San Ildefonso lands.  The Tribe reserves the right to require full registration for those sex offenders who are contractors and/or their employees and will be present within Pueblo de San Ildefonso lands for more than fifteen (15) days.  Examples include, but are not limited to, construction contractors, their subcontractors and other service providers.  The five (5) and fifteen (15) days referenced herein do not have to be consecutive days.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Jurisdiction of School Attendance.  A sex offender who is a student at any school within Pueblo de San Ildefonso lands is required to register.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.6.020</num>
+        <heading>Initial Registration</heading>
+        <para>
+          <num>(a)</num>
+          <text>Timing.  A sex offender required to register with the Tribe under this Code shall do so in the following timeframe:</text>
+          <para>
+            <num>(1)</num>
+            <text>Before release from imprisonment for the registration offense if the sex offender is incarcerated,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Within three (3) business days of sentencing for the registration offense if the sex offender is sentenced by the Tribe but not incarcerated, and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Within three (3) business days of establishing a residence, employment or school attendance on Pueblo de San Ildefonso lands when the sex offender relocates within the Pueblo de San Ildefonso lands after being convicted and/or sentenced by another jurisdiction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Duties of the Tribal Court.  The Tribal Court shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Complete the initial registration of any sex offender incarcerated or sentenced by the Tribe for a covered sex offense,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Inform and explain to any sex offender initially registering with the Tribe their duties as a sex offender under SORNA and this Code,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Have the sex offender read and sign a form as required under Sec. 63.2(2), above, stating the duty to register has been explained to them and the sex offender understands the registration requirement,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Confirm the sex offender is registered and added to the public website if applicable, and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Upon entry of the sex offender's information in to the registry, ensure that information is immediately forwarded to all other jurisdictions in which the sex offender is required to register due to the sex offender's residency, employment, or student status, and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Ensure that all information is entered and updated in NCIC/NSOR through the assistance of the Police Department as necessary.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.4.6.030</num>
+        <heading>Recapture</heading>
+        <para>
+          <num>(a)</num>
+          <text>Recapture.  The Tribal Court shall recapture (classify and register): sex offenders currently incarcerated or under supervision of the Tribe, whether for a covered sex offense or other crime, including those who previously may not have been required to register; sex offenders already registered or subject to a pre-existing sex offender registration requirement; and sex offenders reentering the justice system due to conviction for any crime.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Timing of Recapture.  The Tribal Court shall recapture of the sex offenders mentioned in Sec. 64.3(1) within the following timeframe to be calculated from the date of implementation of the Tribe's sex offender registration program:</text>
+          <para>
+            <num>(1)</num>
+            <text>For Tier 1 sex offenders, one (1) year,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For Tier 2 sex offenders, one-hundred eighty (180) days, and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For Tier 3 sex offenders, ninety (90) days.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.4.6.040</num>
+        <heading>Updating Registration Information</heading>
+        <para>
+          <num>(a)</num>
+          <text>Duty of Offender to Update.  All sex offenders required to register must immediately appear at the Tribal Court in person to update any change in their;</text>
+          <para>
+            <num>(1)</num>
+            <text>Name,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Residence, including termination of residency,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Employment, including location, and termination of employment,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>School attendance, including termination of school attendance,</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Vehicle information,</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Temporary lodging and when intending to travel outside of the United States,</text>
+            <para>
+              <num>(A)</num>
+              <text>For changes in temporary lodging, the sex offender also has the duty to immediately notify the jurisdiction in which the sex offender will be temporarily staying.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>For intent to travel outside of the United States, the sex offender must report such intent to travel at least twenty-one (21) days in advance of such travel.</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Email addresses, telephone numbers, Instant Messaging addresses, and any other designation used in internet communications, postings, or telephone communications.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Duties of the Tribal Court.  With regard to changes in a sex offender's registration information, the Tribal Court shall immediately notify:</text>
+          <para>
+            <num>(1)</num>
+            <text>All jurisdictions where a sex offender intends to reside, work, or attend school,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any jurisdiction where the sex offender is either registered or required to register,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>With regard to a change in temporary lodging, any jurisdiction in which the sex offender will be temporarily staying, and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Specifically with respect to information relating to a sex offender's intent to travel or commence residence, school, or employment outside of the United States, any jurisdiction where the sex offender is either registered or required to register, and the U.S. Marshals Service.  The Tribal Court, with the assistance of the Police Department, shall also ensure this information is immediately updated in the NCIC and the sex offender registry website identified in Chapter 66.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.4.6.050</num>
+        <heading>Failure to Appear for Registration and Absconding</heading>
+        <para>
+          <num>(a)</num>
+          <text>Failure to Appear.  In the event a sex offender fails to register with the Tribe as required by this Code, the Tribal Court shall immediately inform the jurisdiction that provided notification that the sex offender was to commence residency, employment, or school attendance with the Tribe that the sex offender failed to appear for registration.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Absconded Sex Offenders.  If the Tribal Court receives information that a sex offender has absconded, the Tribal Court, shall notify the Police Department, which shall make an effort to determine or verify if the sex offender has actually absconded.</text>
+          <para>
+            <num>(1)</num>
+            <text>In the event no determination or verification can be made, the Tribal Court, in conjunction with the Police Department shall ensure that the appropriate law enforcement agency is notified.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the information indicating the possible absconding came through notice from another jurisdiction or federal authorities, that jurisdiction shall be informed that the sex offender has failed to appear and register.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If an absconded sex offender cannot be located then the following steps shall be taken:</text>
+            <para>
+              <num>(A)</num>
+              <text>The Tribal Court shall update the registry to reflect the sex offender has absconded or is otherwise not capable of being located,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The Police Department shall seek a warrant for the sex offender's arrest, and in the case of a non-Indian, or an Indian federal or state sex offender, the U.S. Marshals Service or FBI shall be contacted in an attempt to obtain a federal warrant for the sex offender's arrest,</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The Police Department shall notify the U.S. Marshals Service,</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>The Tribal Court shall update NSOR to reflect the sex offender's status as an absconder, or is otherwise not capable of being located,</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>The Police Department shall update the NCIC to reflect the sex offender's status as an absconder, and enter the sex offender into the National Crime Information Center (NCIC) Wanted Person File.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Failure to Register.  In the event a sex offender who is required to register due to their residence, employment or school attendance status fails to do so or otherwise violates a registration requirement of this Code, the Tribal Court, in conjunction with the Police Department, shall take all appropriate follow-up measures including those outlined in Sec. 64.5(2).  The Police Department shall first make an effort to determine or verify if the sex offender is actually residing, employed or attending school within the Pueblo de San Ildefonso lands.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.7</num>
+      <heading>VERIFICATION AND APPEARANCE REQUIREMENTS</heading>
+      <section>
+        <num>8.4.7.010</num>
+        <heading>Frequency and Duration</heading>
+        <para>
+          <num>(a)</num>
+          <text>Frequency.  A sex offender who is required to register with the Tribe shall, at a minimum, appear in person at the Tribal Court for purposes of keeping registration current in accordance with the following the frames:</text>
+          <para>
+            <num>(1)</num>
+            <text>For "Tier 1" offenders, once every year for fifteen (15) years from the date of sentencing or if incarcerated from the date of release,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For "Tier 2" offenders, once every one-hundred eighty (180) days for twenty-five (25) years from the date of sentencing or is incarcerated from the date of release,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For "Tier 3" offenders, once every ninety (90) days for the rest of their lives.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Reduction of Registration Periods.  A sex offender may have their period of registration reduced as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>A Tier 1 offender may have their period of registration and verification reduced by five (5) years if they have maintained a clean record for ten (10) consecutive years,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A Tier 3 offender may have their period of registration and verification reduced to twenty-five (25) years if they were adjudicated delinquent of an offense as a juvenile which required Tier 3 registration and they have maintained a clean record for twenty-five (25) consecutive years.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Clean Record.  For purposes of Sec. 65.1(2), a person has a clean record if:</text>
+          <para>
+            <num>(1)</num>
+            <text>They have not been convicted of any offense for which imprisonment for more than one (1) year may be imposed.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>They have not been convicted of any sex offense,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>They have successfully completed, without revocation, any period of supervised release, probation, or parole, and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>They have successfully completed an appropriate sex offender treatment program certified by a jurisdiction or by the United States Attorney General.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>8.4.7.020</num>
+        <heading>Requirements for In Person Appearances</heading>
+        <para>
+          <num>(a)</num>
+          <text>Photographs.  At each in person verification, the sex offender shall permit the Tribal Court to take a photograph of the offender or of any identifying marks, including but not limited to scars, birthmarks, moles or tattoos.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Review of Information.  At each in person verification the sex offender shall review existing information for accuracy.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Notification.  If any new information or change in information is obtained at an in person verification, the Tribal Court shall immediately notify all other registration jurisdictions of the information or change in information.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Update Websites and System Information.  If any new information or change in information is obtained at an in person verification, the Tribal Court shall immediately update the public website and NSOR, if applicable, and the Police Department shall update information in NCIC.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.8</num>
+      <heading>PUBLIC SEX OFFENDER REGISTRY WEBSITE</heading>
+      <section>
+        <num>8.4.8.010</num>
+        <heading>Website</heading>
+        <para>
+          <num>(a)</num>
+          <text>Website.  The Tribal Court shall use and maintain a public sex offender registry website.  Any tribal specific national website provided or approved by the SMART Office shall qualify as a public sex offender registry website under this Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Links.  The registry website shall include links to sex offender safety and education resources.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Instructions.  The registry website shall include instructions on how a person can seek correction of information that the individual contends is erroneous.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Warnings.  The registry website shall include a warning that the information contained on the website should not be used to unlawfully injure, harass, or commit a crime against any individual named in the registry or residing or working at any reported addresses and that any such action could result in civil or criminal penalties.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Search Capabilities.  The registry website shall have the capability of conducting searches by name, county, city, zip code, and geographic radius.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.8.020</num>
+        <heading>Required and Prohibited Information</heading>
+        <para>
+          <num>(a)</num>
+          <text>Required Information.  The following information shall be made available to the public on the sex offender registry website:</text>
+          <para>
+            <num>(1)</num>
+            <text>Notice that an offender is in violation of their registration requirements or cannot be located if the sex offender has absconded,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All other sex offenses for which the sex offender has been convicted,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The sex offense(s) for which the offender is currently registered,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The address of the sex offender's employer(s),</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The name of the sex offender including all aliases,</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>A current photograph of the sex offender,</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>A physical description of the sex offender,</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>The residential address and, if relevant, a description of a habitual residence of the sex offender,</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>All addresses of schools attended by the sex offender, and</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>The sex offender's vehicle license plate number along with a description of the vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Prohibited Information.  The following information shall not be available to the public on the sex offender registry website:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any arrest that did not result in conviction,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The sex offender's social security number,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any travel and immigration documents,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The identity of the victim, and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Internet identifiers.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Witness Protection.  For sex offenders who are under a witness protection program, the Tribal Court may honor the request of the United States Marshal Service or other agency responsible for witness protection by not including the original identity of the offender on the publicly accessible sex offender registry website.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.8.030</num>
+        <heading>Community Notification</heading>
+        <para>
+          <num>(a)</num>
+          <text>Law Enforcement Community Notification.  Whenever a sex offender registers or updates their information with the Tribe, the Tribal Court shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Immediately ensure the information is updated on NCIC/NSOR, with the assistance of the Police Department as necessary, and monitor or utilize the SORNA Exchange Portal for inter-jurisdictional changes,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Immediately notify any agency, department, or program within the Tribe that is responsible for criminal investigation, prosecution, child welfare, or sex offender supervision functions, including but not limited to, police, whether BIA, tribal, or FBI, tribal prosecutors, and tribal probation,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Immediately notify any and all other registration jurisdictions due to the sex offender's residency, school attendance, or employment, and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Immediately notify National Child Protection Act agencies, which includes any agency responsible for conducting employment-related background checks under section 3 of the National Child Protection Act of 1993 (42 U.S.C. §5119a).</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Tribal Government and Administration Notification.  Whenever a sex offender registers or updates their information with the Tribe, the Tribal Court shall notify the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Governor and Tribal Council;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Human Resources Department;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>ICWA Department;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Headstart Program;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>San Ildefonso Day School;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>San Ildefonso Pueblo Learning Center; and</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Any other tribal program or entity the Tribal Court deems has a need to know about a sex offender within Pueblo de San Ildefonso lands.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Tribal Community Notification.  An automated community notification process shall be in place that ensures the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Upon a sex offender's registration or update of information with the Tribe, the public registry website is immediately updated,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Email notice is available to the general public to notify them when a sex offender commences residence, employment, or school attendance with the Tribe, within a specified zip code, or within a certain geographic radius.  This email notice shall include the sex offender's identity.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.9</num>
+      <heading>SANCTIONS</heading>
+      <section>
+        <num>8.4.9.010</num>
+        <heading>Sanctions</heading>
+        <para>
+          <num>(a)</num>
+          <text>Crime.  Any violation of a provision of this Code, including the provision of false or misleading information, by a sex offender shall be considered a crime and subject to a penalty of up to three hundred sixty-five (365) days in jail and/or a Five Thousand Dollar ($5,000) fine.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Civil Penalty.  Any violation of a provision of this Code by a sex offender shall also be considered a civil violation subject to enforcement by any means not prohibited by federal law, including, but not limited to the issuance of fines, forfeitures, civil contempt, and exclusion.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.9.020</num>
+        <heading>Non-Sex Offender Related Crimes</heading>
+        <para>
+          <num>(a)</num>
+          <text>Aiding or Harboring.  A person is guilty of a crime punishable by up to three hundred sixty-five (365) days in jail and/or a Five Thousand Dollar ($5,000) fine if they:</text>
+          <para>
+            <num>(1)</num>
+            <text>Knowingly harbor, attempt to harbor, or assist another in harboring or attempting to harbor a sex offender who is in violation of this Code, or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Knowingly assists a sex offender in eluding a law enforcement agency that is seeking to find the sex offender to question them about, or to arrest them for, noncompliance with the requirements of this Code: or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Knowingly provide false information to a law enforcement agency regarding a sex offender; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Knowingly flee the jurisdiction of the Tribal Court to avoid giving testimony regarding a sex offender.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Misuse of Registration Information.  A person is guilty of a crime punishable by up to three hundred sixty-five (365) days in jail and/or a Five Thousand Dollar ($5,000) fine if they:</text>
+          <para>
+            <num>(1)</num>
+            <text>Willfully misuse or alter public record information relating to a sex offender or sexual predator, or a person residing or working at an address reported by a sex offender, including information displayed by law enforcement agencies on web sites; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Sell of exchange sex offender information for profit.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.10</num>
+      <heading>IMMUNITY</heading>
+      <section>
+        <num>8.4.10.010</num>
+        <heading>No Waiver of Immunity</heading>
+        <text>Nothing in this Code shall be construed as a waiver of sovereign immunity for the Pueblo de San Ildefonso, its departments, agencies, employees, or agents.</text>
+      </section>
+      <section>
+        <num>8.4.10.020</num>
+        <heading>Good Faith Immunity</heading>
+        <text>Any person acting in good faith under the terms of this Code shall be immune from any civil liability arising out of such actions.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8.4.11</num>
+      <heading>Amending the Pueblo de San Ildefonso Sex Offender Registration Code</heading>
+      <section>
+        <num>8.4.11.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>In 2007, the Tribal Council decided it would participate as a registration jurisdiction pursuant to Section 127 of the Adam Walsh Act;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Since that time, the Pueblo continued to work towards substantial implementation of the registration and notification requirements of the Sex Offender Registration and Notification Act ("SORNA");</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On June 20, 2011, the Council pursuant to SI-R11-088 adopted the Pueblo de San Ildefonso Sex Offender Registration Code ("Registration Code") that establishes the requirements and procedures for registration and notification of sex offenders within the Pueblo's lands;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>On July 27, 2011, the Pueblo submitted its Registration Code to the Department of Justice Sentencing Monitoring, Apprehending, Registering and Tracking (SMART) Office as part of its substantial implementation package;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The SMART Office identified areas in the Pueblo's Registration Code that required amendment in order to comply with SORNA requirements;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo is required to have policies and procedures to implement its Sex Offender Registration Program and such policies and procedures should be referenced in the Registration Code and the Governor designated as the party responsible for the development and implementation of such policies and procedures;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed and discussed the proposed amendments to the Sex Offender Registration Code attached hereto and determined it to be in the best interest of the Pueblo de San Ildefonso to approve the adopt the amendments as proposed.</text>
+        </para>
+      </section>
+      <section>
+        <num>8.4.11.020</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts the amendments to the Pueblo de San Ildefonso Sex Offender Registration Code as attached hereto and authorizes such other non-substantive changes as may be needed.</text>
+      </section>
+      <section>
+        <num>8.4.11.030</num>
+        <heading>[RESERVED]</heading>
+        <text>
+          <strong>[Missing Law]</strong>
+        </text>
+      </section>
+    </container>
+  </container>
+</container>

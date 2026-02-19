@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="19.5" id="Pueblo de San Ildefonso Council Res. No. SI-R21-012">
+  <num>SI-R21-012</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-012</heading>
+  <heading type="law">Master Land Use Plan Authorization Act</heading>
+  <meta>
+    <effective>2021-06-15</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-012</citation>
+    </citations>
+    <history>
+      <adopted>2021-06-10</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 10th day of June, 2021, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the population of the Pueblo is increasing putting pressure on existing land uses including the need for additional housing, economic development, and other purposes; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has some land parcels available that could be utilized for new housing and other purposes; however, these parcels often lack adequate infrastructure; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has issued land assignments to members of the Pueblo initially for farming purposes although some members and their descendants have utilized or desire to utilize their land assignments for non-farming purposes; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>many years ago, the Pueblo completed a Land Use Plan that began to analyze the current and proposed future uses of the Pueblo's lands; however, the Plan was incomplete, flawed, and is now outdated; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo finds the need to identify lands that are available for economic development, housing, and other purposes while taking into account the impacts any development will likely have on neighboring lands, existing land uses, the natural environment, culturally-sensitive areas, aesthetics, infrastructure, utilities, and the overall policies established by the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has identified the need to commission a new, comprehensive, Master Land Use Plan to professionally study and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed decisions regarding the current and future land uses and zoning.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "MASTER LAND USE PLAN AUTHORIZATION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>June 10</u> , 2021, at a meeting with a vote of <u>10</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>0</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R21-012</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>10</u><sup><u>th</u></sup> day of <u>June</u> , 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>15</u><sup><u>th</u></sup> day of <u>June</u> , 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.5.2</num>
+      <heading>Master Land Use Plan Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="19.5.2"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading>MASTER LAND USE PLAN AUTHORIZATION ACT</heading>
+    <section>
+      <codify:insert num-value="19.5.2.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "MASTER LAND USE PLAN AUTHORIZATION ACT."</text>
+    </section>
+    <section>
+      <codify:insert num-value="19.5.2.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize and direct the completion of a Master Land Use Plan to identify and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed land use decisions.</text>
+    </section>
+    <section>
+      <codify:insert num-value="19.5.2.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The population of the Pueblo is increasing putting pressure on existing land uses including the need for additional land for housing, economic development, and other purposes; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo has some land parcels available that could be utilized for new housing and other purposes; however, these land parcels often lack adequate infrastructure; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo has issued land assignments to members of the Pueblo initially for farming purposes although some members and their descendants have utilized or desire to utilize their land assignments for non-farming purposes; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Many years ago, the Pueblo completed a Land Use Plan that began to analyze the current and proposed future uses of the Pueblo's lands; however, the Plan was incomplete, flawed, and is now outdated; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Pueblo finds the need to identify lands that are available for economic development, housing, and other purposes while taking into account the impacts any development will likely have on neighboring lands, existing land uses, the natural environment, culturally- sensitive areas, aesthetics, infrastructure, utilities, and the overall policies established by the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Pueblo has identified the need to commission a new, comprehensive, Master Land Use Plan to professionally study and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed decisions regarding the current and future land uses and zoning.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="19.5.2.040"/>
+      <num>1.4</num>
+      <heading>Master Land Use Plan</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes and directs the Governor to negotiate and execute a contract or contracts to engage professional services to conduct and complete a Master Land Use Plan for the Pueblo including necessary services to assist with the preparation of a professional Request for Proposal for the Master Land Use Plan contractor; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Master Land Use Plan shall include an up-to-date and comprehensive analysis of the lands held by the Pueblo, and shall include recommendations for land preservation and conservation, housing development, and economic development activities; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Master Land Use Plan shall include an analysis of current land uses, current land policies and practices, proposed land uses, rights-of-way, easements, public property, private property interests including leases and assignments, and any zoning or similar requirements; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Governor shall notify the Council of the estimated cost of contracting for the Master Land Use Plan. The Council hereby authorizes up to $100,000 for the completion of the Master Land Use Plan, subject to an appropriation of funds in the Annual Budget or in a Budget Modification.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

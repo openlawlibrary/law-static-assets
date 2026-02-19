@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/us/nsn/mohican/council/_schemas/docs/resolution"
+    xmlns="https://open.law/us/nsn/mohican/council/_schemas/docs/resolution">
+    <xs:redefine schemaLocation="../adapters/docs/resolution.xsd"/>
+</xs:schema>

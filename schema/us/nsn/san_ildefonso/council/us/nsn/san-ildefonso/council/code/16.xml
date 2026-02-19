@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>16</num>
+  <heading>RESIDENCY, EXCLUSION, AND REMOVAL</heading>
+  <annotation type="History">1984 Code</annotation>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.1</num>
+    <heading>Exclusion of Persons from the Pueblo de San Ildefonso</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>16.1.1</num>
+      <heading>Exclusion from the Pueblo of San Ildefonso</heading>
+      <section>
+        <num>16.1.1.010</num>
+        <heading>General</heading>
+        <text>Any person except members of the San Ildefonso Pueblo and non-Indian property owners within the jurisdiction of the Pueblo of San Ildefonso may be excluded from the jurisdiction of the Pueblo of San Ildefonso in all areas under the jurisdiction of the Pueblo Tribal Court for any of the following reasons:</text>
+        <para>
+          <num>(a)</num>
+          <text>Repeated commission of a crime or breach of peace as defined by Pueblo, State or Federal laws.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Repeated willful failure to adhere to Pueblo laws and regulations or failure to correct a violation of such laws and regulations after Pueblo Trial Court order that it be done.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Repeated invasion of the privacy of the residents within the jurisdiction of the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Unauthorized entry unto Pueblo of individual owned or controlled land for any purpose, including but not limited to camping, hunting, fishing, trapping, timber cutting (including Christmas trees), digging for artifacts, desecrating religious sites or burial grounds or other activity involving wrongful taking of or damage to the property of the Pueblo or of any resident of the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any other misconduct or objectionable conditions found by the Council to be sufficient cause for expulsion, provided that the person is first advised of the objection and given notice to resist but nevertheless continues the misconduct or condition.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Conducting business activities within the exterior boundaries of the Pueblo of San Ildefonso Without a permit approved by the Governor of the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Improper and willful interference of business authorized by the Pueblo of San Ildefonso Tribal Council under the provisions of this Code.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>A non-member domiciled in the residence occupied by a member without required permission of the Governor.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>16.1.2</num>
+      <heading>Rules for Exclusion Procedures</heading>
+      <section>
+        <num>16.1.2.010</num>
+        <heading>General</heading>
+        <text>The procedure for exclusion for any reason shall be as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Governor of the Pueblo of San Ildefonso shall serve notice, either through officers of the Council or by registered mail, upon any person when the Governor has reason to believe that cause exists or may exist for the exclusion of person under reasons set forth in this Title.  Such notice shall state the reason for the order and shall state a time, not less than five (5) days after the notice, unless an emergency exists, when the person must appear before the Pueblo Tribal Court to show cause why he should not be excluded from the Pueblo of San Ildefonso.  If an emergency exists, the Governor may order immediate exclusion, with a hearing in not less than five (5) days of the notice and exclusion for the person to appear to show cause why he should not be excluded from the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>After notice to the person proposed for exclusion, the Pueblo Tribal Court shall hold a hearing under the Tiles of Civil Procedure of this Code to decide whether or not that person shall be excluded from the Pueblo of San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>IF the person does not appear at the hearing at the time and place scheduled or, if found at the hearing that cause does exist to exclude that person from the Pueblo of San Ildefonso, the Pueblo Tribal Court shall issue an order excluding that person from all or any part of the jurisdiction of the Pueblo of San Ildefonso under such conditions specified in the order.  The order shall be effective until revoked or modified by the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the final judgment of the Pueblo Tribal Court is that the person shall be excluded from the Pueblo of San Ildefonso, then the Court shall deliver an order of removal to any Law Enforcement Officer, who shall thereupon order the person to obey the order.  If, after the required time specified in the order the person does not comply with the order, he may be removed bodily from the Pueblo of San Ildefonso by the Law Enforcement Official as stated in the order of the Court.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In cases involving immediate danger to the life, health, morals or property of the Pueblo of San Ildefonso, residents of the Pueblo or any Pueblo members, where delay would result in irreparable damage, the Governor of the Pueblo may request the Court to order any Law Enforcement Official to remove a person and/or property of such person from the Pueblo of San Ildefonso immediately using only so much force as is reasonable and necessary to effect the removal.  The court shall cause the Law Enforcement to serve notice upon the person at the time of removal or cause the notice to be served as soon thereafter as possible.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In any case involving the immediate removal of person from the Pueblo of San Ildefonso the order of the Court shall state the conditions under which the person may return for a hearing if such hearing was not held.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>16.1.3</num>
+      <heading>Appeal Allowed to Pueblo of San Ildefonso Council</heading>
+      <section>
+        <num>16.1.3.010</num>
+        <heading>General</heading>
+        <text>An appeal may be made under the Civil Procedures of this Code within five (5) days after the issuance of an order by the Tribal Court pursuant to this Chapter.  Decision of the Tribal Council on appeal shall be final.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>16.1.4</num>
+      <heading>Violation of Order a Criminal Offense</heading>
+      <section>
+        <num>16.1.4.010</num>
+        <heading>General</heading>
+        <text>Any person who violates any order or part thereof issued pursuant to this section shall be deemed guilty of an offense and, upon failure to comply with the order of the Court, be sentenced to confinement for a period not to exceed six (6) months or to pay a fine of $500.00 or both, with costs, and ordered to comply with the previous order or amended order issued by the Court.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>16.1.5</num>
+      <heading>Amendment for revocation of Amendment of Order</heading>
+      <section>
+        <num>16.1.5.010</num>
+        <heading>General</heading>
+        <text>Any Indian to whom an order has been issued under this Chapter may apply to the Tribal Court in writing for revocation or amendment of such an order.  A hearing on the application shall be conducted under the provisions of this Code.  An appeal may be made from the decision of the Court on the application under the provisions of this Code.</text>
+      </section>
+    </container>
+  </container>
+</container>

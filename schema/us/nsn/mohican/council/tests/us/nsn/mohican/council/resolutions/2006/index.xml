@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2006" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://open.law/schemas/library
+  ../../../../../../../../../../ngo/oll/_schemas/v0.1/docs/ordinance.xsd">
+  <heading>2006 Council Resolutions</heading>
+  <xi:include href="./051-06.xml"/>
+  <xi:include href="./050-06.xml"/>
+  <xi:include href="./045-06.xml"/>
+  <xi:include href="./044-06.xml"/>
+  <xi:include href="./027-06.xml"/>
+  <xi:include href="./026-06.xml"/>
+  <xi:include href="./025-06.xml"/>
+  <xi:include href="./022-06.xml"/>
+  <xi:include href="./021-06.xml"/>
+  <xi:include href="./07-06.xml"/>
+  <xi:include href="./002-06.xml"/>
+</collection>

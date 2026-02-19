@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 017-12">
+  <num>017-12</num>
+  <heading/>
+  <meta>
+    <ordinance>Gaming</ordinance>
+    <effective/>
+    <history>
+      <adopted>2012-01-30</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/017-12.pdf">Stockbridge-Munsee Tribal Council Res. No. 017-12</citation>
+      <citation type="res" url="./BIA/017-12.pdf">BIA Approval for Res. No. 017-12</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe is authorized to conduct gaming activities on the Stockbridge-Munsee Reservation in accordance with federal gaming law and its Gaming Compact with the State of Wisconsin;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe regulates such gaming activities through Chapter 25, the Gaming Ordinance, which was approved by National Indian Gaming Commission as required under federal law;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Revisions to Chapter 25 were identified that included changes to the definitions of ancillary facility, key employees and primary management officials, additional language for addressing disputes in relation to changes to operating procedures, additional bases for suspension or denial of a gaming license, and changes to clarify the ordinance and were adopted by the Tribal Council on December 6, 2011 by Resolution No. 012-12;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The amended Chapter 25 was submitted to the National Indian Gaming Commission (NIGC) for approval in accordance with federal law and the NIGC has identified that corrections are needed to Sections <cite doc="Stockbridge-Munsee Tribal Code" path="25.15" proof="needed">25.15</cite>.<cite doc="Stockbridge-Munsee Tribal Code" path="3.4" proof="needed">3.4</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="25.15" proof="needed">25.15</cite>.<cite doc="Stockbridge-Munsee Tribal Code" path="3.7" proof="needed">3.7</cite> to incorporated updated privacy notice and false statement language from the federal regulations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe wishes to comply with NIGC's recommendation and resubmit the corrected amendments for approval;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby revokes the amendments to Chapter 25 that were adopted on December 6, 2011;</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>since the additional changes are technical corrections to the amendments to Chapter 25 that been adopted on December 6, 2011, any need for an additional posting of the amendments is waived; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee  hereby adopts the corrected amendments to Chapter 25, which include the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>Changes or additions to Sections:  Preamble; <cite doc="Stockbridge-Munsee Tribal Code" path="4.1" proof="needed">4.1</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="4.2" proof="needed">4.2</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="4.5" proof="needed">4.5</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="4.11" proof="needed">4.11</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="4.18" proof="needed">4.18</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="8.3" proof="needed">8.3</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="9.12" proof="needed">9.12</cite>.1; <cite doc="Stockbridge-Munsee Tribal Code" path="9.12" proof="needed">9.12</cite>.2; <cite doc="Stockbridge-Munsee Tribal Code" path="9.12" proof="needed">9.12</cite>.30; <cite doc="Stockbridge-Munsee Tribal Code" path="9.12" proof="needed">9.12</cite>.<cite doc="Stockbridge-Munsee Tribal Code" path="32.1" proof="needed">32.1</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="9.14" proof="needed">9.14</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="9.15" proof="needed">9.15</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="9.15" proof="needed">9.15</cite>.1; <cite doc="Stockbridge-Munsee Tribal Code" path="10.1" proof="needed">10.1</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="10.4" proof="needed">10.4</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="10.4" proof="needed">10.4</cite>.6; <cite doc="Stockbridge-Munsee Tribal Code" path="10.4" proof="needed">10.4</cite>.8; <cite doc="Stockbridge-Munsee Tribal Code" path="10.4" proof="needed">10.4</cite>.9; <cite doc="Stockbridge-Munsee Tribal Code" path="10.10" proof="needed">10.10</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="11.2" proof="needed">11.2</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="11.5" proof="needed">11.5</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="11.6" proof="needed">11.6</cite>.1; <cite doc="Stockbridge-Munsee Tribal Code" path="11.6" proof="needed">11.6</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="11.6" proof="needed">11.6</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="15.2" proof="needed">15.2</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="15.3" proof="needed">15.3</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="15.3" proof="needed">15.3</cite>.7; <cite doc="Stockbridge-Munsee Tribal Code" path="15.4" proof="needed">15.4</cite>.1; <cite doc="Stockbridge-Munsee Tribal Code" path="15.5" proof="needed">15.5</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="15.10" proof="needed">15.10</cite>.2; <cite doc="Stockbridge-Munsee Tribal Code" path="15.10" proof="needed">15.10</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="15.15" proof="needed">15.15</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="15.18" proof="needed">15.18</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="15.18" proof="needed">15.18</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="16.8" proof="needed">16.8</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="17.1" proof="needed">17.1</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.2; <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.5; <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.10; <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.19; <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.21; and <cite doc="Stockbridge-Munsee Tribal Code" path="21.2" proof="needed">21.2</cite>.26;</li>
+          <li>Deletion of Sections:  <cite doc="Stockbridge-Munsee Tribal Code" path="14.14" proof="needed">14.14</cite>.2 and <cite doc="Stockbridge-Munsee Tribal Code" path="14.14" proof="needed">14.14</cite>.6 (with <cite doc="Stockbridge-Munsee Tribal Code" path="14.14" proof="needed">14.14</cite> then renumbered accordingly); and <cite doc="Stockbridge-Munsee Tribal Code" path="16.9" proof="needed">16.9</cite>;</li>
+          <li>Addition of new Sections:  <cite doc="Stockbridge-Munsee Tribal Code" path="4.18" proof="needed">4.18</cite>.1 .1-.12; <cite doc="Stockbridge-Munsee Tribal Code" path="4.18" proof="needed">4.18</cite>.2; <cite doc="Stockbridge-Munsee Tribal Code" path="4.18" proof="needed">4.18</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="4.18" proof="needed">4.18</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="4.22" proof="needed">4.22</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="10.4" proof="needed">10.4</cite>.<cite doc="Stockbridge-Munsee Tribal Code" path="4.1" proof="needed">4.1</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="10.4" proof="needed">10.4</cite>.<cite doc="Stockbridge-Munsee Tribal Code" path="4.2" proof="needed">4.2</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="10.4" proof="needed">10.4</cite>.10; <cite doc="Stockbridge-Munsee Tribal Code" path="10.11" proof="needed">10.11</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="11.3" proof="needed">11.3</cite>.5; <cite doc="Stockbridge-Munsee Tribal Code" path="15.10" proof="needed">15.10</cite>.8; <cite doc="Stockbridge-Munsee Tribal Code" path="15.10" proof="needed">15.10</cite>.9; <cite doc="Stockbridge-Munsee Tribal Code" path="15.16" proof="needed">15.16</cite>.2 and <cite doc="Stockbridge-Munsee Tribal Code" path="15.16" proof="needed">15.16</cite>.3 (with <cite doc="Stockbridge-Munsee Tribal Code" path="15.16" proof="needed">15.16</cite> then renumbered accordingly); and <cite doc="Stockbridge-Munsee Tribal Code" path="15.18" proof="needed">15.18</cite>.6 (with <cite doc="Stockbridge-Munsee Tribal Code" path="15.18" proof="needed">15.18</cite>.7 then renumbered); and</li>
+          <li>Minor language clarifications in Sections:  <cite doc="Stockbridge-Munsee Tribal Code" path="4.2" proof="needed">4.2</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="4.2" proof="needed">4.2</cite>.5; <cite doc="Stockbridge-Munsee Tribal Code" path="7.1" proof="needed">7.1</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="9.2" proof="needed">9.2</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="9.3" proof="needed">9.3</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="9.12" proof="needed">9.12</cite>.8; <cite doc="Stockbridge-Munsee Tribal Code" path="9.12" proof="needed">9.12</cite>.13; <cite doc="Stockbridge-Munsee Tribal Code" path="15.3" proof="needed">15.3</cite>.<cite doc="Stockbridge-Munsee Tribal Code" path="2.3" proof="needed">2.3</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="15.3" proof="needed">15.3</cite>.<cite doc="Stockbridge-Munsee Tribal Code" path="2.10" proof="needed">2.10</cite>; <cite doc="Stockbridge-Munsee Tribal Code" path="15.4" proof="needed">15.4</cite>.3; <cite doc="Stockbridge-Munsee Tribal Code" path="15.4" proof="needed">15.4</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="15.6" proof="needed">15.6</cite>.7; <cite doc="Stockbridge-Munsee Tribal Code" path="15.11" proof="needed">15.11</cite>.2; <cite doc="Stockbridge-Munsee Tribal Code" path="15.12" proof="needed">15.12</cite>.1; <cite doc="Stockbridge-Munsee Tribal Code" path="15.12" proof="needed">15.12</cite>.4; <cite doc="Stockbridge-Munsee Tribal Code" path="15.18" proof="needed">15.18</cite>.2; <cite doc="Stockbridge-Munsee Tribal Code" path="15.18" proof="needed">15.18</cite>.5; <cite doc="Stockbridge-Munsee Tribal Code" path="16.1" proof="needed">16.1</cite>.2; and <cite doc="Stockbridge-Munsee Tribal Code" path="16.5" proof="needed">16.5</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+</document>

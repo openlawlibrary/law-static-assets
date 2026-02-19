@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 023-16">
+  <num>023-16</num>
+  <heading/>
+  <meta>
+    <ordinance>Procedures</ordinance>
+    <effective>2016-02-22</effective>
+    <history>
+      <adopted>2016-02-03</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/023-16.pdf">Stockbridge-Munsee Tribal Council Res. No. 023-16</citation>
+      <citation type="res" url="./BIA/023-16.pdf">BIA Approval for Res. No. 023-16</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 50, the Procedures Ordinance, which establishes procedural requirements for the conduct of tribal meetings and operations, was originally adopted in 1939 and has since been amended; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has proposed revisions to the ordinance that update the ordinance as well as codify tribal practice and prior Tribal Council actions regulating the conduct of tribal meetings and operation of the Tribal Council and its boards and committees;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 50, which include the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>Creating section titles;</li>
+          <li>Standardizing the formatting and terminology throughout the ordinance;</li>
+          <li>Numbering the introductory provisions of the ordinance to create a new <cite doc="Stockbridge-Munsee Tribal Code" path="50.1" proof="needed">Section 50.1</cite> and to renumber what had been <cite doc="Stockbridge-Munsee Tribal Code" path="50.1" proof="needed">Section 50.1</cite> as <cite doc="Stockbridge-Munsee Tribal Code" path="50.1" proof="needed">Section 50.1</cite>.5;</li>
+          <li>Establishing new sections: <cite doc="Stockbridge-Munsee Tribal Code" path="50.12" proof="needed">50.12</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.13" proof="needed">50.13</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.14" proof="needed">50.14</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.15" proof="needed">50.15</cite>;</li>
+          <li>Establishing new subsections: <cite doc="Stockbridge-Munsee Tribal Code" path="50.1|(B)" proof="needed">50.1(B)</cite>-(D), <cite doc="Stockbridge-Munsee Tribal Code" path="50.2|(C)" proof="needed">50.2(C)</cite>-(G), <cite doc="Stockbridge-Munsee Tribal Code" path="50.4|(C)" proof="needed">50.4(C)</cite>-(E), <cite doc="Stockbridge-Munsee Tribal Code" path="50.5|(A)|(3)" proof="needed">50.5(A)(3)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.5|(B)" proof="needed">50.5(B)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.6|(A)" proof="needed">50.6(A)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.6|(C)" proof="needed">50.6(C)</cite>-(G), <cite doc="Stockbridge-Munsee Tribal Code" path="50.7|(A)" proof="needed">50.7(A)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.7|(D)" proof="needed">50.7(D)</cite>-(F), <cite doc="Stockbridge-Munsee Tribal Code" path="50.16|(B)" proof="needed">50.16(B)</cite>; and</li>
+          <li>Amending subsections: <cite doc="Stockbridge-Munsee Tribal Code" path="50.2|(A)" proof="needed">50.2(A)</cite>-(B), <cite doc="Stockbridge-Munsee Tribal Code" path="50.3" proof="needed">50.3</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.4|(A)|(3)" proof="needed">50.4(A)(3)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.4|(B)" proof="needed">50.4(B)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.6|(B)" proof="needed">50.6(B)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.7|(B)" proof="needed">50.7(B)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.8" proof="needed">50.8</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.9|(A)" proof="needed">50.9(A)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.9|(C)" proof="needed">50.9(C)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.10|(A)" proof="needed">50.10(A)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.11|(A)" proof="needed">50.11(A)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="50.16|(A)" proof="needed">50.16(A)</cite>.</li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+</document>

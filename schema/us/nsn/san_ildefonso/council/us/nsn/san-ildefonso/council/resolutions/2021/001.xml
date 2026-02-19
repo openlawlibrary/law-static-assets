@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3" id="Pueblo de San Ildefonso Council Res. No. SI-R21-001">
+  <num>SI-R21-001</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-001</heading>
+  <heading type="law">Authorization of Non-Disclosure Agreements with PNM and Waiver of Sovereign Immunity Act of 2021</heading>
+  <meta>
+    <effective>2021-03-26</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-001</citation>
+    </citations>
+    <history>
+      <adopted>2021-03-25</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 25th day of March, 2021, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso possesses sovereign immunity from suit and the Council is authorized to decide by law how the Pueblo's sovereign immunity may be waived and in what courts suit may be brought against the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has a business relationship with PNM, an electricity provider, and works with PNM on various projects; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there are times when PNM may require a non-disclosure agreement in order to engage in sensitive or confidential business discussions about a project with the Pueblo and those types of agreements may contain a requirement that the Pueblo waive its sovereign immunity from suit in order to enforce the terms of the non-disclosure agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is in the best interest of the Pueblo to authorize the Governor to negotiate and sign any required non-disclosure agreement for a particular project with PNM and to waive the Pueblo's sovereign immunity to enforce that non-disclosure agreement, subject to specific requirements.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "Authorization of Non-Disclosure Agreements with PNM and Waiver of Sovereign Immunity Act of 2021."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on March 25, 2021, at a meeting with a vote of 8 in favor, 0 opposed, 0 abstaining and 2 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S): Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Nichole S. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Denise Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Nathan Sanchez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R21-001  was presented to the Governor of the Pueblo de San Ildefonso on the 26th day of March, 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 26th day of March, 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Nichole S. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Denise Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>2.3.14</num>
+        <heading>Authorization of Non-Disclosure Agreements with PNM and Waiver of Sovereign Immunity Act of 2021</heading>
+        <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001"/>
+      </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="2.3.14"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>AUTHORIZATION OF NON-DISCLOSURE AGREEMENTS WITH PNM AND WAIVER OF SOVEREIGN IMMUNITY ACT OF 2021</heading>
+    <section>
+      <num>1.1</num>
+      <codify:insert num-value="2.3.14.010"/>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "AUTHORIZATION OF NON-DISCLOSURE AGREEMENTS WITH PNM AND WAIVER OF SOVEREIGN IMMUNITY ACT OF 2021".</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <codify:insert num-value="2.3.14.020"/>
+      <heading>Purpose</heading>
+      <text>The purpose of this act is to authorize the Governor to negotiate and sign a non-disclosure agreement with PNM for a particular project and to approve a waiver of the Pueblo's sovereign immunity for enforcement of that non-disclosure agreement if required, subject to specific requirements as contained in this Act.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <codify:insert num-value="2.3.14.030"/>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo de San Ildefonso possesses sovereign immunity from suit and the Council is authorized to decide by law how the Pueblo's sovereign immunity may be waived and in what courts suit may be brought against the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo has a business relationship with PNM, an electricity provider, and works with PNM on various projects; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>there are times when PNM may require a non-disclosure agreement in order to engage in sensitive or confidential business discussions about a project with the Pueblo and those types of agreements may contain a requirement that the Pueblo waive its sovereign immunity from suit in order to enforce the terms of the non-disclosure agreement; and,</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>it is in the best interest of the Pueblo to authorize the Governor to negotiate and sign any required non-disclosure agreement with PNM for a particular project and to waive the Pueblo's sovereign immunity for enforcement of that non-disclosure agreement with PNM, subject to specific requirements set out in this Act.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <codify:insert num-value="2.3.14.040"/>
+      <heading>Authorization</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to negotiate and sign a non-disclosure agreement with PNM for a particular project.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized to waive the Pueblo's sovereign immunity from suit in order to enforce the terms of a non-disclosure agreement with PNM subject to the following requirements:</text>
+        <para>
+          <num codify:value="(1)">i.</num>
+          <text>The waiver shall identify the parties or parties for whose benefit the waiver is granted, the transaction or transactions and the claims or class of claims for which the waiver is granted, the court or courts in which suit against the Pueblo may be brought, that the waiver is limited to equitable relief and/or actual damages, and any other limitations or restrictions on relief.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Governor shall notify the Council when the Governor has signed a waiver of the Pueblo's sovereign immunity pursuant to this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

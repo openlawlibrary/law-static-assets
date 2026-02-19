@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
+  <prefix>Title</prefix>
+  <num>TAX</num>
+  <heading>Tax</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>TAX.01</num>
+    <heading>Construction Sales Tax Ordinance</heading>
+    <section>
+      <num>TAX.01.01</num>
+      <heading>Tax Imposed</heading>
+      <text>There is imposed upon contractors exercising the privilege of engaging in the business of construction of buildings, warehouses, industrial plants, commercial facilities, residences and vacant land improvements or development upon lands of the Stockbridge-Munsee Community, a tax equal to four and one-half percent (<cite path="§4.5">4.5</cite>%) of the purchase price of labor and materials purchased for use in said construction. The responsibility for payment of this tax is upon the person or firm engaged in the business of construction, including general contractors, sub-contractors, whether in corporate, joint venture, general or limited partnership, or sole proprietorship form, and any owner thereof:</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.1</annotation>
+    </section>
+    <section>
+      <num>TAX.01.02</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Lands of the Stockbridge-Munsee Community shall include any real properly held in trust by the United States of America for the Stockbridge-Munsee Community, whether subject to any tribal member's right of occupancy or assignment or not.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Construction shall include the erection or construction of any buildings or improvements, utility installations, roads, facilities, and site preparation, and of a purchase price of One Hundred Thousand Dollars ($100,<cite path="§000.00">000.00</cite>) or more. The purchase price shall be calculated to include architect and engineering fees, construction inspections and testing, site work, roads, utility installations, security services, and acquisition costs.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For purposes of this ordinance, construction shall include all units or phases of construction that are considered as a single project or are funded or financed as a single project for completion within a two-year period after construction or site preparation is commenced. Commencement of construction shall not include architect or engineering services, inspection services, testing services, security services, or acquisition proceedings. Construction shall not include rehabilitation of existing privately or publicly owned housing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The owner of any construction shall include any person, firm, governmental entity, corporation, general or limited partnership, joint venture, or sole proprietorship having or acquiring a legal, beneficial or leasehold title to the real property upon completion of construction or within two years after completion, or receiving the right to occupy improvements subject to this ordinance within two years following completion of the construction.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.2</annotation>
+    </section>
+    <section>
+      <num>TAX.01.03</num>
+      <heading>Collection</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Treasurer's office is authorized to administer this ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any contractor engaged in construction subject to this ordinance shall submit the invoices or copies thereof for labor and materials incident to construction to the tribal treasurer's office within 15 days after submitting any request for payment to any owner or owner's agent or within 15 days following completion of construction. The treasurer's office shall determine the applicability and amount of the tax imposed by this ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The tax imposed by this ordinance shall be paid by the person or firm engaged in construction or requesting such payment to the tribal treasurer's office, except that payment on behalf of the person or firm may be made by or accepted from the owner of the construction.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The tribal treasurer's office is authorized to investigate and determine the liability of any construction for the payment of the tax imposed by this ordinance. The office may retain the services of attorneys and other persons necessary to the investigation and collection of taxes imposed by this ordinance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If the tax is not paid within 30 days following payment pursuant to request or completion of construction, whichever event occurs first, the tribal treasurer shall determine the applicability and amount of the tax imposed, and shall communicate said determination by certified mail, return receipt requested, together with a copy of Sections <cite path="§TAX.01.04">Section TAX.01.04</cite> and <cite path="§TAX.01.05">Section TAX.01.05</cite> of this ordinance to the contractor and owner.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.3</annotation>
+    </section>
+    <section>
+      <num>TAX.01.04</num>
+      <heading>Tax Lien Enforcement</heading>
+      <text>If the taxes imposed by this ordinance are not paid within 30 days following any payment for construction, labor, or materials by an owner or within 30 days for following a final determination of the a contractor's tax liability, the amount of the tax shall become a lien on the improvements and real property improved by said construction and shall bear interest at the rate of twelve percent (12%) per annum from the date of each payment or completion. The lien may be enforced in the name of the Stockbridge-Munsee Community by an action in a court of competent jurisdiction for the amount of the tax and interest, together with costs of collection and attorney fees and a penalty assessment against the contractor in the amount of twenty percent (20%) of the tax to be collected; provided, that upon application to the Tax Administration Board and upon a showing of good cause other than negligence, the penalty alone may be waived.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.4</annotation>
+    </section>
+    <section>
+      <num>TAX.01.05</num>
+      <heading>Dispute Resolution</heading>
+      <para>
+        <num>(a)</num>
+        <text>There is established by this ordinance a Tax Administration Board consisting of three persons appointed by the Stockbridge-Munsee Tribal Council for staggered three year terms. Members of the Tax Administration Board shall be adult tribal members and shall receive per diem compensation for the exercise of their duties. The Tax Administration Board shall hear and determine disputes concerning the imposition or calculation of taxes imposed by this or any other tribal tax ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within no more than 30 days following the date of a determination by the tribal treasurer, a person aggrieved by a determination of the tribal treasurer may commence proceedings for review by filing a written protest, stating the grounds for protest, in the office of the tribal treasurer. Thereafter, the board shall review records and hold hearings as it deems necessary, and shall make a written decision of the validity of the treasurer's determination. The filing of a written protest shall have the effect of avoiding any penalty assessment if the tax is fully paid within thirty days following a final determination.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Council may review the Board's decision only for determining compliance with the applicable ordinance, and may vacate the Board's decision or remand the dispute for further proceedings. An action for review may be commenced by a person aggrieved by the decision of the Tax Administration Board by filing a petition for review with the tribal secretary within 30 calendar days following the date of the Tax Administration Board decision, stating the grounds for review.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If no proceeding for pretest or review is filed within the time provided, the matter shall be deemed as finally determined and enforceable pursuant to <cite path="§TAX.01.04">Section TAX.01.04</cite>.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.5</annotation>
+    </section>
+    <section>
+      <num>TAX.01.06</num>
+      <heading>Disposition</heading>
+      <text>Taxes collected pursuant to this ordinance shall be deposited to the tribal general fund, which shall also pay the costs necessary for enforcement and collection.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.6</annotation>
+    </section>
+    <section>
+      <num>TAX.01.07</num>
+      <heading>Set-Offs</heading>
+      <text>If any contractor or owner is entitled to payment of money from the tribe and taxes imposed by this or any other ordinance remain unpaid, the tribe shall have the authority to collect and offset the tax obligations from the funds owed to the tax obligor. The tribe shall notify the contractor by certified mail, return receipt requested, of its intent to set off tax obligations, whereupon the contractor may file a protest pursuant to <cite path="§TAX.01.05">Section TAX.01.05</cite>. The filing of a protest shall not have the effect of preventing the collection of the tax.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.7</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1208">Resolution No. 1208</cite>, adopted May 30, 1990.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 047-10">Resolution No. 047-10</cite>, adopted July 6, 2010, approved by BIA August 13, 2010.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>TAX.02</num>
+    <heading>Room Tax Ordinance</heading>
+    <section>
+      <num>TAX.02.01</num>
+      <heading>Definitions</heading>
+      <text>In <cite path="57-A.1">this chapter</cite> the following definitions shall apply:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Gross receipts" means the total revenue received from the retail furnishing of rooms, lodging, or similar accommodations by a hotel or motel as defined herein.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Hotel" and "motel" mean a building or a group of buildings located on the Stockbridge-Munsee Reservation in which the public may obtain accommodations for consideration, including, without limitation, such establishments as inns, motels, tourist homes, tourist houses, or bed and breakfast establishments and any other building in which accommodations are available to the public.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Payer" means the person or entity who owes the tax imposed by this Ordinance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Room Tax" means the tax imposed by this Ordinance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+      </para>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57-A, §57-A.1</annotation>
+    </section>
+    <section>
+      <num>TAX.02.02</num>
+      <heading>Imposition Of Room Tax</heading>
+      <text>A tax is hereby imposed on the privilege and services of furnishing, at retail, of rooms or lodging to transients by hotel keepers, motel operators and other persons furnishing accommodations that are available to the public.  Such tax shall be at the rate of six percent (6%) of the gross receipts from such retail furnishing of rooms or lodging.  Such tax may not be imposed upon sales to the federal, state and tribal governments and their employees on official business, members of the Stockbridge-Munsee Community, other Tribal governments and any other enrollment card carrying member from any tribe anywhere, and any person as to whom, or any occupancy as to which, it is beyond the power of the Stockbridge-Munsee Community to impose the tax herein provided..</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57-A, §57-A.2</annotation>
+    </section>
+    <section>
+      <num>TAX.02.03</num>
+      <heading>Collection Of Tax</heading>
+      <text>The collection of the tax imposed by this article shall be administered by the Tribal Treasurer.  The tax imposed is due and payable on the last day of the month next succeeding the calendar quarters for which imposed.  A return shall be filed with the Tribal Treasurer by those furnishing at retail such rooms and lodging, on or before the same date on which the tax is due and payable.  Such return shall show the gross receipts of the preceding calendar quarters from such retail furnishings of rooms or lodging, the amount of taxes imposed for such period, and such other non-confidential information as the Tribal Treasurer deems reasonably necessary.  Every person required to file such a quarterly return shall, with their first return, elect to file an annual calendar or fiscal year return.  Such annual returns shall be filed within 90 days of the close of each fiscal year.  The annual return shall summarize the quarterly returns, reconcile and adjust for errors in the quarterly returns, and shall contain such additional non-confidential information as the Tribal Treasurer requires.  Such annual returns shall be made on forms as prescribed by the Tribal Treasurer.  All such returns shall be signed by the person required to file a return.  The Tribal Treasurer may, for good cause, extend the time for filing any return, but in no event longer than one month from the filing date.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57-A, §57-A.3</annotation>
+    </section>
+    <section>
+      <num>TAX.02.04</num>
+      <heading>Record Keeping Requirements</heading>
+      <text>Every entity liable for the tax imposed by this Ordinance shall keep or cause to be kept such records, receipts, invoices and other pertinent papers relating to the payment of room taxes in such forms as the Tribal Treasurer requires.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57-A, §57-A.4</annotation>
+    </section>
+    <section>
+      <num>TAX.02.05</num>
+      <heading>Confidentiality Of Tax Returns</heading>
+      <text>All tax returns, schedules, exhibits, writings or audit reports relating to such returns on file with the Tribal Treasurer are deemed to be confidential, except the Tribal Treasurer may divulge their contents to the Stockbridge-Munsee Tribal Council and employees of the Council.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57-A, §57-A.5</annotation>
+    </section>
+    <section>
+      <num>TAX.02.06</num>
+      <heading>Use Of Tax Revenues</heading>
+      <text>All taxes pursuant to <cite path="§57A.2">Section 57-A.2</cite> shall be deposited in a separated account and utilized according to tribal government determination.</text>
+      <annotation type="Prior Codifications">Formerly codified as Chapter 57-A, §57-A.6</annotation>
+    </section>
+    <annotations>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 047-10">Resolution No. 047-10</cite>, adopted July 6, 2010, approved by BIA August 13, 2010.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No. 026-18</cite>, adopted March 6, 2018.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</annotation>
+    </annotations>
+  </container>
+</container>

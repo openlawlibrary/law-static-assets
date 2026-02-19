@@ -1,0 +1,1169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>18</num>
+  <heading>TAXATION</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>18.1</num>
+    <heading>Taxation</heading>
+    <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R13-037, dated September 28, 2013.</annotation>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>18.1.1</num>
+      <heading>Background</heading>
+      <section>
+        <num>18.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council recognizes that the Pueblo must generate revenues, through taxation, to support the Pueblo de San Ildefonso government, provide funding for industrial and business development, and provide for such other essential public services;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council has found that it is in the best interest of the Pueblo to establish a comprehensive taxation law that provides for the administration and enforcement of all taxes imposed by the Pueblo de San Ildefonso;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council find's that the Pueblo's Tax Ordinance must be updated to establish a mechanism for enforcement of taxation and to address the Pueblo's current and future economic conditions.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.1.020</num>
+        <text>In accordance with the provisions of the Agreement, the Council hereby enacts the attached law entitled "Pueblo de San Ildefonso Tax Act of 2013".</text>
+      </section>
+      <section>
+        <num>18.1.1.030</num>
+        <text>The "Pueblo de San Ildefonso Tax Act of 2013" shall repeal and supersede all provisions within the Pueblo de San Ildefonso Tax Ordinance.</text>
+      </section>
+      <section>
+        <num>18.1.1.040</num>
+        <text>The Pueblo de San Ildefonso Tax Act of 2013:</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>18.1.2</num>
+      <heading>ADMINISTRATION AND ENFORCEMENT</heading>
+      <section>
+        <num>18.1.2.010</num>
+        <heading>Title.</heading>
+        <text>This Act shall be known as the Pueblo de San Ildefonso Tax Act.  May also be referred to as the Tax Code.</text>
+      </section>
+      <section>
+        <num>18.1.2.020</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of the Act is to establish a comprehensive taxation law that provides for the administration and enforcement of all taxes imposed by the Pueblo de San Ildefonso in exercise of its sovereign authority over its lands and activities occurring thereon.</text>
+      </section>
+      <section>
+        <num>18.1.2.030</num>
+        <heading>Definitions.</heading>
+        <text>As used in this Act, the following terms mean:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo.  Also includes land assignments, community property areas, fee simple lands, and public right-of-ways. May also be referred to as "tribal lands"</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.040</num>
+        <heading>Establishment of Tax Office.</heading>
+        <text>There is hereby established an Office of Taxation (also referred to as the Tax Office) within the Executive Branch of the Pueblo de San Ildefonso government.</text>
+      </section>
+      <section>
+        <num>18.1.2.050</num>
+        <heading>Powers and Authority.</heading>
+        <text>The Pueblo de San Ildefonso Office of Taxation, under the supervision and control of the Governor, shall have the following powers and authorities:</text>
+        <para>
+          <num>(a)</num>
+          <text>Assess and levy taxes, issue permits and charge such fees as authorized by this Act.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Enforce provisions of this Act and any other subsequent tax ordinances as may be enacted by the Council and incorporated into this Title.  Such enforcement shall be in accordance with the administrative provisions of this title and through judicial enforcement in the Pueblo de San Ildefonso Courts.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Issue rulings, orders, or instructions.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Review and study all sources of income, resources and value within the Pueblo de San Ildefonso and all possible taxes thereon.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Adopt rules, regulations or polices necessary for the proper functioning of the Office of Taxation.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Carry out all administrative authorities and responsibilities provided for in this Act.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.060</num>
+        <heading>Tax Administrator.</heading>
+        <text>The Tax Administrator shall have the following duties and responsibilities:</text>
+        <para>
+          <num>(a)</num>
+          <text>Possess the day-to-day responsibility for the administration of the Pueblo de San Ildefonso Tax Code and the functioning of the Tax Office.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Assess, collect, and issue receipts for such taxes and fees as imposed under this Title, and to bring actions on behalf of the Pueblo in any appropriate court for the collection of tribal taxes, penalties, and interest and for the enforcement of tribal tax laws.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Negotiate closing agreements with a taxpayer regarding a taxpayer's liability and payment of taxes.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Prepare monthly reports on tax assessments and revenues.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Prepare annual reports and budgets for the Tax Office and participate in the budget development and approval process.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Provide information to residents, businesses, and contractors within the lands of the Pueblo on the Pueblo's taxes, assessments and collection procedures, and the permitting requirements and fees.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Hire staff, subject to budgetary constraints, as needed to carry out the functions of the Tax Office.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Contract, subject to budgetary constraints and procurement requirments, with accountants, auditors, investigators, consultants, or other experts as necessary to carry out the administration and enforcement of the Tax Code and the functions of the Tax Office.  The Tax Administrator may delegate authority to such individuals as Tax Office representatives as deemed necessary to perform the duties under this Act.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Take such action as reasonably necessary to accomplish and enforce the powers and authorities described in Section 1.3 above, and exercise all other authority as delegated by law.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.070</num>
+        <heading>Tax Office Budget.</heading>
+        <text>The Tax Office shall have an annual operating budget included as part of the Governor's budget, which is subject to Council approval.</text>
+      </section>
+      <section>
+        <num>18.1.2.080</num>
+        <heading>Rulings, Orders, Instructions and Regulations.</heading>
+        <text>The Tax Administrator is authorized to issue the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Rulings:  written statements of the Tax Administrator of limited application to one or a small number of taxpayers, interpreting the tax laws to which they relate, and are ordinarily issued in response to a request for clarification of the tax consequences on a specific set of circumstances.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Orders: written statements of the Tax Administrator to implement a decision after a hearing or informal conference.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Instructions: other written statements or directives of the Tax Administrator not dealing with the merits of any tax liability but which otherwise aide in accomplishment of the duties of the Tax Administrator.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Regulations:  written rules having legal force issued by the Tax Administrator that have general application to taxpayers which interpret and explain the code or tax requirement to which they relate.</text>
+          <para>
+            <num>(1)</num>
+            <text>Any proposed regulation must be submitted to the Council for review and comment and authorization for public inspection and comment.  Upon Council authorization, the proposed regulation will be submitted for public inspection and comment by posting, publication or distribution to the public and interested persons.  The proposed regulation will be open for public comment for no less than two (2) weeks.   The Tax Administrator may revise the regulation based on public comment or as deemed necessary, and submit the regulation for final review, comment and approval of the Council.  Upon approval, the regulation may be issued as a final regulation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>All tax laws, regulations, rulings, and instructions shall be maintained by the Tax Office and be made available for public inspection upon request.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.090</num>
+        <heading>Receipts and Accounting.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All money received as a result of a tax assessment, fee, or penalty shall be paid to the Pueblo.  Any payment received by the Tax Office shall be promptly delivered to the Pueblo de San Ildefonso Finance and Accounting Department ("Finance and Accounting Department).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Finance and Accounting Department shall provide to the Tax Office timely confirmation of payments made to the Pueblo by a taxpayer as a result of a tax assessment, fee, or penalty, within two (2) business days of receipt of payment.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Finance and Accounting Department is directed to record and maintain the financial activities associated with the assessment, filling and collection of taxes according to Generally Accepted Accounting Practices (GAAP).  The Finance and Accounting Department will initiate and maintain sufficient internal controls to ensure that all tax payments are deposited in a timely fashion and recorded on the official books of records of the Pueblo.  Separate bank accounts for the deposit of these taxes are not necessary, provided that the official books of record must clearly identify the tax revenues as being separate from other Tribal revenue.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Tax payments made as part of a valid protest shall be separately identified and deposited in an interest-bearing account, after the Tax Administrator confirms that a valid protest has been made.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Finance and Accounting Department shall provide to the Tax Office monthly, quarterly, and annual reports showing:</text>
+          <para>
+            <num>(1)</num>
+            <text>Revenues collected from assessments, fees and penalties for each tax and in total;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All expenditures of taxes for tax administration and other purposes from each tax, and in total;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Available balances remaining for each tax, and in total; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Amounts held in escrow as part of a valid protest, identified by taxpayer, and in total.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In addition to the foregoing, the Finance and Accounting Department shall provide such other information as requested by the Tax Administrator.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.100</num>
+        <heading>Address for Notice, Filing and Payments.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any notice required or authorized to be given by mail is effective when mailed to or served by the Tax Office on the person at the last address shown in the records of the Tax Office.  Any notice, return, application, or payment required to be submitted to the Tax Office shall be sent by mail, delivery service or delivered in person to the Tax Office, or to such address as designated by the Tax Office.  A receipt shall be given for such payment.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Failure of the Tax Office to mail or a taxpayer to receive any notice, assessment, bill or other communication will not affect the taxpayer's liability for a tax.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.110</num>
+        <heading>Taxpayer Responsibilities for registration, designation of agent, required records.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Before engaging in any transaction or activity subject to a tax under this Act, a taxpayer shall register with the Tax Office on such forms and in the manner as determined by the Tax Administrator, including payment of fees, if any.  If a taxpayer fails to register as required by this section, the Tax Administrator may assess a civil penalty under Section 1.26 in addition to any tax due.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Each taxpayer shall designate, in writing to the Tax Office, an agent who shall represent and legally bind the taxpayer with respect to all obligations under this Act.  The designation shall list the name, mailing and email address, and telephone and fax numbers of the agent.  An updated designation shall be filed within thirty (30) days of a change in circumstances. The Tax Administrator may require such other information as deemed necessary for the proper and efficient administration of the tribal taxes.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Each taxpayer shall keep full and true records of all taxable activities within Pueblo lands. Such records shall be maintained for a period of not less than three (3) years from each taxable transaction, receipt or tax payment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Tax Administrator may require a taxpayer to file an informational return even if no tax is due.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.120</num>
+        <heading>Timeliness of Notice, Filing and Payments.</heading>
+        <text>Any notice, return, application, or payment required or authorized to be made or given shall be considered timely if mailed on or before the date on which due or required, as shown by the postmark, or if delivered to the Tax Office by the close of business on the date due or required, and a receipt is given.  A due date that falls on a weekend or holiday shall be moved to the next business day.</text>
+      </section>
+      <section>
+        <num>18.1.2.130</num>
+        <heading>Tax Payment Date.</heading>
+        <text>Taxes due and payable to the Pueblo are to be paid as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Within thirty (30) days of the issuance of a notice of valuation or assessment and notice of tax due by the Tax Office.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For taxes requiring monthly payments, by the fifteenth (15<sup>th</sup>) day of the month following the end of the month for which the tax is due, unless another date or process for payment of the tax is specified in the particular tax ordinance.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.140</num>
+        <heading>Extensions.</heading>
+        <text>A taxpayer or business owner may request an extension of time within which to file a report or pay taxes.  The request must be made to the Tax Administrator in writing by the due date for the report or payment.  The extension of time may be granted, at the discretion of the Tax Administrator.</text>
+      </section>
+      <section>
+        <num>18.1.2.150</num>
+        <heading>Delinquent Taxpayer.</heading>
+        <text>Any taxpayer who has been assessed taxes by the Tax Office or who is required to remit taxes pursuant to this Act and does not make timely payment and does not protest the assessment or demand for payment as provided in this Act, shall be considered a delinquent taxpayer.</text>
+      </section>
+      <section>
+        <num>18.1.2.160</num>
+        <heading>Assessment of Taxes.</heading>
+        <para>
+          <num>(a)</num>
+          <text>If the Tax Office determines that a taxpayer is liable for taxes that are due and that have not been previously assessed to the taxpayer, the Tax Office shall promptly assess the amount to the taxpayer. The filing of a tax return showing that a tax is due constitutes a self-assessment of the unpaid amount of the tax shown on the return.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Assessments of tax are effective</text>
+          <para>
+            <num>(1)</num>
+            <text>when a return of a taxpayer is received by the Tax Office showing a liability for taxes in excess of the tax payment accompanying the return, or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>when a notice of tax assessment and tax due issued by the Tax Office is mailed or delivered in person to the taxpayer against whom the liability for tax payment is asserted, stated the nature and amount of taxes claimed, demanding payment and informing the taxpayer of the remedies available to the taxpayer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>When taxes have been assessed to a taxpayer and remain unpaid, the Tax Office may demand payment at any time.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Any assessment of taxes or demand for payment made by the Tax Office is presumed to be correct, and the taxpayer has the burden of showing the assessment or demand is not correct.  Self-assessment by the taxpayer is not presumed to be correct.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any taxes assessed shall become the liability of the taxpayer on the date due.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.170</num>
+        <heading>Limited Time Period for Assessments and Collections</heading>
+        <para>
+          <num>(a)</num>
+          <text>No assessment of tax may be made by the Tax Office more than three (3) years after the date on which the claim for the unpaid tax accrues.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A claim for unpaid tax accrues when the tax is first payable, pursuant to the relevant tax, except that claims for tax liability that can only reasonably be determined by the Tax Office from information that the taxpayer has failed to disclose in a tax return or other submittal to the Tax Office are not time barred and do not accrue until such information is provided to the Tax Office.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No administrative or judicial action or proceeding shall be brought to collect taxes assessed by the Tax Office more than three (3) years after the date of the assessment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the taxpayer has signed a waiver on the limitations imposed in this section, an assessment or administrative or judicial proceeding may begin without regard to the time when the payment was due.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.180</num>
+        <heading>Request for Refund.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any taxpayer who believes they have made an overpayment of taxes may file a written claim for a refund with the Tax Office.  A refund request must be filed within one (1) year after the alleged overpayment was made.  The Tax Administrator shall investigate the claim and make written decision on the refund request.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A refund, in the discretion of the Tax Administrator, may be in the form of cash either in a lump sum or in installments over not more than two (2) years, or a credit against future tax payments.  Credits may be applied by the taxpayer in the amounts and on the schedule, not to exceed two (2) years, as approved by the Tax Office.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Interest shall be allowed and paid on the amount of tax overpaid by a taxpayer that is subsequently refunded or credited.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.190</num>
+        <heading>Protest Procedure.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A taxpayer may dispute the valuation placed on property, or the assessment of a tax or fee stated to be due, or the imposition of a tax, or the denial of a request for a refund, by filing a protest action with the Tax Office no later than thirty (30) days after the date of mailing to the taxpayer of the Notice of Valuation or the Notice of Tax Due, or the date the tax would otherwise be due, or receipt of denial of the refund request.  If the protest action is not filed within the time allowable, the Tax Office may proceed to enforce the collection of the tax.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A protest shall identify the taxpayer and the tax or taxes involved and shall state the grounds for the protest and the affirmative relief requested.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A protesting taxpayer must timely pay all accrued tax, penalty and interest on or before the date the protest is filed.  Delinquent taxes may not be paid under protest.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Taxes that have been timely paid under protest shall be deposited in an interest bearing or escrow account pending final determination of the protest action.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Upon a timely receipt of a protest, the Tax Administrator shall hold an informal conference within thirty (30) days of the date the protest is filed, with the taxpayer, and the Governor, or his or her designee, in an effort to resolve the protest matter.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>If the parties are able to resolve the matter at the informal conference, the Tax Administrator shall issue a written decision and order on the protest, summarizing the basis for the decision within seven (7) days of the informal conference.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>If the parties are unable to resolve the matter through informal conference, the Tax Administrator, within seven (7) days of the informal conference, shall inform the Governor and the taxpayer in writing that the matter remains unresolved and should be referred to the Pueblo de San Ildefonso Trial Court ("Trial Court").  The Governor shall refer the unresolved protest to the Trial Court within five (5) days of receipt of the notice from the Tax Administrator.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Trial Court shall hold a hearing upon receipt of the protest referral from the Governor.  The taxpayer shall appear at the hearing, either in person or through representatives of his choice.  The hearing shall not be open to the public and shall be conducted in an informal manner.  Technical rules of procedure and evidence shall not apply at the hearing, but the hearing shall be conducted to allow the Tax Office and the taxpayer to present their evidence and positions in a fair and reasonable manner.  The Trial Court shall make a complete record of the hearing, either using a tape recording or written transcript.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>If the taxpayer or Tax Office is dissatisfied with the action and order of the Trial Court after the hearing, the dissatisfied party may file an appeal with the Pueblo de San Ildefonso Supreme Court ("Supreme Court") within ten (10) days of receipt of the Court decision.  The review by the Supreme Court shall be on the record and the decision of the Supreme Court shall be final and not subject to further review.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Trial Court or the Supreme Court shall set aside a tax determination of the Tax Office only if it is found to be:</text>
+          <para>
+            <num>(1)</num>
+            <text>Arbitrary, capricious or an abuse of discretion; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Not otherwise in accordance with the laws of the Pueblo de San Ildefonso or the United States.</text>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>If the Trial Court or Supreme Court finds that all or some portion of the protested valuation and tax due is correct and payable by the taxpayer, that amount of the tax and any interest that may have accrued thereon shall be paid to the Pueblo by the Finance and Accounting Department from the funds held in the escrow account.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>If the Trial Court or Supreme Court finds that all or some portion of the valuation and tax due is found to be incorrect, that amount of tax and any interest that may have accrued thereon shall be paid over by the Finance and Accounting Department to the protestant at the time of the final determination of valuation and tax due.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.200</num>
+        <heading>Prohibition from Law Suits.</heading>
+        <text>No law suit for the purpose of restraining the assessment or collection of the taxes imposed under this Act shall be maintained in any court by any person, whether or not such person is the person against whom such taxes were assessed.  All actions concerning the application of the Act shall be brought pursuant to Section 1.19.</text>
+      </section>
+      <section>
+        <num>18.1.2.210</num>
+        <heading>No Waiver of Sovereign Immunity in Other Courts.</heading>
+        <text>The Pueblo does not waive its sovereign immunity from suit in the courts of any other jurisdiction for any claim arising from the administration or enforcement of any tax subject to this Act.</text>
+      </section>
+      <section>
+        <num>18.1.2.220</num>
+        <heading>Audits.</heading>
+        <text>The Tax Office shall have authority at such times as deemed necessary to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Inspect and audit financial records of any taxpayer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Examine and investigate, with respect to taxpayers, places of business, equipment, facilities, tangible personal property, and the books, records, papers, vouchers, accounts, documents, and financial statements of any taxpayer, upon reasonable notice.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Issue administrative subpoenas for any records, information, or testimony necessary or appropriate to determine compliance of any person with the terms of this Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Assess any additional taxes, or interest, that may be identified as due as a result of such audit or investigation.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.230</num>
+        <heading>Lien for Taxes.</heading>
+        <para>
+          <num>(a)</num>
+          <text>If a taxpayer fails to pay any taxes after demand or assessment by the Tax Office, the amount shall be a lien in favor of the Pueblo upon all property of the liable taxpayer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The lien shall arise at the time the demand or assessment is made, shall attach to all property then owned and thereafter acquired, and shall continue until the lien is satisfied or released, and shall be effective against all persons without notice.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A lien may be required as a condition for granting an extension or stay of payment and shall arise according to the terms of the extension or stay.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A lien issued pursuant to Section 1.23 shall have priority over all liens imposed by any government other than the Pueblo, regardless of the date of perfection.  A lien shall be recorded with the Pueblo de San Ildefonso Tax Office.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The lien shall be released upon payment upon payment of the entire liability of the taxpayer.  Payment of any part of the liability shall reduce the amount of the lien by the amount paid.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Tax Office may in its discretion release liens on certain property without payment of all outstanding liabilities, for good cause.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Tax Office may foreclose upon any or all items of property subject to a lien for taxes by seizure and sale.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.240</num>
+        <heading>Security for Payment.</heading>
+        <text>Whenever necessary to secure the payment of any taxes due or reasonably expected to become due, the Tax Office is authorized to require the taxpayer to furnish an acceptable surety bond in an appropriate amount.  The Tax Office shall set forth the terms and conditions for such a surety.</text>
+      </section>
+      <section>
+        <num>18.1.2.250</num>
+        <heading>Confidentiality.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All records relating to taxpayers shall be confidential and not open to public inspection.  The taxpayer or their agent shall be given access to records relating to their tax liability.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>It is unlawful for any employee of the Pueblo, its Tax Office or its Finance and Accounting Department, or any former employee thereof, to disclose to any person any information contained in a tax return, informational return, report or any other document required by the tax laws of the Pueblo, except in the following instances:</text>
+          <para>
+            <num>(1)</num>
+            <text>to another employee of the Pueblo, Tax Office, Finance and Accounting Department, Governor, or Council Representative, or their designee or agent, in their official capacity, provided that disclosure is necessary for the recipient to carry out an official duty of the Pueblo and the information is kept confidential by the recipient;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>to an authorized representative of another tribe, state or the federal government, provided that the receiving entity has entered into an agreement with the Pueblo to use the information only for tax purposes and provided that the receiving entity has enacted confidentiality laws similar to this section;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>to a court of competent jurisdiction in an action relating to taxation to which the Tax Office and the taxpayer are parties, or in an action to enforce any tax liability of the taxpayer to which the Tax Office is a party; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>in such manner and form that the information revealed is not identified as applicable to a particular taxpayer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Nothing in this section prohibits the Tax Office from disclosing to any person the final decision or order of the Tax Office in any protests filed under this law.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.260</num>
+        <heading>Civil Penalties, Interest and Administrative Costs.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Penalty for Failure to File or Failure to Pay.</heading>
+          <text>If any taxpayer fails to timely file any tax return or make a payment when due, there shall be a penalty in an amount of two percent (2%) per month or any fraction of a month from the date the tax was due, or return required to be filed, multiplied by the amount of tax due but not paid, not to exceed twenty percent (20%) of the tax due but not paid.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Willful Intent to Evade or Defeat Tax.</heading>
+          <text>If along with a failure to pay an amount of tax when due, there is a willful intent to evade or defeat a tax, a penalty of fifty percent (50%) of the tax shall be added to the tax required to be paid.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>False Information, Failure to Cooperate, or Other Violation.</heading>
+          <text>Any taxpayer who files or furnishes any false information, who fails to cooperate with the Pueblo, or its agent, in the conduct of its duties under this Act, or who otherwise violates any other section of this Act, unless specifically provided for in a specific tax, shall be imposed a civil penalty of not more than $500 for each violation, in addition to any other penalties prescribed by law.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No penalty shall be assessed against a taxpayer if:</text>
+          <para>
+            <num>(1)</num>
+            <text>the failure to pay an amount of tax due results from a mistake of law made in good faith and on reasonable grounds; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>demand is made for payment of a tax, including the penalty imposed pursuant to this section, and if the tax is paid within ten (10) days after the date of such demand, no penalty shall be imposed for the period after the date of the demand with respect to the amount paid; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the tax is deemed paid by crediting overpayments found in an audit of multiple periods.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Waiver of Penalties.</heading>
+          <text>For good cause shown, the Tax Administrator may, in their discretion, relieve the taxpayer from all or part of the penalties imposed under this section.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Interest.</heading>
+          <text>Interest at an annual rate of twelve percent (12%) simple interest which shall accrue against the amount of delinquent taxes due and it shall be applied on a daily basis until the date the taxes due are paid.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Administrative Costs.</heading>
+          <text>A taxpayer failing to pay any taxes at the time due may be charged for extraordinary administrative costs incurred in collecting the unpaid amount, including, but not limited to, attorney fees and other costs of collection.  For good cause shown, the Tax Administrator may, in their discretion, relieve the taxpayer from all or part of the charges imposed under this section.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.2.270</num>
+        <heading>No Adoption of State Law.</heading>
+        <text>While this Act, and subsequent Pueblo tax laws, may reference certain New Mexico State laws, tax rates or documents, that reference does not adopt or extend New Mexico law or policy within the Pueblo Lands or over the Pueblo or its members and in no way alters any sovereign rights, powers or jurisdiction of the Pueblo de San Ildefonso.</text>
+      </section>
+      <section>
+        <num>18.1.2.280</num>
+        <heading>Effective Date.</heading>
+        <text>This Act shall take effect immediately upon its enactment by resolution of the Pueblo de San Ildefonso Council.</text>
+      </section>
+      <section>
+        <num>18.1.2.290</num>
+        <heading>Repeal of Inconsistent Law or Provisions.</heading>
+        <text>Any and all Council resolutions, or provisions in the Pueblo de San Ildefonso Civil and Criminal Code, or other laws, which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
+      </section>
+      <section>
+        <num>18.1.2.300</num>
+        <heading>Severability.</heading>
+        <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
+      </section>
+      <section>
+        <num>18.1.2.310</num>
+        <heading>Amendment.</heading>
+        <text>The Council may amend this Act upon majority vote of the Council.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>18.1.3</num>
+      <heading>BUSINESS PROPERTY TAXES</heading>
+      <section>
+        <num>18.1.3.010</num>
+        <heading>Title.</heading>
+        <text>This Chapter shall be known as the Pueblo de San Ildefonso Business Property Tax.  May also be referred to as the Business Property Tax Code.</text>
+      </section>
+      <section>
+        <num>18.1.3.020</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of the Chapter is to generate revenues to support the Pueblo de San Ildefonso government, provide funding for industrial and business development, and provide for such other essential public services.  It also consolidates and updates previous tax law provisions for possessory interests in utilities and business enterprises.</text>
+      </section>
+      <section>
+        <num>18.1.3.030</num>
+        <heading>Ad Valorem Tax.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo's Business Property Tax is an ad valorem property tax levied on property of each taxpayer within Pueblo lands as an expense of operating its entire business.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The tax should be paid by the taxpayer and collected pro-rata from each and every customer of the operating unit based on the customers' usage of taxpayer's service or community.  This tax may not be "passed through" directly or exclusively to taxpayer's customers residing within the Pueblo's taxing jurisdiction.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All owners of possessory interests existing within Pueblo lands as of January 1 of each calendar year shall be liable for this tax.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.3.040</num>
+        <heading>Incidence of Tax.</heading>
+        <text>The incidence of the ad valorem tax imposed by this Chapter shall be upon the owner of the possessory interest being taxed.</text>
+      </section>
+      <section>
+        <num>18.1.3.050</num>
+        <heading>Reporting Requirements.</heading>
+        <text>Each owner of a possessory interest shall file a report with the Tax Office on or before February 1 of each year.  This report shall contain the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>a description of the location of the possessory interest;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a description of any improvements and additions thereon;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a description of any related equipment and machinery kept within the exterior boundaries of the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>an itemized statement of the values of items A, B, and C above.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Tax Office will provide forms for the use of the owner in complying with the reporting requirement.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.3.060</num>
+        <heading>Valuation.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Utilities.</heading>
+          <text>Valuation of a possessory interest shall be determined in accordance with the appropriate methods set out in the New Mexico Property Tax Code, Sections 7-36-1, <u>et seq</u>., NMSA (1978), as amended, and regulations pursuant thereto.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>All Other Business Property.</heading>
+          <text>Valuation of a possessory interest shall be determined in accordance with a cost method of valuation.  The cost method of valuation is a method for valuing improvements by determining the cost of reproduction or replacement of the property with property which is as good as, but not better than, the improvement being valued.  The reproduction of replacement may be duplicate or equally good substitute property.  If the improvement being valued is not in a new condition, the value of a new reproduction or replacement should, as circumstances justify, be depreciated to determine the value of the used items.  Trending may be used to implement the cost method of valuation.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.3.070</num>
+        <heading>Rate of Tax.</heading>
+        <text>The rate of tax shall be six percent (6%) of the assessed value.</text>
+      </section>
+      <section>
+        <num>18.1.3.080</num>
+        <heading>Assessment and Payment.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Possessory interests shall be taxed annually as of the assessment date.  The Notice of Assessment and Ad Valorem Tax Due should be mailed to taxpayer on or before each March 1.  The tax shall be due within thirty (30) days of the date of mailing of such Notice of Assessment and Ad Valorem Tax Due.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Ad valorem taxes assessed shall be a lien against the possessory interest in favor of the Pueblo de San Ildefonso.  Such lien shall arise as of the assessment date, without notice or demand, and shall be prior and superior to all other liens and encumbrances upon the property.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Owners of possessory interests shall be liable for the ad valorem taxes, penalties, and interest assessed.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Tax Administrator shall have authority to assess unassessed possessory interests as of the date on which they should have been assessed and to re-determine incorrect or erroneous assessments.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.3.090</num>
+        <heading>Exceptions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No possessory interest which consists of a utility delivery or distribution facility or line which exclusively serves the Pueblo de San Ildefonso facilities or tribal members shall be subject to the ad valorem possessory interest tax.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No property owned or leased by the government of the Pueblo, its subdivisions, businesses or business enterprises shall be subject to the ad valorem possessory interest tax.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No business enterprise owned or substantially owned by a member of the Pueblo de San Ildefonso or a member's immediate family ("immediate family" shall means spouse and/or children) shall be subject to the <u>ad valorem</u> possessory interest tax.  For the purposes of this provision, "substantially interested" shall indicate ownership of over 50% of the assets of the business operation, the actual management of the business enterprise by a member or a member's immediate family, or that the situs of the business enterprise being on a leasehold interest owned by a tribal member or a member's immediate family.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>18.1.4</num>
+      <heading>GROSS RECEIPTS TAX</heading>
+      <section>
+        <num>18.1.4.010</num>
+        <heading>Title.</heading>
+        <text>This Chapter shall be known as the Pueblo de San Ildefonso Gross Receipts Tax.  May also be referred to as the Gross Receipts Tax Code.</text>
+      </section>
+      <section>
+        <num>18.1.4.020</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of the Chapter is to generate revenues to support the Pueblo de San Ildefonso government, provide funding for industrial and business development, and provide for such other essential public services while respecting traditional Pueblo livelihoods, customs and their contributions to the tribal community.</text>
+      </section>
+      <section>
+        <num>18.1.4.030</num>
+        <heading>Definitions.</heading>
+        <text>As used in this Chapter, the following terms mean:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Engaging in business" means carrying on or causing to be carried on any commercial activity involving the exchange of money or other valuable consideration for goods or services.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Gross Receipts" are the total amount of money or value of other consideration received from selling goods, renting or leasing property, or from performing services within Pueblo lands.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.040</num>
+        <heading>Imposition of Gross Receipts Tax and Incidence of Tax.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A tax is imposed on any person engaging in business within Pueblo lands.</text>
+          <para>
+            <num>(1)</num>
+            <text>To prevent the evasion of the gross receipts tax and to aid in its administration, it is presumed that all receipts of a person engaging in business within Pueblo lands are subject to the Gross Receipts Tax, unless specifically exempted from the tax.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The incidence of the gross receipts tax imposed under this Chapter shall be on the person engaging in the business within Pueblo lands.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.050</num>
+        <heading>Rate of Tax.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The rate of the tax shall be equal to the gross receipts tax rate on the current semi-annual Gross Receipts Tax Rate Schedule provided by the New Mexico Department of Taxation and Revenue for the county and tribal tax district where the business is located.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The rate established in subsection A. above shall be adjusted automatically effective as of January 1 and July 1 of each year to correspond to the total gross receipts, sales or similar tax rate imposed by the State of Mew Mexico and any local option tax districts of the State of New Mexico located within the counties of Santa Fe or Los Alamos, outside of any municipalities.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.060</num>
+        <heading>Taxpayer Returns and Reports of Receipts.</heading>
+        <text>A taxpayer maintaining a place of business on Pueblo lands who has receipts subject to this Agreement shall be required to report its taxable gross receipts for each of the following tax districts in which the taxpayer maintains a place of business:</text>
+        <text>District 1:   Pueblo lands located in Santa Fe County.</text>
+        <text>District 2:   Pueblo lands located in Los Alamos County.</text>
+      </section>
+      <section>
+        <num>18.1.4.070</num>
+        <heading>Location of Taxable Transactions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A sale of tangible personal property takes place within Pueblo lands if the seller delivers possession of the property to the buyer in the Pueblo, without regard to the location of the seller's permanent or principal place of business.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Construction services take place within Pueblo lands if they are performed in the Pueblo without regard to the location of any office or other business activity of the taxpayer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A sale of electricity, natural gas, propane, water, telephone service, cable television service or internet access service takes place in the Pueblo if the physical location of the customer's premises or other place to which the utility's product or service is delivered to the customer in the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.080</num>
+        <heading>Gross Receipts Tax Credit.</heading>
+        <para>
+          <num>(a)</num>
+          <text>If a gross receipts, sales or similar tax has been levied by the State of New Mexico or a political subdivision thereof on a taxable transaction taking place within the Pueblo's lands, the amount of the state tax may be credited against any gross receipts tax due the Pueblo in the amount equal to the lesser of twenty-five percent (25%) of the Pueblo's gross receipts tax or twenty-five percent (25%) of tax revenue produced by the sum of the rate of tax imposed under the New Mexico Gross Receipts and Compensating Tax Act and the total of the rates of the local option gross receipts taxes imposed on the receipts from the same transaction; provided that the New Mexico Gross Receipts and Compensating Tax Act allows a credit for the lesser of seventy-five percent (75%) of the tax imposed by the Pueblo on the receipts from the transaction or seventy-five percent (75%) of the tax revenue produced by the sum of the rate of tax imposed pursuant to the Gross Receipts and Compensating Tax Act and the total of the rates of local option gross receipts taxes imposed on the receipts from the same transaction.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo may enter into a cooperative agreement with the Secretary of the New Mexico Taxation and Revenue Department to carry out the provisions of this Chapter, provided that the agreement shall be valid only if approved by resolution of the Council.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.090</num>
+        <heading>Exemptions.</heading>
+        <text>The Gross Receipts Tax <u>shall not apply to</u>:</text>
+        <para>
+          <num>(a)</num>
+          <text>Receipts of the Pueblo de San Ildefonso or its tribal members, its governmental agencies or political subdivisions.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Receipts from the sale or lease of tangible personal property, <em>other than construction materials</em>, to the Pueblo or its tribal members, its governmental agencies or political subdivisions.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Receipts from the performance of any service, <em>other than design, engineering or construction services</em>, performed for the Pueblo or its tribal members, its governmental agencies or political subdivisions.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Receipts of the United States, the State of New Mexico, or any agency, department or instrumentality, or political subdivision thereof, however, <em>this exemption does not apply to the receipts of a business, contractor, or subcontractor of any such governmental entity engaged in business on Pueblo lands</em>.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Receipts from the sale of gasoline or special fuel upon which a gasoline or special fuel excise tax has been paid to the Pueblo or the State of New Mexico.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Receipts from the sale of cigarettes on which the cigarette tax has been paid.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Receipts of taxpayers who are subject to the Pueblo's Business Property Tax.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Receipts from traditional Pueblo de San Ildefonso livelihoods, including but not limited to farming, livestock raising, bread making, pottery making and other artisans.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Receipts from wholesale sales, where tax will be collected by a subsequent retailer, which is subject to a gross receipts tax.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Receipts from the sale of telecommunications services, electricity, water, natural gas, propane, and firewood for residential use of the buyer or members of the buyer's household.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Receipts from community based fund raising charitable organizations recognized by the Governor's Office.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Receipts of an entity recognized by the Internal Revenue Service, as a charitable organization under Internal Revenue Code § 501(c)(3).</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Receipts of employees from wages or salaries, commissions, or any other form of renumeration for personal services.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Receipts from the retail sale of un-prepared food products.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Receipts from performing medical and dental services.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Receipts from sale of insurance premiums.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Receipts from vendors who sell less than ten (10) days in a calendar year, or receive less than $10,000 in gross receipts in a calendar year within the Pueblo.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Receipts from yard sales, or the isolated or occasional sale of or leasing of tangible personal property or a service by a person who is not regularly engaged in the business of selling or leasing the same or similar property or service.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Receipts from the performance of veterinary services.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>Receipts from the lease or rental of real property for residential purposes, including mobile home lots.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Receipts from the sale of construction materials, design, engineering or construction services for residential construction if the sale is to the occupant(s) of the residence in which the construction materials or services will be incorporated.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.100</num>
+        <heading>Authority to Issue Exemption from Tax; Tax Exempt Certificates.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Tax Assessor, upon Tribal Council approval, may issue an exemption from the tribal gross receipts tax, in whole or in part, in extraordinary circumstances when such an exemption is necessary to protect or promote the general welfare, health, safety or interest of the Pueblo or its people; provided that granting such a limited exemption would not otherwise violate federal law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tax Administrator may issue certificates to taxpayers documenting exemptions allowed by this subsection.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.110</num>
+        <heading>Specific Examples of Applications of the Tax.</heading>
+        <text>The Gross Receipts Tax <u>applies to</u> the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Receipts of a business owned by the Pueblo, the Pueblo's federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Receipts from the sale or lease of property to a business owned by the Pueblo, the Pueblo's federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Receipts from the sale of construction materials to the Pueblo, its governmental agencies, political subdivisions, or its federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Receipts from the performance of any service to a business owned by the Pueblo, the Pueblo's federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Receipts from the performance of design, engineering or construction services to the Pueblo, its governmental agencies, political subdivisions, or its federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Receipts of a business, contractor, or subcontractor of the United States, the State of New Mexico, or any agency, department or instrumentality, or political subdivision thereof engaged in business on Pueblo lands.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.120</num>
+        <heading>Reporting and Payment of Tax.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A person doing business within Pueblo lands who is subject to the gross receipts tax shall complete and file with the Tax Office a return for the preceding tax month on a form provided by the Tax Office providing such information as required.  A person who has no taxable gross receipts shall not be required to file a tax return unless required by the Tax Administrator.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The return shall report the total taxable receipts received during the reporting month less any amounts refunded to the purchaser upon cancellation of a sale.  Taxable gross receipts shall exclude any gross receipts taxes imposed by the State of New Mexico for which a reciprocal exclusion has been granted by the State.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All taxes imposed by this Chapter are due and payable on or before the fifteenth (15<sup>th</sup>) day of the calendar month immediately following the month in which the receipts were received.  A payment of the amount of gross receipts tax due shall accompany the return for that reporting period.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>18.1.5</num>
+      <heading>GASOLINE TAX</heading>
+      <section>
+        <num>18.1.5.010</num>
+        <heading>Title.</heading>
+        <text>This Chapter shall be known as the Pueblo de San Ildefonso Gasoline Tax.  May also be referred to as the Gasoline Tax Code.</text>
+      </section>
+      <section>
+        <num>18.1.5.020</num>
+        <heading>Imposition of Gas Tax.</heading>
+        <text>The Gasoline Tax shall apply to all gasoline that is received or imported within Pueblo lands.</text>
+      </section>
+      <section>
+        <num>18.1.5.030</num>
+        <heading>Rate of Tax.</heading>
+        <text>The rate of tax that is to be imposed on the gasoline shall be seventeen cents (17¢) per gallon.</text>
+      </section>
+      <section>
+        <num>18.1.5.040</num>
+        <heading>Calculation of Tax.</heading>
+        <text>The gasoline tax shall be calculated on the amount of gasoline that a gasoline vendor receives or imports during the previous month.  The amount of gasoline shall be measured by invoiced gallons received within Pueblo lands.</text>
+      </section>
+      <section>
+        <num>18.1.5.050</num>
+        <heading>Incidence of Tax.</heading>
+        <text>The incidence of the gasoline tax imposed by this Chapter shall be upon the vendor of the gasoline within the Pueblo lands.</text>
+      </section>
+      <section>
+        <num>18.1.5.060</num>
+        <heading>Reporting and Payment of Tax.</heading>
+        <text>All taxes imposed by this Chapter are due and payable on or before the fifteenth (15<sup>th</sup>) day of the calendar month immediately following the month in which the gasoline taxes accrue.  Every person subject to the gasoline tax shall complete and file with the Tax Office a return for the preceding tax month on a form provided by the Tax Office providing such information as required.  The return shall be accompanied by a payment of the amount of the gasoline tax due.</text>
+      </section>
+      <section>
+        <num>18.1.5.070</num>
+        <heading>Exemptions.</heading>
+        <text>Taxpayers who pay the gasoline tax imposed by this Chapter are exempt from the amount of the Pueblo's Gross Receipts Tax that would be imposed on the value of the gasoline received in the Pueblo lands.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>18.1.6</num>
+      <heading>CIGARETTE TAX</heading>
+      <section>
+        <num>18.1.6.010</num>
+        <heading>Title.</heading>
+        <text>This Chapter shall be known as the Pueblo de San Ildefonso Cigarette Tax.  May also be referred to as the Cigarette Tax Code.</text>
+      </section>
+      <section>
+        <num>18.1.6.020</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of this Chapter is to protect and promote the Pueblo de San Ildefonso's sovereignty and right of self-governance through the taxation and regulation of sales of cigarette and tobacco products within the Pueblo de San Ildefonso; to protect and promote its tribal cigarette market; and to generate reasonable and reliable revenues to conduct essential governmental functions which benefit all tribal members and residents.</text>
+      </section>
+      <section>
+        <num>18.1.6.030</num>
+        <heading>Applicability.</heading>
+        <text>This Chapter applies to all persons selling cigarettes or tobacco products in any quantity within Pueblo lands; provided that nothing in this Chapter shall be construed as regulating in any way, the use, consumption, trading, sale or giving away of traditional tobacco within Pueblo lands.</text>
+      </section>
+      <section>
+        <num>18.1.6.040</num>
+        <heading>Definitions.</heading>
+        <text>As used in this Chapter, the following terms mean:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Cigarette" means any roll of tobacco or substitute for tobacco wrapped in paper.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Cigarette Vendor License" means the license issued by the Pueblo and authorizes the holder to receive and sell cigarettes and tobacco products on Pueblo Lands.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Distributor" means any person or business that ships, transports, or imports cigarettes and/or tobacco products onto Pueblo lands or in any manner acquires or possesses cigarettes and/or tobacco products for wholesale or resale purposes.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Licensee" means any person who has been issued and is the holder of a Pueblo de San Ildefonso Cigarette Vendor License.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Minor" means any individual under eighteen (18) years of age.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Pack" means any package of cigarettes, typically containing twenty (20) or twenty-five (25) cigarettes, but could contain a lesser number of cigarettes.  The definition does not include a carton.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Retailer" means any person or business that sells cigarettes and/or tobacco products at retail to a consumer and the sale is not for resale.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Tobacco Products" means any product, other than cigarettes, made from or containing tobacco.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Traditional Tobacco" means twist or leaf tobacco traditionally used by Tribal members or other Native American individuals.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.6.050</num>
+        <heading>Tax Imposed; Taxable Event.</heading>
+        <text>For the privilege of selling cigarettes on Pueblo lands, there is hereby levied a tax of $0.75 per pack of cigarettes sold by a retailer on Pueblo lands.</text>
+      </section>
+      <section>
+        <num>18.1.6.060</num>
+        <heading>Incidence of Tax.</heading>
+        <text>The legal incidence of the cigarette tax shall be on the retailer selling cigarettes on Pueblo lands.</text>
+      </section>
+      <section>
+        <num>18.1.6.070</num>
+        <heading>Liability for Collection and Payment of Tax.</heading>
+        <text>Retailers within Pueblo lands are responsible for the collection and payment of the cigarette tax, regardless of whether the taxes are passed on to the next purchaser in the cost of the product.</text>
+      </section>
+      <section>
+        <num>18.1.6.080</num>
+        <heading>Exemption from Tribal Gross Receipts Tax.</heading>
+        <text>Cigarettes upon which the Pueblo's cigarette tax has been imposed and collected shall be exempt from the Pueblo de San Ildefonso Gross Receipts Tax.</text>
+      </section>
+      <section>
+        <num>18.1.6.090</num>
+        <heading>Traditional Tobacco Exempt.</heading>
+        <text>Nothing in this Chapter shall be construed as regulating or taxing in any way the use, consumption, sale, or giving away of traditional tobacco on the Pueblo lands.</text>
+      </section>
+      <section>
+        <num>18.1.6.100</num>
+        <heading>Reporting and Payment of Tax.</heading>
+        <text>All taxes imposed by this Chapter are due and payable on or before the fifteenth (15<sup>th</sup>) day of the calendar month immediately following the month in which the cigarette taxes accrue.  Every person subject to the cigarette tax shall complete and file with the Tax Office a return for the preceding tax month on a form provided by the Tax Office providing such information as required.  The return shall be accompanied by a payment of the amount of the cigarette tax due.</text>
+      </section>
+      <section>
+        <num>18.1.6.110</num>
+        <heading>Cigarette Vendor License Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every person who sells cigarettes or tobacco products in <u>any</u> quantity on Pueblo lands must hold a valid Cigarette Vendor License issued by the Tax Office for each business location on Pueblo Lands where cigarettes or tobacco products are sold.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An applicant for a Cigarette Vendor License shall apply in writing on a form provided by the Tax Office setting forth such information as required and pay such fees as deemed necessary.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No Cigarette Vendor License shall be issued or renewed if the applicant owes delinquent cigarette taxes until such taxes are paid in full.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A Cigarette Vendor License shall not be transferred, sold or assigned and is only valid for the location identified on the License.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>All persons issued a Cigarette Vendor License shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>prominently display the license in the business location;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>be responsible for the sale cigarettes and tobacco products on Pueblo lands by their business, the reporting and payment of all cigarette taxes, and for the conduct of his or her officers, agents, and employees in relation to the sale of cigarettes and tobacco products;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>not expand their cigarette and tobacco product sales beyond what was described in their application and upon which the License was issued.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>comply with all laws and regulations of the Pueblo and applicable federal laws and regulations regarding the sale and distribution of cigarettes and tobacco products.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In addition to such other penalties imposed pursuant to this Chapter, the Tax Office may take such action to revoke a Cigarette Vendor License for:</text>
+          <para>
+            <num>(1)</num>
+            <text>any material misstatement of facts in a Vendor License application, record, report, inventory, invoice, or other document required to be kept and/or filed with the Pueblo by this Chapter;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any violation of this Chapter or any regulation adopted hereunder, or any order issued pursuant to this Chapter, including the non-payment or continued delinquent payment of taxes on more than one occasion;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>any violation of any applicable federal or Pueblo law or regulation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Upon any such revocation, the Tax Office shall notify all suppliers known to provide cigarettes to retailers on Pueblo lands that the person whose License is revoked is no longer tribally licensed.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.6.120</num>
+        <heading>Prohibited Activities.</heading>
+        <text>It shall be a civil offense for any person subject to this Chapter to:</text>
+        <para>
+          <num>(a)</num>
+          <text>sell cigarettes or tobacco products in any quantity on Pueblo lands without a valid Cigarette Vendor License or at a location not authorized by the Cigarette Vendor License, or sell cigarettes or tobacco products on Pueblo Lands in any manner not authorized by the Cigarette Vendor License;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>sell cigarettes or tobacco products on Pueblo Lands to a minor;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>sell or distribute cigarettes or tobacco products on Pueblo lands that are listed as non-compliant or contraband on the Tobacco Product Compliance Directory maintained by the State of New Mexico Attorney General's Office.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.6.130</num>
+        <heading>Audit Authority.</heading>
+        <text>In addition to the authority described in Section 1.21, the Tax Administrator shall be authorized to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Enter onto the business premises of any Licensee to conduct an inventory of any stock of cigarettes in the possession of the Licensee at any time during business hours of such Licensee with prior notice.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contact any cigarette or tobacco products supplier or distributor to verify quantities of cigarettes sold and delivered to any Licensee.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.6.140</num>
+        <heading>Seizure and Sale of Products.</heading>
+        <text>Any person found selling cigarettes or tobacco products on Pueblo Lands without a valid Cigarette Vendor License shall be subject to confiscation of all cigarettes and/or tobacco products found in their possession or custody.  The Tax Office shall seize and sell all such cigarettes and tobacco products, using the proceeds to collect the Cigarette Tax due.</text>
+      </section>
+    </container>
+  </container>
+</container>

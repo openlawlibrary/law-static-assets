@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Stockbridge-Munsee Tribal Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/mohicanlaw/law-xml</xml-bulk>
+      <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
+      <html>https://law.mohican.com</html>
+      <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
+      <law-git>https://github.com/mohicanlaw/law.git</law-git>
+    </canonical-urls>
+    <history-start>2021-01-28</history-start>
+  </meta>
+  <xi:include href="./us/nsn/mohican/council/constitution/index.xml"/>
+  <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
+  <collection name="us/nsn/mohican/council/resolutions">
+    <heading>Tribal Council Ordinance Resolutions.</heading>
+    <text>Resolutions impacting the Stockbridge-Munsee Tribal Code are provided for reference and the convenience of Stockbridge-Munsee Tribal Law Library users. The list of resolutions for changes prior to codification in 2021 may be incomplete.</text>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2022/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2021/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2020/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2017/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2014/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2013/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2012/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2011/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2010/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2009/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2008/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2006/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2005/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2004/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2003/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2002/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2001/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2000/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1999/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1998/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1997/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1996/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1995/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1993/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1992/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1990/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1989/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1988/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1987/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1986/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1985/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1982/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1981/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1980/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1979/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1978/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1974/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1971/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1968/index.xml"/>
+  </collection>
+  <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
+</library>

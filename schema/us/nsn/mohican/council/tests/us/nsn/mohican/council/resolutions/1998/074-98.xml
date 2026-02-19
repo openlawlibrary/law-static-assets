@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 074-98">
+  <num>074-98</num>
+  <heading/>
+  <meta>
+    <ordinance>Code of Conduct</ordinance>
+    <effective/>
+    <history>
+      <adopted>1998-11-17</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 074-98</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council, pursuant to Article VII Section 1(h) has the authority and responsibility to regulate its own conduct; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council desires to prohibit Tribal Council members from representing individuals whose interests maybe in conflict with the Stockbridge-Munsee Community.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the amendment to <cite doc="Stockbridge-Munsee Tribal Code" path="51" proof="needed">Chapter 51</cite>, Code of Conduct Ordinance by creating <cite doc="Stockbridge-Munsee Tribal Code" path="§51.4" proof="needed">Section 51.4</cite>.</text>
+    </recital>
+  </recitals>
+</document>

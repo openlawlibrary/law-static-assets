@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>13</num>
+  <heading>EDUCATION</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.1</num>
+    <heading>Education</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>13.1.1</num>
+      <heading>Department of Education Enabling Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-022, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-022"/>
+      <section>
+        <num>13.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>annual budget items may only be included if they have first been authorized by law as required by Section 5(a)(ii)(A) of the Agreement;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds that reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council finds that establishing the Department of Education will assist the Tribe in providing direction and management of the Pueblo's educational initiatives.</text>
+        </para>
+      </section>
+      <section>
+        <num>13.1.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Department of Education Enabling Act ("Act").</text>
+      </section>
+      <section>
+        <num>13.1.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Governor" means the Pueblo de San Ildefonso Governor.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>13.1.1.040</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of the Act is to establish the Department of Education.</text>
+      </section>
+      <section>
+        <num>13.1.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>establishing a Department of Education will assist the Tribe in achieving its educational endeavors.</text>
+        </para>
+      </section>
+      <section>
+        <num>13.1.1.060</num>
+        <heading>General Policy</heading>
+        <text>Department of Education.  This act shall establish the Department of Education to carry out the Pueblo's educational initiatives.</text>
+      </section>
+      <section>
+        <num>13.1.1.070</num>
+        <heading>Organization of the Department of Education</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be a Director of the Department of Education who shall oversee the general supervision of the department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In order to promote efficiency within the Department of Education, program offices will be established as necessary.  A program director shall oversee the general supervision of the each program office and shall report to the Director of the Department of Education.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Department of Education includes the following program offices:</text>
+          <para>
+            <num>(1)</num>
+            <text>Early Childhood</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Farm</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Scholarship</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>After School &amp; Summer Program</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Po-who-ge-oweenge (Tewa Language) Program</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>13.1.1.080</num>
+        <heading>Department of Education Goals and Objectives</heading>
+        <text>The overall goals of the Department of Education ("Department") are to promote student achievement and educational excellence.  The Department shall improve the quality and effectiveness of education andpromote interest in higher education.</text>
+      </section>
+      <section>
+        <num>13.1.1.090</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this enabling act or reorganize the Department of Education at any time upon majority vote of the Council.</text>
+      </section>
+      <section>
+        <num>13.1.1.100</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+      </section>
+      <section>
+        <num>13.1.1.110</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>13.1.2</num>
+      <heading>San Ildefonso Pueblo Scholarship Endowment Fund</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-001, dated January 3, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-001"/>
+      <section>
+        <num>13.1.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo recognizes that the Pueblo does have a Scholarship Endowment Fund for scholarships;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo recognizes that the Pueblo de San Ildefonso Scholarship Endowment Fund must have an established principal amount; which cannot be used for scholarships, as only the interest earned on the principle amount can be used for scholarships.</text>
+        </para>
+      </section>
+      <section>
+        <num>13.1.2.020</num>
+        <text>The total of $1,000,000.00 be recognized on the books of the Pueblo de San Ildefonso as the principal amount of the Pueblo de San Ildefonso Scholarship Endowment Fund, and that any interest earned on the principal amount may be used exclusively for scholarships.</text>
+      </section>
+      <section>
+        <num>13.1.2.030</num>
+        <text>The total of $1,025,000.00 be invested in United States Treasury Bill, with Los Alamos National Bank for a period of one (1) year.  After one (1) years time an analysis will be done to determine what amount will be needed for scholarships for FY 2013.  The Scholarship Endowment Fund amount will be established at that time.</text>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.2</num>
+    <heading>Language Project</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>13.2.1</num>
+      <heading>Support Resolution For Pueblo de San Ildefonso Tewa Language Project</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-010, dated January 26, 2012; (Note reference to 36-month project period).</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-010"/>
+      <section>
+        <num>13.2.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Since time immemorial the Pueblo de San Ildefonso has spoken the Tewa language;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>It is of grave concern to our People members that the Tewa language is not being reinforced as a primary language in our community; and it has always been the language through which the history, culture and governance have been passed on at the Pueblo de San Ildefonso;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In order for the Tewa language to survive as a primary language, Tewa language instruction must be implemented within all the learning environments of the Pueblo including the homes of the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>13.2.1.020</num>
+        <text>Be it resolved that the Native Language Preservation and Maintenance application be submitted and if funding is awarded, project activities be implemented to accomplish the goals and objectives during the thirty-six month project period.</text>
+      </section>
+      <section>
+        <num>13.2.1.030</num>
+        <text>Be it further resolved that the Tewa Language Committee be authorized, in conjunction with the Pueblo Department of Education, and community to develop a Tewa Language Revitalization Model, and develop and present draft Resolution on language issues to the Tribal Council for approval.</text>
+      </section>
+    </container>
+  </container>
+</container>

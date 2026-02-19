@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="https://open.law/schemas/library" xmlns="https://open.law/schemas/library"
+    xmlns:codify="https://open.law/schemas/codify"
+    xmlns:codified="https://open.law/schemas/codified"
+    xmlns:d="https://open.law/schemas/docs/default"
+    xmlns:ord="https://open.law/schemas/docs/ordinance" xmlns:c="https://open.law/schemas/docs/code"
+    xmlns:ch="https://open.law/schemas/docs/charter">
+    <xs:import namespace="https://open.law/schemas/codify" schemaLocation="codify/codify.xsd"/>
+    <xs:import namespace="https://open.law/schemas/codified" schemaLocation="codify/codified.xsd"/>
+    <xs:redefine schemaLocation="../partials/library.xsd">
+        <xs:group name="DocumentsGroup">
+            <xs:choice>
+                <xs:group ref="DocumentsGroup"/>
+            </xs:choice>
+        </xs:group>
+    </xs:redefine>
+</xs:schema>

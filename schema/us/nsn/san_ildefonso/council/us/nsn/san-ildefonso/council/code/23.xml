@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>23</num>
+  <heading>CULTURAL RESOURCES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23.1</num>
+    <heading>Enabling Act</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>23.1.1</num>
+      <heading>Department of Environmental and Cultural Preservation Enabling Act</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R12-023, dated June 18, 2012.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-023"/>
+      <section>
+        <num>23.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Annual budget items may only be included if they have first been authorized by law as required by Section 5(a)(ii)(A) of the Agreement;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds that reorganizing the structure of governmental departments and Programs will promote efficiency within the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council finds that establishing a Department of Environmental and Cultural Protection will assist the Tribe in preserving and protecting the natural environment as well as the cultural resources of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>23.1.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Department of Environmental and Cultural Protection Enabling Act ("Act").</text>
+      </section>
+      <section>
+        <num>23.1.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+      </section>
+      <section>
+        <num>23.1.1.040</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of the Act is to establish the Department of Environmental and Cultural Protection.</text>
+      </section>
+      <section>
+        <num>23.1.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>establishing a Department of Environmental and Cultural Protection will assist the Tribe in achieving its mission to preserve and protect the natural environment as well as the cultural resources of the Pueblo</text>
+        </para>
+      </section>
+      <section>
+        <num>23.1.1.060</num>
+        <heading>General Policy</heading>
+        <text>Department of Environmental Protection.  This act shall establish the Department of Environmental Protection.</text>
+      </section>
+      <section>
+        <num>23.1.1.070</num>
+        <heading>Organization of the Department of Environmental Protection</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be a Director of the Department of Environmental Protection who shall oversee the general supervision of the department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In order to promote efficiency within the Department of Environmental Protection, program offices will be established as necessary.  A program director shall oversee the general supervision of the each program office and shall report to the Director of the Department of Environmental Protection.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Department of Environmental and Cultural Protection includes the following program offices:</text>
+          <para>
+            <num>(1)</num>
+            <text>Cultural Preservation</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Environmental Protection Agency ("EPA") Contracts and Grants</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Department of Energy Program ("DOE")</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>23.1.1.080</num>
+        <heading>Department of Environmental and Cultural Protection Goals and Objectives</heading>
+        <text>The mission of the Department of Environmental and Cultural Protection ("DECP") is to preserve and protect the natural environment and the cultural resources of the Puebloto assess risks to human health and welfare, both quantitatively and qualitatively, and to protect the health and welfare of the community.</text>
+        <para>
+          <num>(a)</num>
+          <heading>Cultural Preservation.</heading>
+          <text>The Cultural Preservation program office assists in handling proprietary cultural, religious, and traditional issues, as well as historic sites as may be affected in the environmental protection arena.  The Cultural Preservation program office shall work to ensure preservation and protection of cultural materials and sites which may be located on Pueblo land or within the Pueblo's ancestral domain.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Environmental Protection Agency ("EPA") Contracts and Grants.</heading>
+          <text>The EPA program office provides on-going environmental surveillance for the Pueblo in the areas of water and air quality.  In addressing water quality issues, the EPA is responsible for:  1) carrying out the daily administration of the water quality program; 2)sampling water collection following protocols identified in the Quality Assurance Plan, and 3) submitting samples for laboratory analysis.  In addressing air quality issues the EPA is responsible for:  1) carrying out daily administration of the air quality program; 2) overseeing the air monitoring stations, 3) following protocols identified in the Quality Assurance Plan, and 4) submitting air monitor data for analysis.   Both components of the EPA program office provide analysis and interpretation of data, and provision of information to the community.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Department of Energy Program ("DOE").</heading>
+          <text>The DOE program office provides administration of the DECP and matters related to environmental and natural resources management with the Pueblo's Trust Lands.  The DOE shall provide technical assistance to the Governor and others on matters relevant to local, regional and national environmental issues and on decisions and policy affecting the Pueblo.  The DOE shall maintain databases to support environmental monitoring and risk assessment activities.  The DOE agreement funds various positions within the department such as the Waste Isolation Pilot Program ("WIPP") which is focused on risk assessment work.</text>
+        </para>
+      </section>
+      <section>
+        <num>23.1.1.090</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this enabling act or reorganize the Department of Environmental Protection at any time upon majority vote of the Council.</text>
+      </section>
+      <section>
+        <num>23.1.1.100</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+      </section>
+      <section>
+        <num>23.1.1.110</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>23.1.2</num>
+      <heading>Tribal Historic Preservation Office Authorization Act of 2016</heading>
+      <annotation type="Editor's Notes" dest="container">This law was originally enacted pursuant to Council Resolution No. SI-R16-004, dated April 11, 2016.</annotation>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-004"/>
+      <section>
+        <num>23.1.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Preamble of the Governing Agreement, which establishes the government for the Pueblo, states that the purpose of creating the government is to "…protect our culture, our resources, and to maintain law and order," and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In order to protect the Pueblo's culture and resources, the Council has determined that it is in the best interests of the Pueblo to authorize the Pueblo to assume certain responsibilities from the State Historic Preservation Office as permitted by federal law.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council hereby enacts the attached law entitled, "Tribal Historic Preservation Office Authorization Act of 2016."</text>
+        </para>
+      </section>
+      <section>
+        <num>23.1.2.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Tribal Historic Preservation Office Authorization Act of 2016 ("Act").</text>
+      </section>
+      <section>
+        <num>23.1.2.030</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Pueblo to assume certain responsibilities from the State Historic Preservation Office as permitted by federal law.</text>
+      </section>
+      <section>
+        <num>23.1.2.040</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" shall mean the Governing Agreement of the Pueblo;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Governor" shall mean the Governor of the Pueblo.</text>
+        </para>
+      </section>
+      <section>
+        <num>23.1.2.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Preamble to the Governing Agreement Governing Agreement, which establishes the government for the Pueblo, states that the purpose of creating the government is to "…protect our culture, our resources, and to maintain law and order;" and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Under the Agreement, all three branches of government are required to exercise their powers consist with the culture, beliefs, and values of the Pueblo; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In order to meet the goal of protecting the Pueblo's culture and cultural resources, the Council finds it in the best interests of the Pueblo to authorize the Pueblo to assume certain responsibilities from the State Historic Preservation Office as permitted by federal law.</text>
+        </para>
+      </section>
+      <section>
+        <num>23.1.2.060</num>
+        <heading>Authorization to Assume Responsibilities</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor and Director are hereby authorized and directed to complete and submit an application to the U.S. Department of the Interior, National Park Service, to assume certain responsibilities from the State Historic Preservation Office as permitted by federal law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor and the Director are hereby authorized to take any actions to fulfill the goals of protecting the Pueblo's culture and historic preservation, and to expend funds appropriated by the Council for such purposes.</text>
+        </para>
+      </section>
+    </container>
+  </container>
+</container>

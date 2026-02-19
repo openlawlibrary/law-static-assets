@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R21-023" codify:doc="Pueblo de San Ildefonso Code" codify:path="17.2">
+  <num>SI-R21-023</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-023</heading>
+  <heading type="law">Authorizing Loan to San Ildefonso Services, LLC for the Purchase of Vigil Enterprises, Inc., a California Corporation</heading>
+  <meta>
+    <effective>2021-10-15</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-023</citation>
+    </citations>
+    <history>
+      <adopted>2021-10-13</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 13th day of October, 2021, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council established and chartered San Ildefonso Services, LLC ("SIS, LLC") under tribal law as a single member limited liability company wholly owned by the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with the Fifth Amended Articles of Organization of SIS LLC ("Articles of Organization"), the duly-appointed members of the five (5) person Member's Representative group (the "Member's Representatives") together exercise all rights of the Pueblo in its role as the single member of SIS LLC; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS LLC is a Manager-Managed limited liability company, and Peter Fant currently serves as the appointed Manager and the Manager possesses the exclusive authority to manage the business affairs of SIS LLC; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to Article VII of the Articles of Organization, the business purpose of SIS LLC is to engage in federal contracting and other lawful business ventures that serve the best interest of SIS LLC, the Pueblo and its members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in furtherance of SIS LLC's business purpose, SIS LLC intends to acquire Vigil Enterprises, Inc. ("VEI") a California Corporation, from Miller Engineers Inc., d/b/a Souder Miller &amp; Associates; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Member's Representatives of SIS LLC determined it was in the best interest of SIS LLC to begin negotiations for the acquisition of VEI and to explore funding options for the purposes of further developing SIS LLC's federal contracting capabilities; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS LLC seeks funding for the acquisition of VEI from the Pueblo which terms are detailed in a proposed Loan Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed the general terms of the proposed Loan Agreement and believes it is in the best interest of the Pueblo to authorize the Governor to negotiate and enter into a final Loan Agreement with SIS LLC for the purpose of acquiring VEI; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Loan Agreement is not intended to be a capital contribution by the Member's Representatives.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby:</text>
+      <para>
+        <num>1.</num>
+        <text>Authorizes the Governor to negotiate and execute a Loan Agreement with SIS LLC for the purchase of VEI.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Authorizes up to $750,000 of Pueblo funds for the loan to be taken from available funds.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Authorizes and directs the Governor, or his designee to take such actions as deemed necessary to carry out the intent of this Act</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>October 13</u>, 2021, at a meeting with a vote of <u>6</u> in favor, <u>2</u> opposed, <u>0</u> abstaining and <u>2</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td>X</td>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td>X</td>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R21-023</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>14</u><sup><u>th</u></sup> day of <u>October</u>, 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{   } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this day of , 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.26</num>
+      <heading>Act Authorizing Loan to San Ildefonso Services, LLC for the Purchase of Vigil Enterprises, Inc., a California Corporation</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="17.2.26"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT AUTHORIZING LOAN TO SAN ILDEFONSO SERVICES, LLC FOR THE PURCHASE OF VIGIL ENTERPRISES, INC., A CALIFORNIA CORPORATION</heading>
+    <section>
+      <codify:insert num-value="17.2.26.010" />
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT AUTHORIZING LOAN TO SAN ILDEFONSO SERVICES, LLC FOR THE PURCHASE OF VIGIL ENTERPRISES, INC. A CALIFORNIA CORPORATION ("Act")."</text>
+    </section>
+    <section>
+      <codify:insert num-value="17.2.26.020" />
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The Purpose of this Act is to authorize a Loan Agreement between the Pueblo and SIS LLC for the acquisition of VEI.</text>
+    </section>
+    <section>
+      <codify:insert num-value="17.2.26.030" />
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>San Ildefonso Services, LLC ("SIS, LLC") was established and chartered by the Pueblo under tribal law as a single member limited liability company wholly owned by the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In accordance with the Fifth Amended Articles of Organization of SIS, LLC ("Articles of Organization"), the duly-appointed members of the five (5) person Member's Representative group (the "Member's Representatives") together exercise all rights of the Pueblo in its role as the single member of SIS, LLC"); and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>SIS LLC is a Manager-Managed limited liability company, and Peter Fant currently serves as the appointed Manager and the Manager possesses the exclusive authority to manage the business affairs of SIS LLC; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Pursuant to Article VII of the Articles of Organization, the business purpose of SIS LLC is to engage in federal contracting and other lawful business ventures that serve the best interest of SIS LLC, the Pueblo and its members; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>In furtherance of SIS LLC's business purpose, SIS LLC intends to acquire Vigil Enterprises, Inc., ("VEI"), a California Corporation, from Miller Engineers Inc., d/b/a Souder Miller &amp; Associates; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Member's Representatives of SIS LLC determined it was in the best interest of SIS LLC to begin negotiations for the acquisition of VEI and to explore funding options for the purposes of further developing SIS LLC's federal contracting capabilities; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>SIS LLC seeks partial funding for the acquisition of VEI from the Pueblo which terms are detailed in the Loan Agreement; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Council has reviewed the general terms of the proposed Loan Agreement and believes it is in the best interest of the Pueblo to authorize the Governor to negotiate and enter into a final Loan Agreement with SIS LLC for the purpose of acquiring VEI; and</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Loan Agreement is not intended to be a capital contribution by the Member's Representatives.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="17.2.26.040" />
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to negotiate and execute a Loan Agreement with SIS LLC for the purchase of VEI.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Term of the Loan Agreement shall be for a five-year period beginning October 1, 2021 to September 30, 2026.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council hereby authorizes up to $750,000 of Pueblo funds for the Loan to be taken from available federal grant funds or other available funds.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Governor, or his designee, is authorized to take such actions as deemed necessary to carry out the intent this Act</text>
+      </para>
+    </section>
+  </attachment>
+</document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="heading" type="HeadingType"/>
+    <xs:element name="cite" type="CiteType"/>
+    <xs:element name="text" type="xs:anyType"/>
+    <xs:element name="subheading" type="SubHeadingType"/>
+    <xs:element name="sub" type="SubType"/>
+    <xs:complexType name="HeadingType" mixed="true">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" ref="cite"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" ref="sub"/>
+        </xs:sequence>
+        <xs:attribute name="type" type="xs:string"/>
+    </xs:complexType>
+    <xs:complexType name="CiteType" mixed="true">
+        <xs:choice maxOccurs="unbounded" minOccurs="0">
+            <xs:any namespace="##targetNamespace" processContents="lax"/>
+        </xs:choice>
+        <xs:attribute name="doc"/>
+        <xs:attribute name="path"/>
+        <xs:attribute name="proof"/>
+    </xs:complexType>
+    <xs:complexType name="SubHeadingType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string"/>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType mixed="true" name="SubType">
+        <xs:choice>
+            <xs:any maxOccurs="unbounded" minOccurs="0" namespace="##targetNamespace"
+                processContents="lax"/>
+        </xs:choice>
+    </xs:complexType>
+    <xs:attributeGroup name="TargetAttributesAttrGroup">
+        <xs:attribute name="doc" type="xs:string"/>
+        <xs:attribute name="path" type="xs:string"/>
+    </xs:attributeGroup>
+</xs:schema>

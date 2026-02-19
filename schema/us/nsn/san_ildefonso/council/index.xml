@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache">
+  <heading>Pueblo de San Ildefonso Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
+      <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
+      <html>https://law.sanipueblo.org</html>
+      <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
+      <law-git>https://github.com/sanipueblo/law.git</law-git>
+    </canonical-urls>
+    <history-start>2017-04-19</history-start>
+  </meta>
+  <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
+  <collection name="us/nsn/san-ildefonso/council/resolutions">
+    <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2022/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2021/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2020/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2017/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2014/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2013/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2012/index.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2011/index.xml"/>
+  </collection>
+  <xi:include href="./us/nsn/san-ildefonso/corporations/san-ildefonso-services/index.xml"/>
+</library>

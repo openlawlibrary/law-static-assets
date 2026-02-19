@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 0004-13">
+  <num>0004-13</num>
+  <heading/>
+  <meta>
+    <ordinance>Education</ordinance>
+    <effective/>
+    <history>
+      <adopted>2012-10-02</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 0004-13</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has established education programs and receives funding for such education programs under federal law;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has adopted an Education Ordinance, Chapter 45 of the Stockbridge-Munsee Tribal Law, to establish an Education Board and parameters for the conduct of its education programs; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Education Board has recommended amendments to that Education Ordinance that clarify who serves on the Education Board and the role of the Board, as well as changes to correct typos;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the revised Education Ordinance that includes amendments to Sections <cite doc="Stockbridge-Munsee Tribal Code" path="45.1" proof="needed">45.1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="45.2" proof="needed">45.2</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="45.8" proof="needed">45.8</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="45.9" proof="needed">45.9</cite>.</text>
+    </recital>
+  </recitals>
+  <annotations>
+    <annotation type="Legislative History">Amended <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.01.01">Section EDU.01.01</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.01.02">Section EDU.01.02</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.01.08">Section EDU.01.08</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.01.09">Section EDU.01.09</cite> of the ordinance.</annotation>
+  </annotations>
+</document>

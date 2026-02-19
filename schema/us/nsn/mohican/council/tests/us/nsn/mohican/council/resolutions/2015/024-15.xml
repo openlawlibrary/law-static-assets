@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 024-15">
+  <num>024-15</num>
+  <heading/>
+  <meta>
+    <ordinance>Financial Responsibility Code</ordinance>
+    <effective/>
+    <history>
+      <adopted>2015-03-03</adopted>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 024-15</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council desires to substantially improve the existing <cite doc="Stockbridge-Munsee Tribal Code" path="17" proof="needed">Chapter 17</cite>, Financial Responsibility Code Ordinance, by revising the law as follows:</text>
+      <para>
+        <num>1.</num>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.2" proof="needed">Section 17.2 </cite>Definitions (G) </em>amended by adding "that is not" so as to clarify its original intent.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.4|(A)" proof="needed">Section 17.4 (A)</cite></em>amended by striking "Court" replacing with "Plaintiff" and adding "court issued" to "summons".</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.4|(B)" proof="needed">Section 17.4 (B)</cite></em>Service of the Summons and complaint shall be made by either of the following methods: (1) By an officer of the Stockbridge-Munsee Tribal Police Department or an officer of the Tribal Court delivering the summons and complaint to the named defendant personally, or any person certified as an officer of the Court authorized to make personal service; (2) Service may be obtained when the Court Clerk sends the summons and a copy of the complaint to the named defendant by certified mail, return receipt requested, and with "deliver to addressee only" stamped on the envelope." struck in its entirety and replaced with:</text>
+        <text><em>"</em><u>Service of Process.</u><em>"</em> Service of process shall consist of delivering to the party served an authenticated copy of the Summons and Complaint.  The Summons shall advise the defendant that he or she is required to answer the complaint within twenty (20) days or a default judgment may be entered against him or her.</text>
+        <para>
+          <num>(1)</num>
+          <text>The return of service shall be endorsed with the name of the person serving and the date, time and place of service and shall be filed with the Clerk of Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Service may be made on a party by delivering the required papers to the party himself or herself or upon some person of suitable age and discretion over fourteen (14) years of age at the party's house or principle place of business, or on an officer, managing agent, or employee, or partner of a non-individual party.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Service may be made by any law enforcement officer or other person, not a party, eighteen (18) years of age or older.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Service upon a person subject to the jurisdiction of the Tribal Court System may be made anywhere in the United States.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If a person personally refuses to accept service, service shall be deemed performed, if the person is informed of the purpose of the service and offered copies of the papers served.  In this instance, the person serving the defendant(s) shall execute an affidavit indicating the defendant(s) refused service.  The Plaintiff may file the affidavit with the Clerk of Court and the Trial Court shall accept the affidavit as proof of service.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If, after three (3) attempts to serve the defendant on three (3) different days, a person is unable to serve the defendant with an authenticated copy of the Summons and Complaint, the Plaintiff may serve the defendant by publication. Service by publication may be made by publishing the contents of the Summons in a newspaper of general circulation in the state and city of the defendant's last known address in two consecutive publications. The Petitioner must file a copy of all legal notices as published in the newspaper the Tribal Court and must also provide an extra authenticated copy of the Complaint and Summons with the Tribal Court System for the Defendant.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Service of pleadings, other than a Summons and Complaint, may be made by regular U.S. Mail."</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.4|(C)" proof="needed">Section 17.4 (C)</cite> amended</em> by adding "When service is obtained by publication, an authenticated copy of the published newspapers must be returned to the Court Clerk and filed in the court records."</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.6" proof="needed">Section 17.6 </cite>Court Costs (D)</em> "The cost of serving the Summons and complaint on the defendant shall be determined on a per mile basis." is struck in its entirety.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.8" proof="needed">Section 17.8 </cite>The Tribe as a Real Party in Interest</em> is amended by adding "through the Tribe's Legal Department"; and by adding "For all foreign debts filed involving tribal employees, the Tribe shall be a real party in interest."; and by adding "through the Legal Department."</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.9" proof="needed">Section 17.9 </cite>Trial by Court</em> amended by changing "render" to "renders."</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Throughout the document changing "Judgement" to "Judgment"; adding page numbers and numbers to the Legislative History.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the aforementioned changes to <cite doc="Stockbridge-Munsee Tribal Code" path="17" proof="needed">Chapter 17</cite> Financial Responsibility Code.</text>
+    </recital>
+  </recitals>
+</document>

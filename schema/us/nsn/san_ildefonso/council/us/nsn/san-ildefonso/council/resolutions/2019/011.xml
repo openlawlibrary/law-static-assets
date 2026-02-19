@@ -1,0 +1,1061 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Pueblo de San Ildefonso Code" codify:path="5" id="Pueblo de San Ildefonso Council Res. No. SI-R19-011">
+  <num>SI-R19-011</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R19-011</heading>
+  <heading type="law">Election Law Amendments and Restatement of 2019</heading>
+  <meta>
+    <effective>2019-06-11</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R19-011</citation>
+    </citations>
+    <history>
+      <adopted>2019-05-29</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 29th day of May, 2019, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>since the adoption of the governing Agreement in 2011, the Election Commission has conducted numerous, successful, undisputed elections to guarantee the right of the voters to select the government officials for the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Election Commission has identified a number of election issues that should be addressed and clarified through the enactment of amendments to the Election Law; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council originally enacted the Election Law in 2012, and enacted amendments to the Election Law in 2016; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Election Commission, Governor's Office, and Council have developed and discussed proposed amendments to the Election Law at length, and the Council has determined that it is in the best interests of the Pueblo to enact amendments to the Election Law to bring further clarity to the election process and to guarantee that elections continue to be conducted in a fair and impartial manner for the benefit of the People.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law 	entitled, "ELECTION LAW," as amended and restated.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on May 29, 2019, at a meeting with a vote of 8 in favor, 0 opposed, 0 abstaining and 2 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S):    CR Thomas Gonzales</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Tim Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R19-011 was presented to the Governor of the Pueblo de San Ildefonso on the 29th day of May, 2019, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{    } 	APPROVED</text>
+    <text>{    }	VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this __________ day of _______________________, 2019.</text>
+    <text>Perry Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2019.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{    } 	YES</text>
+    <text>{    }	NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Glenda Fred-Weahkee</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Tim Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>5.2</num>
+      <heading>Election Law Amendments and Restatement of 2019</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="5.2"/>
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>ELECTION LAW AMENDMENTS AND RESTATEMENT OF 2019</heading>
+    <text class="center">
+      <strong>ELECTION LAW</strong>
+    </text>
+    <text class="center">
+      <strong>ARTICLE I – ELECTION COMMISSION</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.1</num>
+        <heading>Election Commission</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.1"/>
+      <num codify:value="5.2.1.010">1</num>
+      <heading>Election Commission.</heading>
+      <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
+      <include>
+        <text>
+          <strong>There shall be an Election Commission comprised of five Commissioners with three Commissioners elected by the people, one Commissioner selected by the Governor, and one Commissioner selected by the Council.  The term of office for Election Commissioners shall be four years.  Whenever a term expires for the seat of an appointed Commissioner, the Governor or the Council shall appoint a Commissioner within fifteen days after being sworn into office.  Election Commissioners shall not be eligible to be a candidate for Governor or Council Representative.</strong>
+        </text>
+      </include>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Vacancies.</heading>
+        <text>If a vacancy occurs on the Election Commission due to resignation or other reason, the remaining members of the Election Commission shall appoint a qualified individual to fill the vacancy for the remainder of the unexpired term.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>An Election Commissioner does not need to resign from their position in order to run for another term on the Election Commission, provided, the Commissioner shall not be directly involved in election activities at the polling place on the day of the election.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <heading>Compensation.</heading>
+        <text>The Commissioners shall be compensated according to the Agreement at ELECTIONS AND VOTING, Section 2. ELECTION COMMISISON (e) which states:</text>
+        <include>
+          <text>
+            <strong>The Election Commission shall be paid a fair compensation as established by the Council by law.</strong>
+          </text>
+        </include>
+      </para>
+    </section>
+    <section>
+      <codify:insert path="5.2.1"/>
+      <num codify:value="5.2.1.020">2</num>
+      <heading>Authority and Responsibilities.</heading>
+      <text>The Election Commission shall conduct all elections in accordance with Section 3 (b) of the Agreement which states:</text>
+      <include>
+        <text>
+          <strong>All elections shall be conducted by the Election Commission in a fair and impartial manner.</strong>
+        </text>
+      </include>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Elections.</heading>
+        <text>The Election Commission shall be responsible for conducting all elections and related activities, including but not limited to:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>preparing and issuing election notices, ballots and election materials,</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>confirming candidate qualifications, including conducting candidate background investigations and posting results,</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>posting candidate and voter lists,</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>overseeing election day activities at the polling place(s),</text>
+        </para>
+        <para>
+          <num codify:value="(5)">5.</num>
+          <text>confirming voter qualifications and determining voter challenges,</text>
+        </para>
+        <para>
+          <num codify:value="(6)">6.</num>
+          <text>assisting voters with disabilities and/or language difficulties at the polling place(s),</text>
+        </para>
+        <para>
+          <num codify:value="(7)">7.</num>
+          <text>collecting and counting ballots,</text>
+        </para>
+        <para>
+          <num codify:value="(8)">8.</num>
+          <text>certifying and posting election results,</text>
+        </para>
+        <para>
+          <num codify:value="(9)">9.</num>
+          <text>addressing any election challenges,</text>
+        </para>
+        <para>
+          <num codify:value="(10)">10.</num>
+          <text>enforcing election laws and regulations,</text>
+        </para>
+        <para>
+          <num codify:value="(11)">11.</num>
+          <text>adopting policies and procedures as necessary; provided, that: (i) any proposed policies and procedures shall be posted for public comment, (2) any public comments shall be reviewed and considered, and (3) any final policies and procedures shall be published and made available for public inspection,</text>
+        </para>
+        <para>
+          <num codify:value="(12)">12.</num>
+          <text>appointing and swearing in Election Commission poll watchers and bailiffs if circumstances require, and</text>
+        </para>
+        <para>
+          <num codify:value="(13)">13.</num>
+          <text>taking such other actions as necessary to insure all elections and related activities are conducted properly, efficiently, fairly and impartially.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <heading>Administrative Duties and Responsibilities.</heading>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Budget.  The Election Commission shall work with the Governor and Council Budget Committee to propose an operating budget for the Election Commission to be included in the annual budget or a budget modification.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>The Election Commission shall prepare all invoices and requisitions for all costs and expenses, and shall ensure supporting documentation is included. The Election Commission shall designate a Commissioner as signatory authority for invoicing on behalf of the Commission.  By affixing his or her signature to an invoice, the designated Commissioner is confirming that the payment, activity, or materials requested are within the approved Election Commission budget.</text>
+        </para>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE II – ELECTIONS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.2</num>
+        <heading>Elections</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.2"/>
+      <num codify:value="5.2.2.010">1</num>
+      <heading>Elections.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Types of Elections.</heading>
+        <text>There shall be three (3) types of elections:  General Election, Primary Election, and Special Election(s).</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <heading>General Election.</heading>
+        <text>General Elections shall be held in accordance with Section 3.  ELECTIONS of the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>ELECTIONS AND VOTING.  SECTION 3.  ELECTIONS.</strong>
+          </text>
+          <para>
+            <num>(a)</num>
+            <text>General Elections shall be held on the first day of December of every year.</text>
+          </para>
+        </include>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <heading>Primary Election.</heading>
+        <text>There shall be a Primary Election on the last Saturday of October of each year beginning in 2016.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>A Primary Election shall be held for the Office of Governor.  In a Primary Election for the Office of Governor, the candidates receiving the two (2) highest number of votes shall proceed to the General Election.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>A Primary Election shall be held for the available Council Representative seats.  In a Primary Election for Council Representative seats, the candidates receiving the ten (10) highest number of votes shall proceed to the General Election.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>A Primary Election shall be held in all election cycles where a Primary Election is required, even if the number of candidates nominated in the Primary Election is less than the number of candidates who will appear on the ballot in the General Election.</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>No Primary Election shall be held for Special Elections.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(d)">D.</num>
+        <heading>Special Elections.</heading>
+        <text>All elections other than a General Election, or a Primary Election, shall be considered Special Elections, including elections to fill vacancies, Recall elections, and Referendum elections.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>In a Special Election where there is only one (1) vacancy and there is only one (1) candidate, an election shall be held regardless.</text>
+        </para>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE III – NOMINATIONS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.3</num>
+        <heading>Nominations</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.3"/>
+      <num codify:value="5.2.3.010">1</num>
+      <heading>Nominations.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Self-Nomination.</heading>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Any qualified member of the Pueblo may submit his or her name in writing to the Election Commission as a candidate for elective office, along with a non-refundable fee of $25.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>The Election Commission shall prepare and make publically available a Candidate Nomination form which shall include a release permitting the Election Commission to conduct a criminal background check on each candidate as required by the Agreement.   The Election Commission shall use its best efforts to conduct candidate criminal background checks in a timely manner.  The Election Commission shall conduct all criminal background checks in accordance with Section 2 (d) of the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>The Election Commission shall conduct criminal background checks on all candidates and the results shall be made available to any enrolled Member of the Pueblo.</strong>
+            </text>
+          </include>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <heading>Nomination Period.</heading>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Nominations of persons seeking elective office shall be accepted by the Election Commission beginning September 1<sup>st</sup> each year.  Nominations for elective office shall be closed on September 15<sup>th</sup> of each year.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>The Election Commission shall establish and publically post the dates and deadlines for acceptance of nominations of persons seeking elective office in Special Elections to fill vacancies.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>The Election Commission shall publicly post the dates and deadlines for acceptance of nominations of persons seeking elective office for the First Election.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <heading>Candidate List.</heading>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>The Election Commission shall prepare and post a preliminary list of candidates within three (3) days of the closing of the nomination period.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>From the date of the posting of the preliminary list of candidates through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the qualifications of any candidate or candidates on the preliminary list of candidates.  The Election Commission shall make written determinations on any such candidate challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of candidates no later than October 15<sup>th</sup> of each year.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>In the First Election, upon the close of the nomination period, the Election Commission shall prepare and post a final list of candidates and a final list of voters for the First Election.</text>
+        </para>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE IV – CANDIDATE QUALIFICATIONS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.4</num>
+        <heading>Candidate Qualifications</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.4"/>
+      <num codify:value="5.2.4.010">1</num>
+      <heading>Qualifications.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>All candidates for the Office of Governor shall meet the minimum qualifications as listed in the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>GOVERNOR, SECTION 2.  QUALIFICATIONS.</strong>
+          </text>
+          <text>
+            <strong>Candidates for Governor shall be enrolled Members of the Pueblo, and be at least thirty years old on the deadline date for filing candidacy.  Once a candidate is sworn in as Governor, the Governor shall immediately establish residency within the exterior boundaries of the  as defined at the time of the adoption of this Agreement.</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>All candidates for the Council Representative shall meet the minimum qualifications as listed in the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>THE GOVERNMENT SECTION 3 QUALIFICATIONS</strong>
+          </text>
+          <text>
+            <strong>Candidates for Council Representatives shall be enrolled Members of the Pueblo, and at least twenty-five years old on the deadline date for filing candidacy.  Once a candidate is sworn in as a Representative, the Representative shall have thirty days to establish residency within the exterior boundaries of the  as defined at the time of adoption of this Agreement.</strong>
+          </text>
+        </include>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE V - VOTING</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.5</num>
+        <heading>Voting</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.5"/>
+      <num codify:value="5.2.5.010">1</num>
+      <heading>Voting Age.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>The voting age for any election shall be set in accordance with Section 1, Voting of the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>ELECTIONS AND VOTING.  SECTION 1.  VOTING.  All enrolled Members of the  eighteen years of age or older shall have the right to vote.</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>Any voter who will turn age eighteen (18) by or on the date of the Primary Election shall be eligible to vote. For the First Election, the cut-off date for age eligibility shall be the date of the First Election.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert path="5.2.5"/>
+      <num codify:value="5.2.5.020">2</num>
+      <heading>Voters List.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>The Election Commission shall prepare and post a preliminary list of voters within three (3) days of the closing of the nomination period.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>From the date of the posting of the preliminary list of voters through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the eligibility of a voter or voters on the preliminary list of voters.  The Election Commission shall make written determinations on any such voter challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of voters no later than October 15<sup>th</sup> of each year.</text>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE VI – BALLOTS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.6</num>
+        <heading>Ballots</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.6"/>
+      <num codify:value="5.2.6.010">1</num>
+      <heading>Ballots.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>All elections shall be by secret ballot.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>The Election Commission shall prepare an official ballot for every election.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>The ballots shall list the names of the candidates whose names appear on the final list of candidates as established by the Election Commission.  The names of candidates on the ballots shall be listed alphabetically by last name.  No write-in candidates shall be permitted. This section shall apply to Primary Elections, all General Elections, and applicable Special Elections.</text>
+      </para>
+      <para>
+        <num codify:value="(d)">D.</num>
+        <text>In Referendum Elections, the Election Commission shall prepare a ballot that includes the language from the referendum petition on the challenged law.</text>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE VII – NOTICE OF ELECTIONS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.7</num>
+        <heading>Notice of Elections</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.7"/>
+      <num codify:value="5.2.7.010">1</num>
+      <heading>Notice of Election.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>The Election Commission shall post a notice at the polling place and in other public locations announcing the date of the election, the location of the polling place, and other pertinent information at least ninety (90) days before the General Election.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>The Election Commission shall publicly post at the polling place and in other public locations a notice announcing the dates for Special Elections, the location and other pertinent information for Special Elections.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>The Election Commission shall publicly post such dates and deadlines as necessary to hold the First Election within the two (2) month period required under the Agreement.</text>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE VIII – ELECTION PROCEDURES</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.8</num>
+        <heading>Election Procedures</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.010">1</num>
+      <heading>Polling Place.</heading>
+      <text>There shall be one (1) polling place located at the Pueblo.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.020">2</num>
+      <heading>Hours of Voting.</heading>
+      <text>The polls shall be open at the polling place from 7:00 a.m. to 7:00 p.m. Voters in line at the polling place but unable to cast their ballots before 7:00 p.m. shall be allowed to finish voting.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.030">3</num>
+      <heading>Fifty (50) Foot Limit.</heading>
+      <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.  No campaigning or placement of campaign materials shall be allowed within a fifty (50) foot perimeter around the polling place.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.040">4</num>
+      <heading>Maintaining Peace at Polling Place.</heading>
+      <text>The Election Commission or Bailiff shall keep the peace and protect the voting place by preventing disturbances at the polling place and interference with persons desiring to vote.  This includes the authority to remove unruly or uncooperative persons from the polling place or from within the fifty (50) foot limit.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.050">5</num>
+      <heading>Method of Voting.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>Each prospective voter, upon being identified as being on the final list of eligible voters, shall be handed an unused ballot by an Election Commissioner and shall sign his or her name on a form kept for that purpose to acknowledge that he or she has received the ballot.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>The voter shall vote in privacy and shall place a mark opposite the name of the candidate or issue for whom he or she is voting.  The ballot shall be placed in a locked ballot box.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>The Election Commission may utilize electronic voting machines to conduct elections.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.060">6</num>
+      <heading>Counting the Ballots.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>At the close of the polls, the Election Commission shall count the votes as marked on the ballots.  At the end of the tally, the Election Commission shall determine the total votes cast for each candidate or issue.  These unofficial results shall be written down, together with the number of spoiled, rejected and unused ballots, and shall be certified by each member of the Election Commission by signing his or her name thereto.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>The tallying of the votes shall be open for public observation, but the public must remain at a distance of at least ten (10) feet from the Election Commissioners and the ballot box.  The public must remain quiet and in no way interfere with the orderly tallying of the ballots.  If order cannot be kept, the Election Commission shall halt the tallying until such time order has been restored.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>At the end of the tally, the Election Commission shall place the counted ballots, any spoiled ballots and any rejected ballots, in the ballot box.  The ballot box shall be locked and sealed.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.070">7</num>
+      <heading>Posting and Notice of Election Results.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>The unofficial results of an Election shall be posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations at the earliest possible time after the tallying of the votes.  The Election Commission shall notify the Governor and Lieutenant Governor of the unofficial results.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>The Election Commission shall certify the election results as "official" at the end of the election challenge period if no challenge was properly and timely filed, or at the completion of the election challenge appeal process.  The Election Commission shall post the official election results at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor, at the earliest possible time after the end of the challenge period or the completion of the challenge appeal process.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>In the event of a recount, the Election Commission shall post the results of the recount of ballots at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.080">8</num>
+      <heading>Tie Votes.</heading>
+      <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission at the earliest possible time after the election upon notice to the candidates, with notice posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public places. This does not prevent the tied candidates from participating in the game of chance immediately following the vote count if both candidates are available and agree to conduct the tie-breaker at that time.  In such instance, posting of notice shall not be required.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.090">9</num>
+      <heading>Spoiled Ballots.</heading>
+      <text>If a voter spoils a ballot and obtains another ballot, the spoiled ballot shall be marked "SPOILED".  Each member of the Election Commission shall sign his or her name below this marking and the spoiled ballot shall be secured by the Election Commission.  All spoiled ballots shall be placed in the ballot box at the end of the tallying.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.100">10</num>
+      <heading>Unused Ballots.</heading>
+      <text>Ballots unused at the end of the voting shall be marked "UNUSED" and shall be placed in the ballot box at the end of the tallying.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.110">11</num>
+      <heading>Rejected Ballots.</heading>
+      <text>If, during the tallying of the votes, the Election Commission is unable to determine from the ballot the choice of the voter, the ballot shall be rejected.  All rejected ballots shall be placed in the ballot box at the end of the tallying.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.120">12</num>
+      <heading>Recounts.</heading>
+      <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a written request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount in accordance with Section 7.C. above.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.8"/>
+      <num codify:value="5.2.8.130">13</num>
+      <heading>Other Matters Decided by the Election Commission.</heading>
+      <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
+    </section>
+    <text class="center">
+      <strong>ARTICLE IX – CHALLENGES TO THE ELECTION RESULTS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.9</num>
+        <heading>Challenges to the Election Results</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.9"/>
+      <num codify:value="5.2.9.010">1</num>
+      <heading>Election Results Challenge Process.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>Any eligible voter of the Pueblo shall have the right to challenge the results of any election within three (3) days of the posting of the unofficial election results by filing a written challenge with the Election Commission.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>A challenge must contain the following information:</text>
+          <para>
+            <num codify:value="(A)">a.</num>
+            <text>The voter's name, address, telephone number and email address (if any);</text>
+          </para>
+          <para>
+            <num codify:value="(B)">b.</num>
+            <text>Sworn, notarized statement of facts alleged to show the violation or reason for the challenge that includes:</text>
+            <para>
+              <num codify:value="(i)">(i)</num>
+              <text>Section of Election Law that was violated;</text>
+            </para>
+            <para>
+              <num codify:value="(ii)">(ii)</num>
+              <text>Identity of individual(s) involved in alleged violation(s);</text>
+            </para>
+            <para>
+              <num codify:value="(iii)">(iii)</num>
+              <text>Date, time and location of violation(s);</text>
+            </para>
+            <para>
+              <num codify:value="(iv)">(iv)</num>
+              <text>Estimated number of votes affected by the alleged violation(s);</text>
+            </para>
+            <para>
+              <num codify:value="(v)">(v)</num>
+              <text>Name and telephone number of any witnesses to the alleged violation(s).</text>
+            </para>
+          </para>
+          <para>
+            <num codify:value="(C)">c.</num>
+            <text>Relief requested from the Election Commission.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>The Election Commission shall make a determination on all election challenges within five (5) days of receipt of a challenge and the decision of the Election Commission shall be final for purposes of judicial review.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>The following shall be used by the Election Commission when considering submitted complaints:</text>
+          <para>
+            <num codify:value="(A)">a.</num>
+            <text>No official election shall be voided by decision of the Election Commission in response to a complaint unless the voter clearly demonstrates that:</text>
+            <para>
+              <num codify:value="(i)">(i)</num>
+              <text>violation(s) of the Election Law occurred; and</text>
+            </para>
+            <para>
+              <num codify:value="(ii)">(ii)</num>
+              <text>said violation(s) would have changed the outcome of the election.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>Following receipt and review of a properly executed challenge and such other evidence before the Election Commission, the Election Commission shall issue findings:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>To dismiss the challenge, or</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>To acknowledge the merit of the challenge but to reaffirm the election in question, or</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>To acknowledge the merit of the challenge and to void the election in question.</text>
+          <text>The Election Commission shall notify the voter of its decision and shall post the decision at appropriate public places.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(d)">D.</num>
+        <text>If the voter who brought the challenge is not satisfied with the Election Commission's decision, he or she shall have the right to appeal the final decision made by the Election Commission by filing suit in the Trial Court of the Pueblo within five (5) days of the date of the decision of the Election Commission.  The voter may not submit any evidence that was not before the Election Commission. A decision on an election challenge made by the Supreme Court of the Pueblo shall be final and shall not be subject to any further review by any other person or entity.</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>A Court shall not overturn the decision of the Election Commission unless it is shown by clear and convincing evidence that the Petitioner (Voter) is clearly entitled to the relief requested because the Election Commission decision was:</text>
+          <para>
+            <num codify:value="(A)">a.</num>
+            <text>arbitrary and capricious;</text>
+          </para>
+          <para>
+            <num codify:value="(B)">b.</num>
+            <text>an abuse of discretion;</text>
+          </para>
+          <para>
+            <num codify:value="(C)">c.</num>
+            <text>not supported by the evidence of record; or</text>
+          </para>
+          <para>
+            <num codify:value="(D)">d.</num>
+            <text>contrary to the Pueblo's law.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE X – RECALL ELECTIONS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.10</num>
+        <heading>Recall Elections</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.10"/>
+      <num codify:value="5.2.10.010">1</num>
+      <heading>Recall Elections.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>Recall elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 4.  REMOVAL AND RECALL of the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>
+              <u>Recall</u>
+            </strong>
+          </text>
+          <text>
+            <strong>The people reserve the power to subject any member of the Council or the Governor to a recall election, and the Election Commission shall hold a Recall Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Recall Election.  No more than two Members of the Council can be subjected to a Recall Process at one time, and any resulting vacancy shall be filled before any subsequent Recall Election can be held.</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>Upon written request, the Election Commission shall issue an official Recall Petition form to a petitioner.  A recall petition shall include a legible name and date of each person signing such petition. A completed Recall Petition shall be filed with the Election Commission.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>Petitioners have forty-five (45) days to submit a completed petition to the Election Commission.</text>
+      </para>
+      <para>
+        <num codify:value="(d)">D.</num>
+        <text>For purposes of determining the validity of the recall petition, fifty percent (50%) of the eligible voters means fifty percent (50%) of all of the eligible voters of the Pueblo who are eighteen (18) or older at the time they signed the petition, and does not mean the number of voters who voted in the last election.</text>
+      </para>
+      <para>
+        <num codify:value="(e)">E.</num>
+        <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE XI – REFERENDUM ELECTIONS</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.11</num>
+        <heading>Referendum Elections</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.11"/>
+      <num codify:value="5.2.11.010">1</num>
+      <heading>Referendum Election Process.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>Referendum elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 6.  REFERENDUM of the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>The people reserve the power to subject any law to a binding referendum election and the Election Commission shall hold a Referendum Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Referendum Election.</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>Upon written request, the Election Commission shall issue an official Referendum Petition form to a petitioner.  A referendum petition shall include a legible name and date of each person signing such petition. A completed Referendum Petition shall be filed with the Election Commission.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <text>A tribal member shall have fifteen (15) days after an Act of the Council is signed into law by the Governor or veto override by the Council to request a referendum petition.</text>
+      </para>
+      <para>
+        <num codify:value="(d)">D.</num>
+        <text>Petitioners have forty-five (45) days to submit a completed petition to the Election Commission.</text>
+      </para>
+      <para>
+        <num codify:value="(e)">E.</num>
+        <text>For purposes of determining the validity of the referendum petition, fifty percent (50%) of the eligible voters means fifty percent (50%) of all of the eligible voters of the Pueblo who are eighteen (18) or older at the time they signed the petition, and does not mean the number of voters who voted in the last election.</text>
+      </para>
+      <para>
+        <num codify:value="(f)">F.</num>
+        <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE XII – ELECTIONS TO FILL VACANCIES</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.12</num>
+        <heading>Elections to Fill Vacancies</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.12"/>
+      <num codify:value="5.2.12.010">1</num>
+      <heading>Special Election to Fill Vacancy.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>A Special Election shall be held in accordance with the ELECTIONS AND VOTING provision, Section 5. VACANCIES of the Agreement which states:</text>
+        <include>
+          <text>
+            <strong>The Election Commission shall certify all vacancies.  Vacancy shall result from removal, recall, physical incapacity, or any circumstance that makes holding office impossible for more than thirty (30) days.</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>A vacancy in an elected office shall also occur when the office holder voluntarily resigns from their position.  Such resignation makes holding the office impossible for more than thirty (30) days since the office holder who resigns intends to voluntarily leave their position from the point of resignation forward.</text>
+        <para>
+          <num codify:value="(1)">i.</num>
+          <text>Proof of voluntary resignation is a written letter or email correspondence that is offered as the office holder's intent to leave their position.</text>
+        </para>
+        <para>
+          <num codify:value="(2)">ii.</num>
+          <text>When an office holder voluntarily resigns, such resignation becomes effective immediately, and no formal acceptance by either the Council or Governor is necessary to make the resignation effective.</text>
+        </para>
+        <para>
+          <num codify:value="(3)">iii.</num>
+          <text>When an office holder voluntarily resigns, the resigning office holder shall notify the Election Commission of the voluntary resignation, or the Council or Governor shall notify the Election Commission in the event the resigning office holder provides notice of their resignation to either the Council or Governor.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert path="5.2.12"/>
+      <num codify:value="5.2.12.020">2</num>
+      <heading>Vacancy Certification and Election Process.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>The Election Commission shall certify all vacancies, regardless of how the vacancy occurred.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <text>The Election Commission shall call a Special Election to be held within thirty (30) days of the Election Commission's certification of the vacancy.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert path="5.2.12"/>
+      <num codify:value="5.2.12.030">3</num>
+      <heading>Special Provisions where Elected Official Causes Special Election and Runs as Candidate in Subsequent Special Election.</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <text>In the event that an elected official voluntarily creates a vacancy in their position for any reason, and then submits their name and intent to run in the Special Election to be held to fill the vacancy caused by that elected official, that candidate shall pay an election fee equal to one-half (1/2) of the cost of the Special Election. Such election fee must be paid in full before the former elected official is placed on the list of candidates for the Special Election.</text>
+      </para>
+    </section>
+    <text class="center">
+      <strong>ARTICLE XIII – OATH OF OFFICE</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.13</num>
+        <heading>Oath of Office</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.13"/>
+      <num codify:value="5.2.13.010">1</num>
+      <heading>Oath of Office.</heading>
+      <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office on January 2 at a location within the Pueblo's lands. An Acknowledgement of the Oath of Office form shall be signed by the candidate, Justice or Judge and the Commission Chair and retained by the Commission.</text>
+    </section>
+    <text class="center">
+      <strong>ARTICLE XIV – AMENDMENT AND SEVERABILITY</strong>
+    </text>
+    <codify:insert>
+      <container>
+        <prefix>Part</prefix>
+        <num>5.2.14</num>
+        <heading>Amendment and Severability</heading>
+      </container>
+    </codify:insert>
+    <section>
+      <codify:insert path="5.2.14"/>
+      <num codify:value="5.2.14.010">1</num>
+      <heading>Amendment.</heading>
+      <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
+    </section>
+    <section>
+      <codify:insert path="5.2.14"/>
+      <num codify:value="5.2.14.020">2</num>
+      <heading>Severability.</heading>
+      <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>
+    </section>
+  </attachment>
+</document>

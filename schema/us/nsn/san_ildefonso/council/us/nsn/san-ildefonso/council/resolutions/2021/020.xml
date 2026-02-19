@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R21-020" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1">
+  <num>SI-R21-020</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-020</heading>
+  <heading type="law">Northern Pueblos Housing Authority Orderly Dissolution Act</heading>
+  <meta>
+    <effective>2021-09-17</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R21-020</citation>
+    </citations>
+    <history>
+      <adopted>2021-09-14</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 14th day of September, 2021, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo contracts with the Northern Pueblos Housing Authority (NPHA) to operate, manage, and administer housing programs and services for the Pueblo, including receiving and expending federal grant funds on behalf of the Pueblo as a third-party contractor; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>NPHA has experienced many detrimental events in the last several years including a high turnover in senior management positions, non-compliance with the requirements of the Indian Housing Block Grant (IHBG), failure to implement key activities identified in the Pueblo's Indian Housing Plan (IHP); and poor performance resulting in the withdrawal of a key partner Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>NPHA has previously consisted on multiple northern Pueblos, however, NPHA currently consists of two Member Pueblos and the administrative and cost-sharing benefits of the organization have largely been lost by the departure of the other Member Pueblos from NPHA; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has authorized and reviewed the "NPHA Report of 2021" which found that NPHA cannot provide the Pueblo with assurances about if, how, or when the organization might regain the capacities of a full-service Tribally Designated Housing Entity ("TDHE"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council determines that the housing needs of the Pueblo can be best met through the establishment of a TDHE managed by the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council wishes to implement an orderly transition out of NPHA into a fully operational TDHE managed by the Pueblo that only serves the needs of Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "NORTHERN PUEBLOS HOUSING AUTHORITY ORDERLY DISSOLUTION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>September 14</u>, 2021, at a meeting with a vote of <u>7</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u>2</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R21-020</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>17</u><sup><u>th</u></sup> day of <u>September</u>, 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>17</u><sup><u>th </u></sup> day of <u>September</u>, 2021.</text>
+    <text>Christopher Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2021.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Terrence K. Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thelma Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>James L. Naranjo</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Leon T. Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Terrence K. Garcia, Council Secretary</text>
+  </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.7</num>
+      <heading>Northern Pueblos Housing Authority Orderly Dissolution Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="15.1.7"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">NORTHERN PUEBLOS HOUSING AUTHORITY ORDERLY DISSOLUTION ACT</heading>
+    <section>
+      <codify:insert num-value="15.1.7.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "NORTHERN PUEBLOS HOUSING AUTHORITY ORDERLY DISSOLUTION ACT."</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.7.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize and direct an orderly dissolution of the NPHA in order to establish a Tribally Designated Housing Entity ("THDE") that serves the housing needs of the Pueblo.</text>
+    </section>
+    <section>
+      <codify:insert num-value="15.1.7.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo contracts with the Northern Pueblos Housing Authority (NPHA) to operate, manage, and administer housing programs and services for the Pueblo, including receiving and expending federal grant funds on behalf of the Pueblo as a third-party contractor; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>NPHA has experienced many detrimental events in the last several years including a high turnover in senior management positions, non-compliance with the requirements of the Indian Housing Block Grant (IHBG), failure to implement key activities identified in the Pueblo's Indian Housing Plan (IHP); and poor performance resulting in the withdrawal of a kay partner Pueblo; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>NPHA has previously consisted on multiple northern Pueblos, however, NPHA currently consists of two Member Pueblos and the administrative and cost-sharing benefits of the organization have largely been lost by the departure of the other Member Pueblos from NPHA; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council has authorized and reviewed the "NPHA Report of 2021" which found that NPHA cannot provide the Pueblo with assurances about if, how, or when the organization might regain the capacities of a full-service TDHE; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council determines that the housing needs of the Pueblo can be best met through the establishment of a TDHE managed by the Pueblo; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Tribal Council wishes to implement an orderly transition out of NPHA into a fully operational TDHE managed by the Tribe that only serves the needs of Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Dissolution of NPHA</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes and directs the Governor, the Tribal Administrator, and the Pueblo's NPHA Housing Commissioners to execute an orderly dissolution of NPHA in a peaceful and cooperative manner.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The NPHA Orderly Dissolution Plan included with the NPHA Report of 2021 attached to this Resolution as Exhibit A should be used as a guideline for the establishment of a new TDHE for the Pueblo.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo should remain a Member of NPHA until all of the actions identified in the Orderly Dissolution Plan have been completed.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
