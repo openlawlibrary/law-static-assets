@@ -13,6 +13,7 @@
      xmlns:dcterms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#">
         <rdfs:comment xml:lang="en">Open Law Library Ontology contains built-in classes and properties that put together the basis of legal entities and relations between them.</rdfs:comment>
+        <rdfs:comment xml:lang="en">RDF usage note: rdf:about SHOULD identify the described resource's canonical URL (e.g., the HTML or PDF being described), not the URL of the RDF serialization describing it.</rdfs:comment>
         <rdfs:label xml:lang="en">Open Law Library Ontology</rdfs:label>
     </owl:Ontology>
     
@@ -111,6 +112,8 @@
 
     <owl:ObjectProperty rdf:about="http://purl.org/dc/terms/creator">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+        <rdfs:label xml:lang="en">Creator</rdfs:label>
+        <rdfs:comment xml:lang="en">The agent primarily responsible for creating the described resource. In tribal law publishing workflows this is commonly the jurisdiction/governing body (e.g., a tribal council). Prefer identifying the creator by IRI/URL when possible.</rdfs:comment>
     </owl:ObjectProperty>
     
 
@@ -119,6 +122,10 @@
 
     <owl:ObjectProperty rdf:about="http://purl.org/dc/terms/hasFormat">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/relation"/>
+        <rdfs:label xml:lang="en">Has Format</rdfs:label>
+        <rdfs:comment xml:lang="en">Use when the cited resource is substantially the same content in a different format (e.g., an HTML page and a PDF rendering of the same document text). If uncertain whether the cited resource is truly an alternate format of the same content, prefer dcterms:references.</rdfs:comment>
+        <skos:definition xml:lang="en">A related resource that is substantially the same content presented in another format.</skos:definition>
+        <skos:scopeNote xml:lang="en">Targets should be the URL of the HTML/PDF resource being cited, not the URL of an RDF description file.</skos:scopeNote>
     </owl:ObjectProperty>
     
 
@@ -201,6 +208,10 @@
             </owl:Class>
         </rdfs:domain>
         <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+        <rdfs:label xml:lang="en">References</rdfs:label>
+        <rdfs:comment xml:lang="en">Use when the cited resource is related/supporting material or otherwise referenced context that is not merely the same content in another format. If the cited resource is instead the same content in another format, use dcterms:hasFormat.</rdfs:comment>
+        <skos:definition xml:lang="en">A related resource that is cited, referred to, or otherwise pointed to as relevant context.</skos:definition>
+        <skos:scopeNote xml:lang="en">Targets should be the URL of the HTML/PDF resource being cited, not the URL of an RDF description file.</skos:scopeNote>
     </owl:ObjectProperty>
     
 
@@ -328,6 +339,7 @@
         <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
         <rdfs:range rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
         <rdfs:label xml:lang="en">Last Codified Document</rdfs:label>
+        <rdfs:comment xml:lang="en">Points to the document that last codified/modified this DocumentVersion; typically sourced from XML /document/recency/doc. In RDF instances, the object IRI should identify the cited HTML/PDF resource, not an RDF description document.</rdfs:comment>
     </owl:ObjectProperty>
     
 
@@ -502,6 +514,8 @@
             </owl:Class>
         </rdfs:domain>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+        <rdfs:label xml:lang="en">Date Available</rdfs:label>
+        <rdfs:comment xml:lang="en">In the OLL publication workflow, this date is commonly used as the Git publication/build date for the published snapshot. Multiple releases in a single day may be represented in publication identifiers/URLs with a -NN suffix (e.g., YYYY-MM-DD-03), even when this value is recorded as a date literal.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -532,7 +546,10 @@
 
     <!-- http://purl.org/dc/terms/creator -->
 
-    <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/creator"/>
+    <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/creator">
+        <rdfs:label xml:lang="en">Creator</rdfs:label>
+        <rdfs:comment xml:lang="en">If modeled as a literal in data: the creator name/label (often the jurisdiction/governing body). Prefer using the object property form of dcterms:creator when you can identify the creator by IRI/URL.</rdfs:comment>
+    </owl:DatatypeProperty>
     
 
 
@@ -586,7 +603,11 @@
 
     <!-- http://purl.org/dc/terms/hasFormat -->
 
-    <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/hasFormat"/>
+    <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/hasFormat">
+        <rdfs:label xml:lang="en">Has Format</rdfs:label>
+        <rdfs:comment xml:lang="en">If modeled as a literal in data: use only when the cited resource is substantially the same content in a different format. Prefer using the object property form of dcterms:hasFormat when you can identify the related resource by IRI/URL.</rdfs:comment>
+        <skos:scopeNote xml:lang="en">If the cited resource is different content being cited, use dcterms:references instead.</skos:scopeNote>
+    </owl:DatatypeProperty>
     
 
 
@@ -690,6 +711,9 @@
 
     <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/references">
         <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
+        <rdfs:label xml:lang="en">References</rdfs:label>
+        <rdfs:comment xml:lang="en">If modeled as a literal in data: use for citations/links to related resources that are not simply alternate formats of the same content. Prefer using the object property form of dcterms:references when you can identify the cited resource by IRI/URL.</rdfs:comment>
+        <skos:scopeNote xml:lang="en">If the cited resource is the same content in another format, use dcterms:hasFormat instead.</skos:scopeNote>
     </owl:DatatypeProperty>
     
 
@@ -742,6 +766,8 @@
 
     <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/title">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/title"/>
+        <rdfs:label xml:lang="en">Title</rdfs:label>
+        <rdfs:comment xml:lang="en">Preferred title for the described resource. This is generally intended to match the published HTML/PDF displayed title for consistency.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -769,6 +795,7 @@
         <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
         <rdfs:label xml:lang="en">Date Adopted</rdfs:label>
+        <rdfs:comment xml:lang="en">Typically sourced from XML /document/meta/history/adopted for resolutions.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -780,6 +807,7 @@
         <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
         <rdfs:label xml:lang="en">Date Current Through</rdfs:label>
+        <rdfs:comment xml:lang="en">Applies primarily to codified codes (and other codified materials): the date (as of the codified date) that the document was last modified by a law; typically sourced from XML /document/recency/@through.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -791,7 +819,18 @@
         <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
         <rdfs:comment xml:lang="en">An effective date or as of date is the date upon which something is considered to take effect, which may be a past, present or future date.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Applicability varies by document type and available source data. For some Code items, an effective date may be unknown/unknowable; in those cases publishers may omit this property or provide a sentinel/placeholder value in their source systems.</rdfs:comment>
         <rdfs:label xml:lang="en">Date Effective</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#history -->
+
+    <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#history">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/description"/>
+        <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+        <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
+        <rdfs:label xml:lang="en">Legislative History</rdfs:label>
+        <rdfs:comment xml:lang="en">Legislative/history narrative for a resolution, typically derived from XML /document/meta/history/text. If source content includes HTML markup, the intended RDF literal is plain text with tags removed.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -801,6 +840,8 @@
     <owl:DatatypeProperty rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#number">
         <rdfs:domain rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
         <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
+        <rdfs:label xml:lang="en">Number</rdfs:label>
+        <rdfs:comment xml:lang="en">Resolution identifier/number (e.g., "031-20"), typically sourced from XML /document/num.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -831,6 +872,8 @@
             </owl:Class>
         </rdfs:domain>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+        <rdfs:label xml:lang="en">URL</rdfs:label>
+        <rdfs:comment xml:lang="en">Permalink/canonical URL for the described resource (often matching rdf:about). In the OLL publication model, stable permalinks may include both a publication/build date component (/_publication/YYYY-MM-DD[-NN]/) and a display/view date component (/_date/YYYY-MM-DD/).</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -949,7 +992,7 @@
 
     <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document">
         <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
-        <rdfs:comment></rdfs:comment>
+        <rdfs:comment xml:lang="en">A legal document as an intellectual entity (e.g., a constitution, charter, code, ordinance, or resolution). Version-specific snapshot metadata is typically modeled using DocumentVersion.</rdfs:comment>
     </owl:Class>
     
 
@@ -966,6 +1009,7 @@
 
     <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion">
         <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
+        <rdfs:comment xml:lang="en">A time-specific snapshot of a Document, typically the unit of ingest and archival description. Version-level properties (e.g., dateCurrentThrough, lastCodifiedDocument, publication/date-specific URLs) are expected to remain stable for a given version.</rdfs:comment>
     </owl:Class>
     
 
@@ -999,7 +1043,9 @@
 
     <!-- http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication -->
 
-    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+    <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication">
+        <rdfs:comment xml:lang="en">A published snapshot/build of a library at a particular publication/build date. In OLL permalinks, a complete historical reference may require both the publication/build date (when the historical record was rebuilt) and a display/view date (the "as of" date being viewed), because jurisdictions may change the past.</rdfs:comment>
+    </owl:Class>
     
 
 
@@ -1007,6 +1053,7 @@
 
     <owl:Class rdf:about="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution">
         <rdfs:subClassOf rdf:resource="http://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+        <rdfs:comment xml:lang="en">Resolution title practices vary by jurisdiction. dcterms:title is often constructed to match the published HTML title.</rdfs:comment>
     </owl:Class>
     
 
@@ -1085,4 +1132,3 @@
 
 
 <!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
-
