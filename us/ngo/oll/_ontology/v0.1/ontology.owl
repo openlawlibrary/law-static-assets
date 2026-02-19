@@ -30,9 +30,7 @@
     
 
 
-    <!-- http://www.w3.org/2002/07/owl#isPartOf -->
-
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2002/07/owl#isPartOf"/>
+    <!-- (Removed) owl:isPartOf was previously declared here, but it is not a standard OWL vocabulary term. -->
     
 
 
@@ -395,9 +393,7 @@
     
 
 
-    <!-- http://purl.org/dc/elements/1.1/issued -->
-
-    <owl:DatatypeProperty rdf:about="http://purl.org/dc/elements/1.1/issued"/>
+    <!-- (Removed) dc:issued is not a DC Elements 1.1 term; use dcterms:issued instead. -->
     
 
 
@@ -407,9 +403,7 @@
     
 
 
-    <!-- http://purl.org/dc/elements/1.1/modified -->
-
-    <owl:DatatypeProperty rdf:about="http://purl.org/dc/elements/1.1/modified"/>
+    <!-- (Removed) dc:modified is not a DC Elements 1.1 term; use dcterms:modified instead. -->
     
 
 
