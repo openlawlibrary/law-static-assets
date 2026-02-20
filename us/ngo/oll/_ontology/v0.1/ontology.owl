@@ -120,6 +120,8 @@
 
     <owl:ObjectProperty rdf:about="http://purl.org/dc/terms/hasFormat">
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/relation"/>
+        <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+        <rdfs:range rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
         <rdfs:label xml:lang="en">Has Format</rdfs:label>
         <rdfs:comment xml:lang="en">Use when the cited resource is substantially the same content in a different format (e.g., an HTML page and a PDF rendering of the same document text). If uncertain whether the cited resource is truly an alternate format of the same content, prefer dcterms:references.</rdfs:comment>
         <skos:definition xml:lang="en">A related resource that is substantially the same content presented in another format.</skos:definition>
@@ -552,6 +554,7 @@
     <!-- http://purl.org/dc/terms/creator -->
 
     <owl:DatatypeProperty rdf:about="http://purl.org/dc/terms/creator">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
         <rdfs:label xml:lang="en">Creator</rdfs:label>
         <rdfs:comment xml:lang="en">If modeled as a literal in data: the creator name/label (often the jurisdiction/governing body). Prefer using the object property form of dcterms:creator when you can identify the creator by IRI/URL.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -763,6 +766,7 @@
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/description"/>
         <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:comment xml:lang="en">Free-text table of contents / outline as emitted by the build pipeline. In law-rdf this may appear on codes and constitutions.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
