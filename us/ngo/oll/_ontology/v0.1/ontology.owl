@@ -352,6 +352,16 @@
         <rdfs:label xml:lang="en">Has Changes</rdfs:label>
         <rdfs:comment xml:lang="en">Links a DocumentVersion to a resource (often an rdf:Bag) enumerating changed elements/resources for that build.</rdfs:comment>
     </owl:ObjectProperty>
+
+    <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasElements -->
+
+    <owl:ObjectProperty rdf:about="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#hasElements">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+        <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+        <rdfs:label xml:lang="en">Has Elements</rdfs:label>
+        <rdfs:comment xml:lang="en">Links a CollectionVersion to a sequence of containing headings, subheadings, collections and documents.</rdfs:comment>
+    </owl:ObjectProperty>
     
 
 
@@ -840,9 +850,19 @@
         <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
         <rdfs:label xml:lang="en">Codified Date</rdfs:label>
-        <rdfs:comment xml:lang="en">The "as-of"/view date associated with a particular DocumentVersion in the published permalink structure (often the value used in /_date/YYYY-MM-DD/).</rdfs:comment>
+        <rdfs:comment xml:lang="en">The "as-of"/view date associated with a particular DocumentVersion in the published permalink structure (often referred to as version date and the value used in /_date/YYYY-MM-DD/).</rdfs:comment>
     </owl:DatatypeProperty>
 
+
+    <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#buildTrigger -->
+
+    <owl:DatatypeProperty rdf:about="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#buildTrigger">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/description"/>
+        <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#PublicationVersion"/>
+        <rdfs:range rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+        <rdfs:label xml:lang="en">Build Trigger</rdfs:label>
+        <rdfs:comment xml:lang="en">Reason a particular version entry exists (e.g., subject document became effective). Only exists for documents that caused the build on this codified date.</rdfs:comment>
+    </owl:DatatypeProperty>
 
     <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#buildReason -->
 
@@ -851,9 +871,17 @@
         <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
         <rdfs:label xml:lang="en">Build Reason</rdfs:label>
-        <rdfs:comment xml:lang="en">Reason a particular build/version entry exists or was emitted (e.g., effective).</rdfs:comment>
+        <rdfs:comment xml:lang="en">Reason a particular version entry exists (e.g., subject document became effective). Only exists for documents that caused the build on this codified date.</rdfs:comment>
     </owl:DatatypeProperty>
 
+    <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#reason -->
+
+    <owl:DatatypeProperty rdf:about="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#reason">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/description"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label xml:lang="en">Reason</rdfs:label>
+        <rdfs:comment xml:lang="en">Reason why a particular citeable element changed.</rdfs:comment>
+    </owl:DatatypeProperty>
 
     <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#docId -->
 
@@ -872,7 +900,7 @@
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/identifier"/>
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
         <rdfs:label xml:lang="en">Cite</rdfs:label>
-        <rdfs:comment xml:lang="en">Citation/locator text used within a document hierarchy (e.g., "ARTICLE I", "Section 1", or an internal short cite token).</rdfs:comment>
+        <rdfs:comment xml:lang="en">Citation text used within a document hierarchy (e.g., "ARTICLE I", "Section 1", or an internal short cite token).</rdfs:comment>
     </owl:DatatypeProperty>
 
 
@@ -883,6 +911,15 @@
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
         <rdfs:label xml:lang="en">Document Materialized Path</rdfs:label>
         <rdfs:comment xml:lang="en">A materialized path string representing the resource's position in the document hierarchy.</rdfs:comment>
+    </owl:DatatypeProperty>
+
+    <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#libraryMaterializedPath -->
+
+    <owl:DatatypeProperty rdf:about="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#libraryMaterializedPath">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/identifier"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label xml:lang="en">Library Materialized Path</rdfs:label>
+        <rdfs:comment xml:lang="en">A materialized path string representing the resource's position in the library hierarchy.</rdfs:comment>
     </owl:DatatypeProperty>
 
 
@@ -1061,7 +1098,10 @@
         <rdfs:subClassOf rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
     </owl:Class>
     
+    <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Collection -->
 
+    <owl:Class rdf:about="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Collection"/>
+    
 
     <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution -->
 
@@ -1127,9 +1167,15 @@
     <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication -->
 
     <owl:Class rdf:about="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication">
-        <rdfs:comment xml:lang="en">A published snapshot/build of a library at a particular publication/build date. In OLL permalinks, a complete historical reference may require both the publication/build date (when the historical record was rebuilt) and a display/view date (the "as of" date being viewed), because jurisdictions may change the past.</rdfs:comment>
+        <rdfs:comment xml:lang="en">A published build of a library at a particular publication/build date. In OLL permalinks, a complete historical reference may require both the publication/build date (when the historical record was rebuilt) and a display/view date (the "as of" date being viewed), because jurisdictions may change the past.</rdfs:comment>
     </owl:Class>
     
+    
+    <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#PublicationVersion -->
+
+    <owl:Class rdf:about="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#PublicationVersion">
+        <rdfs:comment xml:lang="en">A published build of a library at a particular publication/build date and version date (display/view date).</rdfs:comment>
+    </owl:Class>
 
 
     <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution -->
