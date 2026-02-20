@@ -80,11 +80,6 @@ ollsh:DocumentVersionShape
     sh:nodeKind sh:Literal ;
   ] ;
   sh:property [
-    sh:path oll:url ;
-    sh:minCount 1 ;
-    sh:nodeKind sh:Literal ;
-  ] ;
-  sh:property [
     sh:path oll:hasChanges ;
     sh:nodeKind sh:IRI ;
     sh:class rdf:Bag ;
