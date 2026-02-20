@@ -13,6 +13,22 @@ sh.exe.stackdump
 .sass-cache/*
 node_modules/*
 
+###################
+# Python venvs     #
+###################
+.venv/
+venv/
+ENV/
+
+###################
+# Python artifacts #
+###################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
 #############################
 # Override parent gitignore #
 #############################

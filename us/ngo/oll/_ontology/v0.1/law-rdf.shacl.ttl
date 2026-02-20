@@ -1,0 +1,180 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix oll: <https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#> .
+@prefix ollsh: <https://open.law/us/ngo/oll/_ontology/v0.1/shapes#> .
+
+ollsh:DateLiteralShape
+  a sh:NodeShape ;
+  sh:or (
+    [ sh:datatype xsd:date ]
+    [ sh:datatype xsd:string ; sh:pattern "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" ]
+  ) .
+
+ollsh:DocumentVersionShape
+  a sh:NodeShape ;
+  sh:targetClass oll:DocumentVersion ;
+  sh:property [
+    sh:path dcterms:available ;
+    sh:minCount 1 ;
+    sh:node ollsh:DateLiteralShape ;
+    sh:message "DocumentVersion must have dcterms:available as YYYY-MM-DD." ;
+  ] ;
+  sh:property [
+    sh:path dcterms:title ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path dcterms:creator ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path dcterms:rights ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path dcterms:isVersionOf ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+  ] ;
+  sh:property [
+    sh:path oll:isPartOfPublication ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:class oll:Publication ;
+  ] ;
+  sh:property [
+    sh:path oll:codifiedDate ;
+    sh:minCount 1 ;
+    sh:node ollsh:DateLiteralShape ;
+    sh:message "DocumentVersion must have oll:codifiedDate as YYYY-MM-DD." ;
+  ] ;
+  sh:property [
+    sh:path oll:dateEffective ;
+    sh:maxCount 1 ;
+    sh:node ollsh:DateLiteralShape ;
+  ] ;
+  sh:property [
+    sh:path oll:dateAdopted ;
+    sh:maxCount 1 ;
+    sh:node ollsh:DateLiteralShape ;
+  ] ;
+  sh:property [
+    sh:path oll:dateCurrentThrough ;
+    sh:maxCount 1 ;
+    sh:node ollsh:DateLiteralShape ;
+  ] ;
+  sh:property [
+    sh:path oll:number ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:docId ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:buildReason ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:hasChanges ;
+    sh:nodeKind sh:IRI ;
+    sh:class rdf:Bag ;
+  ] ;
+  sh:property [
+    sh:path dcterms:references ;
+    sh:nodeKind sh:IRI ;
+    sh:class oll:SourceDocument ;
+  ] ;
+  sh:property [
+    sh:path dcterms:hasFormat ;
+    sh:nodeKind sh:IRI ;
+    sh:class oll:SourceDocument ;
+  ] ;
+  sh:property [
+    sh:path dcterms:tableOfContents ;
+    sh:nodeKind sh:Literal ;
+  ] .
+
+ollsh:PublicationShape
+  a sh:NodeShape ;
+  sh:targetClass oll:Publication ;
+  sh:property [
+    sh:path dcterms:available ;
+    sh:minCount 1 ;
+    sh:node ollsh:DateLiteralShape ;
+  ] ;
+  sh:property [
+    sh:path dcterms:creator ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:hasDocument ;
+    sh:nodeKind sh:IRI ;
+  ] ;
+  sh:property [
+    sh:path dcterms:isPartOf ;
+    sh:nodeKind sh:IRI ;
+  ] .
+
+ollsh:SourceDocumentShape
+  a sh:NodeShape ;
+  sh:targetClass oll:SourceDocument ;
+  sh:property [
+    sh:path dcterms:title ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path dcterms:creator ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path dcterms:date ;
+    sh:node ollsh:DateLiteralShape ;
+  ] ;
+  sh:property [
+    sh:path dcterms:rights ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:url ;
+    sh:nodeKind sh:Literal ;
+  ] .
+
+ollsh:ChangeBagShape
+  a sh:NodeShape ;
+  sh:targetClass rdf:Bag ;
+  sh:property [
+    sh:path [ sh:inversePath rdf:type ] ;
+    sh:nodeKind sh:IRI ;
+    sh:severity sh:Info ;
+  ] .
+
+ollsh:NodeWithPtagShape
+  a sh:NodeShape ;
+  sh:targetSubjectsOf oll:ptag ;
+  sh:property [
+    sh:path oll:url ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:ptag ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:cite ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:documentMaterializedPath ;
+    sh:nodeKind sh:Literal ;
+  ] ;
+  sh:property [
+    sh:path oll:status ;
+    sh:nodeKind sh:Literal ;
+  ] .
