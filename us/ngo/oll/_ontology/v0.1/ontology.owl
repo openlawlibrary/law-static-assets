@@ -766,7 +766,7 @@
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/description"/>
         <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
-        <rdfs:comment xml:lang="en">Free-text table of contents / outline as emitted by the build pipeline. In law-rdf this may appear on codes and constitutions.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Free-text table of contents / outline. In law-rdf this may appear on codes and constitutions.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -862,7 +862,7 @@
         <rdfs:domain rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
         <rdfs:label xml:lang="en">Document Id</rdfs:label>
-        <rdfs:comment xml:lang="en">Internal identifier/label for the document/version as emitted by the build pipeline.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Internal identifier/label for the document/version.</rdfs:comment>
     </owl:DatatypeProperty>
 
 
@@ -892,7 +892,7 @@
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/type"/>
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
         <rdfs:label xml:lang="en">PTag</rdfs:label>
-        <rdfs:comment xml:lang="en">Pipeline-emitted tag describing the kind of element (e.g., document, section, container).</rdfs:comment>
+        <rdfs:comment xml:lang="en">Tag describing the kind of element (e.g., document, section, container).</rdfs:comment>
     </owl:DatatypeProperty>
 
 
@@ -902,7 +902,7 @@
         <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/description"/>
         <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
         <rdfs:label xml:lang="en">Status</rdfs:label>
-        <rdfs:comment xml:lang="en">Pipeline-emitted status markers for the resource within a build (repeatable; e.g., added, effective).</rdfs:comment>
+        <rdfs:comment xml:lang="en">Status representing change information of the related cite (e.g., added, effective, removed, changed).</rdfs:comment>
     </owl:DatatypeProperty>
 
     <!-- https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#history -->
